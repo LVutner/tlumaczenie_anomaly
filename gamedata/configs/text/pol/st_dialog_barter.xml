@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="exchanging_items_phr_0">
+		<text>Hej, zobaczmy kto ma więcej rzeczy.</text>
+	</string>
+	<string id="exchanging_items_phr_1">
+		<text>Czemu nie? Oto, co mam do zaoferowania.</text>
+	</string>
+	<string id="exchanging_items_phr_2">
+		<text>Wezmę artefakt...</text>
+	</string>
+	<string id="exchanging_items_phr_3">
+		<text>Wezmę kombinezon...</text>
+	</string>
+	<string id="exchanging_items_phr_4">
+		<text>Wezmę ten przedmiot...</text>
+	</string>
+	<string id="exchanging_items_phr_5">
+		<text>Wezmę broń...</text>
+	</string>
+	<string id="exchanging_items_phr_6">
+		<text>Dobrze. A w zamian wezmę to.</text>
+	</string>
+	<string id="exchanging_items_phr_7">
+		<text>Chyba nie mamy o czym rozmawiać, nie masz niczego co by mnie interesowało. Wróć kiedy będziesz miał więcej pieniędzy.</text>
+	</string>
+	<string id="exchanging_items_phr_8">
+		<text>Okej, pohandlujmy.</text>
+	</string>
+	<string id="exchanging_items_phr_9">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	<string id="exchanging_items_phr_10">
+		<text>Twoja sprawa.</text>
+	</string>
+</string_table>

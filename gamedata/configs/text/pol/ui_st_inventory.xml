@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- sorter -->
+	<string id="ui_st_tab_all">
+		<text>Wszystkie Przedmioty (1)</text>
+	</string>
+	<string id="ui_st_tab_weapons">
+		<text>Broń i Dodatki (2)</text>
+	</string>
+	<string id="ui_st_tab_armor">
+		<text>Pancerze, Hełmy i Plecaki (3)</text>
+	</string>
+	<string id="ui_st_tab_ammo">
+		<text>Amunicja i Granaty (4)</text>
+	</string>
+	<string id="ui_st_tab_artefact">
+		<text>Artefakty i Części Mutantów (5)</text>
+	</string>
+	<string id="ui_st_tab_tools">
+		<text>Urządzenia, Narzędzia i Przed. Naprawcze (6)</text>
+	</string>
+	<string id="ui_st_tab_consumables">
+		<text>Medycyna i Mat. Eksploatacyjne (7)</text>
+	</string>
+	<string id="ui_st_tab_misc">
+		<text>Pozostałe Przedmioty (8)</text>
+	</string>
+	
+	<!-- loot mode -->
+	<string id="ui_st_put_all">
+		<text>Przenieś wszystko</text>
+	</string>
+	<string id="ui_st_put_all_hint">
+		<text>Przenieś wszystkie przedmioty (SHIFT + P)</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Weź wszystko</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Przenieś wszystko do swojego plecaka (SHIFT + T)</text>
+	</string>
+	
+	<!-- trade mode -->
+	<string id="ui_total_price">
+		<text>Koszt</text> <!-- rfm: review this -->
+	</string>
+	<string id="ui_st_buy">
+		<text>Kup</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Sprzedaj</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Sprzedaj wybrane przedmioty</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Kup wybrane przedmioty</text>
+	</string>
+	<string id="not_enough_money_actor">
+		<text>Niewystarczająca ilość pieniędzy</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>Postać nie ma wystarczająco pieniędzy</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>Handlarz nie jest zainteresowany takimi przedmiotami.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>Ten przedmiot jest zbyt uszkodzony, by nim handlować.</text>
+	</string>
+	
+	<!-- Upgrade mode -->
+	<string id="ui_st_inv_repair">
+		<text>Napraw</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Napraw wybrany przedmiot</text>
+	</string>
+	
+	<!-- Quick use items -->
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	
+	<!-- Item Properties -->
+	<string id="st_activate_artefact">
+		<text>aktywuj artefakt</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>zamontuj granatnik na</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>zamontuj optykę na</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>zamontuj tłumik na</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Cena</text>
+	</string>
+	<string id="st_community">
+		<text>Grupa:</text>
+	</string>
+	<string id="st_condition">
+		<text>Stan</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>zdemontuj granatnik</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>zdemontuj optykę</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>zdemontuj tłumik</text>
+	</string>
+	<string id="st_drop">
+		<text>wyrzuć</text>
+	</string>
+	<string id="st_drop_all">
+		<text>wyrzuć wszystko</text>
+	</string>
+	<string id="st_eat">
+		<text>jedz</text>
+	</string>
+	<string id="st_donate">
+		<text>oddaj</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>przyczep do pasa</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>przenieś do plecaka</text>
+	</string>
+	<string id="st_move_to">
+		<text>przenieś</text>
+	</string>
+	<string id="st_move_all">
+		<text>przenieś wszystko</text>
+	</string>
+	<string id="st_unequip">
+		<text>zdejmij</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>przenieś do slotu</text>
+	</string>
+	<string id="st_play">
+		<text>włącz</text>
+	</string>
+	<string id="st_sell_item">
+		<text>sprzedaj przedmiot</text>
+	</string>
+	<string id="st_item_use">
+		<text>użyj</text>
+	</string>
+	<string id="st_item_sort">
+		<text>sortuj</text>
+	</string>
+	<string id="st_item_unpack">
+		<text>rozpakuj</text>
+	</string>
+	<string id="st_item_play">
+		<text>odtwórz</text>
+	</string>
+	<string id="st_item_open">
+		<text>otwórz</text>
+	</string>
+	<string id="st_item_reveal">
+		<text>odkryj</text>
+	</string>
+	<string id="st_item_read">
+		<text>czytaj</text>
+	</string>
+	<string id="st_item_separate">
+		<text>podziel</text>
+	</string>
+	<string id="st_item_disassemble">
+		<text>rozmontuj</text>
+	</string>
+	<string id="st_item_charge">
+		<text>naładuj UPD</text>
+	</string>
+	<string id="st_item_money">
+		<text>wyciągnij %s RU</text>
+	</string>
+	<string id="st_item_details">
+		<text>szczegóły</text>
+	</string>
+	<string id="st_item_unpack_battery">
+		<text>wyjmij baterie</text>
+	</string>
+	<string id="st_item_tear_patch">
+		<text>oderwij naszywkę</text>
+	</string>
+	<string id="st_item_attach_patch">
+		<text>załóż naszywkę</text>
+	</string>
+	<string id="st_awr_r_detail">
+		<text>napraw część [!]</text>
+	</string>
+	<string id="st_awr_disassembly_weapon">
+		<text>rozmontuj broń [!]</text>
+	</string>
+	<string id="st_awr_disassembly_outfit">
+		<text>rozmontuj kombinezon [!]</text>
+	</string>
+	<string id="st_awr_disassembly_helmet">
+		<text>rozmontuj nakrycie głowy [!]</text>
+	</string>
+	<string id="st_awr_disassembly_cloth">
+		<text>rozmontuj [!]</text>
+	</string>
+	<string id="st_drink">
+		<text>pij</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>rozładuj</text>
+	</string>
+	<string id="st_use">
+		<text>użyj</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>załóż kombinezon</text>
+	</string>
+	<string id="st_dress_helmet">
+		<text>załóż hełm</text>
+	</string>
+	<string id="st_equip_backpack">
+		<text>załóż plecak</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>zdejmij kombinezon</text>
+	</string>
+	<string id="st_undress_helmet">
+		<text>zdejmij hełm</text>
+	</string>
+	<string id="st_unequip_backpack">
+		<text>zdejmij plecak</text>
+	</string>
+	
+	<string id="st_plant_explosive_prox">
+		<text>podłóż z zapalnikiem zbliżeniowym</text>
+	</string>
+	<string id="st_plant_explosive_timer_10">
+		<text>podłóz z zegarem (10 sek)</text>
+	</string>
+	<string id="st_plant_explosive_timer_30">
+		<text>podłóz z zegarem (30 sek)</text>
+	</string>
+	
+	<!-- units -->
+	<string id="st_perc">
+		<text>%</text>
+	</string>
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+	<string id="st_g">
+		<text>g</text>
+	</string>
+	<string id="st_kcal">
+		<text>wart. kaloryczna</text>
+	</string>
+	<string id="st_kcal_sec">
+		<text>kcal / sek.</text>
+	</string>
+	<string id="st_msv">
+		<text>mSv</text>
+	</string>
+	<string id="st_msv_sec">
+		<text>mSv / sek.</text>
+	</string>
+	<string id="st_microg">
+		<text>µg adren.</text>
+	</string>
+	<string id="st_microg_sec">
+		<text>µg adren. / sek.</text>
+	</string>
+	<string id="st_ml_min">
+		<text>ml / min.</text>
+	</string>
+	<string id="st_kw_m2">
+		<text>kW/m2</text>
+	</string>
+	<string id="st_kv">
+		<text>kV</text>
+	</string>
+	<string id="st_mt">
+		<text>mT</text>
+	</string>
+	<string id="st_ppm">
+		<text>C1 ppm eq.</text>
+	</string>
+	<string id="st_j">
+		<text>H/mm2</text>
+	</string>
+	<string id="st_ah_sec">
+		<text>Ah/Sek</text>
+	</string>
+	<string id="st_mah_sec">
+		<text>mAh/Sek</text>
+	</string>
+	<string id="st_uah_sec">
+		<text>uAh/Sek</text>
+	</string>
+	<string id="st_pah_sec">
+		<text>pAh/Sek</text>
+	</string>
+	<string id="st_hz">
+		<text>Hz</text>
+	</string>
+	<string id="st_khz">
+		<text>KHz</text>
+	</string>
+	<string id="st_mhz">
+		<text>MHz</text>
+	</string>
+	<string id="st_ghz">
+		<text>GHz</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>sek</text>
+	</string>
+	<string id="ui_inv_seconds">
+		<text>sekund</text>
+	</string>
+	
+	<!-- player states -->
+	<string id="st_ui_main_sensor">
+		<text>Zatrucie promieniowaniem jonizującym\n \n%c[ui_gray_1]Wystawienie na działanie promieniowania jonizującego ma ekstremalne, prawdopodobnie śmiertelne konsekwencje. Z tego powodu umiejętność poprawnego mierzenia napromieniowania jest niezbędna. Podstawową jednostką promieniowania jonizującego jest milisiwert %c[ui_gray_3](mSv)%c[ui_gray_1]. Poziom %c[ui_gray_3]8000 mSv %c[ui_gray_1] zazwyczaj oznacza bezwzględną śmierć. Promieniowanie rzędu 1000 mSv (zobacz niżej) można przebyć, jednak może się to okazać problematyczne bez odpowiednio szybkiej reakcji. W przypadku wystawienia na działanie promieniowania, zaleca się zastosować leki przeciwradiacyjne w odpowiedniej dawce. Tabela 3.2 zestawia poziomy napromieniowania z typowymi symptomami:\n \n%c[0,102,255,0]250 - 1500 mSv: %c[ui_gray_2]Symptomy są niezauważalne. Długotrwałe konsekwencje są nieistotne.\n \n%c[0,255,255,0]1500 - 3000 mSv: %c[ui_gray_2]Zauważalna umiarkowana lub silna choroba, zawroty głowy, ślady na skórze. Łagodne długotrwałe objawy. Możliwe jest pełne wyleczenie.\n \n%c[0,255,122,0]3000 - 4500 mSv: %c[ui_gray_2]Bardzo silna choroba, dezorientacja i zawroty głowy prowadzące do śmierci, jeśli nie podejmi się leczenia w odpowiednim czasie. Kompletne zatrzymanie głodu i pragnienia, blizny, biegunka, odchodząca skóra i utrata włosów. Wysokie ryzyko utracenia płodności. Przywrócenie funkcji organizmu jest wykonalne przy zastosowaniu silnych środków przeczyszczających.\n \n%c[d_red]4500 - 6000 mSv: %c[ui_gray_2]Nasilenie wyżej wspomnianych symptomów. Dodatkowo, stałe uszkodzenie układu nerwowego. Śmierć przewidywana w większości przypadków.\n \n%c[d_red]6000 mSv and above: %c[ui_gray_2]Natychmiastowa śmierć. Przedtem, szybkotrwała utrata przytomności.\n \n%c[d_cyan] • %c[ui_gray_2] unit: %c[ui_gray_1]mSv (milisiwert)\n%c[d_cyan] • %c[ui_gray_2] zabójcza dawka: %c[ui_gray_1]~6000+ mSv\n%c[d_cyan] • %c[ui_gray_2] śr. zewnętrzna potencja punktów aktywnego promieniowania: %c[ui_gray_1]~900 mSv / min\n \n \n</text>
+	</string>
+	<string id="ui_inv_burn_protection">
+		<text>Odporność termiczna\n \n%c[ui_gray_1]Typowa anomalia termiczna składa się z dwóch elementów: %c[ui_gray_1]promieniowanie cieplne w kształcie hemisfery%c[ui_gray_1]- produkujące stały napływ gęstości do %c[ui_gray_3]50 kW / m2%c[ui_gray_1], podnosząc temperaturę do %c[ui_gray_3]430 °C%c[ui_gray_1], i %c[ui_gray_3]'anomalii spalających' -%c[ui_gray_1] emisji niszczycielskich płomieni mających do %c[ui_gray_3]1000 °C%c[ui_gray_1] plującę w górę z jednego punktu, zazwyczaj zlokalizowanego około 10 cm. W celu zmierzenia anomalii termicznych w Zonie i w celu odnalezienia dostępnych metod przeciwdziałania używa się skali %c[ui_gray_3]kW/m2%c[ui_gray_1] (stosunek kilowatów na metr kwadratowy). Daję to miarę napływu gęstości ciepła generowanego przez anomalię.\n \n%c[d_cyan] • %c[ui_gray_2] w środku typowego ogniska: %c[ui_gray_1]500 °C lub 29 kW/m2\n%c[d_cyan] • %c[ui_gray_2] średni przepływ termiczny pola promieniowania: %c[ui_gray_1]620 °C lub 51,5 kW/m2\n \n%c[d_cyan] • %c[ui_gray_2] wybuch 'spalacza': %c[ui_gray_1]1000 °C lub 212 kW/m2\n \n%c[d_cyan] • %c[ui_gray_2] średni czas przeżycia bez ochrony: %c[ui_gray_1]PP: 1,5 min / SP: 0,5 sek\n%c[d_cyan] • %c[ui_gray_2] średni czas kompletnej degradacji pancerza: %c[ui_gray_1]PP: 10 min / SP: 6 sek\n \n%c[ui_gray_2]PP = pole promieniowania ; SP = 'spalacz'\n \n%c[ui_gray_3]2. Kwas\n \n%c[ui_gray_1]Powszechnie wiadomo, że w najbardziej toksycznych miejsach Zony można znaleźć kałuże bardzo silnego kwasu (anomalnie toksyczne zwanem potocznie 'owocowym pączem'). Te utrzymujące się grawitacyjnie 'pojemniki' są ekstremalnie niestabilne i tracą swoją formę w momencie kontaktu z fizycznym obiektem. Tworzy się wtedy potężny chemiczny impuls równy %c[ui_gray_3]0,5 litra%c[ui_gray_1] silnego utleniacza / kwasu siarkowego w %c[ui_gray_3]50%%c[ui_gray_1] kondensacji. Impuls powoduję erupcję płynnego roztworu, który rozprzestrzenia się w formie kropli w około %c[ui_gray_3]2-metrowym%c[ui_gray_1] promieniu. W celu ułatwienia porównania, siła kwasu jest zazwyczaj mierzona w skali %c[ui_gray_3]kW / m2%c[ui_gray_1].\n \n%c[d_cyan] • %c[ui_gray_2] średnia siła kropli 'owocowego pączu': %c[ui_gray_1]270 °C lub 70 kW/m2\n \n \n</text> 
+	</string>
+	<string id="ui_inv_chemical_burn_protection">
+		<text>Odporność chemiczna\n \n%c[ui_gray_1]Z powodu nieznanej jeszcze w pełni natury tzw. %c[ui_gray_3]'toksycznych' lub 'chemicznych' anomalii%c[ui_gray_1], ocena zagrożenia musiała zostać wykonana zgodnie z uniwersalnym standardem %c[ui_gray_3]LC50 (ludzkim)%c[ui_gray_1].\n \n%c[ui_gray_1]Jest to miara ogólnej toksyczności czynnika gazowego bazowana na poziomie jego koncentracji i wkazuję dawkę potrzebną do zabicia %c[ui_gray_3]50%%c[ui_gray_1] 'grupy testowej' podczas wystawienia na działanie prez %c[ui_gray_3]1 godzinę%c[ui_gray_1].\n \n%c[ui_gray_1]W większości przypadków, dla biochemicznych substancji produkowanych przez Zonę, wystarczy tylko 10 cząstek na milion %c[ui_gray_3](ppm)%c[ui_gray_1] kondensacji do przekroczenia stopnia śmierelności w skali %c[ui_gray_3]50% / 1, h%c[ui_gray_1] przez co można je zaliczyć do %c[ui_gray_3]I Klasy Grupy (C1)%c[ui_gray_1] zawierającej najbardziej toksyczne substancje znane ludzkości. Toksyczne obszary zony wykazały aż do %c[ui_gray_3]200 ppm%c[ui_gray_1] (cząstek na milion), gdzie '200' oznacza liczbę 'części' (cząstek) typowej substancji klasy I rozcieńczonej w 1,000,000 częściach roztworu. Taki poziom toksyczności sprawia, że Zona staje się jednych z najbardziej nieprzyjaznych człowiekowi środowisk na całej planecie, na tyle silny, by zabić przeciętnego człowieka (bez specjalistycznej ochrony) w ciągu %c[ui_gray_3]3 minut%c[ui_gray_1].\n \n%c[ui_gray_1]Z tego powodu, potencja obszarów anomalii jest klasyfikowana na podstawie cząstki substancji Klasy I %c[ui_gray_3](C1)%c[ui_gray_1] na milion cząstek %c[ui_gray_3](ppm)%c[ui_gray_1] roztworu. W ten sposób otrzymujemy jednostkę miary 'anomalicznej' toksyczności zwanej %c[ui_gray_3]ekwiwalentem C1 ppm%c[ui_gray_1]. W przypadku wyposażenia, wartość ta wskazuje koncentrację toksyczną C1 ppm, przed którą dany przedmiot może ochronić.\n \n%c[d_cyan] • %c[ui_gray_2] średnia moc anomalii toksycznej: %c[ui_gray_1]~200 C1 ppm\n%c[d_cyan] • %c[ui_gray_2] najwyższa zarejestrowana potencja: %c[ui_gray_1]~600 C1 ppm\n%c[d_cyan] • %c[ui_gray_2] średni czas przeżycia bez ochrony: %c[ui_gray_1]~3 min \n%c[d_cyan] • %c[ui_gray_2] średni czas kompletnej degradacji kombinezonu: %c[ui_gray_1]~25 min.\n \n \n</text>
+	</string>
+	<string id="ui_inv_fire_wound_protection">
+		<text>Odporność balistyczna\n \n%c[ui_gray_1]Odporność balistyczna, jak można się spodziewać, określa %c[ui_gray_3]anty-balistyczne%c[ui_gray_1] właściwości twojego pancerza - umiejętność bezpiecznej absorpcji energii kinetycznej małego obiektu o wysokiej prędkości, takich jak pociski i odłamki. Do pomiaru korzystamy z międzynarodowego systemu gradacji Amerykańskiego Instytutu Sprawiedliwości (NIJ) dla odzieży ochronnej. Gradacja opiera się o ilość energii balitycznej jaką może pochłonąć.\n \n%c[ui_gray_3]WYKRES GRADACJI PANCERZA:\n \n%c[ui_gray_3]KLASA I:%c[ui_gray_1] 12x70 (śrut), odłamki z granatu\n \n%c[ui_gray_3]KLASA IIA i II:%c[ui_gray_1] 9x18 mm, 9x18 mm +P+, 9x19 mm FMJ, 9x19 JHP, 45 ACP\n \n%c[ui_gray_3]KLASA IIIA:%c[ui_gray_1] 357 HP, 45 Hydro, 5.56x45 mm FNJ\n \n%c[ui_gray_3]KLASA III%c[ui_gray_1] 9x18 mm AP, 9x19 mm AP, 7.62x39 mm FMJ, 7.92x33 mm FMJ, 5.45x39 mm FNJ, 12x76 slug\n \n%c[ui_gray_3]KLASA IV:%c[ui_gray_1] 9x39 mm SP-5, 7.62x51 mm NATO, .300 Win Mag, 45 AP, 7.92x33 mm AP\n \n%c[ui_gray_3]KLASA V (egzoszkielet):%c[ui_gray_1] 5.45x39 AP, 5.56x45 AP, 7.62x39 mm AP, 7.62x51 mm NATO AP, 7.62x54 PP, 9x39 mm SP-6, 7.62x54 mm 7H1\n \n%c[d_red]WAŻNE:\n \n%c[ui_gray_1]Wspomniane wyżej wartości odnoszą się tylko do kontrpenetracyjnych właściwości pancerza. Uderzenie pocisku, nawet bez przebicia, jest nadal zdolne do wyrządzenia krzywdy na zasadzie %c[ui_gray_3]urazu tępego%c[ui_gray_1]. Najczęściej jedynym skutkiem takiego uderzenia jest obrzmienie tkanek miękkich, ale jeśli energia jest wystarczająco wysoka, może to prowadzić do otwartych %c[ui_gray_3]złamań kości%c[ui_gray_1] tworząc krwawiącą ranę, która pozostawiona bez należnej opieki, może spowodować śmierć. Kombinezony ubogacone o %c[ui_gray_3]metalowe%c[ui_gray_1] wkładki (szczególnie tytanone lub stalowe) znacznie zmniejszają prawdopodobieństwo otwartych złamań i innych negatywnych efektów trfień pociskami.\n \n \n</text>
+	</string>
+	<string id="ui_inv_radiation_protection">
+		<text>Odporność na zewnętrzne promieniowanie\n \n%c[ui_gray_1]Obecne odczyty wskazują, że promieniowanie spotykane w Zonie przemieszcza się poprzez stałe cząsteczki %c[ui_gray_3]alfa %c[ui_gray_1], zmieszane z brudem, piaskiem, wodą i innymi obiektami, przez co poprzez wszystkie żywe organizmy będące pod długotrwałym wpływem Zony. Ten rodzaj promieniowania nie jest wstanie spenetrować skóry i sprawia zagrożenie tylko, gdy napromieniowane cząsteczki zetkną się z tkankami i dostaną się do krwiobiegu - na przykład poprzez wdychanie zanieczyszczonego pyłu lub jedzenie napromieniowanego jedzenia. Z tego powodu zaleca się noszenie filtrowanego aparatu respiracyjnego przez cały czas obecności w Zonie, oraz unikanie lokalnego jedzenia i źródeł wody.\n \n%c[ui_gray_1]Co do penetrującego promieniowania %c[ui_gray_3]beta%c[ui_gray_1] - nasze odczyty wskazują, że jest ono skupione głównie wokół sarkofagu reaktora nr. 4. Jednak według najnowszych badań, ciała niektórych gatunków zmutowanych istot potrafią emitować promieniowanie beta na krótkich dystansach. Z nieznanych powodów, efekt ten ustaje zaraz po śmierci istoty.\n \n%c[ui_gray_1]Ostatnim i najniebezpieczniejszym źródłem promieniowania jonizującego w Zonie są emisję, podczas których wykrytko podmuchy promieniowania gamma o zmiennej sile. Z powodu ilości uwolnionej czystej energii i siły przebicia promieniowania gamma, wysoko zalecane jest korzystanie z bezpiecznych schronów.\n \n%c[d_cyan] • %c[ui_gray_2]stopień ochrony maski materiałowej: %c[ui_gray_1]45%\n%c[d_cyan] • %c[ui_gray_2]stopień ochrony maski filtrowanej: %c[ui_gray_1]90%\n%c[d_cyan] • %c[ui_gray_2]stopień ochrony kombinezonu z zamkniętym obiegiem powietrza: %c[ui_gray_1]100%\n \n%c[d_red]WAŻNE:\n \n%c[ui_gray_1]Wszystkie kombinezony, maski i hełmy zostały intensywnie przetestowane w warunkach polowych, przez wszystkie typy promieniowania. Wyniki testów zostały zawarte w instrukcji, jendak powinne one zostać uznane jako niekompletne, podające jedynie szorstkie wytyczne.\n \n \n</text>
+	</string>
+	<string id="ui_inv_shock_protection">
+		<text>Odporność elektryczna\n \n%c[ui_gray_1]Czarnobylskie anomalie elektryczne są prawdopodobnie najbardziej użyteczną kreacją Zony. Silne i nieustanne łuki elektryczne rozciągające się w prostej mieszance gazów jest w stanie, zapewnić ogromne ilości czystej energii. Niestety, każda próba wyciągnięcia z nich energii zakończyła się porażką z powodu ekstremalnej niestabilności tych zjawisk - jakikolwiek kontakt z fizycznym obiektem kończy się ogromnym wyładowaniem. To niesłychany fenoment pod naukowym względem, ponieważ nasze sensory wykryły nagły wzrost w napięcia i przepływu, które przegrzałby nawet najbardziej zaawansowane kondensatory z powodu nieregularnej natury tych anomalii.\n \n%c[ui_gray_1]Skoki napięcia produkowane przez te impulsy wynoszą do %c[ui_gray_3]4,0 megawoltów (MV)%c[ui_gray_1], co pozwala wyładowaniem na sięgnięcie nawet %c[ui_gray_3]3,5 metrów%c[ui_gray_1] ponad ziemią. Wyładowania trwające w porywach tylko %c[ui_gray_3]50 milisekund%c[ui_gray_1] nie są w stanie natychmiastowo zabić dorosłego, zdrowego człowieka. Należy się jednak spodziewać wysokiego uszczerbku na zdrowiu i śmierci w razie nieopuszczenia zasięgu anomalii odpowiednio szybko. \n \n%c[ui_gray_1]Jak to bywa z większością wyładowań elektrycznych, najlepszą formą ochrony jest zwiększenie opornosci ciała. Można to osiągnąć na wiele sposobów, głównie poprzez noszenie ochronnej, nieprzewodzącej odzieży.\n \n%c[ui_gray_1]Efektywność ochrony pancerza przed wyładowaniami jest mierzona numerem kilowoltów %c[ui_gray_3](kV)%c[ui_gray_1], jaki dana część ekwipunku może wytrzymać podczas jednego %c[ui_gray_3]3000 kV%c[ui_gray_1] / %c[ui_gray_3]50 ms%c[ui_gray_1] wyładowania anomalii elektrycznej.\n \n%c[d_cyan] • %c[ui_gray_2] średnia moc anomalii elektrycznej: %c[ui_gray_1]~3 MV\n%c[d_cyan] • %c[ui_gray_2] intensywność uszkodzenia niechronionego ciała przy jednym impulsie: %c[ui_gray_1]95%\n \n \n</text>
+	</string>
+	<string id="ui_inv_telepatic_protection">
+		<text>Ochrona psioniczna\n \n%c[ui_gray_1]Większość danych naukowych opisujących powstanie i naturę tzw. 'pól psionicznych' znalezionych w Zonie została %c[d_red]utajniona%c[ui_gray_1], a znane pozostały jedynie najbardziej podstawowe informacje.\n \n%c[ui_gray_1]Każdy stalker powinien się liczyć z faktem, że te siły stanowią ogromne zagrożenie dla człowieka i powinny być za wszelką cenę omijane. W 'zwykłych' warunkach, pola te przyjmują hemisferyczny kształt, ze źródłem w samym środku. Jednak w każdym przypadku potrafią one natychmiastowo zabić lub wpędzić w niewybudzalną śpiączkę w jedynie kilka sekund (tyczy się to każdego człowieka nie noszącego ekwipunku ochronnego). Siła pola psionicznego zależy głównie od dystansu od źródła.\n \n%c[ui_gray_1]Ustalono, że poza głónym 'promieniowaniem  psionicznym', każde pole produkuje delikatne pole magnetyczne o niskiej częstotliwości %c[ui_gray_3](50-60 Hz)%c[ui_gray_1], które zdaje się być kompletnie nieszkodliwe; pole magnetyczne można z łatwością zmierzyć i użyć do oceny siły pola psionicznego. Siła pola psionicznego(i efektywność przeciwdziałania) jest podawana w militeslach %c[ui_gray_3](mT)%c[ui_gray_1], które wskazują na siłę związanego z nią pola magnetycznego.\n \n%c[ui_gray_3]ZNANE ŹRÓDŁA:\n \n%c[d_cyan] • %c[ui_gray_2] emisje: %c[ui_gray_1]35 mT (ciągły przepływ) ; 660 mT (fala uderzeniowa) \n%c[d_cyan] • %c[ui_gray_2] średnia siła anomalii psionicznej: %c[ui_gray_1]E 3mT ; C 45 mT\n%c[d_cyan] • %c[ui_gray_2] kontroler (mutant): %c[ui_gray_1]G 5 mT ; C 75 mT ; R 33 m\n%c[d_cyan] • %c[ui_gray_2] poltergeist (mutant): %c[ui_gray_1]G 8 mT ; C 90 mT ; R 52 m\n%c[d_cyan] • %c[ui_gray_2] burer (mutant): %c[ui_gray_1]G 2 mT ; C 50 mT ; R 26 m\n%c[d_cyan] • %c[ui_gray_2] nibypies psioniczny (mutant): %c[ui_gray_1]G 0.1 mT ; C 15 mT ; R 23 m\n%c[d_cyan] • %c[ui_gray_2] kompleks Jantar (aktywny): %c[ui_gray_1]G 0.001 mT ; C 1800 mT (w przybliżeniu) ; R ~3,5 km\n%c[d_cyan] • %c[ui_gray_2] 'Mózgozwęglacz' (aktywny): %c[ui_gray_1]G 0.001 mT ; C 6500 mT (est.) ; R ~20 km\n \n%c[ui_gray_2]G = granica pola\n%c[ui_gray_2]C = centrum pola\n%c[ui_gray_2]R = promień\n \n \n</text>
+	</string>
+	<string id="ui_inv_wound_protection">
+		<text>Odporność na pękanie\n \n%c[ui_gray_1]Odporność na pękanie reprezentuje możliwość absorbowania i przeniesienia siły uderzenia spowodowanego przez różne typy fizycznych uderzeń i wstrząsów. Oznacza to - między innymi - uderzenia pięściami, kopnięcia, ukłucia, cięcia, ugryzienia and rzucane obiekty. \n \n%c[ui_gray_1] Nie powinno się ignorować tego współczynnika, szczególnie jeśli przewiduje się mieć często do czynienia z mutantami. Mimo, że nawet cienka warstwa odpowiedniej tkaniny może cię ochronić w codziennym życiu, w Zonie zaleca się korzystania ze specjalnie zaprojektowanych włókien zapobiegających zranieniom.\n \n%c[ui_gray_1]Odporność na pęknięcia idzie w jendej parze z twoją ochroną balistyczną, gdyż nawet gdy pociski nie spenetrują pancerza mogą spowodować urazy, które ta odporność redukuje. Jest to szczególnie zauważalne w %c[ui_gray_3]KLASIE AIII%c[ui_gray_1] i powyżej, które charakteryzują się wysoką liczbą zintegrowanych %c[ui_gray_3]metalowych płyt%c[ui_gray_1].\n \n%c[d_red]WAŻNE:\n \n%c[ui_gray_1]Nawet jeśli ubrania o wysokeij wytrzymałości i grubości są w stanie znacząco zmniejszyć obrażenia od pociksów i ataki różnych rodzajów zwierząt, nie są one niezniszczalne i z czasem zaczną degradować, obniżając właściwości ochronne. Czas, w jakim pancerz się zużywa %c[ui_gray_3]nie jest stałym współczynnikiem%c[ui_gray_1] i polega na stanie danego kombinezonu, co oznacza, że %c[ui_gray_3]stan ekwipunku będzie się pogarszać szybciej, gdy ten przyjmuje dużo obrażeń.\n \n%c[ui_gray_1]Z tego powodu %c[ui_gray_3]zaleca się%c[ui_gray_1] serwisować pancerz i hełmy tak często jak to tylko możliwe, by uniknąć poważnych uszkodzeń strukturalnych.\n \n \n</text>
+	</string>
+	<string id="ui_inv_power_restore">
+		<text>Regeneracja wytrzymałości\n \n%c[ui_gray_1]Twój poziom wytrzymałości reprezentuje całą dostępną energię twojego ciała. Energia ta jest zużywana na wiele sposobów, głównie poprzez bieganie, a znaczna utrata wytrzymałości zmusi cię do czasowego zatrzymania się. Jest zatem konieczne regularne jedzenie, picie i spanie w celu odnowienia utraconej energii, jak i kontrolowanie zawartości swojego plecaka, tak by nie utrudniała zbytnio w funkcjonowaniu. Leki i niektóre artefakty mogą wzmocnić regenerację wytrzymałości. Ta informacja powinna wystarczyć, jednak twój (nieco przestarzały) Poradnik Przetrwania mówi:\nRegeneracja i utrata wytrzymałości polega na kilku czynnikach, które można podzielić na kategorie: 'odżywianie', 'ekwipunek', 'chemia' i 'artefakty'. WAŻNE %c[ui_gray_3]faktóy na temat regeneracji wytrzymałości%c[ui_gray_1]:\n \n%c[ui_gray_3]FAKT 1:%c[ui_gray_1] Odżywianie polepszy współczynnik regeneracji o maksymalnie około %c[ui_gray_3]33%%c[ui_gray_1]. Dokładny poziom tej wartości zależy na twoim ekwipunku i treningu.\n%c[ui_gray_3]FAKT 2:%c[ui_gray_1] By utrzymać współczynnik an 'optymalnych' %c[ui_gray_3]33 procentach%c[ui_gray_1] wymagana jest konsumpcja %c[ui_gray_3]kalorii.%c[ui_gray_1]\n%c[ui_gray_3]FAKT 3:%c[ui_gray_1] Optymalny 33% poziom będzie spadać jeśli twój %c[ui_gray_3]pancerz limituje%c[ui_gray_1] twoją mobilność.\n%c[ui_gray_3]FAKT 4:%c[ui_gray_1] Regeneracja wytrzymałości także %c[ui_gray_3]zwiększa się i zmniejsza proporcjonalnie do masy twojego ekwipunku,%c[ui_gray_1], ale ten czynnik %c[ui_gray_3]nie jest%c[ui_gray_1] reprezentowany na pasku.\n%c[ui_gray_3]FAKT 5:%c[ui_gray_1] By zwiększyć współczynnik ponad %c[ui_gray_3]~33%%c[ui_gray_1] należy użyć %c[ui_gray_3]substancji chemicznych lub artefaktów%c[ui_gray_1] zwiększających regenerację.\n%c[ui_gray_3]FAKT 6:%c[ui_gray_1]Skuteczność %c[ui_gray_3]substancji chemicznych%c[ui_gray_1] jest podana w %c[ui_gray_3]µg%c[ui_gray_1] (mikrogramach) %c[ui_gray_3]adrenaliny%c[ui_gray_1] uwolnionej do krwiobiegu.\n%c[ui_gray_3]FAKT 7:%c[ui_gray_1]Zawartość adrenaliny w ciele człowieka to %c[ui_gray_3]90 µg%c[ui_gray_1]. By zwiększyć ten współczynnik należy spożyć %c[ui_gray_3]400 mg kofeiny%c[ui_gray_1].\n%c[ui_gray_3]FAKT 8:%c[ui_gray_1] By %c[ui_gray_3]podwoić%c[ui_gray_1] szybkość odzyskiwania energii należy szybko zwiększyć nominalny poziom adrenaliny %c[ui_gray_3]pięciokrotnie%c[ui_gray_1], t.j. do %c[ui_gray_3]500 µg%c[ui_gray_1].Działanie różnych substancji %c[ui_gray_3]nie grupuje się%c[ui_gray_1].\n%c[ui_gray_3]FAKT 9:%c[ui_gray_1] By zwiększyć współczynnik powyżej chemicznie wzmocnionego %c[ui_gray_3]66%%c[ui_gray_1], potrzeba artefaktów. Działanie wielu aretfaktów można grupować.\n \n \n</text>
+	</string>
+	<string id="st_ui_bleeding_sensor">
+		<text>Krwawienie\n \n%c[ui_gray_1]Krwawienie może pozbawić witalności w bardzo szybkim tempie, jeśli nie podejmie się odpowiednich środków. Krwawienie jest zazwyczaj efektem bezpośredniego uszkodzenia tkanki lub uszkodzenia organów wewnętrznych. Krwawienie może być również efektem złamania otwartego.\n \n%c[ui_gray_1]Przeciętny operator sił specjalnych jest w stanie wytrzymać utratę krwi (w przybliżeniu): %c[ui_gray_3]2.7 litrów %c[ui_gray_1]bez utracenia przytomności. Ekstremalnie mocne rany (lub duża ilość małych) może spowodować utratę krwi tego stopnia w %c[ui_gray_3]5 do 10 minut%c[ui_gray_1]. Bandaże lub polowe zestawy do szycia ran mogą efektywnie zatrzymać krwawienie, a leki zwiększające krzepliwość mogą obniżyć ogólną intensywność krwawienia.\n \n%c[d_cyan] • %c[ui_gray_2] objętość krwi w ciele: %c[ui_gray_1]~5,5 litrów\n%c[d_cyan] • %c[ui_gray_2] śmiertelna utrata krwi: %c[ui_gray_1]~2,7 litrów\n%c[d_cyan] • %c[ui_gray_2] strzał z pocisku o kal. 5.45 w nieosłonięty korpus: %c[ui_gray_1]~320 ml / min\n%c[d_cyan] • %c[ui_gray_2] efektywność bandaża: %c[ui_gray_1]~270 ml / min \n \n%c[ui_gray_1]Zestawienie:\n \n%c[0,102,255,0]0 - 100 ml / min: %c[ui_gray_2] przeciętny\n%c[0,255,255,0]100 - 200 ml / min: %c[ui_gray_2]znaczny\n%c[0,255,122,0]200 - 300 ml / min: %c[ui_gray_2] ciężki\n%c[d_red]300+ ml / min: %c[ui_gray_2]krytyczny\n \n \n</text>
+	</string>
+	<string id="st_ui_health_sensor_inv">
+		<text>Zdrowie\n \n%c[ui_gray_1]Może zostać opisane jako twoja zdolność i %c[ui_gray_3]chęć do życia %c[ui_gray_1] i zmierzania przed siebie niezależnie od przeciwności. Zona nie wybacza błędów. Mimo, że powiedzenie "porzućcie całą nadzieję, ci którzy tu wchodzą" nie do końca tu pasuje, nie będziesz w stanie przeżyć na dobrej woli innych ludzi. Jesteś przeważnie skazany na siebie, a błędy w nieodpowiednim czasie spowodują twoją śmierć. Podziękuj za to mutantom, pogodzie, emisjom lub samej Zonie, ale pamiętaj: tylko od ciebie zależy twoje przeżycie, które przyjdzie tylko poprzez naukę i wzmacnianie swoje woli przetrwania. Nieważne jak na to patrzysz, jest to prawo natury: droga doboru naturalnego. Ci, którzy nie potrafią zaadaptować się do panujących warunków bez wątpienia zginą, a ci, którzy potrafią się zmienić i kontynuować z pewnością zobaczą kolejny dzień.\n \n%c[ui_gray_1]Pomimo tego, że zwykła powierzchniowa rana postrzałowa cię nie unieruchomi, z pewnościa powoduje ona %c[ui_gray_3]ból%c[ui_gray_1], a ból stwarza zagrożenie: może sprawić, że twoje ciało %c[ui_gray_3]przestanie funkcjonować%c[ui_gray_1]. Mogą za tym isć szok, utrata przytomności, fizyczne wypalenie, a wtedy jesteś w tych warunkach praktycznie martwy, więc stąpaj lekko.\n \n%c[ui_gray_1]Ani pancerz, ani wyposażenie nie uchronią cię przed wszystkimi niebezpieczeństwami. Żadne przedmioty nie są najważniejszym czynnikiem przetrwania. Jest to twój umysł. Tylko umysł daje ci siłę woli do przetrwania nacisku Zony i determinację do spełniania swoich celi. Jednakże twój umysł nie jest czymś stałym, jest zmienny. Trauma psychologiczna sprawia, że stajesz się słaby i wysysa z ciebie witalność. Szczególnie odznacza się to w trakcie emisji i wśród anomalii. Z drugiej strony, możesz wzmocnić umysł poprzez jedzenie, picie, sen, w skrócie: %c[ui_gray_3]dbając o siebie%c[ui_gray_1]. Możesz także podjąć pewne działania, w celu podtrzymania się na duchu i - w najbardziej ekstremalnych przypadkach - przyjąć substancje wzmacniające, by kupić sobie trochę czasu.\n \n%c[ui_gray_1]Jednakże, nawet jeśli nie zawiedziesz, nadal możesz zginąć trzymając się nadziei względem innych. Jak mówi pewno powiedzenie, jedyna nadzieja, jaką mogą mieć martwi, to wiara w tych, któzy jeszcze żyją.\n \n \n</text>
+	</string>
+	
+	<!-- item description -->
+	<string id="st_cap_old">
+		<text>Stare</text>
+	</string>
+	<string id="st_cap_verybad">
+		<text>Zrujnowane</text>
+	</string>
+		
+	<string id="st_cap_upgr_1">
+		<text>(Podstawowe)</text>
+	</string>
+	<string id="st_cap_upgr_2">
+		<text>(Zaawansowane)</text>
+	</string>
+	<string id="st_cap_upgr_3">
+		<text>(Kalibracja)</text>
+	</string>
+	
+	<string id="st_cap_meal_1">
+		<text>(gotowane)</text>
+	</string>
+	<string id="st_cap_meal_2">
+		<text>(duszone)</text>
+	</string>
+	<string id="st_cap_meal_3">
+		<text>(oczyszczone)</text>
+	</string>
+	
+	<string id="st_cap_con_25_o">
+		<text>Porwane</text>
+	</string>
+	<string id="st_cap_con_50_o">
+		<text>Uszkodzone</text>
+	</string>
+	<string id="st_cap_con_75_o">
+		<text>Podrapane</text>
+	</string>
+	<string id="st_cap_con_100_o">
+		<text>Czyste</text>
+	</string>
+	<string id="st_cap_con_25_w">
+		<text>Zdeformowane</text>
+	</string>
+	<string id="st_cap_con_50_w">
+		<text>Uszkodzone</text>
+	</string>
+	<string id="st_cap_con_75_w">
+		<text>Podrapane</text>
+	</string>
+	<string id="st_cap_con_100_w">
+		<text>Funkcjonalne</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>Stan pancerza</text>
+	</string>
+	<string id="st_weight">
+		<text>Waga</text>
+	</string>
+	<string id="st_weight_full">
+		<text>Waga</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>Rozmiar mag.</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Celność</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Obrażenia</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Obsługa</text>
+	</string>
+	
+	<string id="ui_inv_health">
+		<text>Regeneracja zdrowia</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Regeneracja wytrzymałości</text>
+	</string>
+	
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Dodatkowy udźwig</text>
+	</string>
+	<string id="ui_inv_outfit_artefact_count">
+		<text>Liczba slotów na artefakty</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Odp. termiczna</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Odp. chemiczna</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Odp. balistyczna</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Odp. promien.</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Odp. elekt.</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Odp. psi.</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Odp. na pęknięcia</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Odp. na eksplozje</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Odp. na uderzenia</text>
+	</string>
+	<string id="ui_inv_outfit_hit_fraction_actor">
+		<text>Obrażenia</text>
+	</string>
+	
+	<string id="ui_inv_satiety">
+		<text>Stopień nasycenia</text>
+	</string>
+		<string id="ui_inv_outfit_power_restore">
+		<text>Regeneracja Wytrzymałości</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Zm. obciążenia</text>
+	</string>
+	<string id="ui_inv_af_condition">
+		<text>Wydajność</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Waga:</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>Zdrowie</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>Amunicja</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>Czas trwania</text>
+	</string>
+	
+	<string id="st_itm_desc_properties">
+		<text>WŁAŚCIWOŚCI</text>
+	</string>
+	<string id="st_itm_desc_details">
+		<text>SZCZEGÓŁY</text>
+	</string>
+	<string id="st_itm_desc_warning">
+		<text>OSTRZEŻENIE</text>
+	</string>
+	
+	<string id="st_itm_desc_state_possible">
+		<text>możliwy</text>
+	</string>
+	<string id="st_itm_desc_state_not_possible">
+		<text>niemożliwy</text>
+	</string>
+	<string id="st_itm_desc_state_avail">
+		<text>dostępne</text>
+	</string>
+	<string id="st_itm_desc_state_avail_workshop">
+		<text>dostępne (u mechanika)</text>
+	</string>
+	<string id="st_itm_desc_state_not_avail">
+		<text>niedostępne</text>
+	</string>
+	<string id="st_itm_desc_state_not_included">
+		<text>nie zawiera</text>
+	</string>
+	<string id="st_itm_desc_state_low">
+		<text>niskie</text>
+	</string>
+	<string id="st_itm_desc_state_average">
+		<text>średnie</text>
+	</string>
+	<string id="st_itm_desc_state_high">
+		<text>wysokie</text>
+	</string>
+	<string id="st_itm_desc_state_slight">
+		<text>lekki</text>
+	</string>
+	<string id="st_itm_desc_state_moderate">
+		<text>umiarkowany</text>
+	</string>
+	<string id="st_itm_desc_state_significant">
+		<text>znaczny</text>
+	</string>
+	<string id="st_itm_desc_state_increase">
+		<text>przyrost</text>
+	</string>
+	<string id="st_itm_desc_state_decrease">
+		<text>ubytek</text>
+	</string>
+	
+	<string id="st_itm_desc_arty_cont">
+		<text>zawiera artefakt</text>
+	</string>
+	<string id="st_itm_desc_arty_cont_rad">
+		<text>dopuszczalny poziom promieniowania</text>
+	</string>
+	
+	<string id="st_itm_desc_eat_sleepiness">
+		<text>%s %s wyczerpania</text>
+	</string>
+	<string id="st_itm_desc_eat_thirst">
+		<text>%s %s pragnienia</text>
+	</string>
+	<string id="st_itm_desc_eat_radiation">
+		<text>zatrucie promieniowaniem</text>
+	</string>
+	<string id="st_itm_desc_eat_health">
+		<text>niezdrowe</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_upgradable">
+		<text>możliwe ulepszenie</text>
+	</string>
+	<string id="st_itm_desc_outfit_heardgear">
+		<text>nakrycie głowy</text>
+	</string>
+	<string id="st_itm_desc_outfit_num_of_slots">
+		<text>zaczepy na dodatkowe wyposażenie</text>
+	</string>
+	<string id="st_itm_desc_outfit_carry_weight">
+		<text>wzrost udźwigu</text>
+	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>sprint jest</text>
+	</string>
+	<string id="st_itm_desc_outfit_patch_torn">
+		<text>%s została zerwana z tego kombinezonu</text>
+	</string>
+	<string id="st_itm_desc_outfit_faction">
+		<text>frakcja</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_repair_bonus">
+		<text>bonus do napraw</text>
+	</string>
+	<string id="st_itm_desc_outfit_required_tool">
+		<text>wymagane narzędzie</text>
+	</string>
+	
+	<string id="st_itm_desc_workshop_tool">
+		<text>do użytku w warsztacie, do wymiany komponentów lub ulepszeń</text>
+	</string>
+	<string id="st_itm_desc_repair_min_con">
+		<text>użycie niemożliwe poniżej stanu</text>
+	</string>
+	<string id="st_itm_desc_repair_base_con">
+		<text>podstawowy uzyskany stan</text>
+	</string>
+	<string id="st_itm_desc_repair_match">
+		<text>może naprawiać materiały korzystając z zamienników</text>
+	</string>
+	
+	<string id="st_itm_desc_part_usable">
+		<text>do użytku w warsztacie do wymiany części</text>
+	</string>
+	<string id="st_itm_desc_part_i">
+		<text>podstawowy składnik</text>
+	</string>
+	<string id="st_itm_desc_part_w">
+		<text>część broni</text>
+	</string>
+	<string id="st_itm_desc_part_o">
+		<text>część kombinezonu</text>
+	</string>
+	
+	<string id="st_itm_desc_upgr_w">
+		<text>zestaw do ulepszania broni</text>
+	</string>
+	<string id="st_itm_desc_upgr_o">
+		<text>zestaw do ulepszania kombinezonów</text>
+	</string>
+	<string id="st_itm_desc_upgr_usable">
+		<text>do użytku w warsztacie do instalacji ulepszeń</text>
+	</string>
+	
+	<!-- others -->
+	<string id="ui_inv_ammo_pistol">
+		<text>Kup podstawową amunicję do pistoletu (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Kup amunicję do karabinu (W)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Kontrola krwawienia</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Anuluj</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>Nie można kupić broni</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Limit ilości</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Domyślny (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Wstecz</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Kup podwieszany granatnik do karabinu(D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Kup granaty do podwieszanego granatnika (E)</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Teraz</text> <!-- now -->
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Ciężkie</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Kup ostatnio kupiony zestaw</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Poprzedni (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Pieniądze</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Potrzeba</text>
+	</string>
+	<string id="ui_inv_needs">
+		<text>Potrzebuje</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Brak wystarczającej ilości pieniędzy</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Zestaw 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Zestaw 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Zestaw 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Promieniowanie</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Ograniczenie rangi</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Szybkostrzelność</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Wyczyść (C)</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Karabiny szturmowe</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Kup lunetę do karabinu (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Sprzedaj wszystko z plecaka (X)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Strzelby</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Kup tłumik do pistoletu (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Kup tłumik do karabinu (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Snajperskie</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Czas</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Już to mam</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Usługi sieciowe S.T.A.L.K.E.R. są niedostępne.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>Nie można połączyć z serwerem głównym.</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Ochrona:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Domyślny</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Zestaw zapisany jako</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>Pozwala przeżyć emisję</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>Pojemniki</text>
+	</string>
+	<string id="st_ui_artifacts">
+		<text>Artefakty</text>
+	</string>
+	<string id="st_ui_itm_repair_base">
+		<text>Uszkodzone przedmioty</text>
+	</string>
+	<string id="st_ui_itm_repair_support">
+		<text>Materiały Pomocnicze</text>
+	</string>
+	<string id="st_ui_itm_cook_fuel">
+		<text>Paliwo</text>
+	</string>
+	<string id="st_ui_itm_cook_food">
+		<text>Przepisy</text>
+	</string>
+	<string id="st_ui_repair">
+		<text>Napraw</text>
+	</string>
+	<string id="st_ui_craft">
+		<text>Stwórz</text>
+	</string>
+	<string id="st_ui_cancel">
+		<text>Anuluj</text>
+	</string>
+	<string id="st_ui_total">
+		<text>Całość</text>
+	</string>
+	<string id="st_ui_bonus">
+		<text>Dodatek</text>
+	</string>
+	<string id="st_ui_base">
+		<text>Podstawa</text>
+	</string>
+	<string id="st_ui_oldcon">
+		<text>Stare</text>
+	</string>
+	
+	<!-- messages -->
+	<string id="st_news_dis_items">
+		<text>%c[d_red]Potrzebujesz odpowiedniego narzędzia.</text>
+	</string>
+	<string id="st_ui_need_charger">
+		<text>%s jest wymagany do przewodzenia elektryczności</text>
+	</string>
+	<string id="st_new_anomaly_map">
+		<text>Odkryto nową mapę anomalii</text>
+	</string>
+	<string id="ui_st_create_stash">
+		<text>stwórz skrytkę</text>
+	</string>
+	<string id="ui_st_geiger_mode_1">
+		<text>Tryb 1: gdy aktywny</text>
+	</string>
+	<string id="ui_st_geiger_mode_2">
+		<text>Tryb 2: zawsze</text>
+	</string>
+	<string id="ui_st_geiger_mode_3">
+		<text>Tryb 3: na przycisk</text>
+	</string>
+	<string id="ui_st_npc_pda_unkown">
+		<text>PDA nie działa</text>
+	</string>
+	<string id="ui_st_npc_pda_low_power">
+		<text>SŁABA BATERIA</text>
+	</string>
+	<string id="ui_st_npc_pda_access_denied">
+		<text>BRAK DOSTĘPU</text>
+	</string>
+	<string id="ui_st_npc_pda_strelok">
+		<text>ZABIJ STRIELKOKA</text>
+	</string>
+	<string id="ui_st_battery_more_power">
+		<text>Urządzenie ma więcej zasilania</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>Lampa odłączona</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>Lampa założona</text>
+	</string>
+	<string id="st_lamp_power_left">
+		<text>Lampa ma %s% zasilania</text>
+	</string>
+	<string id="st_lamp_no_power_left">
+		<text>Lampa nie ma zasilania</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>Nie masz UPD</text>
+	</string>
+	<string id="st_upd_low">
+		<text>Słaba bateria</text>
+	</string>
+	<string id="st_pda_no_power">
+		<text>PDA nie ma zasilania</text>
+	</string>
+	<string id="st_pda_no_active">
+		<text>Brak aktywnego PDA</text>
+	</string>
+	
+	<string id="st_ui_scopes">
+		<text>Optyka</text>
+	</string>
+	<string id="st_ui_silencer">
+		<text>Tłumik</text>
+	</string>
+	<string id="st_ui_grenade_launcher">
+		<text>Podwieszany granatnik</text>
+	</string>
+	<string id="st_ui_awr_parts_list">
+		<text>Części zamienne</text>
+	</string>
+	<string id="st_ui_repair_kit_list">
+		<text>Kompatybilne zestawy naprawcze</text>
+	</string>
+	<string id="st_ui_workshop_kit_list">
+		<text>Kompatybilne zestawy naprawcze (warsztat)</text>
+	</string>
+	<string id="st_ui_disassemly_list">
+		<text>Komponenty</text>
+	</string>
+	<string id="st_ui_upgrade_list">
+		<text>Ulepszenia</text>
+	</string>
+	<string id="st_ui_arty_rank">
+		<text>ranga artefaktu</text>
+	</string>
+	<string id="st_ui_artefact">
+		<text>artefakt</text>
+	</string>
+	<string id="st_ui_repair_add_condition">
+		<text>Podstawowa zyskana wytrzymałość</text>
+	</string>
+	<string id="st_ui_repair_min_condition">
+		<text>Nieużywalne poniżej stanu</text>
+	</string>
+	<string id="st_ui_repair_bonus">
+		<text>bonus do napraw</text>
+	</string>
+	<string id="st_ui_power_loss">
+		<text>strata mocy</text>
+	</string>
+	<string id="st_ui_number_of_uses">
+		<text>Użycia</text>
+	</string>
+	<string id="st_ui_repair_parts_include">
+		<text>Używalne materiały</text>
+	</string>
+	<string id="st_ui_power">
+		<text>Zasilanie</text>
+	</string>
+	<string id="st_ui_amount">
+		<text>Liczba</text>
+	</string>
+	<string id="st_ui_power_consumption">
+		<text>pobór mocy</text>
+	</string>
+	<string id="st_ui_info">
+		<text>Info</text>
+	</string>
+	<string id="st_ui_inventory_unpack">
+		<text>rozpakuj</text>
+	</string>
+	<string id="st_ui_inventory_attach">
+		<text>dołącz</text>
+	</string>
+	<string id="st_ui_inventory_view">
+		<text>zobacz</text>
+	</string>
+	<string id="st_ui_container_remove">
+		<text>Wyciągnij z Pojemnika</text>
+	</string>
+	<string id="st_ui_container_place">
+		<text>Włóż do Pojemnika</text>
+	</string>
+	<string id="st_imm_swiss_open">
+		<text>otwórz puszkę</text>
+	</string>
+	<string id="st_item_place">
+		<text>połóż</text>
+	</string>
+	<string id="st_cap_companion_inv">
+		<text>Zamień przedmioty</text>
+	</string>
+	<string id="st_ui_cook_fuel_usable">
+		<text>Dostępne paliwo</text>
+	</string>
+	
+	
+	<!-- Workshop-->
+	<string id="st_tab_state">
+		<text>STAN</text>
+	</string>
+	<string id="st_tab_repair">
+		<text>NAPRAWA</text>
+	</string>
+	<string id="st_tab_upgrade">
+		<text>ULEPSZENIA</text>
+	</string>
+	<string id="st_tab_craft">
+		<text>TWORZENIE</text>
+	</string>
+	<string id="st_cap_inventory">
+		<text>Ekwipunek</text>
+	</string>
+	<string id="st_cap_menu">
+		<text>Menu tworzenia</text>
+	</string>
+	<string id="st_cap_recipes">
+		<text>Znane przepisy i poradniki</text>
+	</string>
+	<string id="st_cap_craftables">
+		<text>Lista przedmiotów</text>
+	</string>
+	<string id="st_cap_components">
+		<text>Komponenty</text>
+	</string>
+	<string id="st_cap_result">
+		<text>Wynik</text>
+	</string>
+	<string id="st_cap_replace_parts">
+		<text>Części zamienne</text>
+	</string>
+	<string id="st_cap_upgrades">
+		<text>Ulepszenia</text>
+	</string>
+	<string id="st_cap_req_toolkit">
+		<text>Wymagany zestaw naprawczy</text>
+	</string>
+	<string id="st_ui_craft_device">
+		<text>Urządzenia</text>
+	</string>
+	<string id="st_ui_craft_equipment">
+		<text>Ekwipunek</text>
+	</string>
+	<string id="st_ui_craft_repair">
+		<text>Zestawy naprawcze</text>
+	</string>
+	<string id="st_ui_craft_upgrades">
+		<text>Części do ulepszeń</text>
+	</string>
+	<string id="st_ui_craft_medical">
+		<text>Medykamenty</text>
+	</string>
+	<string id="st_ui_craft_ammo">
+		<text>Amunicja</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_intro">
+		<text>Ten warsztat pozwala ci własnoręcznie naprawiać, ulepszać i tworzyć przedmioty za pomocą odpowiednich zestawów narzędzi.
+		\nPowyższe narzędzia przedstawiają dostępne zestawy narzędziowe w tym warsztacie.
+		\nWybierz jedną z kart, by kontynuować.
+		</text>
+	</string>
+	<string id="st_ui_workshop_owner">
+		<text>Ten warsztat należy do: %s.</text>
+	</string>
+	<string id="st_ui_workshop_owner_nobody">
+		<text>nikt</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_intro">
+		<text>Możesz wymienić uszkodzone części swojej broni lub pancerza używając części zamiennych i odpowiednich narzędzi.
+		\nWybierz z ekwipunku przedmiot, który chcesz naprawić.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_1">
+		<text>Każdy przedmiot ma swój zestaw części i materiałów.
+		\nWyszarzone części oznaczają, że nie posiadasz odpowiedniego komponentu do wymiany.
+		\nJeśli posiadasz odpowiednie części i odpowiedni "%s", kliknij na część, którą chcesz wymienić.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_1">
+		<text>Nie masz odpowiednich komponentów, by wykonać naprawę.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_1">
+		<text>Części zamienne mogą zostać uzyskaną głównie poprzez rozmontowywanie pancerzy i broni.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_2">
+		<text>Nie możesz wymienić części tego ekwipunku bez: "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_2">
+		<text>Większość mechaników sprzedaje takie narzędzia. Możesz je również zdobyć poprzez szereg innych sposobów.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_3">
+		<text>Możesz wybrać identyczne części do zamiany: "%s" ze swojego ekwipunku.
+		\nTylko części w lepszym stanie od obecnych mogą zostać użyte do naprawy.
+		\nWyszarzone komponenty oznaczają, że ich stan jest gorszy od tych obecnie używanych.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_3">
+		<text>Część zamienna: "%s" jest w gorszym stanie, w porównaniu do obecnie używanej części. Nie może zostać użyta.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_3">
+		<text>Wiele narzędzi może korzystać z zamienników danego materiału. Większość mechaników oferuje takie narzędzia. Możesz je również zdobyć poprzez szereg innych sposobów.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_4">
+		<text>Części zamienne są gotowe do zainstalowania, kliknij przycisk "Napraw", by kontynuować.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgrade_intro">
+		<text>Z odpowiednim użyciem posiadanych przez ciebie narzędzi, możesz zainstalować ulepszenia dla swojej broni i pancerzy.
+		\nWybierz z ekwipunku przedmiot, który chcesz ulepszyć.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_1">
+		<text>Każde ulepszenie wymaga odpowiedniego zestawu narzędzi danego typu w dodatku do używanych "%s".
+		\nMuszą zostać spełnione dodatkowe warunki, by móc poprawnie zainstalować dane ulepszenie.
+		\nKliknij na ulepszenie, które chcesz zainstalować na wybranym przedmiocie.
+		\nJeśli ulepszenie jest niedostępne, najedź na nie kursorem, by sprawdzić niespełnione wymagania.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_1">
+		<text>Nie możesz instalować ulepszeń na tym przedmiocie bez: "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_1">
+		<text>Większość mechaników oferuje takie narzędzia. Możesz je również zdobyć poprzez szereg innych sposobów.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_2">
+		<text>Nie ma dostępnych ulepszeń do zainstalowania.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_2">
+		<text>Najedź na niedostępne ulepszenia kursorem, by sprawdzić niespełnione wymagania.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_3">
+		<text>Ulepszenia są gotowe do zainstalowania, kliknij przycisk "Ulepsz", by kontynuować.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_intro">
+		<text>Mnóstwo materiałów może zostać wykorzystanych do tworzenia wielu przedmiotów.
+		\nZdobyte przez ciebie przepisy i poradniki dają ci możliwość zbudowania takich przedmiotów.
+		\nWybierz pozycję na liście, by zobaczyć możliwe do stworzenia przedmioty.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_1">
+		<text>Wybierz przedmiot, który chcesz stworzyć.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_2">
+		<text>Nie wiesz jeszcze jak stworzyć "%s".</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_2">
+		<text>Poradniki i przepisy mają informacje na temat wymaganych składników.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_3">
+		<text>"%s" jest potrzebny, by stworzyć ten przedmiot (dostęność i gracza lub mechanika)</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_3">
+		<text>Takie narzędzia są zazwyczaj ciężkie do znalezienia, zwracaj na nie uwagę podczas swoich podróży.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_4">
+		<text>W twoim ekwipunku brakuje wymaganych komponentów, do stworzenia tego przedmiotu.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_4">
+		<text>Komponenty mogą zostać zebrane z niepotrzebnych przedmiotów i materiałów, które znajdujesz.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_5">
+		<text>Masz wszystkie odpowiednie komponenty wymagane do stworzenia: "%s", kliknij przycisk "Stwórz", by kontynuować.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_1">
+		<text>Ten warsztat pozwala ci własnoręcznie naprawiać, ulepszać i tworzyć przedmioty za pomocą odpowiednich zestawów narzędzi.
+		\nPowyższe narzędzia przedstawiają dostępne zestawy narzędziowe w tym warsztacie.
+		\nWybierz jedną z kart, by kontynuować.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_1">
+		<text>Możesz wymienić uszkodzone części swojej broni lub pancerza używając części zamiennych i odpowiednich narzędzi.
+		\nWybierz z ekwipunku przedmiot, który chcesz naprawić.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_2">
+		<text>Każdy przedmiot ma swój zestaw części i materiałów.
+		\nWyszarzone części oznaczają, że nie posiadasz odpowiedniego komponentu do wymiany.
+		\nJeśli posiadasz odpowiednie części i odpowiedni "%s", kliknij na część, którą chcesz wymienić.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_3">
+		<text>Możesz wybrać identyczne części do zamiany ze swojego ekwipunku.
+		\nTylko części w lepszym stanie od obecnych mogą zostać użyte do naprawy.
+		\nWyszarzone komponenty oznaczają, że ich stan jest gorszy od tych obecnie używanych.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_4">
+		<text>Części zamienne są gotowe do zainstalowania, kliknij przycisk "Napraw", by kontynuować.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgr_1">
+		<text>Z odpowiednim użyciem posiadanych przez ciebie narzędzi, możesz zainstalować ulepszenia dla swojej broni i pancerzy.
+		\nWybierz z ekwipunku przedmiot, który chcesz ulepszyć.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_2">
+		<text>Każde ulepszenie wymaga odpowiedniego zestawu narzędzi danego typu w dodatku do używanych "%s".
+		\nMuszą zostać spełnione dodatkowe warunki, by móc poprawnie zainstalować dane ulepszenie.
+		\nKliknij na ulepszenie, które chcesz zainstalować na wybranym przedmiocie.
+		\nJeśli ulepszenie jest niedostępne, najedź na nie kursorem, by sprawdzić niespełnione wymagania.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_3">
+		<text>Ulepszenia są gotowe do zainstalowania, kliknij przycisk "Ulepsz", by kontynuować.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_1">
+		<text>Mnóstwo materiałów może zostać wykorzystanych do tworzenia wielu przedmiotów.
+		\nZdobyte przez ciebie przepisy i poradniki dają ci możliwość zbudowania takich przedmiotów.
+		\nWybierz pozycję na liście, by zobaczyć możliwe do stworzenia przedmioty.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_2">
+		<text>Wybierz przedmiot, który chcesz stworzyć.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_3">
+		<text>Potrzebujesz zestawu konkretnych składników, by stworzyć ten przedmiot.
+		\nGdy nie masz minimalnej wymaganej liczby komponentów, będą one wyświetlane na czerwono, uniemożliwiając dalszą akcję.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_4">
+		<text>Masz wszystkie odpowiednie komponenty wymagane do stworzenia tego przedmiotu, kliknij przycisk "Stwórz", by kontynuować.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_5">
+		<text>Nie wiesz jak tworzy się ten przedmiot.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_6">
+		<text>"%s" jest potrzebny do stworzenia tego przedmiotu w tym warsztacie.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_no_upgr_1">
+		<text>"%s" jest potrzebny do zainstalowania tego ulepszenia.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_2">
+		<text>"%s" jest potrzebny do zainstalowania tego ulepszenia.</text>
+	</string>
+	<!--string id="st_ui_workshop_no_upgr_3">
+		<text>The condition of this item is critical for this upgrade to be installed.</text>
+	</string-->
+	<string id="st_ui_workshop_no_upgr_3">
+		<text>W tym warsztacie brakuje odpowidnich narzędzi potrzebnych do instalacji tego ulepszenia.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_4">
+		<text>Zostało już wybrane alternatywne ulepszenie.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_5">
+		<text>Nie jest możliwa instalacja ulepszeń bez zainstalowania ich poprzedników.</text>
+	</string>
+	
+	<string id="st_ui_upgr_required_con">
+		<text>Minimalny wymagany stan</text>
+	</string>
+	
+</string_table>

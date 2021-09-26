@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<!-- Fast Travel Names -->
+	<string id="st_pda_fast_travel_to">
+		<text>Szybka podróż do</text>
+	</string>
+	<string id="agr_smart_terrain_1_2">
+		<text>Bagno</text>
+	</string>
+	<string id="agr_smart_terrain_1_6">
+		<text>Instytut Badawczy</text>
+	</string>
+	<string id="agr_smart_terrain_4_4">
+		<text>Północny kompleks</text>
+	</string>
+	<string id="agr_smart_terrain_6_4">
+		<text>Obóz w Tunelu</text>
+	</string>
+
+	<string id="mil_smart_terrain_2_2">
+		<text>Posterunek Najemników</text>
+	</string>
+	<string id="mil_smart_terrain_2_4">
+		<text>Farma</text>
+	</string>
+	<string id="mil_smart_terrain_2_6">
+		<text>Wrak Helikoptera</text>
+	</string>
+	<string id="mil_smart_terrain_2_10">
+		<text>Wioska Pijawek</text>
+	</string>
+	<string id="mil_smart_terrain_3_8">
+		<text>Barykada</text>
+	</string>
+	<string id="mil_smart_terrain_7_4">
+		<text>Stara Farma</text>
+	</string>
+	<string id="mil_smart_terrain_7_12">
+		<text>Baza Wolności</text>
+	</string>
+
+	<string id="aes_smart_terrain_monolit_blockpost4">
+		<text>Wejście do Hali Maszynowej</text>
+	</string>
+	<string id="aes2_monolith_snipers_2">
+		<text>Obszar Patroli Monolitu</text>
+	</string>
+
+	<string id="esc_smart_terrain_2_12">
+		<text>Wioska Kotów</text>
+	</string>
+	<string id="esc_smart_terrain_3_16">
+		<text>Południowy Posterunek</text>
+	</string>
+	<string id="esc_smart_terrain_5_2">
+		<text>Północny Posterunek</text>
+	</string>
+	<string id="esc_smart_terrain_5_7">
+		<text>Północna Farma</text>
+	</string>
+	<string id="esc_smart_terrain_5_9">
+		<text>Elewator</text>
+	</string>
+	<string id="esc_smart_terrain_6_6">
+		<text>Opuszczona Farma</text>
+	</string>
+	<string id="esc_smart_terrain_6_8">
+		<text>Most Kolejowy</text>
+	</string>
+	<string id="esc_smart_terrain_7_11">
+		<text>Stacja Pojazdów</text>
+	</string>
+
+	<string id="ds2_lager_st">
+		<text>Obóz pod Klifem</text>
+	</string>
+	<string id="ds_kem2">
+		<text>Stacja Paliw</text>
+	</string>
+	<string id="ds_ptr">
+		<text>Przejazd Kolejowy</text>
+	</string>
+	<string id="ds2_domik_st">
+		<text>Farma</text>
+	</string>
+
+	<string id="val_smart_terrain_1_2">
+		<text>Za Kompleksem X-16</text>
+	</string>
+	<string id="val_smart_terrain_4_0">
+		<text>Opuszczona Chlewnia</text>
+	</string>
+	<string id="val_smart_terrain_7_4">
+		<text>Baza Bandytów</text>
+	</string>
+	<string id="val_smart_terrain_7_8">
+		<text>Zanieczyszczone Jezioro (Płn.)</text>
+	</string>
+	<string id="val_smart_terrain_8_9">
+		<text>Zanieczyszczone Jezioro (Płd.)</text>
+	</string>
+
+	<string id="cit_killers">
+		<text>Baza Najemników</text>
+	</string>
+	<string id="cit_bandits">
+		<text>Szkoła</text>
+	</string>
+	<string id="cit_bandits_2">
+		<text>Wioska</text>
+	</string>
+
+	<string id="katacomb_smart_terrain">
+		<text>Szpital</text>
+	</string>
+
+	<string id="gar_smart_terrain_3_5">
+		<text>Hangar Kolejowy</text>
+	</string>
+	<string id="gar_smart_terrain_3_7">
+		<text>Cmentarzysko Pojazdów</text>
+	</string>
+	<string id="gar_smart_terrain_6_3">
+		<text>Pchli Targ</text>
+	</string>
+
+	<string id="gen_smart_terrain_cemetery">
+		<text>Cmentarz</text>
+	</string>
+	<string id="gen_smart_terrain_lab_entrance">
+		<text>Wejście do Laboratorium</text>
+	</string>
+	<string id="gen_smart_terrain_lab_entrance_2">
+		<text>Opuszczony Tunel</text>
+	</string>
+
+	<string id="mar_smart_terrain_base">
+		<text>Baza Czystego Nieba</text>
+	</string>
+	<string id="mar_smart_terrain_doc">
+		<text>Tunel Tuzla</text>
+	</string>
+	<string id="mar_smart_terrain_doc_2">
+		<text>Posterunek Strażniczy</text>
+	</string>
+	<string id="mar_smart_terrain_3_3">
+		<text>Obóz pod Tuzla</text>
+	</string>
+	<string id="mar_smart_terrain_4_5">
+		<text>Ruiny Wioski</text>
+	</string>
+	<string id="mar_smart_terrain_5_8">
+		<text>Przepompownia</text>
+	</string>
+	<string id="mar_smart_terrain_5_12">
+		<text>Łowisko</text>
+	</string>
+	<string id="mar_smart_terrain_8_8">
+		<text>Spalona Wioska</text>
+	</string>
+	<string id="mar_smart_terrain_8_11">
+		<text>Cerkiew</text>
+	</string>
+	<string id="mar_smart_terrain_10_5">
+		<text>Plac Maszynowy</text>
+	</string>
+	<string id="mar_smart_terrain_11_11">
+		<text>Południowa Farma</text>
+	</string>
+	<string id="mar_smart_terrain_12_2">
+		<text>Północna Farma</text>
+	</string>
+
+	<string id="jup_a12">
+		<text>Skład Kontenerów</text>
+	</string>
+	<string id="jup_b204">
+		<text>Obozowisko Przy Fabryce</text>
+	</string>
+	<string id="jup_a6">
+		<text>Stacja Janów</text>
+	</string>
+	<string id="jup_b200">
+		<text>Cementownia</text>
+	</string>
+	<string id="jup_b19">
+		<text>Kopaczi</text>
+	</string>
+	<string id="jup_b41">
+		<text>Bunkier</text>
+	</string>
+
+	<string id="lim_smart_terrain_1">
+		<text>Ognisko</text>
+	</string>
+	<string id="lim_smart_terrain_3">
+		<text>Gastronom</text>
+	</string>
+	<string id="lim_smart_terrain_6">
+		<text>Posterunek Przy Moście</text>
+	</string>
+	<string id="lim_smart_terrain_9">
+		<text>Plac Budowy</text>
+	</string>
+	<string id="lim_smart_terrain_10">
+		<text>Instytut Radiowy</text>
+	</string>
+
+	<string id="pri_a16">
+		<text>Pralnia</text>
+	</string>
+	<string id="pri_a21_smart_terrain">
+		<text>Sklep Spożywczy</text>
+	</string>
+	<string id="pri_a28_school">
+		<text>Szkoła</text>
+	</string>
+	<string id="pri_b36_smart_terrain">
+		<text>Port Rzeczny</text>
+	</string>
+
+	<string id="pri_smart_monolith_stalker6">
+		<text>Stadion</text>
+	</string>
+	<string id="pri_smart_pseudodog_lair1">
+		<text>Diabelski Młyn</text>
+	</string>
+	<string id="pri_smart_tushkano_lair1">
+		<text>Hotel "Polesie"</text>
+	</string>
+	<string id="pri_monolith">
+		<text>Baza Monolitu</text>
+	</string>
+	<string id="pri_smart_neutral_stalker1">
+		<text>Południowa ulica</text>
+	</string>
+
+	<string id="rad_antenna_patrol">
+		<text>Mózgozwęglacz (Wejście do X-19)</text>
+	</string>
+	<string id="rad2_loner_0001">
+		<text>Przystanek</text>
+	</string>
+	<string id="rad2_prip_teleport">
+		<text>Tunel</text>
+	</string>
+	<string id="rad_entrance">
+		<text>Przyczółek</text>
+	</string>
+
+	<string id="red_smart_terrain_3_2">
+		<text>Stara Kopalnia</text>
+	</string>
+	<string id="red_smart_terrain_4_2">
+		<text>Kompleks Górniczy</text>
+	</string>
+	<string id="red_smart_terrain_6_3">
+		<text>Anomalia Symbiont</text>
+	</string>
+	<string id="red_smart_terrain_bridge">
+		<text>Most do Limańska</text>
+	</string>
+
+	<string id="bar_visitors">
+		<text>Bar 100 Radów</text>
+	</string>
+	<string id="bar_dolg_general">
+		<text>Baza Powinności</text>
+	</string>
+
+	<string id="ros_smart_poltergeist2">
+		<text>Stacja Kolejowa</text>
+	</string>
+	<string id="ros_smart_stalker_killers1">
+		<text>Plac Budowy</text>
+	</string>
+	<string id="ros_smart_killers1">
+		<text>Barykada</text>
+	</string>
+
+	<string id="trc_sim_1">
+		<text>Południowy Obóz</text>
+	</string>
+	<string id="trc_sim_3">
+		<text>Skrzyżowanie</text>
+	</string>
+	<string id="trc_sim_4">
+		<text>Spalone Domostwo</text>
+	</string>
+	<string id="trc_sim_7">
+		<text>Zagajnik</text>
+	</string>
+	<string id="trc_sim_10">
+		<text>Toksyczna Anomalia</text>
+	</string>
+	<string id="trc_sim_17">
+		<text>Sterty Śmieci</text>
+	</string>
+	<string id="trc_sim_20">
+		<text>Posterunek Bandytów</text>
+	</string>
+
+	<string id="yan_smart_terrain_3_6">
+		<text>Wschodnia Baza</text>
+	</string>
+	<string id="yan_smart_terrain_6_4">
+		<text>Bunkier</text>
+	</string>
+
+	<string id="zat_stalker_base_smart">
+		<text>Skadowsk</text>
+	</string>
+	<string id="zat_b5_smart_terrain">
+		<text>Leśniczówka</text>
+	</string>
+	<string id="zat_b40_smart_terrain">
+		<text>Stacja Przetwarzania Odpadów</text>
+	</string>
+	<string id="zat_b100">
+		<text>Anomalia Żelazny Las</text>
+	</string>
+	<string id="zat_b101">
+		<text>Obóz Przy Tartaku</text>
+	</string>
+</string_table>

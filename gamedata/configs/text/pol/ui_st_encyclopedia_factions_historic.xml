@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_historic">
+		<text>Frakcje (Historyczne)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_final_day">
+		<text>Ostatni Dzieс</text>
+	</string>
+	<string id="encyclopedia_factions_historic_final_day_text">
+		<text>
+			%c[guide_blue]Ostatni Dzieс%c[ui_gray] byli fakcj№ naukowcуw, zwan№ takїe "%c[guide_blue]dzikimi stalkerami%c[ui_gray]".\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nWierzyli, їe Zona ostatecznie doprowadzi do koсca њwiata, rozszerzaj№c siк coraz bardziej i pochіaniaj№c wiкcej њwiata z kaїd№ emisj№.\n
+			\nPoza ich fascynacj№ w polowaniu na zzombifikowanych stalkerуw w celach badawczych i faktem, їe ich lider zostaі zabity przez stalkera zwanego Duchem, niewiele wiadomo na ich temat.\n
+			\nS№dz№c po rozpoczкciu ich aktywnoњci zaraz po wielkiej emisji, ktуra wybiіa wiкkszoњж Czystego Nieba, moїliwe jest, їe byli oni ich odіamem - niedobitkami, ktуrzy postradali zmysіy po tym, co zobaczyli.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_isg">
+		<text>ISG</text>
+	</string>
+	<string id="encyclopedia_factions_historic_isg_text">
+		<text>
+			%c[guide_blue]International Scientific Group (Miкdzynarodowa Grupa Badawcza)%c[ui_gray] zostaіa uformowana z zamysіem o badaniu Zony.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nPo nagіym pojawieniu siк Zony, Narody Zjednoczone stworzyіy nowy organ badawczy, ktуrego jedynym zadaniem byіo badanie i wyjaњnianie tego nowego fenomenu.\n
+			\nZa najbardziej interesuj№ce miejsce uznano niewielki obszar poіoїony na dalekiej pуіnocy, otoczony szeњcioma duїymi generatorami. Wybrano go jako cel ekspedycji.\n
+			\nNa przestrzeni kilku miesiкcy ich praca zostaіa uprzykrzona na sposoby, na ktуre nie mieli szans siк nawet przygotowaж.\n
+			\nBadacze byli poїerani przez nieznane anomalie, lub rozszarpywani przez odraїaj№co zmutowan№ faunк. Inni zaczкli niewytіumaczalnie znikaж, tylko by powrуciж po kilku dniach w zzombifikowanym stanie, prуbuj№c zabiж swoich kolegуw.\n
+			\nEkspedycja zostaіa w koсcu odwoіana, na podstawie niezadowalaj№cych wynikуw i wysokiej liczbie zgonуw.\n
+			\nNie zwaїaj№c na ich poraїkк, Rz№d Ukrainy utworzyі instytut, ktуry otrzymaі zadanie kontynuowania dziaіaс badawczych - czіonkowie instytutu otrzymali przydomek Ekologуw.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_historic_renegade">
+		<text>Renegaci</text>
+	</string>
+	<string id="encyclopedia_factions_historic_renegade_text">
+		<text>
+			%c[guide_blue]Renegaci%c[ui_gray] skіadali siк z najbardziej podіych stalkerуw w caіej Zonie.\n
+			\n%c[guide_green]Informacje%c[ui_gray]\n
+			\nBez їadnych limitуw i moraіуw, skіadali siк gіуwnie ze stalkerуw wyrzuconych ze swoich dotychczasowych fakcji za popeіnienie niewyobraїalnych zbrodni.\n
+			\nJedyne prawo jakiego siк trzymaj№ to prawo siіy. Їeruj№ na sіabszych od siebie stalkerach na obrzeїach Zony, najczкњciej zbyt mіodych i niedoњwiadczonych, by siк im przeciwstawiж.\n
+			\nPo wypкdzeniu na bagna przez swoich niezliczonych wrogуw, Renegaci zostali zmuszeni do zjednoczenia siк w fakcjк. Tylko w ten sposуb byli w stanie obroniж siк przed s№siaduj№cym Czystym Niebem.
+		</text>
+	</string>
+	
+</string_table>

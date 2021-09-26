@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>Celownik PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] broń krajów Traktatu Warszawskiego\n \n%c[ui_gray_1]PSO (Pritsel Snaipersky Optichesky, "Optyczny Celownik Snajperski") to seria Radzieckich celowników optycznych produkowanych przez państwowe zakłady zbrojeniowe NPZ w Nowosybirsku. W czynnej służbie od 1964, gdy wprowadzono go jako standardową optykę dla karabinów SWD. W późniejszych latach przystosowano go do karabinów szsturmowych, takich jak AK-74, czy AN-94. Doceniane za swoją wytrzymałość, wszechstronność i dobrze zaprojektowany wzór celownika z przydatnym dalmierzem. Ten egzemplarz posiada siłę przybliżenia 4.0x, co czyni go przydatnym w walce na dalekim dystansie. Wymaga szyny montażowej standardowej dla broni Traktatu Warszawskiego.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]PSO-1</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>Celownik 1P29 "Tulipan"</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] broń krajów Traktatu Warszawskiego\n \n%c[ui_gray_1]USP-1 (oznaczony indeksem 1P29) to rosyjski celownik optyczny zaprojektowany do montażu m.in. na karabinach serii AK. Regulowany mechanicznie, podświetlany za pomocą trytu, dzięki czemu nie wymaga baterii.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]PSU-1</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Celownik Barska ELECTRO SIGHT AC10632</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2]broń krajów NATO\n \n%c[ui_gray_1]Barska Electro Sight AC10632 to amerykański celownik panoramiczny z wymiennymi wzorami. Zaprojektowany z myślą o niskokalibrowych karabinach, pistoletach, strzelbach i kuszach.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]bardzo dobry</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>Celownik ACOG 3.5x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2]broń krajów NATO\n \n%c[ui_gray_1]ACOG (Advanced Combat Optical Gunsight) to seria celowników optycznych produkcji amerykańskiej firmy Trijicon. Posiada podświetlaną trytem siatkę w stylu USMC.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]3.5x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]bardzo dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]USMC</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>Celownik EOTech</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2]broń krajów NATO\n \n%c[ui_gray_1]Celownik holograficzny amerykańskiej firmy EOTech kompatybilny z większością broni krajów NATO.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]bardzo dobry</text>
+	</string>
+	
+	<string id="st_addon_scope_galil_susat">
+		<text>Celownik Galil 4.0x (SUSAT)</text>
+	</string>
+	<string id="st_addon_scope_galil">
+		<text>Celownik Galil 4.0x</text>
+	</string>
+	<string id="st_addon_scope_galil_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] Karabin Galil AR\n \n%c[ui_gray_1]Celownik optyczny dla izraelskiego karabinu IMI Galil.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]SUSAT</text>
+	</string>
+	
+	<string id="st_addon_scope_kobra">
+		<text>EKP 1S-03 "Kobra"</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] broń krajów Traktatu Warszawskiego\n \n%c[ui_gray_1]Kobra to otwarty celownik kolimatorowy z laserową siatką nałożoną na filtrowaną soczewkę. Zaprojektowany z myślą o walce w przestrzeniach zamkniętych o zmiennym oświetleniu.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1] brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]bardzo dobry</text>
+	</string>
+	
+	<string id="st_addon_scope_po4x34">
+		<text>Celownik PO4x34</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] Karaibny serii OC-14\n \n%c[ui_gray_1]Celownik optyczny dla modułowego karabinu OC-14.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]4x34</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>Celownik PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] broń krajów Traktatu Warszawskiego\n \n%c[ui_gray_1]PSO-1M2-O1 to współczesna wersja celownika PSO-1. Wyposażona w dalmierz i szerwon przystosowany do karabinów zasilanych amunicją kalibru 9x39.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]4.0x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]bardzo dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]PSO-1-1</text>
+	</string>
+	
+	<string id="st_addon_scope_pu">
+		<text>Celownik PU</text>
+	</string>
+	<string id="st_addon_scope_pu_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] historyczne Radzieckie karabiny\n \n%c[ui_gray_1]Standardowy celownik teleskopowy Armii Czerwonej w okresie II Wojny Światowej. Zaprojektowany do montażu na karabinach piechoty i karabinach snajperskich, takich jak Mosin-Nagant i SVT-40.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]3.5x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]przeciętny\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]PU</text>
+	</string>
+	
+	<string id="st_addon_scope_zf4">
+		<text>Celownik ZF-4</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] historyczne Niemieckie karabiny\n \n%c[ui_gray_1]ZF-4 to jeden z pierwszych celowników teleskopowych na świecie. Zaprojektowany i skonstruowany w Niemczech podczas II Wojny Światowej.\n \n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]2.0x\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]dobry\n
+		%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]ZF-41</text>
+	</string>
+	
+	<string id="st_addon_scope_cmore">
+        <text>Celownik C-MORE</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+        <text>Wysokiej jakości celownik kolimatorowy sight that provides an unlimited field of view, while eliminating obstruction and tunnel vision common to tube style scopes. The Railway series has a standard rail base pre-installed to allow the sight to be attached to most Weaver or Picatinny rail mounts or receivers.\n\n
+		%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]brak (kolimator)\n
+		%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]good\n</text>
+    </string>
+	
+	<string id="st_addon_scope_ac11090">
+        <text>AC11090 Red Dot Sight</text>
+    </string>
+    <string id="st_addon_scope_ac11090_descr">
+        <text>Cheap 2x Przybliżenie red dot sight for NATO assault rifles, submachine guns and on AK-12.</text>
+    </string>
+	
+	<string id="st_addon_sil_45">
+		<text>.45 ACP suppressor</text>
+	</string>
+	<string id="st_addon_sil_45_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] .45 calibre weapons\n \n%c[ui_gray_1]Suppressor for .45 ACP pistols and submachine guns.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high (pistol)</text>
+	</string>
+	
+	<string id="st_addon_sil_57">
+		<text>5.7x28 suppressor</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 5.7 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the FN-P90 PDW.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+	</string>
+	
+	<string id="st_addon_sil_6p9">
+		<text>6P9 suppressor</text>
+	</string>
+	<string id="st_addon_sil_6p9_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the PB pistol.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very good</text>
+	</string>
+	
+	<string id="st_addon_sil_9a91">
+		<text>9A-91/VSK-94 suppressor</text>
+	</string>
+	<string id="st_addon_sil_9a91_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 9x39 calibre weapons\n \n%c[ui_gray_1]Suppressor for the 9A-91 carbine and VSK-94.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high</text>
+	</string>
+	
+	<string id="st_addon_sil_9mm">
+		<text>9mm suppressor</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for 9mm pistols and submachine guns. An effective sound suppressor for calibre 9x18 weapons. It is very archaic and yet quite effective. Its body contains a tightly-packed roll of fine brass mesh. The front of the unit comprises a set of rubber wipes with calibre-sized holes for the bullet to pass through. Normally used for close-combat engagements against lightly-armoured enemies and for assassinations.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high</text>
+	</string>
+	
+	<string id="st_addon_sil_aps">
+		<text>APS suppressor</text>
+	</string>
+	<string id="st_addon_sil_aps_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the OTs-33 "Pernach" pistol.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_sil_atg">
+		<text>ATG suppressor</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 5.56, 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for the AK-102, AK-103 and AK-104.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Gemtech suppressor</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm, .45 calibre weapons\n \n%c[ui_gray_1]Suppressor for the Glock and the FN-FNP.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>KZRZP suppressor</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for the SVD sniper rifle.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>NATO suppressor</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] .45, 5.56, 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for the standard NATO 5.56x45mm calibre rifles.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>PBS-1 suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for noiseless and flameless firing from Kalashnikov 7.62mm.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>PBS-4 suppressor</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45 calibre weapons\n \n%c[ui_gray_1]Suppressor for AKS-74U rifle.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_sil_sr25">
+		<text>SR-25 suppressor</text>
+	</string>
+	<string id="st_addon_sil_sr25_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the SR-25\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+	</string>
+	
+	<string id="st_addon_sil_tgp-a">
+		<text>TGP-A suppressor</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45 calibre weapons\n \n%c[ui_gray_1]Suppressor for AK rifle series and RPK-74 machine guns.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_sil_vihr">
+		<text>SR-3M suppressor</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 9x39 calibre weapons\n \n%c[ui_gray_1]Suppressor for the SR-3M rifle.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high</text>
+	</string>
+	
+	<string id="st_addon_silencer">
+		<text>US Army smallbore rifle suppressor</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] 5.56x45 calibre weapons \n \n%c[ui_gray_1]Advanced rifle suppressor of US design and manufacture, which has apparently 'disappeared' from one of the US Army supply containers. It consists of hi-grade steel body filled with four extension chambers, followed by a series of Z-type titanium baffles. The unit almost completely reduces muzzle flash and considerably suppresses sound emitted when firing. It also requires minimum maintenance. Suppressors of this and similar types are commonly used on all smallbore Western-made rifles and remain in active service in Western armed forces.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+	</string>
+	
+	<string id="st_addon_silencer_svu">
+		<text>SVU suppressor</text>
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] SVU rifles\n \n%c[ui_gray_1]This specially designed three-chambered suppressor is not intended to completely silence the SVU rifle since the soldier would not be using subsonic ammunition. Its main purpose is to quiet and diffuse the noise enough to make detection by the enemy difficult. Its special feature is a very effective muzzle break placed on end of suppressor, capable of reducing recoil by about 40%. Above capabilities come at the cost of reduced muzzle velocity and thus significantly lower the weapon's damage output.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]low\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_red] • %c[ui_gray_2] enhanced recoil reduction</text>
+	</string>
+	
+	<string id="st_addon_trijicon_acog">
+		<text>ACOG Scope</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>\n \n%c[ui_gray_2]KOMPATYBILNOŚĆ:\n \n%c[d_cyan] • %c[ui_gray_2] selected NATO rifles\n \n%c[ui_gray_1]Detachable optical scope made specifically for NATO rifles. ACOG stands for Advanced Combat Optical Gunsights and refers to a family of firearm scopes produced by the Trijicon company. Scopes of this type are usually of high quality and have an internal tritium-based reticule illumination. This particular type has a modern 'trijicon' Wzór celownika and fixed Przybliżenie of 2.0x.\n \n%c[d_purple] • %c[ui_gray_2] Przybliżenie: %c[ui_gray_1]2.0x\n%c[d_purple] • %c[ui_gray_2] Stan: %c[ui_gray_1]very good\n%c[d_purple] • %c[ui_gray_2] Wzór celownika: %c[ui_gray_1]trijicon</text>
+	</string>
+	
+</string_table>

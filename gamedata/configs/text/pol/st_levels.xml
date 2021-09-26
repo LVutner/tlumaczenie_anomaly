@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<!-- Level Names -->
+	<string id="l03_agroprom">
+		<text>Agroprom</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Podziemia Agropromu</text>
+	</string>
+	<string id="l07_military">
+		<text>Magazyny Wojskowe</text>
+	</string>
+	<string id="l12_stancia_2">
+		<text>Elektrownia (Północ)</text>
+	</string>
+	<string id="l12_stancia">
+		<text>Elektrownia (Południe)</text>
+	</string>
+	<string id="l01_escape">
+		<text>Kordon</text>
+	</string>
+	<string id="k01_darkscape">
+		<text>Mroczna Droga</text>
+	</string>
+	<string id="l04_darkvalley">
+		<text>Dolina Mroku</text>
+	</string>
+	<string id="l09_deadcity">
+		<text>Martwe Miasto</text>
+	</string>
+	<string id="l11_hospital">
+		<text>Opuszczony Szpital</text>
+	</string>
+	<string id="fake_start">
+		<text>Fałszywy Start</text>
+	</string>
+	<string id="l02_garbage">
+		<text>Wysypisko</text>
+	</string>
+	<string id="l13_generators">
+		<text>Generatory</text>
+	</string>
+	<string id="k00_marsh">
+		<text>Wielkie Bagna</text>
+	</string>
+	<string id="jupiter">
+		<text>Jupiter</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>Podziemia Jupitera</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Laboratorium X16 (Jantar)</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>Laboratorium X18 (Dolina Mroku)</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>Laboratorium X19 (Radar)</text>
+	</string>
+	<string id="labx8">
+		<text>Laboratorium X8 (Przedmieścia)</text>
+	</string>
+	<string id="l10_limansk">
+		<text>Limańsk</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Centrum Kontrolne Monolitu</text>
+	</string>
+	<string id="l13u_warlab">
+		<text>Laboratorium Wojenne Monolitu</text>
+	</string>
+	<string id="pripyat">
+		<text>Przedmieścia</text>
+	</string>
+	<string id="l11_pripyat">
+		<text>Prypeć</text>
+	</string>
+	<string id="l10_radar">
+		<text>Radar</text>
+	</string>
+	<string id="l10_red_forest">
+		<text>Czerwony Las</text>
+	</string>
+	<string id="l05_bar">
+		<text>Rostok</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>Sarkofag</text>
+	</string>
+	<string id="k02_trucks_cemetery">
+		<text>Cmentarzysko Pojazdów</text>
+	</string>
+	<string id="l06_rostok">
+		<text>Dzicz</text>
+	</string>
+	<string id="l08_yantar">
+		<text>Jantar</text>
+	</string>
+	<string id="zaton">
+		<text>Zaton</text>
+	</string>
+	<string id="y04_pole">
+		<text>Polana</text>
+	</string>
+
+	<!-- Level Changers -->
+	<string id="mar_space_restrictor_to_agroprom_descr">
+		<text>do Agropromu</text>
+	</string>
+	<string id="space_restrictor_to_agr_ug_desc">
+		<text>do Podziemi Agropromu</text>
+	</string>
+	<string id="space_restrictor_to_military_desc">
+		<text>do Magazynów Wojskowych</text>
+	</string>
+	<string id="gen_space_restrictor_to_aes2_descr">
+		<text>do Elektrowni</text>
+	</string>
+	<string id="ds_space_restrictor_to_escape_descr">
+		<text>do Kordonu</text>
+	</string>
+	<string id="esc_space_restrictor_to_darkscape_descr">
+		<text>do Mrocznej Drogi</text>
+	</string>
+	<string id="ds_space_restrictor_to_darkvalley_desc">
+		<text>do Doliny Mroku</text>
+	</string>
+	<string id="space_restrictor_to_deadcity_desc">
+		<text>do Martwego Miasta</text>
+	</string>
+	<string id="space_restrictor_to_hospital">
+		<text>do Opuszczonego Szpitala</text>
+	</string>
+	<string id="esc_space_restrictor_to_garbage_descr">
+		<text>do Wysypiska</text>
+	</string>
+	<string id="aes2_space_restrictor_to_gen_descr">
+		<text>do Generatorów</text>
+	</string>
+	<string id="mar_teleport_from_base_to_north_descr">
+		<text>do Wielkich Bagien</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_desc">
+		<text>do Jupitera</text>
+	</string>
+	<string id="space_restrictor_to_jupiter_ug_desc">
+		<text>do Podziemi Jupitera</text>
+	</string>
+	<string id="space_restrictor_to_labx16_desc">
+		<text>do laboratorium X16</text>
+	</string>
+	<string id="space_restrictor_to_labx18_desc">
+		<text>do laboratorium X18</text>
+	</string>
+	<string id="space_restrictor_to_labx10_desc">
+		<text>do laboratorium X19</text>
+	</string>
+	<string id="space_restrictor_to_labx8_desc">
+		<text>do laboratorium X8</text>
+	</string>
+	<string id="space_restrictor_to_limansk_desc">
+		<text>do Limańska</text>
+	</string>
+	<string id="space_restrictor_to_secret_lab_desc">
+		<text>do Centrum Kontrolnego Monolitu</text>
+	</string>
+	<string id="space_restrictor_to_warlab_desc">
+		<text>do Laboratorium Monolitu</text>
+	</string>
+	<string id="space_restrictor_to_cop_pripyat_desc">
+		<text>na Przedmieścia</text>
+	</string>
+	<string id="space_restrictor_to_pripyat_desc">
+		<text>do Prypeci</text>
+	</string>
+	<string id="space_restrictor_to_radar_desc">
+		<text>do Radaru</text>
+	</string>
+	<string id="mil_space_restrictor_to_red_1_descr">
+		<text>do Czerwonego Lasu</text>
+	</string>
+	<string id="space_restrictor_to_bar_desc">
+		<text>do Rostoku</text>
+	</string>
+	<string id="space_restrictor_to_sarcophagus_desc">
+		<text>do sarkofagu</text>
+	</string>
+	<string id="space_restrictor_to_tc_desc">
+		<text>na Cmentarzysko Pojazdów</text>
+	</string>
+	<string id="space_restrictor_to_rostok_desc">
+		<text>do Dziczy</text>
+	</string>
+	<string id="space_restrictor_to_yantar_desc">
+		<text>do Jantaru</text>
+	</string>
+	<string id="space_restrictor_to_zaton_desc">
+		<text>do Zatonu</text>
+	</string>
+	<string id="pol_space_restrictor_to_esc_1_descr">
+		<text>do Kordonu</text>
+	</string>
+	<string id="pol_space_restrictor_to_val_1_descr">
+		<text>do Doliny Mroku</text>
+	</string>
+	<string id="esc_space_restrictor_to_pol_1_descr">
+		<text>do Polany</text>
+	</string>
+	<string id="val_space_restrictor_to_pole_1_descr">
+		<text>do Polany</text>
+	</string>
+</string_table>

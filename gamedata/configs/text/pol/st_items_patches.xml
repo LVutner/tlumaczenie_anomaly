@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	 Naszywki
+-->
+
+<string_table>
+	<string id="csky_Naszywka">
+		<text>Naszywka Czystego Nieba</text>
+	</string>
+	<string id="csky_Naszywka_description">
+		<text>Naszywka wyrwana z munduru frakcji Czyste Niebo.</text>
+	</string>
+
+	<string id="freedom_Naszywka">
+		<text>Naszywka Wolnoњci</text>
+	</string>
+	<string id="freedom_Naszywka_description">
+		<text>Naszywka wyrwana z munduru frakcji Wolnoњж.</text>
+	</string>
+
+	<string id="stalker_Naszywka">
+		<text>Naszywka Samotnikуw</text>
+	</string>
+	<string id="stalker_Naszywka_description">
+		<text>Naszywka wyrwana z munduru Samotnikуw.</text>
+	</string>
+
+	<string id="ecolog_Naszywka">
+		<text>Naszywka Ekologуw</text>
+	</string>
+	<string id="ecolog_Naszywka_description">
+		<text>Naszywka wyrwana z munduru Ekologуw.</text>
+	</string>
+
+	<string id="bandit_Naszywka">
+		<text>Naszywka Bandytуw</text>
+	</string>
+	<string id="bandit_Naszywka_description">
+		<text>Naszywka wyrwana z uniformu Bandytуw.</text>
+	</string>
+
+	<string id="duty_Naszywka">
+		<text>Naszywka Powinnoњci</text>
+	</string>
+	<string id="duty_Naszywka_description">
+		<text>Naszywka wyrwana z munduru frakcji Powinnoњж.</text>
+	</string>
+
+	<string id="monolith_Naszywka">
+		<text>Naszywka Monolitu.</text>
+	</string>
+	<string id="monolith_Naszywka_description">
+		<text>Naszywka wyrwana z munduru frakcji Monolit.</text>
+	</string>
+
+	<string id="army_Naszywka">
+		<text>Wojskowa naszywka</text>
+	</string>
+	<string id="army_Naszywka_description">
+		<text>Naszywka wyrwana z munduru Ukraiсskiej armii.</text>
+	</string>
+
+	<string id="merc_Naszywka">
+		<text>Naszywka Najemnikуw.</text>
+	</string>
+	<string id="merc_Naszywka_description">
+		<text>Naszywka wyrwana z munduru najemnikуw.</text>
+	</string>
+	
+	<string id="st_clearsky_fp">
+		<text>Naszywka Czystego Nieba</text>
+	</string>
+	<string id="st_clearsky_fp_descr">
+		<text>Insygnia frakcji przedstawiaj№ wschуd sіoсca na czystym, bікkitnym niebie, otoczonym przez goікbie. Ma na celu zakomunikowanie chкci frakcji do uzdrowienia Zony, a takїe niechкci do konfliktu.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_freedom_fp">
+		<text>Naszywka Wolnoњci</text>
+	</string>
+	<string id="st_freedom_fp_descr">
+		<text>Insygnia frakcji przedstawiaj№ zielonego wilka na czarnym tle obok flagi ukraiсskiej. Ogуlnie rzecz bior№c, projekt ma przekazywaж spoіeczn№ naturк Wolnoњci i zamiіowanie do ziemi, a takїe ich zdecydowan№ determinacjк i kolektywn№ zaїartoњж w walce. Jednak dlaczego anarchiњci chcieliby, aby flaga jakiegokolwiek kraju byіa czкњci№ ich projektu, jest tajemnic№.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_stalker_fp">
+		<text>Naszywka z symbolem radiacji.</text>
+	</string>
+	<string id="st_stalker_fp_descr">
+		<text>Naszywka z symbolem radiacji wyjaњnia powуd obecnoњci samotnikуw w Zonie- skupiska anomalii, a co za tym idzie artefakty.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_ecolog_fp">
+		<text>Naszywka Ekologуw</text>
+	</string>
+	<string id="st_ecolog_fp_descr">
+		<text>Insygnia frakcji przedstawiaj№ parк zіotych skrzydeі ustawionych na biaіym tle. Te Naszywki s№ cenione na czarnym rynku Zony, poniewaї przekonuj№ce wszywanie ich w kombinezon moїe pozwoliж stalkerom dotrzeж niemal wszкdzie, bez їadnych obaw.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_bandit_fp">
+		<text>Naszywka z Czaszka</text>
+	</string>
+	<string id="st_bandit_fp_descr">
+		<text>Insygnia frakcji przedstawiaj№ pкkniкt№ czarn№ czaszkк osadzona na biaіej tarczy. Ten symbol jest w duїej mierze zgodny z wizja niektуrych przywуdcуw frakcji. Mуwi on, їe nie s№ oni zwykіymi zbirami, ale panami wіasnych feudalnych poddanych.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_dolg_fp">
+		<text>Naszywka Powinnoњci</text>
+	</string>
+	<string id="st_dolg_fp_descr">
+		<text>Ta naszywka reprezentuje militarny charakter caіej organizacji, a celownik na czerwonej tarczy oznacza trzymanie caіej zony na muszce.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_monolith_fp">
+		<text>Naszywka Monolitu</text>
+	</string>
+	<string id="st_monolith_fp_descr">
+		<text>Naszywka przedstawia zestaw skrzydeі w profilu na tle zіotego sіoсca, byж moїe symbol legendarnego Speіniacza Їyczeс. Najbardziej intryguj№cym aspektem tej Naszywki jest to, ze naleїy ona do ludzi, o ktуrych uwaїa siк, ze zostali poddani praniu mуzgu.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_army_fp">
+		<text>Naszywka wojskowa</text>
+	</string>
+	<string id="st_army_fp_descr">
+		<text>Naszywka z herbem Ukraiсskich Sil Zbrojnych.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_merc_fp">
+		<text>Naszywka Najemnikуw</text>
+	</string>
+	<string id="st_merc_fp_descr">
+		<text>Naszywka frakcji przedstawiaj№ drapieїnego orla na czarnym tle. Ma to wskazywaж na charakter Najemnikуw jako frakcji zimnych, precyzyjnych i wysoce mobilnych їoіnierzy, gotowych do schwytania lub zabicia swoich celуw w mgnieniu oka.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_isg_fp">
+		<text>Naszywka UNISG</text>
+	</string>
+	<string id="st_isg_fp_descr">
+		<text>Naszywka frakcji przedstawiaj№ biaіy mikroskop otoczony bardzo k№towymi, stylizowanymi laurami ustawionymi na bordowym tle. Na tylnej stronie Naszywki - i z dala od przypadkowych obserwacji - znajduje siк etykieta informuj№ca, їe insygnia naleї№ do „Miкdzynarodowej Grupy Naukowej Narodуw Zjednoczonych”.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_greh_fp">
+		<text>Naszywka Grzechu</text>
+	</string>
+	<string id="st_greh_fp_descr">
+		<text>Samo trzymanie tej naszywki sprawia, їe czujesz siк trochк nieswojo. W lewym gуrnym rogu mieњci siк w№ї, a po prawej krzyї prawosіawny. Stylizowany wizerunek zaжmionej gwiazdy umieszczony jest na samym њrodku Naszywki. Jednak w dalszym ci№gu niepokуj sіabnie, powoli ustкpuj№c dziwnemu poczuciu spokoju.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+	
+	<string id="st_renegade_fp">
+		<text>Naszywka Renegatуw</text>
+	</string>
+	<string id="st_renegade_fp_descr">
+		<text>Naszywka przedstawia zіotego skorpiona na czarnym tle.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		</text>
+	</string>
+</string_table>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<!-- Description - Factions -->
+	<string id="st_faction_stalker">
+		<text>Samotnik</text>
+	</string>
+	<string id="st_faction_stalker_desc">
+		<text>%c[0,150,150,150]Samotnicy, lub Wolni Stalkerzy to nieoficjalne bractwo, wolące pozostać niezrzeszonym z żadną frakcją działającą w Zonie.\n \nZnaczna większość stalkerów wybiera na początku właśnie tą drogę. Są to ludzie preferujący życie bez zobowiązań wobec czyjegoś kodu i ideałów.\n \n%c[0,255,255,255]Rekomendowane dla: nowych graczy</text>	</string>
+	<string id="st_faction_bandit">
+		<text>Bandyta</text>
+	</string>
+	<string id="st_faction_bandit_desc">
+		<text>%c[0,150,150,150]Czarnobylscy kryminaliści, pomimo pozorów, że Zoną oficjalnie rządzi Ukraina i Białoruś, wiedzą, że z reguły panuje tu bezprawie.\n \nBandyci to mordercy, złodzieje i inni członkowie przestępczego półświatka, którzy wykorzystują anarchistyczną naturę Zony do ukrycia się przed prawem i kontynuowania życia w bezprawiu.</text>
+	</string>
+	<string id="st_faction_dolg">
+		<text>Powinność</text>
+	</string>
+	<string id="st_faction_dolg_desc">
+		<text>%c[0,150,150,150]Powinność to organizacja paramilitarna postrzegająca Zonę jako inkubator dla wszelkiego zła i horrorów, które zagraża światu zewnętrznemu. Za główny priorytet stawiają sobie nieustanne dążenie do zniszczenia Zony oraz jej zwolenników.\n \nOd dawna tkwią w zaciekłym konflikcie z Wolnością, z powodu znacznego konfliktu w ideałach.</text>
+	</string>
+	<string id="st_faction_freedom">
+		<text>Wolność</text>
+	</string>
+	<string id="st_faction_freedom_desc">
+		<text>%c[0,150,150,150]Wolność to anarchiści i śmiałkowie, którzy walczą o nieregulowany dostęp do Zony. Postrzegają ją jako cud, którym należy się dzielić. Są przez to w nieustannym konflikcie z Powinnością.</text>
+	</string>
+	<string id="st_faction_army">
+		<text>Wojsko</text>
+	</string>
+	<string id="st_faction_army_desc">
+		<text>%c[0,150,150,150]Wojsko składa się z Wojsk Wewnętrznych Ukrainy, oddziałów Specnazu i specjalnie powołanych stalkerów.\n \nBędąc jedyną siłą dzielącą granice Zony ze światem zewnętrznym, są skłonni do natychmiastowego otwierania ognia do każdego nieautoryzowanego stalkera.</text>
+	</string>
+	<string id="st_faction_ecolog">
+		<text>Ekolog</text>
+	</string>
+	<string id="st_faction_ecolog_desc">
+		<text>%c[0,150,150,150]Sponsorowani przez rząd Ukrainy, Ekolodzy są legalnie działającą na terenie Zony organizacją, złożoną z naukowców i kontraktowanych asystentów polowych. Ich zadaniem jest prowadzenie badań mających na celu okiełznanie potencjału Zony w imię dobra ludzkości.</text>
+	</string>
+	<string id="st_faction_killer">
+		<text>Najemnik</text>
+	</string>
+	<string id="st_faction_killer_desc">
+		<text>%c[0,150,150,150]Najemnicy operujący na terenie Zony przeważnie należą do luźno zorganizowanej organizjacji paramilitarnej zwanej Syndykatem. Zrzesza ona operatorów najróżniejszych narodowości, o różnych specjalizacjach. Będąc doświadczonymi żołnierzami, oferują swoje usługi każdemu, kto jest w stanie za nie zapłacić.\n \nNie jest wiadome, kto sprowadził ich do Zony jako pierwszy, oraz dlaczego nadal tu są.</text>
+	</string>
+	<string id="st_faction_monolith">
+		<text>Monolit</text>
+	</string>
+	<string id="st_faction_monolith_desc">
+		<text>%c[0,150,150,150]Monolit to fanatyczny kult religijny, nie posiadający niemal żadnych sojuszników.\n \nPomimo zniszczenia projektu Świadomość-Z, udało im się powrócić do dawnej siły i odzyskać większość swoich dawnych terytoriów.\n \n%c[0,255,255,255]Rekomendowane dla: zaawansowanych graczy</text>
+	</string>
+	<string id="st_faction_csky">
+		<text>Czyste Niebo</text>
+	</string>
+	<string id="st_faction_csky_desc">
+		<text>%c[0,150,150,150]Czyste Niebo to niezależna grupa badawczo-militarna skupiona na badaniu Zony, jednocześnie strzegąc jej najniebezpieczniejszych sekretów.\n \nPo nieudanej i kosztownej ekspedycji do samej Elektrowni organizacja była bliska upadku. Jednak garstka tych, którzy przeżyli zdołała odbudować straty i przywrócić frakcję do jej dawnego kształtu.</text>
+	</string>
+	<string id="st_faction_renegade">
+		<text>Renegat</text>
+	</string>
+	<string id="st_faction_renegade_desc">
+		<text>%c[0,150,150,150]Renegaci to jedni z najpodlejszych stalkerów w Zonie.\n \nNie mając żadnych pohamowań i morałów, składają się głównie ze stalkerów, którzy popełnili zbrodnie tak ohydne, że ich pierwotne frakcje zdecydowały się ich wydalić.\n \n%c[0,255,255,255]Rekomendowane dla: zaawansowanych graczy</text>
+	</string>
+	<string id="st_faction_greh">
+		<text>Grzech</text>
+	</string>
+	<string id="st_faction_greh_desc">
+		<text>%c[0,150,150,150]Grzech to radykalny kult złożony z częściowo zmutowanych stalkerów, wierzących w boskie przesłanie Zony.\n \nCzęsto opisywani jako zzombifikowani, zmutowani lub nawet opętani, "mroczni stalkerzy" Grzechu dążą do rozrośnięcia się Zony na cały świat - i z pewnością łatwo nie zrezygnują z tego ambitnego celu.\n \n%c[0,255,255,255]Rekomendowane dla: zaawansowanych graczy</text>
+	</string>
+	<string id="st_faction_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="st_faction_isg_desc">
+		<text>%c[0,150,150,150]Grupa Naukowa Państw Zjednoczonych (ang. United Nations International Scientific Group) to jednostka oddziałów specjalnych mająca głębokie zainteresowanie Zoną.\n \nCokolwiek stanowi ich cel, ich agentów ciężko nazwać bezbronnymi. Są gotowi do walki o nową wiedzę, uzbrojeni w najnowocześniejszą broń i współczesne taktyki. Próując utrzymać swoją obecność w Zonie w jak najbardziej ścisłym sekrecie nie zawahają się zastrzelić każdego, kto mógłby ich zdemaskować.\n \n%c[0,255,255,255]Rekomendowane dla: zaawansowanych graczy</text>
+	</string>
+	<string id="st_faction_zombied">
+		<text>Zombie Stalker</text>
+	</string>
+	<string id="st_faction_zombied_desc">
+		<text>%c[0,150,150,150]Móóóózzg!!!\n \nZZombifikowani stalkerzy to bezmyślne pozostałości po stalkerach, którzy nie zdołali się uchronić przed wpływem fal psionicznych.\n Zredukowani do podstawowych, zwierzęcych instynktów zaatakują prawie wszystko, co zbytnio się zbliży.\n \n%c[0,255,255,255]Rekomendowane dla: zaawansowanych graczy</text>
+	</string>
+	
+	<!-- Hint -->
+	<string id="st_mm_box_faction_desc">
+		<text>
+			Emblemat frakcji %s
+		</text>
+	</string>
+	<string id="st_mm_box_icon_desc">
+		<text>
+			%c[0,150,150,150]Portret twojej postaci.
+		</text>
+	</string>
+	<string id="st_mm_list_map_desc">
+		<text>
+			%c[0,150,150,150]Wybierz lokację startową.
+		</text>
+	</string>
+	<string id="st_mm_ck_reset_desc">
+		<text>
+			%c[0,150,150,150]Zresetuj ekwipunek.
+		</text>
+	</string>
+	<string id="st_mm_list_economy_desc">
+		<text>
+			%c[0,150,150,150]Trudność progresji ma duży wpływ na ekonomię, która bezpośrednio wpływa na szybkość postępu gracza w Zonie.
+			\nAspekty będące pod wpływem tych ustawień to m.in. ceny zakupu/sprzedaży u handlarzy, ceny napraw/ulepszeń u mechaników, rzadkość łupu, pieniędzy i przychylności zyskanej poprzez wykonywanie zadań.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Możesz zmienić wartości poszczególnych aspektów w każdej chwili podczas gry.
+			\nSee "Dodatkowe Opcje -> Trudność Progresji".
+		</text>
+	</string>
+	<string id="st_mm_list_difficulty_desc">
+		<text>
+			%c[0,150,150,150]Trudność gry odnosi się do aspektów związanych z graczem, tj. ochrona przez źródłami obrażeń, utrata wytrzymałości i udźwigu oraz głód, pragnienie czy potrzeba odpoczynku.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Możesz zmienić wartości poszczególnych aspektów w każdej chwili podczas gry.
+			\nSee "Dodatkowe Opcje -> Trudność gry".
+		</text>
+	</string>
+	<string id="st_mm_ck_story_desc">
+		<text>
+			%c[0,150,150,150]Tryb fabularny, pozwala na odegranie roli w zestawie unikalnych serii zadań.\n 
+			\nZadania fabularne, takie jak "Żywa Legenda", "Grzech Śmiertelny" czy "Operacja Pobyłsk" są dostępne tylko dla Samotników, Powinności, Wolności, Ekologów, Najemników i Czystego Nieba.\n
+			\nDynamiczne zadania wciąż mogą być wykonywane przez członków wszystkich dostępnych frakcji. W obu przypadkach, porozmawiaj z dowódcą swojej frakcji, by je rozpocząć. Dobrej zabawy!
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Wojennym.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Przetrwania.			
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Azazela.
+		</text>
+	</string>
+	<string id="st_mm_ck_drx_desc">
+		<text>
+			%c[0,150,150,150]Dynamiczna, połączona seria zadań do wykonania w całej Zonie.
+			\nJest ona zaprojektowana z myślą o komfortowej powtarzalności rozgrywki; żadne przejście gry nie będzie takie samo, nawet jeśli zagrasz tą samą frakcją.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Wojennym.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Azazela.
+		</text>
+	</string>
+	<string id="st_mm_ck_hardcore_desc">
+		<text>
+			%c[0,150,150,150]Tryb Ironman to funkcja, która spowoduje, że wszystkie twoje zapisane gry zostaną usunięte po śmierci.\n
+			\nMożesz stworzyć tyle zapisów, ile tylko zechcesz, ale śmierć będzie oznaczała utratę wszystkich zapisów danej postaci.
+		</text>
+	</string>
+	<string id="st_mm_ck_hardcore_aim_desc">
+		<text>
+			%c[0,150,150,150]Ekstremalna celność AI to funkcja, która maksymalizuje celność i zdolność przewidywania NPCów, sprawiając, że unikanie wrogich kul będzie znacznie trudniejszym zadaniem.
+		</text>
+	</string>
+	<string id="st_mm_ck_survival_desc">
+		<text>
+			%c[0,150,150,150]Tryb przetrwania to funkcja, która zamienia wszystkie spawny na drużyny Zombie.\n
+			\nHordy będą automatycznie zmierzać do twojej lokacji - bądź przygotowany! Sprawdź, jak długo potrafisz przetrwać!
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Wojennym.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Azazela.
+		</text>
+	</string>
+	<string id="st_mm_ck_azazel_mode_desc">
+		<text>
+			%c[0,150,150,150]W trybie Azazela, śmierć nie oznacza końca.\n
+			\nNiczym demon Azazel, będziesz w stanie pośmiertnie przejąć kontrolę nad nowym ciałem; nad losowym stalkerem, który naprawdę istnieje gdzieś w Zonie.\n
+			\nJesli masz towarzyszy, staniesz się jednym z nich. Ten tryb bardzo dobrze wiąże się z trybem Ironman i/lub trybem przetrwania.\n
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Wszystkie obszary w trybie Azazel są dostępne.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z trybem fabularnym.
+		</text>
+	</string>
+	<string id="st_mm_ck_warfare_desc">
+		<text>
+			%c[0,150,150,150]Ten tryb daje systemowi A-Life nieco więcej pola do popisu, tworząc bardziej dynamiczną Zonę.
+			\n \nKontrola nad konkretnymi miejscami jest znacznie bardziej podatna na zmiany. Medycy, handlarze i mechanicy także są zamienialni.\n
+			\n \nMasz również możliwość dowodzenia swoją frakcją i pomagania im w podbijaniu okolicznych terenów, dążąc do dominacji w Zonie.\n
+			\n \n%c[200,150,50,200]• %c[0,150,150,150]Prowadź swoją frakcję do zwycięstwa za pomocą mapy w PDA!
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Fabularnym.
+			\n \n%c[200,200,50,50]• %c[0,150,150,150]Niekompatybilne z Trybem Przetrwania.
+		</text>
+	</string>
+	<string id="st_mm_ck_campfire_desc">
+		<text>
+			%c[0,150,150,150]W trybie zapisu przy ognisku, zapisanie postępu jest niemożliwe, dopóki nie znajdujesz się w pobliżu rozpalonego ogniska.
+			\n \n%c[200,50,200,50]• %c[0,150,150,150]Wszystkie zapisy w trybie ekstremalnym są ze sobą kompatybilne.
+		</text>
+	</string>
+	<string id="st_mm_ck_conditions_desc">
+		<text>
+			%c[0,150,150,150]Tryb agonii sprawi, że nie będziesz mógł zapisać gry jeśli:
+			\n%c[200,200,200,50]• %c[0,150,150,150]Jesteś ranny
+			\n%c[200,200,200,50]• %c[0,150,150,150]Krwawisz
+			\n%c[200,200,200,50]• %c[0,150,150,150]Jesteś napromieniowany
+			\n%c[200,200,200,50]• %c[0,150,150,150]W trakcie walki
+			\n%c[200,200,200,50]• %c[0,150,150,150]W trakcie emisji lub burzy psionicznej
+			\n \n%c[200,50,200,50]• %c[0,150,150,150]Wszystkie zapisy w trybie ekstremalnym są ze sobą kompatybilne.
+		</text>
+	</string>
+	<string id="st_mm_ck_routes_desc">
+		<text>
+			%c[0,150,150,150]Wiele obszarów jest domyślnie niedostępnych. Ukryte ścieżki mogą zostać odkryte na różne sposoby.
+			\n \nAktywacja tej opcji sprawi, że wszystkie obszary zostaną otwarte z początkiem nowej gry.
+		</text>
+	</string>
+	<string id="st_mm_list_hardcore_lives_desc">
+		<text>
+			%c[0,150,150,150]Dodatkowa funkcja trybu Ironman, która pozwala na ustawienie ilości żyć posiadanych z rozpoczęciem nowej gry.
+			\nStracisz jedno z nich przy każdej śmierci.
+			\nGdy życia się skończą, wszystkie zapisy twojej postaci zostaną usunięte.\n
+			\n%c[200,200,50,50]• %c[0,150,150,150]Wymaga aktywowania trybu Ironman.
+		</text>
+	</string>
+	<string id="st_mm_list_hardcore_regen_desc">
+		<text>
+			%c[0,150,150,150]Dodatkowa funkcja trybu Ironman, która pozwala na ustawienie ilości dni, które muszą upłynąć przed nadaniem dodatkowego życia.
+			\n%c[200,200,50,50]• %c[0,150,150,150]Sen nie przyśpiesza procesu.
+			\n%c[200,200,50,50]• %c[0,150,150,150]Wymaga aktywowania trybu Ironman.
+		</text>
+	</string>
+	<string id="st_mm_list_timer_desc">
+		<text>
+			%c[0,150,150,150]W trybie regulowanym, możesz zapisać grę jedynie co jakiś czas. 
+			\nPo zapisaniu gry, nie możesz zrobić kolejnego zapisu przed upłynięciem tego czasu.
+			\n \n%c[200,50,200,50]• %c[0,150,150,150]Wszystkie zapisy w trybie ekstremalnym są ze sobą kompatybilne.
+		</text>
+	</string>
+	
+	<!-- Static Text -->
+	<string id="st_mm_new_game_character">
+		<text>Postać</text>
+	</string>
+	<string id="st_mm_new_game_faction">
+		<text>Wybierz Frakcję</text>
+	</string>
+	<string id="st_mm_new_game_icon">
+		<text>Wybierz Portret</text>
+	</string>
+	<string id="st_mm_new_game_options">
+		<text>Opcje</text>
+	</string>
+	<string id="st_mm_new_game_inventory">
+		<text>Ekwipunek</text>
+	</string>
+	<string id="st_mm_new_game_loadout">
+		<text>Wyposażenie</text>
+	</string>
+	<string id="st_mm_new_game_name">
+		<text>Imię:</text>
+	</string>
+	<string id="st_mm_new_game_faction_2">
+		<text>Frakcja:</text>
+	</string>
+	<string id="st_mm_new_game_money">
+		<text>Pieniądze:</text>
+	</string>
+	<string id="st_mm_new_game_points_left">
+		<text>Pozostałe punkty:</text>
+	</string>
+	<string id="st_mm_new_game_points_used">
+		<text>Użyte punkty:</text>
+	</string>
+	<string id="ui_st_random_location">
+		<text>-Losowa Lokacja-</text>
+	</string>
+	
+
+	<!-- Description elements -->
+	<string id="st_mm_new_game_relations">
+		<text>Relacje</text>
+	</string>
+	<string id="st_mm_new_game_description">
+		<text>Krótka Historia</text>
+	</string>
+	<string id="st_mm_new_game_points">
+		<text>Punkty</text>
+	</string>
+	<string id="st_mm_new_game_essential">
+		<text>Ważne</text>
+	</string>
+	
+	<!-- Hint -->
+	<string id="st_mm_itm_desc_unknown">
+		<text>Brak dostępnych informacji</text>
+	</string>
+	
+	<!-- Options -->
+	<string id="st_cap_check_warfare">
+		<text>Tryb Wojenny</text>
+	</string>
+	<string id="st_cap_check_drx">
+		<text>Dynamiczne zadania (DoctorX)</text>
+	</string>
+	<string id="st_cap_check_campfire">
+		<text>Zapis tylko przy ognisku</text>
+	</string>
+	<string id="st_cap_check_conditions">
+		<text>Tryb Agonii</text>
+	</string>
+	<string id="st_cap_list_timer">
+		<text>Regulowany zapis gry</text>
+	</string>
+	<string id="st_cap_check_routes">
+		<text>Otwarta Zona</text>
+	</string>
+	<string id="st_cap_list_hardcore_lives">
+		<text>Życia trybu Ironman</text>
+	</string>
+	<string id="st_cap_list_hardcore_regen">
+		<text>Przyznawanie żyć</text>
+	</string>
+	<string id="st_cap_list_economy">
+		<text>Trudność postępu</text>
+	</string>
+	<string id="st_cap_list_difficulty">
+		<text>Trudność rozgrywki</text>
+	</string>
+	
+	<string id="st_econ_1">
+		<text>Turysta</text>
+	</string>
+	<string id="st_econ_2">
+		<text>Zbieracz</text>
+	</string>
+	<string id="st_econ_3">
+		<text>Surwiwalista</text>
+	</string>
+	
+	<string id="st_diff_1">
+		<text>Łatwy</text>
+	</string>
+	<string id="st_diff_2">
+		<text>Średni</text>
+	</string>
+	<string id="st_diff_3">
+		<text>Trudny</text>
+	</string>
+	<string id="st_diff_4">
+		<text>Ekstremalny</text>
+	</string>
+	
+	<!--string id="st_diff_1">
+		<text>Novice</text>
+	</string>
+	<string id="st_diff_2">
+		<text>Stalker</text>
+	</string>
+	<string id="st_diff_3">
+		<text>Veteran</text>
+	</string>
+	<string id="st_diff_4">
+		<text>Master</text>
+	</string-->
+	
+	<string id="st_off">
+		<text>wył.</text>
+	</string>
+	<string id="st_new_game_min">
+		<text>min.</text>
+	</string>
+	<string id="st_new_game_mins">
+		<text>min.</text>
+	</string>
+	<string id="st_new_game_hour">
+		<text>godz.</text>
+	</string>
+	<string id="st_new_game_hours">
+		<text>godz.</text>
+	</string>
+	<string id="st_new_game_day">
+		<text>dzień</text>
+	</string>
+	<string id="st_new_game_days">
+		<text>dni</text>
+	</string>
+	<string id="st_new_game_life">
+		<text>życie</text>
+	</string>
+	<string id="st_new_game_lives">
+		<text>żyć</text>
+	</string>
+	
+	<!-- Buttons -->
+	<string id="st_mm_btn_new_game_faction">
+		<text>Frakcja</text>
+	</string>
+	<string id="st_mm_btn_new_game_icon">
+		<text>Portret</text>
+	</string>
+	<string id="st_mm_btn_new_game_back">
+		<text>Wróć</text>
+	</string>
+	<string id="st_mm_btn_new_game_submit">
+		<text>Start</text>
+	</string>
+	<string id="st_mm_btn_new_game_rand">
+		<text>Losuj</text>
+	</string>
+	
+	<!-- Discord -->
+	<string id="st_hardcore_lives_left">
+		<text>Pozostałe życia</text>
+	</string>
+	<string id="st_hardcore_lives_left_single">
+		<text>Pozostałe życie</text>
+	</string>
+	<string id="st_player_dead">
+		<text>Martwy</text>
+	</string>
+	<string id="st_main_menu">
+		<text>Menu Główne</text>
+	</string>
+	<string id="st_loading">
+		<text>Wczytywanie</text> 
+	</string>
+	<string id="st_pause_menu">
+		<text>Menu Pauzy</text>
+	</string>
+	<string id="st_cap_check_freeplay">
+		<text>Tryb Sandbox</text>
+	</string>
+	<string id="st_azazel_lives_possessed">
+		<text>Przejętych Żyć</text>
+	</string>
+	<string id="st_azazel_lives_possessed_single">
+		<text>Przejęte Życie</text>
+	</string>
+	<string id="st_godmode">
+		<text>Nieśmiertelność</text>
+	</string>
+</string_table>

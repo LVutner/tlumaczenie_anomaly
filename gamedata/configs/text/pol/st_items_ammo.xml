@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	
+	<string id="ammo_12.7x55_ap">
+		<text>12.7x55 mm STs-130 VPS</text>
+	</string>
+	<string id="ammo_12.7x55_ap_descr">
+		<text>Przeciwpancerny nabój 12.7x55mm używany w karabinie wyborowym VKS. Nabój może być uzbrojony w pocisk ważący pomiędzy 59 gramów (911 granów), a 76 g (1173 granów), niosąc ze sobą ogromne ilości energii kinetycznej.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki</text>
+	</string>
+	<string id="ammo_12.7x55_ap_s">
+		<text>12.7x55 AP</text>
+	</string>
+	
+	<string id="ammo-11.43x23-fmj">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>Pełnopłaszczowy nabój kalibru .45, cieszy się popularnością już od stu lat dzięki swoim osiągom balistycznym oraz relatywnie niewielkiemu ładunkowi prochowemu. W rezultacie, pocisk tego naboju charakteryzuje się stosunkowo wolną prędkością, ale również wysoką celnością i energią kinetyczną.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	
+	<string id="ammo-11.43x23-hydro">
+		<text>.45 ACP Hydra-shock</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>Ten nietypowy nabój kalibru .45 ACP składa się z kuli z płaszczem o miękkim punkcie, z pustym stalowym rdzeniem.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 HS</text>
+	</string>
+	
+	<string id="ammo-12.7x55-fmj">
+		<text>12.7x55mm STs-130</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_descr">
+		<text>Pełnopłaszczowy, poddźwiękowy nabój kalibru 12.7x55mm używany w karabinie wyborowym VKS. Nabój może być uzbrojony w pocisk ważący pomiędzy 59 gramów (911 granów), a 76 g (1173 granów), niosąc ze sobą ogromne ilości energii kinetycznej.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_s">
+		<text>12.7x55</text>
+	</string>
+	
+	<string id="ammo-12x70-buck">
+		<text>12x70 Śrutowe</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>Standardowe naboje kalibru 12 wypełnione 6-milimetrowym śrutem. Zabójcze na krótki dystans. Nadają się tylko do broni gładkolufowej.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni - wysoki\n \n%c[ui_gray_1]WŁAŚCIWOŚCI:\n \n%c[d_purple] • %c[ui_gray_2] rozszerzająca się grupa mniejszych pocisków, obniżony zasięg</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 śrut</text>
+	</string>
+	
+	<string id="ammo-12x76-dart">
+		<text>12x76 Strzałkowe</text>
+	</string>
+	<string id="ammo-12x76-dart_descr">
+		<text>Nabój strzałkowy kalibru 12. Zazwyczaj wykorzystywany do polowania na dużą zwierzynę, ale również do innych celów.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76 strzałka</text>
+	</string>
+	
+	<string id="ammo-12x76-bull">
+		<text>12x76 Bull</text>
+	</string>
+	<string id="ammo-12x76-bull_descr">
+		<text>Niestandardowe naboje kalibru 12 nadające się do polowań na mutanty i dinozaury. Wnętrze naboju jest wykonane z ołowiu pokrytego miedzią ze stalową wkładką w kształcie strzałki. Sam nabój jest bardzo długi, z pokaźnym ładunkiem prochowym. Naprawdę musisz uważać na ręce przy odrzucie.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki</text>
+	</string>
+	<string id="ammo-12x76-bull_s">
+		<text>12x76 Bull</text>
+	</string>	
+	
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 Kulowe</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>Nabój z pociskiem bezpłaszczowym. Zazwyczaj wykorzystywany do polowania na dużą zwierzynę, ale również do innych celów. Duży pocisk nie przebija, ale wręcz przewierca się przez kamizelki kuloodporne.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 kula</text>
+	</string>
+	
+	<string id="ammo-338-lapua">
+		<text>.338 Lapua Magnum</text>
+	</string>
+	<string id="ammo-338-lapua_descr">
+		<text>.338 Lapua Magnum to specjalny bezkryzowy nabój o centralnym zapłonie stworzony na potrzeby wojskowych karabinów wyborowych wysokiego zasięgu. Dowiódł swojej wartości bojowej w wojnach w Afganistanie i Iraku. .338 Lapua to dwu-funkcyjna amunicja o wysokich wartościach przeciwpiechotnych i nieco niższych wartościach przeciwmateriałowych.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki</text>
+	</string>
+	<string id="ammo-338-lapua_s">
+		<text>.338 Lapua Magnum</text>
+	</string>
+	
+	<string id="ammo-357-hp">
+		<text>.357 HP</text>
+	</string>
+	<string id="ammo-357-hp_descr">
+		<text>Nabój .357 HP to tzw. pocisk grzybkujący. Zadaniem kuli jest spowolnienie po uderzeniu, co zmniejsza efektywną penetrację, ale jednocześnie zwiększa obrażenia wewnętrzne. \n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-357-hp_s">
+		<text>.357 HP</text>
+	</string>
+	
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39 mm AP</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>Wojskowy nabój 7N22 kalibru 5.45x39 dla karabinów maszynowych państw członkowskich Paktu Warszawskiego. Kula posiada przeciwpancerny penetrator o twardym stopie. Wysoka efektywność przeciwko kamizelkom kuloodpornym.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+	
+	<string id="ammo-5.45x39-ep">
+		<text>5.45x39 mm EP</text>
+	</string>
+	<string id="ammo-5.45x39-ep_descr">
+		<text>Wojskowy nabój 7N22 kalibru 5.45x39 dla karabinów maszynowych państw członkowskich Paktu Warszawskiego. Twardszy i gładszy stalowy rdzeń zwiększa potencjalną penetrację.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-5.45x39-ep_s">
+		<text>5.45x39 EP</text>
+	</string>
+	
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39 mm FMJ</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>Wojskowy nabój 7N22 kalibru 5.45x39 dla karabinów maszynowych państw członkowskich Paktu Warszawskiego używających nowej amunicji pośredniej. Zapewnia celność lepszą od naboju kalibru 7.62 dzięki obniżonemu odrzutowi i efektywnym zasięgu większym o 100 metrów.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39 FMJ</text>
+	</string>
+	
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45 mm AP</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>Najnowszy NATOwski nabój kalibru 5.56x45 o zwiększonej penetracji, znany jako M855A1, używany przez Siły Zbrojne Stanów Zjednoczonych. Zwiększona efektywność przeciw pancerzowi jak i tkankom miękkim.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45 AP</text>
+	</string>
+	
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45 mm EP</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>Standardowy NATOwski nabój kalibru 5.56x45 ze stalowym rdzeniem. Nowa konstrukcja zwiększyła penetrację kosztem niższej efektywności przeciwko tkankom miękkim. Powszechnie znany jako M855.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45 EP</text>
+	</string>
+	
+	<string id="ammo-5.56x45-fmj">
+		<text>5.56x45 mm FMJ </text>
+	</string>
+	<string id="ammo-5.56x45-fmj_descr">
+		<text>Standardowy NATOwski nabój M193 kalibru 5.56x45, zaprojektowany z myślą o celnym ogniu ciągłym. Zbudowany na bazie pocisku myśliwskiego pocisk posiada bardzo dobre właściwości balistyczne. Znany z użycia podczas Wojny w Wietnamie, jest wysoce efektywny przeciwko tkankom miękkim, o ograniczonej penetracji.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_s">
+		<text>5.56x45 FMJ</text>
+	</string>
+	
+	<string id="ammo-5.7x28-ss190">
+		<text>5.7x28 SS190</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_descr">
+		<text>FN 5.7x28mm to nabój dużej prędkości zaprojektowany i produkowany przez FN Herstal. Jest to nabój o centralnym zapłonie, o zwężonej szyjce, podobny do .22 Hornet i .22 K-Hornet. 5.7x28mm został zaprojektowany wspólnie z pistoletem maszynowym FN P90 i pistoletem FN Five-Seven, na potrzebę zastąpienia naboju 9x19mm Parabellum używanego przez NATO.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]niski - średni</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_s">
+		<text>5.7x28 AP</text>
+	</string>
+	
+	<string id="ammo-4.6x30-fmj">
+		<text>4.6x30 mm FMJ</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_descr">
+		<text>Nabój HK 4.6x30mm to typ amunicji używanej głównie w pistolecie maszynowym HK MP7. Stworzono ją z myślą o minimalnej wadze i odrzucie oraz jednocześnie zwiększonych właściwościach przeciwpancernych. Posiada łuskę o zwężonej szyjce z mosiężną kulą o stalowym rdzeniu. 
+		\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA
+		\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]niski - średni</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_s">
+		<text>4.6x30 FMJ</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_bad">
+		<text>4.6x30 mm FMJ (stare)</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_verybad">
+		<text>4.6x30 mm FMJ (uszkodzone)</text>
+	</string>
+	
+	<string id="ammo-5.7x28-ss195">
+		<text>5.7x28 mm SS195</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_descr">
+		<text>SS195 FN 5.7x28mm to ekspansywny nabój zaprojektowany i produkowany przez FN Herstal. Jest to nabój o centralnym zapłonie, o zwężonej szyjce, podobny do .22 Hornet i .22 K-Hornet. \n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_s">
+		<text>5.7x28 HP</text>
+	</string>
+	<!-- nieużywane? -->
+	<string id="ammo-50-bmg">
+		<text>.50 BMG</text>
+	</string>
+	<string id="ammo-50-bmg_descr">
+		<text>The .50 Browning Machine Gun (12.7?99mm NATO and designated as the 50 Browning by the C.I.P.) is a cartridge developed for the Browning .50 caliber machine gun in the late 1910s, entering official service in 1921. Under STANAG 4383, it is a standard cartridge for NATO forces as well as many non-NATO countries. The cartridge itself has been made in many variants: multiple generations of regular ball, tracer, armor-piercing (AP), incendiary, and saboted sub-caliber . The  intended for machine guns are made into a continuous belt using metallic links. 
+		\nThe .50 BMG cartridge is also used in long-range target and anti-materiel rifles, as well as other .50-caliber machine guns.
+		\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV
+		\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-50-bmg_s">
+		<text>.50 BMG</text>
+	</string>
+	<string id="ammo-50-bmg_bad">
+		<text>.50 BMG (stare)</text>
+	</string>
+	<string id="ammo-50-bmg_verybad">
+		<text>.50 BMG (uszkodzone)</text>
+	</string>
+	
+	<string id="ammo-7.62x25-p">
+		<text>7.62x25 mm P</text>
+	</string>
+	<string id="ammo-7.62x25-p_descr">
+		<text>7.62x25mm to Rosyjski nabój o zwężonej szyjce, popularny wśród byłych państw przynależnych do ZSRR, również w Chinach i Pakistanie. Nabój ten jest ulepszoną przez Rosjan wersją Mausera 7.63x25mm. Posiada świetne właściwości penetrujące; może z łatwością przebić się przez lżejsze kamizelki balistyczne oraz kewlarowe hełmy. Mimo, że broń obsługująca ten nabój jest przeważnie przestarzała i usunięta z aktywnej służby, wciąż cieszy się popularnością ze względu na wysoką ilość tej amunicji w magazynach. \n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-7.62x25-p_s">
+		<text>7.62x25 P</text>
+	</string>
+	
+	<string id="ammo-7.62x25-ps">
+		<text>7.62x25 mm Pst</text>
+	</string>
+	<string id="ammo-7.62x25-ps_descr">
+		<text>Rosyjski nabój kalibru 7.62x25mm o zwężonej szyjce, ze stalowym rdzeniem. Popularny wśród byłych państw przynależnych do ZSRR, również w Chinach i Pakistanie. Wysoce efektywny przeciw nieopancerzonym celom. \n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-7.62x25-ps_s">
+		<text>7.62x25 Pst</text>
+	</string>
+	
+	<string id="ammo-7.62x39_ap">
+		<text>7.62x39 mm M43</text>
+	</string>
+	<string id="ammo-7.62x39_ap_descr">
+		<text>7.62x39 M43 to nabój przeciwpancerny produkowany w Chinach, stąd jest często nazywany "7.62x39 CN". Zawiera delikatny stalowy rdzeń zwiększający właściwości penetracyjne. Import tego Chińskiego naboju (zarówno jak i reszty amunicji M43) do Stanów Zjednoczonych został zakazany, gdyż prawo federalne klasyfikuje ten nabój jako pistoletowy pocisk przeciwpancerny. Klasyfikacja bazuje na konstrukcji kuli i materiałach użytych do produkcji, nie biorąc pod uwagę realnych właściwości penetracyjnych.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x39_ap_s">
+		<text>7.62x39 AP</text>
+	</string>
+	
+	<string id="ammo-7.62x39_fmj">
+		<text>7.62x39 mm FMJ</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_descr">
+		<text>Pełnopłaszczowy 7.62x39 jest najpopularniejszym typem amunicji, szczególnie w Afryce i na Bliskim Wschodzie. Okrzyknięty przez niektórych "Amunicją Rewolucji" przez jej popularność wśród terrorystów i organizacji kryminalnych. Większość organizacji wojskowych zostało zmuszonych do korzystania z dodatkowych stalowych płyt w swoich kamizelkach z powodu wysokiego prawdopodobieństwa spotkania naboju 7.62x39 w sytuacjach bojowych.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_s">
+		<text>7.62x39 FMJ</text>
+	</string>
+	
+	<string id="ammo-7.62x51_ap">
+		<text>7.62x51 mm NATO AP</text>
+	</string>
+	<string id="ammo-7.62x51_ap_descr">
+		<text>Wojskowy, przeciwpancerny nabój M61 kalibru 7.62x51 z utwardzanym stalowym rdzeniem. Zachowuje wysokie potencjalne obrażenia posiadając jednocześnie zwiększoną siłę przebicia pancerza.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x51_ap_s">
+		<text>7.62x51 AP</text>
+	</string>
+	
+	<string id="ammo-7.62x51_fmj">
+		<text>7.62x51 mm NATO ball</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_descr">
+		<text>Nabój 7.62x51 NATO to wojskowy wariant amunicji .308, używanej przez NATO zanim wprowadzono amunicję 5.56 w latach '70, na wojnie w Wietnamie. Obecnie jest najczęściej używana przez prywatne organizacje wojskowe na całym świecie. Nabój 7.62x51 to bardzo popularny kaliber karabinów maszynowych, używany również w karabinach bojowych i wyborowych.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_s">
+		<text>7.62x51 ball</text>
+	</string>
+	
+	<string id="ammo-7.62x54_7n14">
+		<text>7.62x54 mm 7N14</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_descr">
+		<text>7N14 kalibru 7.62x54 to nabój przeciwpancerny. Kula posiada stalowy rdzeń przystosowany do przebijania kamizelek kuloodpornych lub cienkich przeszkód, oraz zwężoną podstawę zwiększającą celność.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_s">
+		<text>7.62x54 7N14</text>
+	</string>
+	
+	<string id="ammo-7.62x54-7n1">
+		<text>7.62x54 mm 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_descr">
+		<text>Nabój snajperski kalibru 7.62x54 ze stalowym penetratorem, zaprojektowanym dla karabinu SWD. W odróżnieniu od standardowego naboju, 7N1 gwarantuje zauważalnie mniejszy rozrzut.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_s">
+		<text>7.62x54 7N1</text>
+	</string>
+	
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54 mm AP</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>Przeciwpancerny nabój 7N13 kalibru 7.62x54mm do broni automatycznej. Posiada pocisk o wysokiej mocy i penetracji, którą zawdzięcza swojemu utwardzonemu, stalowemu rdzeniowi.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54 AP</text>
+	</string>
+	
+	<string id="ammo-7.62x54-r">
+		<text>7.62x54 mm PP</text>
+	</string>
+	<string id="ammo-7.62x54-r_descr">
+		<text>7.62x54 PP to przestarzały nabój do karabinu wprowadzony przez Sowietów na przełomie XIX wieku, używany przez USSR nawet po IIWŚ. Pierwotnie zaprojektowane dla karabinu piechoty Mosin-Nagant, cieszy się popularnością w Zonie, ze względu na wysoką dostępność tej broni. Nabój oferuje zaskakująco dobre właściwości penetracyjne, pomimo relatywnie niskiej ceny za sztukę, nawet w porównaniu z nowocześniejszą amunicją. Może być również użyty jako tańsza alternatywna w karabinie PKM.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.62x54-r_s">
+		<text>7.62x54 PP</text>
+	</string>
+	
+	<string id="ammo-7.92x33_ap">
+		<text>7.92x57 mm SA </text>
+	</string>
+	<string id="ammo-7.92x33_ap_descr">
+		<text>7.92x57 SA to nabój używany w przeszłości przez wojsko Brytyjskie, przeciwko opancerzonym celom. Posiada utwardzony stalowy rdzeń nadający mu lepszych właściwości penetracyjnych. Używany przede wszystkim na wysokich dystansach, właściwości wagowe tego naboju przewyższają jego standardowy odpowiednik. Kompatybilny z kilkoma karabinami wyborowymi.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.92x33_ap_s">
+		<text>7.62x57 AP</text>
+	</string>
+	
+	<string id="ammo-7.92x33_fmj">
+		<text>7.92x57 mm Mauser</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_descr">
+		<text>Nabój 7.92x57 Mauser został zaadaptowany przez Imperium Niemieckie, a następnie przez III Rzeszę. Był jednym z najbardziej popularnych rodzajów amunicji na przestrzeni obu Wojen Światowych. Dziś jednak używa się jej głównie podczas polowań i w celach sportowych.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_s">
+		<text>7.62x57 FMJ</text>
+	</string>
+	
+	<string id="ammo-9x18-ap">
+		<text>9x18 RG028</text>
+	</string>
+	<string id="ammo-9x18-ap_descr">
+		<text>RG028 to nabój ceniony za swoje właściwości penetracyjne. Celem naboju RG028 było przeciwdziałanie kamizelkom balistycznym; z tego powodu zainstalowano w nim utwardzony stalowy rdzeń. Niestety, polepszenie właściwości w porównaniu ze standardowym nabojem było znikome, pocisk miał jedynie większą siłę uderzenia w porównaniu ze standardowym 9x18.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]niski - średni</text>
+	</string>
+	<string id="ammo-9x18-ap_s">
+		<text>9x18 RG028</text>
+	</string>
+	
+	<string id="ammo-9x18-fmj">
+		<text>9x18 mm FMJ</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>Pełnopłaszczowy nabój ze stalowym penetratorem i ołowianym rdzeniem umieszczonym pod płaszczem. Zapewnia dobre właściwości balistyczne, lecz jest ma słabą skuteczność przeciwko kamizelkom balistycznym.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]niski - średni</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18 FMJ</text>
+	</string>
+	
+	<string id="ammo-9x18-pmm">
+		<text>9x18 mm +P+</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>Nabój ten posiada kulę o wysokich właściwościach balistycznych. Europejskie oznaczenie '+P+' oznacza "overpressure ammunition"; amunicję posiadającą o 30% zwiększoną prędkość wylotową. Nieskuteczne przeciwko kamizelkom balistycznym.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni - wysoki</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P+</text>
+	</string>
+	
+	<string id="ammo-9x19-ap">
+		<text>9x19 mm AP</text>
+	</string>
+	<string id="ammo-9x19-ap_descr">
+		<text>Ten rosyjski nabój kalibru 9x19 posiada utwardzony stalowy rdzeń oraz zwiększone ciśnienie. Zaprojektowany z myślą o zwiększeniu właściwości penetracyjnych u broni krótkiej i pistoletów maszynowych.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]niski - średni</text>
+	</string>
+	<string id="ammo-9x19-ap_s">
+		<text>9x19 AP</text>
+	</string>
+	
+	<string id="ammo-9x19-fmj">
+		<text>9x19 mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>Podstawowy nabój kalibru 9x19 z kulą z płaszczem, posiadający dobre właściwości balistyczne, będący jednocześnie łatwym w produkcji. Cieszy się popularnością ze względu na to, że konwencje zabraniają korzystania z amunicji dum-dum (deformującej). Nieskuteczne przeciwko kamizelkom balistycznym.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	
+	<string id="ammo-9x19-pbp">
+		<text>9x19 mm JHP</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>Płaszczowy nabój kalibru 9x19 typu grzybkującego, z deformującym się czubkiem i niską skłonnością do rykoszetowania. Używany przez policję do obrony osobistej. Nieskuteczne przeciwko kamizelkom balistycznym z powodu niskiej potencjalnej penetracji.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+	
+	<string id="ammo-9x39-ap">
+		<text>9x39 mm SP-6</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>SP-6 to poddźwiękowe naboje do karabinów szturmowych, płaszczowe, z miękkim czubkiem i twardym stalowym rdzeniem, który wystaje z obudowy. Ciche strzelanie wymaga tłumika. Używane przez służby specjalne w krajach Układu Warszawskiego. Skuteczne przeciw kamizelkom kuloodpornym..\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki\n \n%c[ui_gray_1]WŁAŚCIWOŚCI:\n \n%c[d_red] • %c[ui_gray_2] amunicja poddźwiękowa\n%c[d_purple] • %c[ui_gray_2] znacznie zwiększony kąt opadania kuli na dystansie</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	
+	<string id="ammo-9x39-pab9">
+		<text>9x39 mm SP-5 </text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>SP-5 to poddźwiękowe naboje do karabinów snajperskich z dwumetaliczną obudową. Zawierają stalowy rdzeń, za którym znajduje się przestrzeń wypełniona ołowiem. Ciche strzelanie wymaga tłumika. Używane przez służby specjalne w krajach Układu Warszawskiego.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]wysoki\n \n%c[ui_gray_1]WŁAŚCIWOŚCI:\n \n%c[d_red] • %c[ui_gray_2] amunicja poddźwiękowa\n%c[d_purple] • %c[ui_gray_2] znacznie zwiększony kąt opadania kuli na dystansie</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 SP-5</text>
+	</string>
+	
+	<string id="ammo-gauss">
+		<text>Baterie</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>Baterie wykorzystujące fragment artefaktu Błysk jako źródło mocy. Wytwarzane przy użyciu zaawansowanego sprzętu.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki\n \n%c[ui_gray_1]WŁAŚCIWOŚCI:\n \n%c[d_purple] • %c[ui_gray_2] przedmiot techniczny\n%c[d_purple] • %c[ui_gray_2] prototyp</text>
+	</string>
+	
+	<string id="ammo-gauss_cardan">
+		<text>Substytutowe Baterie</text>
+	</string>
+	<string id="ammo-gauss_cardan_descr">
+		<text>Baterie o niskiej pojemności, wykorzystujące fragment artefaktu Błysk jako źródło mocy. Ich obniżona pojemność wynika z chałupniczego wykonania i braku potrzebnych do tego specjalistycznych narzędzi.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]bardzo wysoki\n \n%c[ui_gray_1]WŁAŚCIWOŚCI:\n \n%c[d_purple] • %c[ui_gray_2] przedmiot techniczny\n%c[d_purple] • %c[ui_gray_2] prototyp</text>
+	</string>
+	
+	<string id="ammo-m209">
+		<text>Granat M203</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>40-milimetrowy granat przeznaczony dla podwieszanego granatnika M203. Posiada strefę rażenia o szerokości 3.5 metrów. Kompatybilne ze zintegrowanym granatnikiem w FN F2000.\n \n%c[d_purple] • %c[ui_gray_2] Siła rażenia: %c[ui_gray_1]średnia\n%c[d_purple] • %c[ui_gray_2] Promień rażenia: %c[ui_gray_1]4.1 m\n%c[d_purple] • %c[ui_gray_2] Zasięg odłamków: %c[ui_gray_1]28 m\n%c[d_purple] • %c[ui_gray_2] Średnia liczba odłamków: %c[ui_gray_1]95 (małe odłamki)\n%c[d_purple] • %c[ui_gray_2] Opóźnienie wybuchu: %c[ui_gray_1]brak (wybucha przy uderzeniu)</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+	
+	<string id="ammo-og-7b">
+		<text>Głowica OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>Głowica odłamkowa wyrzutni RPG-7, przeznaczona do działań przeciwpiechotnych. Głównym zadaniem głowicy jest eliminacja przeciwników ukrytych poza zasięgiem granatów ręcznych.\n \n%c[d_purple] • %c[ui_gray_2] Siła rażenia: %c[ui_gray_1]wysoki\n%c[d_purple] • %c[ui_gray_2] Promień rażenia: %c[ui_gray_1]5.6 m\n%c[d_purple] • %c[ui_gray_2] Zasięg odłamków: %c[ui_gray_1]41 m\n%c[d_purple] • %c[ui_gray_2] Średnia liczba odłamków: %c[ui_gray_1]153 (małe odłamki)\n%c[d_purple] • %c[ui_gray_2] Opóźnienie wybuchu: %c[ui_gray_1]brak (wybucha przy uderzeniu)</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	
+	<string id="ammo-vog-25">
+		<text>Granat VOG-25 40mm</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>Standardowy granat odłamkowy przeznaczony dla podwieszanego granatnika GP-25 Kostyor. Posiada strefę rażenia o szerokości 2.5 metra. Granat VOG-25 jest również kompatybilny ze zintegrowanym granatnikiem OC-14 karabinu Groza i rewolwerowym miotaczem granatów RG6 / 6G30.\n \n%c[d_purple] • %c[ui_gray_2] Siła rażenia: %c[ui_gray_1]średni\n%c[d_purple] • %c[ui_gray_2] Promień rażenia: %c[ui_gray_1]3.6 m\n%c[d_purple] • %c[ui_gray_2] Zasięg odłamków: %c[ui_gray_1]20 m\n%c[d_purple] • %c[ui_gray_2] Średnia liczba odłamków: %c[ui_gray_1]81 (małe odłamki)\n%c[d_purple] • %c[ui_gray_2] Opóźnienie wybuchu: %c[ui_gray_1]brak (wybucha przy uderzeniu)</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	
+		<!-- Bad Ammo Addon-->
+	<string id="ammo-11.43x23-fmj_bad">
+		<text>.45 ACP (stare)</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_verybad">
+		<text>.45 ACP (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_bad">
+		<text>7.62x51 mm NATO (stare)</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_verybad">
+		<text>7.62x51 mm NATO (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x51_ap_bad">
+		<text>7.62x51 mm AP (stare)</text>
+	</string>
+	<string id="ammo-7.62x51_ap_verybad">
+		<text>7.62x51 mm AP (uszkodzone)</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_bad">
+		<text>.45 ACP Hydra-shock (stare)</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_verybad">
+		<text>.45 ACP Hydra-shock (uszkodzone)</text>
+	</string>
+	<string id="ammo-357-hp_bad">
+		<text>.357 HP (stare)</text>
+	</string>
+	<string id="ammo-357-hp_verybad">
+		<text>.357 HP (uszkodzone)</text>
+	</string>
+	<string id="ammo-338-lapua_bad">
+		<text>.338 Lapua Magnum (stare)</text>
+	</string>
+	<string id="ammo-338-lapua_verybad">
+		<text>.338 Lapua Magnum (uszkodzone)</text>
+	</string>
+	<string id="ammo-12x70-buck_bad">
+		<text>12x70 shot (stare)</text>
+	</string>
+	<string id="ammo-12x70-buck_verybad">
+		<text>12x70 shot (uszkodzone)</text>
+	</string>
+	<string id="ammo-12x76-zhekan_bad">
+		<text>12x76 slug (stare)</text>
+	</string>
+	<string id="ammo-12x76-zhekan_verybad">
+		<text>12x76 slug (uszkodzone)</text>
+	</string>
+	<string id="ammo-12x76-dart_bad">
+		<text>12x76 dart (stare)</text>
+	</string>
+	<string id="ammo-12x76-dart_verybad">
+		<text>12x76 dart (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.45x39-ap_bad">
+		<text>5.45x39 mm AP (stare)</text>
+	</string>
+	<string id="ammo-5.45x39-ap_verybad">
+		<text>5.45x39 mm AP (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.45x39-ep_bad">
+		<text>5.45x39 mm EP (stare)</text>
+	</string>
+	<string id="ammo-5.45x39-ep_verybad">
+		<text>5.45x39 mm EP (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_bad">
+		<text>5.45x39 mm FMJ (stare)</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_verybad">
+		<text>5.45x39 mm FMJ (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.56x45-ap_bad">
+		<text>5.56x45 mm AP (stare)</text>
+	</string>
+	<string id="ammo-5.56x45-ap_verybad">
+		<text>5.56x45 mm AP (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_bad">
+		<text>5.56x45 mm EP (stare)</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_verybad">
+		<text>5.56x45 mm EP (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_bad">
+		<text>5.56x45 mm FMJ (stare)</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_verybad">
+		<text>5.56x45 mm FMJ (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_bad">
+		<text>7.62x54 mm 7N1 (stare)</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_verybad">
+		<text>7.62x54 mm 7N1 (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_bad">
+		<text>7.62x54 mm 7N14 (stare)</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_verybad">
+		<text>7.62x54 mm 7N14 (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x54-ap_bad">
+		<text>7.62x54 mm AP (stare)</text>
+	</string>
+	<string id="ammo-7.62x54-ap_verybad">
+		<text>7.62x54 mm AP (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x54-r_bad">
+		<text>7.62x54 mm PP (stare)</text>
+	</string>
+	<string id="ammo-7.62x54-r_verybad">
+		<text>7.62x54 mm PP (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x18-fmj_bad">
+		<text>9x18 mm FMJ (stare)</text>
+	</string>
+	<string id="ammo-9x18-fmj_verybad">
+		<text>9x18 mm FMJ (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x18-pmm_bad">
+		<text>9x18 mm +P+ (stare)</text>
+	</string>
+	<string id="ammo-9x18-pmm_verybad">
+		<text>9x18 mm +P+ (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x18-ap_bad">
+		<text>9x18 RG028 (stare)</text>
+	</string>
+	<string id="ammo-9x18-ap_verybad">
+		<text>9x18 RG028 (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x19-fmj_bad">
+		<text>9x19 mm FMJ (stare)</text>
+	</string>
+	<string id="ammo-9x19-fmj_verybad">
+		<text>9x19 mm FMJ (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x19-pbp_bad">
+		<text>9x19 mm JHP (stare)</text>
+	</string>
+	<string id="ammo-9x19-pbp_verybad">
+		<text>9x19 mm JHP (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x19-ap_bad">
+		<text>9x19 mm AP (stare)</text>
+	</string>
+	<string id="ammo-9x19-ap_verybad">
+		<text>9x19 mm AP (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x39-ap_bad">
+		<text>9x39 mm SP-6 (stare)</text>
+	</string>
+	<string id="ammo-9x39-ap_verybad">
+		<text>9x39 mm SP-6 (uszkodzone)</text>
+	</string>
+	<string id="ammo-9x39-pab9_bad">
+		<text>9x39 mm SP-5 (stare)</text>
+	</string>
+	<string id="ammo-9x39-pab9_verybad">
+		<text>9x39 mm SP-5 (uszkodzone)</text>
+	</string>
+	<string id="ammo-gauss_bad">
+		<text>Baterie (stare)</text>
+	</string>
+	<string id="ammo-gauss_verybad">
+		<text>Baterie (uszkodzone)</text>
+	</string>
+	<string id="ammo-m209_bad">
+		<text>Granat M203 (stare)</text>
+	</string>
+	<string id="ammo-m209_verybad">
+		<text>Granat M203 (uszkodzone)</text>
+	</string>
+	<string id="ammo-og-7b_bad">
+		<text>Głowica OG-7V (stare)</text>
+	</string>
+	<string id="ammo-og-7b_verybad">
+		<text>Głowica OG-7V (uszkodzone)</text>
+	</string>
+	<string id="ammo-vog-25_bad">
+		<text>Granat VOG-25 (stare)</text>
+	</string>
+	<string id="ammo-vog-25_verybad">
+		<text>Granat VOG-25 (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x39_ap_bad">
+		<text>7.62x39 mm M43 (stare)</text>
+	</string>
+	<string id="ammo-7.62x39_ap_verybad">
+		<text>7.62x39 mm M43 (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_bad">
+		<text>7.62x39 mm FMJ (stare)</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_verybad">
+		<text>7.62x39 mm FMJ (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_bad">
+		<text>7.92x57 mm Mauser (stare)</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_verybad">
+		<text>7.92x57 mm Mauser (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.92x33_ap_bad">
+		<text>7.92x57 mm SA (stare)</text>
+	</string>
+	<string id="ammo-7.92x33_ap_verybad">
+		<text>7.92x57 mm SA (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_bad">
+		<text>5.7x28 SS190 (stare)</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_verybad">
+		<text>5.7x28 SS190 (uszkodzone)</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_bad">
+		<text>5.7x28 mm SS195 (stare)</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_verybad">
+		<text>5.7x28 mm SS195 (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x25-p_bad">
+		<text>7.62x25 mm P (stare)</text>
+	</string>
+	<string id="ammo-7.62x25-p_verybad">
+		<text>7.62x25 mm P (uszkodzone)</text>
+	</string>
+	<string id="ammo-7.62x25-ps_bad">
+		<text>7.62x25 mm Pst (stare)</text>
+	</string>
+	<string id="ammo-7.62x25-ps_verybad">
+		<text>7.62x25 mm Pst (uszkodzone)</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_bad">
+		<text>12.7x55mm STs-130 (stare)</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_verybad">
+		<text>12.7x55mm STs-130 (uszkodzone)</text>
+	</string>
+	<string id="ammo_12.7x55_ap_bad">
+		<text>12.7x55 mm STs-130 VPS (stare)</text>
+	</string>
+	<string id="ammo_12.7x55_ap_verybad">
+		<text>12.7x55 mm STs-130 VPS (uszkodzone)</text>
+	</string>
+	<!-- Bad Ammo Addon-->
+	
+	<string id="ammo-12x70-buck_self">
+		<text>Chałupnicze 12x70 śrutowe</text>
+	</string>
+	<string id="ammo-12x70-buck_self_descr">
+		<text>Chałupniczo wykonane naboje śrutowe kalibru 12, wypełnione drobnymi odłamkami metalowych śmieci, zawiera stare i uszkodzone sztuki amunicji, a nawet fragmenty odłamków z granatów. Zabójcze na krótkim dystansie. Kompatybilne z bronią gładkolufową.\n \n%c[d_purple] • %c[ui_gray_2] Najwyższa przebita klasa pancerza: %c[ui_gray_1]brak\n%c[d_purple] • %c[ui_gray_2] Poziom uszkodzenia tkanki: %c[ui_gray_1]średni - wysoki\n \n%c[ui_gray_1]WŁAŚCIWOŚCI:\n \n%c[d_purple] • %c[ui_gray_2] expanding cloud of pellets, short eff. range</text>
+	</string>
+	<string id="ammo_flw">
+		<text>Paliwo do miotacza ognia</text>
+	</string>
+	<string id="ammo_flw_descr">
+		<text>Mieszanka gotowanego tłuszczu zwierzęcego, oleju napędowego i kawałków stopionej gumy. Tworzy lepką substancję przypominającą napalm.</text>
+	</string>
+</string_table>

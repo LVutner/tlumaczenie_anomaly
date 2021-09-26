@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: OPERATION AFTERGLOW TASKS
+< Anomaly 1.5 - Lost to the Zone: Operation Afterglow
+<
+< Made by: SarisKhan
+< Last revised: 04 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 1 -->
+	<string id="lttz_oa_encrypted_transmission_name">
+		<text>Zaszyfrowana Transmisja</text>
+	</string>
+
+	<string id="lttz_oa_encrypted_transmission_text">
+		<text>Przechwyć sporadyczne transmisje radiowe pojawiające się w Anomalii Żelazny Las, w Zatonie.</text>
+	</string>
+	<string id="lttz_oa_encrypted_transmission_text2">
+		<text>Wykryłeś źródło transmisji. Zbadaj je.</text>
+	</string>
+
+	<string id="decryption_radio_name">
+		<text>Radio</text>
+	</string>
+	<string id="decryption_radio_desc">
+		<text>To niepozorne wojskowe radio jest w stanie przechwycić i odszyfrować pobliskie transmisje.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 2 -->
+	<string id="lttz_oa_rally_point_name">
+		<text>Operacja Brzask: Punkt Zbiórki</text>
+	</string>
+
+	<string id="lttz_oa_rally_point_text">
+		<text>Wyeliminuj oddział UNISG stacjonujący w Leśniczówce.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text2">
+		<text>Omów dalsze działania z Diegtiariowem.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text3">
+		<text>Pozostała część oddziału UNISG wraca właśnie do bazy. Zgotuj im ciepłe powitanie.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text4">
+		<text>Wyeliminowałeś lokalne siły UNISG. Omów dalsze działania z Diegtiariowem.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text5">
+		<text>Przeszukaj ciała w poszukiwaniu informacji.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text6">
+		<text>Znalazłeś PDA dowódcy oddziału. Przekaż go Diegtiarowowi.</text>
+	</string>
+
+	<string id="st_zat_b40_sarge_pda_name">
+		<text>PDA dowódcy oddziału</text>
+	</string>
+	<string id="st_zat_b40_sarge_pda_desc">
+		<text>Ten PDA należał do dowódcy oddziału zwiadowczego UNISG. Prawdopodobnie zawiera ważne informacje na temat ich taktyk i strategii. Jest oczywiście zaszyfrowany, więc nie ma co do tego pewności.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 3 -->
+	<string id="lttz_oa_report_name">
+		<text>Raport</text>
+	</string>
+
+	<string id="lttz_oa_report_text">
+		<text>Zdaj raport dowódcy swojej fakcji.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 4 -->
+	<string id="lttz_oa_special_delivery_name">
+		<text>Operacja Brzask: Dostawa Specjalna</text>
+	</string>
+
+	<string id="lttz_oa_special_delivery_text">
+		<text>Dostarcz pojemnik oficerowi. Możesz celowo zawieźć, by potajemnie wspomóc UNISG.</text>
+	</string>
+	<string id="lttz_oa_special_delivery_text2">
+		<text>Powiedz Diegtiariowowi, że dostawa przebiegła pomyślnie.</text>
+	</string>
+	<string id="lttz_oa_special_delivery_text3">
+		<text>Wygląda na to, że oficer nie żyje. Powiedz Diegtiariowowi, że nie jesteś w stanie wypełnić zadania.</text>
+	</string>
+	<string id="lttz_oa_special_delivery_text4">
+		<text>Wygląda na to, że nie dostarczyłeś pojemnika na czas. Powiedz Diegtiariowowi, że nie byłeś w stanie wypełnić zadania.</text>
+	</string>
+
+	<string id="special_delivery_case_name">
+		<text>Zapieczętowany pojemnik</text>
+	</string>
+	<string id="special_delivery_case_desc">
+		<text>Pojemnik zawierający nieznane dokumenty. Całkiem ciężki.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operacja Brzask Task 5 -->
+	<string id="lttz_oa_undercover_agent_name">
+		<text>Operacja Brzask: Infiltrator</text>
+	</string>
+
+	<string id="lttz_oa_undercover_agent_text">
+		<text>Spotkaj się z agentem SBU, który zinfiltrował szeregi UNISG i zdobądź od niego informacje, które ma do przekazania. Podejrzane zachowanie może zaalarmować UNISG i zwiększyć ich czujność.</text>
+	</string>
+	<string id="lttz_oa_undercover_agent_text2">
+		<text>Udało ci się zdobyć potrzebne informacje bez zaalarmowania sił UNISG. Wróć do Diegtiarowa.</text>
+	</string>
+	<string id="lttz_oa_undercover_agent_text3">
+		<text>Udało ci się zdobyć potrzebne informacje, ale zaalarmowałeś UNISG. Wróć do Diegtiarowa.</text>
+	</string>
+
+	<string id="st_army_isg_spy_pendrive_name">
+		<text>Pendrive agenta SBU</text>
+	</string>
+	<string id="st_army_isg_spy_pendrive_descr">
+		<text>Według Diegtiariowa, szpieg w szeregach UNISG zbierał informacje na temat ich celów i pozycji, oraz dowody prawne, które mogą wywrzeć nacisk na Unii i skłonić ich do wycofania swoich sił z Zony. Zaszyfrowany.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operacja Brzask Task 6 -->
+	<string id="lttz_oa_search_unit_name">
+	<text>Operacja Brzask: Strzeżone Sekrety</text>
+	</string>
+
+	<string id="lttz_oa_search_unit_text">
+		<text>Wyeliminuj siły UNISG plądrujące Fabrykę Jupiter. Alternatywnie, zatrzymaj Diegriariowa tak długo, by UNISG zdążyli się wycofać z potrzebnymi informacjami.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text2">
+		<text>Wyeliminowałeś oddział UNISG. Omów dalsze działania z Diegtiariowem.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text3">
+		<text>Znajdź pozostałe sekretne dokumenty rozrzucone po Fabryce.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text4">
+		<text>Znalazłeś wszystkie dokumenty. Porozmawiaj z Diegtiariowem.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text5">
+		<text>Spóźniłeś się i UNISG odeszli z tym, czego potrzebowali. Porozmawiaj z Diegtiariowem.</text>
+	</string>
+
+	<string id="jupiter_documents_name">
+		<text>Dokumenty z Fabryki Jupiter</text>
+	</string>
+	<string id="jupiter_documents_desc">
+		<text>Prawdopodobnie ostatnie dokumenty, które pozostały w Fabryce Jupiter. Lepiej nie pozwolić, by wpadły w niepowołane ręce.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operacja Brzask Task 7 -->
+	<string id="lttz_oa_strelok_name">
+		<text>Strzelec Wyborowy</text>
+	</string>
+
+	<string id="lttz_oa_strelok_text">
+		<text>Pomóż Strielokowi pozbyć się ścigającego go oddziału Monolitu.</text>
+	</string>
+	<string id="lttz_oa_strelok_text2">
+		<text>Porozmawiaj ze Strielokiem.</text>
+	</string>
+	<string id="lttz_oa_strelok_text3">
+		<text>Eskortuj Strieloka do pralni.</text>
+	</string>
+	<string id="lttz_oa_strelok_text4">
+		<text>Porozmawiaj ze Strielokiem.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operacja Brzask Task 8 -->
+	<string id="lttz_oa_rogue_name">
+		<text>Wewnętrzna Wojna</text>
+	</string>
+
+	<string id="lttz_oa_rogue_text">
+		<text>Znajdź Łotra i dowiedz się, co się stało.</text>
+	</string>
+	<string id="lttz_oa_rogue_text1">
+		<text>Pomóż Łotrowi otrząsnąć się z efektów działania anomalii psionicznej podając mu dawkę psi-blokera.</text>
+	</string>
+	<string id="lttz_oa_rogue_text2">
+		<text>Podaj Łotrowi psi-bloker.</text>
+	</string>
+	<string id="lttz_oa_rogue_text3">
+		<text>Odeskortuj Łotra do pralni.</text>
+	</string>
+	<string id="lttz_oa_rogue_text4">
+		<text>Łotr uległ efektom anomalii psionicznej. Poinformuj Strieloka o jego losie.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operacja Brzask Task 9 -->
+	<string id="lttz_oa_stitch_name">
+		<text>Noc Żywych Trupów</text>
+	</string>
+
+	<string id="lttz_oa_stitch_text">
+		<text>Pomóż Szwowi pozbyć się zombie.</text>
+	</string>
+	<string id="lttz_oa_stitch_text2">
+		<text>Wyeliminowałeś wszystkie zombie. Porozmawiaj ze Szwem.</text>
+	</string>
+	<string id="lttz_oa_stitch_text3">
+		<text>Odeskortuj Szwa do pralni.</text>
+	</string>
+	<string id="lttz_oa_stitch_text4">
+		<text>Szew nie poradził sobie ze wszystkimi zombie. Poinformuj Strieloka o jego losie.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operacja Brzask Task 10 -->
+	<string id="lttz_oa_loose_ends_name">
+		<text>Operacja Brzask: Niezamknięte Wątki</text>
+	</string>
+
+	<string id="lttz_oa_loose_ends_text">
+		<text>Skonfrontuj Pułkownika Diegtiariowa.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text2">
+		<text>Negocjuj ze Strielokiem i wypracuj kompromis.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text21">
+		<text>Zabij Strieloka.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text22">
+		<text>Zabij Diegtiariowa.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text3">
+		<text>Diegtiariow nie żyje. Poinformuj Strieloka o jego losie.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text31">
+		<text>Strielok nie żyje. Porozmawiaj z Diegtiariowem.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text4">
+		<text>Powiedz Diegtiariowowi, że Strielok jest skłonny współpracować na własnych warunkach.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text41">
+		<text>Zdecydowałeś, że pomożesz Strielokowi pozbyć się Diegtiariowa. Zabij Pułkownika.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text5">
+		<text>Siły UNISG zaatakowały Diegtiariowa. Pomóż mu ich odeprzeć.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text6">
+		<text>Oddział UNISG został pokonany. Porozmawiaj z Diegtiariowem.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text7">
+		<text>Diegtiariow i jego oddział opuścili Prypeć. Powiedz Strielokowi, że już po wszystkim.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+</string_table>

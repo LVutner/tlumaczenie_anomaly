@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="windows-1250"?>		
+<string_table>		
+	<string id="st_zat_b55_name_land">	
+		<text>Anomalia Pazur</text>
+	</string>	
+	<string id="st_zat_b100_name_land">	
+		<text>Anomalia Żelazny Las</text>
+	</string>	
+	<string id="st_zat_b104_name_land">	
+		<text>Tartak</text>
+	</string>	
+	<string id="st_zat_b38_name_land">	
+		<text>Stacja Antenowa Krug</text>
+	</string>	
+	<string id="st_zat_b40_name_land">	
+		<text>Zakład Utylizacji Odpadów</text>
+	</string>	
+	<string id="st_zat_b56_name_land">	
+		<text>Anomalia Cyrk</text>
+	</string>	
+	<string id="st_zat_b5_name_land">	
+		<text>Leśniczówka</text>
+	</string>	
+	<string id="st_zat_a2_name_land">	
+		<text>Skadowsk</text>
+	</string>	
+	<string id="st_zat_b20_name_land">	
+		<text>Spalone Gospodarstwo</text>
+	</string>	
+	<string id="st_zat_fire_name_land">	
+		<text>Anomalia Infernalna Barka</text>
+	</string>	
+	<string id="st_zat_b53_name_land">	
+		<text>Anomalia Kocioł</text>
+	</string>	
+	<string id="st_zat_b101_name_land">	
+		<text>Anomalia Zawiesina</text>
+	</string>	
+	<string id="st_zat_waste_name_land">	
+		<text>Bagno</text>
+	</string>	
+	<string id="st_zat_b106_name_land">	
+		<text>Izumrudnoje</text>
+	</string>	
+	<string id="st_zat_b7_name_land">	
+		<text>Szewczenko</text>
+	</string>	
+	<string id="st_zat_b14_name_land">	
+		<text>Pogłębiarka</text>
+	</string>	
+	<string id="st_zat_tide_name_land">	
+		<text>Anomalia Odpływ</text>
+	</string>	
+	<string id="st_zat_b52_name_land">	
+		<text>Dźwigi Portowe</text>
+	</string>	
+	<string id="st_zat_b39_name_land">	
+		<text>Anomalia Sosnodąb</text>
+	</string>	
+	<string id="st_zat_b33_name_land">	
+		<text>Stacja Paliw</text>
+	</string>	
+	<string id="st_zat_b18_name_land">	
+		<text>Stara Barka</text>
+	</string>	
+	<string id="st_zat_b54_name_land">	
+		<text>Anomalia Szrama</text>
+	</string>	
+	<string id="st_zat_b12_name_land">	
+		<text>Most Przeobrażenia Pańskiego</text>
+	</string>	
+	<string id="st_zat_b28_name_land">	
+		<text>Południowy Płaskowyż</text>
+	</string>	
+	<string id="st_zat_b103_name_land">	
+		<text>Magazyn Podstacji</text>
+	</string>	
+	<string id="st_jup_b1_name_land">	
+		<text>Anomalia Popielisko</text>
+	</string>	
+	<string id="st_jup_b46_name_land">	
+		<text>Wieża Chłodnicza</text>
+	</string>	
+	<string id="st_jup_b202_name_land">	
+		<text>Przystanek Kolejowy</text>
+	</string>	
+	<string id="st_jup_b211_name_land">	
+		<text>Anomalia Szuwary</text>
+	</string>	
+	<string id="st_jup_b200_name_land">	
+		<text>Cementownia</text>
+	</string>	
+	<string id="st_jup_b19_name_land">	
+		<text>Kopaczi</text>
+	</string>	
+	<string id="st_jup_a6_name_land">	
+		<text>Janów</text>
+	</string>	
+	<string id="st_jup_b25_name_land">	
+		<text>Kamieniołomy</text>
+	</string>	
+	<string id="st_jup_earth_name_land">	
+		<text>Anomalia Rozpadlina</text>
+	</string>	
+	<string id="st_jup_b6_name_land">	
+		<text>Mobilne Laboratorium</text>
+	</string>	
+	<string id="st_jup_b205_name_land">	
+		<text>Kompleks Przeciwlotniczy Wołkow</text>
+	</string>	
+	<string id="st_jup_b206_name_land">	
+		<text>Zagajnik Anomalii</text>
+	</string>	
+	<string id="st_jup_grove_name_land">	
+		<text>Anomalia Zgniły Zagajnik</text>
+	</string>	
+	<string id="st_jup_b32_name_land">	
+		<text>Parking</text>
+	</string>	
+	<string id="st_jup_a10_name_land">	
+		<text>Punkt Kontrolny</text>
+	</string>	
+	<string id="st_jup_b209_name_land">	
+		<text>Anomalia Bitumin</text>
+	</string>	
+	<string id="st_jup_b208_name_land">	
+		<text>Wschodni Tunel</text>
+	</string>	
+	<string id="st_jup_a12_name_land">	
+		<text>Skład Kontenerów</text>
+	</string>	
+	<string id="st_jup_b212_name_land">	
+		<text>Kompleks Wentylacyjny</text>
+	</string>	
+	<string id="st_jup_b9_name_land">	
+		<text>Lądowisko</text>
+	</string>	
+	<string id="st_jup_b201_name_land">	
+		<text>Anomalia Betonowa Wanna</text>
+	</string>	
+	<string id="st_jup_a9_name_land">	
+		<text>Fabryka Jupiter</text>
+	</string>	
+	<string id="st_pri_a28_name_land">	
+		<text>Teatr Prometeusz</text>
+	</string>	
+	<string id="st_pri_b36_name_land">	
+		<text>Port Rzeczny</text>
+	</string>	
+	<string id="st_pri_b303_name_land">	
+		<text>Stare Centrum Usługowe</text>
+	</string>	
+	<string id="st_pri_b301_name_land">	
+		<text>Szkoła</text>
+	</string>	
+	<string id="st_pri_a17_name_land">	
+		<text>Szpital</text>
+	</string>	
+	<string id="st_pri_b306_name_land">	
+		<text>Centrum Usługowe "Jubilejny"</text>
+	</string>	
+	<string id="st_pri_plug_name_land">	
+		<text>Anomalia Świeca Zapłonowa</text>
+	</string>	
+	<string id="st_pri_a16_name_land">	
+		<text>Pralnia</text>
+	</string>	
+	<string id="st_pri_a25_name_land">	
+		<text>Przedszkole</text>
+	</string>	
+	<string id="st_pri_b35_name_land">	
+		<text>Osiedle</text>
+	</string>	
+	<string id="st_pri_a21_name_land">	
+		<text>Sklep Spożywczy</text>
+	</string>	
+	<string id="st_pri_b304_name_land">	
+		<text>Dom Handlowy</text>
+	</string>	
+	<string id="st_pri_bath_name_land">	
+		<text>Anomalia Kwasowa Kąpiel</text>
+	</string>	
+	<string id="st_pri_a18_name_land">	
+		<text>Księgarnia</text>
+	</string>	
+	<string id="st_pri_b302_name_land">	
+		<text>Anomalia Winorośl</text>
+	</string>	
+	<string id="st_pri_b307_name_land">	
+		<text>Anomalia Wulkan</text>
+	</string>	
+	<string id="st_mar_2c_01_anomaly_spot_name">	
+		<text>Anomalia Wieczny Spoczynek</text>
+	</string>	
+	<string id="st_mar_2c_02_anomaly_spot_name">	
+		<text>Anomalia Gambit</text>
+	</string>	
+	<string id="st_ds_2c_01_anomaly_spot_name">	
+		<text>Anomalia Kamienna Pułapka</text>
+	</string>	
+	<string id="st_ds_2c_02_anomaly_spot_name">	
+		<text>Anomalia Lśniący Most</text>
+	</string>	
+	<string id="st_ds_2c_03_anomaly_spot_name">	
+		<text>Anomalia Łysa Góra</text>
+	</string>	
+	<string id="st_ds_2c_04_anomaly_spot_name">	
+		<text>Anomalia Rumowisko</text> <!-- drumstick anomaly -->
+	</string>	
+	<string id="st_trc_2c_01_rift_anom_spot_name">	
+		<text>Anomalia Zagłębie Autobusów</text>
+	</string>	
+	<string id="st_trc_2c_02_chem_anom_spot_name">	
+		<text>Anomalia Korozja</text>
+	</string>	
+	<string id="st_trc_2c_03_desolation_anom_spot_name">	
+		<text>Anomalia Zwęglona Chata</text>
+	</string>	
+	<string id="st_esc_2c_01_high_hopes_anomaly_spot_name">	
+		<text>Anomalia Wysokie Loty</text>
+	</string>	
+	<string id="st_gar_2c_01_nwi_anomaly_spot_name">	
+		<text>Anomalia Trzęsidło</text> <!-- push-pull anomaly -->
+	</string>	
+	<string id="st_gar_2c_02_toaster_anomaly_spot_name">	
+		<text>Anomalia Grecki Ogień</text>
+	</string>	
+	<string id="st_agr_2c_01_hg_anomaly_spot_name">	
+		<text>Anomalia Gęstwina</text>
+	</string>	
+	<string id="st_labx18_2c_01_deep_burn_anomaly_spot_name">	
+		<text>Anomalia Odparzenie</text>
+	</string>	
+	<string id="st_labx18_2c_02_ff_anomaly_spot_name">	
+		<text>Anomalia Ognista Fontanna</text>
+	</string>	
+	<string id="st_labx18_2c_03_elders_anomaly_spot_name">	
+		<text>Anomalia Grobowiec</text> <!-- worm food anomaly -->
+	</string>	
+	<string id="st_labx18_2c_04_bioh_anomaly_spot_name">	
+		<text>Anomalia Biokatastrofa</text> <!-- biohazard anomaly -->
+	</string>	
+	<string id="st_bar_2c_01_grant_anomaly_spot_name">	
+		<text>Anomalia Sidła</text>
+	</string>	
+	<string id="st_ros_2c_01_tunnel_anomaly_spot_name">	
+		<text>Anomalia Świetlisty Tunel</text> <!-- sparkle deadlock anomaly -->
+	</string>	
+	<string id="st_ros_2c_02_crispy_train_anomaly_spot_name">	
+		<text>Anomalia Rdzawy Pociąg</text>
+	</string>	
+	<string id="st_ros_2c_03_yc_anomaly_spot_name">	
+		<text>Anomalia Spalacz</text>
+	</string>	
+	<string id="st_mil_2c_01_hw_anomaly_spot_name">	
+		<text>Anomalia Ściany Piekieł</text>
+	</string>	
+	<string id="st_yan_2c_01_cd_anomaly_spot_name">	
+		<text>Anomalia Cementowe Wysypisko</text>
+	</string>	
+	<string id="st_x16_lab_2c_01_fb_anomy_spot_name">	
+		<text>Anomalia Brodzik</text> <!-- foot bath anomaly -->
+	</string>	
+	<string id="st_cit_2c_01_ch_anomaly_spot_name">	
+		<text>Anomalia Spryskiwacz</text>
+	</string>	
+	<string id="st_cit_2c_02_pg_anomaly_spot_name">	
+		<text>Anomalia Poligon</text>
+	</string>	
+	<string id="st_lim_2c_01_ls_anomaly_spot_name">	
+		<text>Anomalia Ostatni Krok</text>
+	</string>	
+	<string id="st_lim_2c_02_ib_anomaly_spot_name">	
+		<text>Anomalia Generator</text>
+	</string>	
+	<string id="st_rad_2c_01_bl_anomaly_spot_name">	
+		<text>Anomalia Żywy Duch</text>
+	</string>	
+	<string id="st_rad_2c_02_pp_anomaly_spot_name">	
+		<text>Anomalia Parszywa Sadzawka</text> <!-- pain pool anomaly -->
+	</string>	
+	<string id="st_bun_2c_01_f_anomaly_spot_name">	
+		<text>Anomalia Piec</text>
+	</string>	
+	<string id="st_bun_2c_02_gp_anomaly_spot_name">	
+		<text>Anomalia Grawikoncentrat</text>
+	</string>	
+	<string id="st_pri_2c_01_pp_anomaly_spot_name">	
+		<text>Anomalia Próchnica</text>
+	</string>	
+	<string id="st_pri_2c_02_gt_anomaly_spot_name">	
+		<text>Anomalia Iskrząca Aleja</text>
+	</string>	
+	<string id="st_pri_2c_03_wr_anomaly_spot_name">	
+		<text>Anomalia Ściskacz</text>
+	</string>	
+	<string id="st_pri_2c_04_o_anomaly_spot_name">	
+		<text>Anomalia Igrzysko</text>
+	</string>	
+	<string id="st_aes_2c_01_ce_anomaly_spot_name">	
+		<text>Anomalia Pułpaka</text>
+	</string>	
+	<string id="st_aes_2c_02_p_anomaly_spot_name">	
+		<text>Anomalia Pylon</text>
+	</string>	
+		<string id="st_aes2_2c_01_bo_anomaly_spot_name">
+		<text>Anomalia Rozpad</text>
+	</string>	
+	<string id="st_aes2_2c_02_at_anomaly_spot_name">	
+		<text>Anomalia Toksyczny Wagon</text>
+	</string>	
+	<string id="st_sar_2c_01_r_anomaly_spot_name">	
+		<text>Anomalia Reaktor</text>
+	</string>	
+	<string id="st_gen_2c_01_ss_anomaly_spot_name">	
+		<text>Anomalia Niebiańskie Schody</text>
+	</string>	
+	<string id="st_mar_smart_terrain_11_3_anomaly_spot_name">	
+		<text>Anomalia Uskok</text>
+	</string>	
+	<string id="st_mar_smart_terrain_12_2_anomaly_spot_name">	
+		<text>Anomalia Terawolt</text>
+	</string>	
+	<string id="st_mar_smart_terrain_10_10_anomaly_spot_name">	
+		<text>Anomalia Grzmot</text>
+	</string>	
+	<string id="st_mar_smart_terrain_base_anomaly_spot_name">	
+		<text>Anomalia Lej</text> <!-- bog pounder -->
+	</string>	
+	<string id="st_mar_smart_terrain_8_8_anomaly_spot_name">	
+		<text>Anomalia Fermi</text>
+	</string>	
+	<string id="st_mar_smart_terrain_3_7_anomaly_spot_name">	
+		<text>Anomalia Deptacz</text>
+	</string>	
+	<string id="st_mar_smart_terrain_3_3_anomaly_spot_name">	
+		<text>Anomalia Gruźlica</text> <!-- lungrot -->
+	</string>	
+	<string id="st_esc_smart_terrain_1_11_anomaly_spot_name">	
+		<text>Anomalia Utylizator</text>
+	</string>	
+	<string id="st_esc_smart_terrain_8_9_anomaly_spot_name">	
+		<text>Anomalia Zgniatacz</text>
+	</string>	
+	<string id="st_esc_smart_terrain_5_4_anomaly_spot_name">	
+		<text>Anomalia Pożeracz Kotów</text>
+	</string>	
+	<string id="st_gar_smart_terrain_3_7_anomaly_spot_name">	
+		<text>Anomalia Ziemia Ognista</text>
+	</string>	
+	<string id="st_gar_smart_terrain_3_7_anomaly_spot_2_name">	
+		<text>Anomalia Miraż</text>
+	</string>	
+	<string id="st_gar_smart_terrain_2_4_anomaly_spot_name">	
+		<text>Anomalia Synapsa</text>
+	</string>	
+	<string id="st_gar_smart_terrain_6_7_anomaly_spot_name">	
+		<text>Anomalia Szarpacz</text>
+	</string>	
+	<string id="st_gar_smart_terrain_5_6_anomaly_spot_name">	
+		<text>Anomalia Sublimacja</text>
+	</string>	
+	<string id="st_gar_smart_terrain_1_7_anomaly_spot_name">	
+		<text>Anomalia Trzaskacz</text>
+	</string>	
+	<string id="st_agr_smart_terrain_1_3_anomaly_spot_name">	
+		<text>Anomalia Skalny Szpon</text>
+	</string>	
+	<string id="st_agr_smart_terrain_4_4_near_3_anomaly_spot_name">	
+		<text>Anomalia Nerwica</text>
+	</string>	
+	<string id="st_agr_smart_terrain_5_7_anomaly_spot_name">	
+		<text>Anomalia Krzaczaste Zbocze</text> <!-- bushwacker -->
+	</string>	
+	<string id="st_agr_smart_terrain_5_2_anomaly_spot_name">	
+		<text>Anomalia Siekacz</text>
+	</string>	
+	<string id="st_agr_smart_terrain_1_2_anomaly_spot_name">	
+		<text>Anomalia Toksyczne Bagno</text>
+	</string>	
+	<string id="st_val_smart_terrain_9_10_anomaly_spot_name">	
+		<text>Anomalia Mroczna Rozpadlina</text>
+	</string>	
+	<string id="st_val_smart_terrain_6_4_anomaly_spot_name">	
+		<text>Anomalia Łomot</text>
+	</string>	
+	<string id="st_val_smart_terrain_8_6_anomaly_spot_name">	
+		<text>Anomalia Kometa</text>
+	</string>	
+	<string id="st_val_smart_terrain_9_4_anomaly_spot_name">	
+		<text>Anomalia Kąpiel Bąbelkowa</text>
+	</string>	
+	<string id="st_val_smart_terrain_8_9_anomaly_spot_name">	
+		<text>Anomalia Łamacz Kości</text>
+	</string>	
+	<string id="st_mil_smart_terrain_4_7_anomaly_spot_name">	
+		<text>Anomalia Żrące Błoto</text>
+	</string>	
+	<string id="st_mil_smart_terrain_2_1_anomaly_spot_name">	
+		<text>Anomalia Terapia Szokowa</text>
+	</string>	
+	<string id="st_mil_smart_terrain_2_6_anomaly_spot_name">	
+		<text>Anomalia Newton</text>
+	</string>	
+	<string id="st_mil_smart_terrain_7_4_anomaly_spot_name">	
+		<text>Anomalia Miażdżyciel</text>
+	</string>	
+	<string id="st_mil_smart_terrain_8_3_anomaly_spot_name">	
+		<text>Anomalia Trawozwęglacz</text>
+	</string>	
+	<string id="st_yan_smart_terrain_2_5_anomaly_spot_name">	
+		<text>Anomalia Tesla</text>
+	</string>	
+	<string id="st_yan_smart_terrain_zombi_spawn_anomaly_spot_name">	
+		<text>Anomalia Edison</text>
+	</string>	
+	<string id="st_yan_smart_terrain_5_3_anomaly_spot_name">	
+		<text>Anomalia Muł</text>
+	</string>	
+	<string id="st_yan_smart_terrain_4_2_anomaly_spot_name">	
+		<text>Anomalia Ognisko</text>
+	</string>	
+	<string id="st_red_smart_terrain_6_3_anomaly_spot_name">	
+		<text>Anomalia Symbiont</text>
+	</string>	
+	<string id="st_red_smart_terrain_4_5_anomaly_spot_name">	
+		<text>Anomalia Superprzewodnik</text>
+	</string>	
+	<string id="st_red_smart_terrain_monsters_anomaly_spot_name">	
+		<text>Anomalia Huśtawka</text>
+	</string>	
+	<string id="st_red_smart_terrain_3_2_anomaly_spot_name">	
+		<text>Anomalia Martwy Kanarek</text>
+	</string>	
+	<string id="st_red_smart_terrain_6_6_anomaly_spot_name">	
+		<text>Anomalia Karuzela</text>
+	</string>	
+	<string id="st_red_smart_terrain_3_1_anomaly_spot_name">	
+		<text>Anomalia Spoczynek Słuckiego</text>
+	</string>	
+	<string id="st_gen_smart_terrain_urod_anomaly_spot_name">	
+		<text>Anomalia Epicentrum</text>
+	</string>	
+	<string id="st_trc_sim_13_anomal_zone_spot_name">	
+		<text>Anomalia Labirynt Fanatyka</text>
+	</string>	
+	<string id="st_pol_smart_terrain_1_1_anomaly_spot_name">	
+		<text>Anomalia Maszynka do Mięsa</text>
+	</string>	
+	<string id="st_pol_smart_terrain_1_2_anomaly_spot_name">	
+		<text>Anomalia Wolt</text>
+	</string>	
+</string_table>		

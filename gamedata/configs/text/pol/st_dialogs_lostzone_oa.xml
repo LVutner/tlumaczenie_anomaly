@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="voronin_operation_afterglow_0">
+		<text>Otrzymałem informację o tajemniczej transmisji radiowej. Masz dla mnie jakieś specjalne zadanie, Generale?</text>
+	</string>
+	<string id="voronin_operation_afterglow_1">
+		<text>Tak, w naszej profesji niestety nie brakuje pracy. Nasza straż przednia przechwyciła niezidentyfikowane transmisje radiowe w okolicach anomalii Żelazny Las w Zatonie. Nie posiadają odpowiedniego ekwipunku do jej rozszyfrowania, więc chcę, żebyś przyjrzał się tej sprawie.</text>
+	</string>
+	<string id="voronin_operation_afterglow_2">
+		<text>Zrozumiano.</text>
+	</string>
+	<string id="voronin_operation_afterglow_21">
+		<text>Proszę wybaczyć Generale, nie jestem jeszcze gotów.</text>
+	</string>
+	<string id="voronin_operation_afterglow_3">
+		<text>Doskonale. Weź to radio; nasi technicy je odpowiednio zmodyfikowali. Zdaj raport tak szybko, jak tylko coś znajdziesz. Kto wie, co może się dziać tak blisko Elektrowni.</text>
+	</string>
+	
+	<string id="voronin_operation_afterglow_transmission_report_0">
+		<text>Wróciłem z Zatonu.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_1">
+		<text>Usłyszałeś coś interesującego?</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_2">
+		<text>Tak, Generale. Chwilowo uczestniczyłem w operacji wojskowej prowadzonej przez Pułkownika Diegtiariowa. Wygląda na to, że grupa obcych sił specjalnych zwana UNISG prowadzi dochodzenie na temat ostatnich wydarzeń w Zonie. Armia nie chce, by udało im się odkryć zbyt wiele.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_21">
+		<text>Nic ważnego, dowódco. Nic nieznaczący szum.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_3">
+		<text>Rozumiem. Bardzo intrygujące odkrycie. Będziemy uważnie się przyglądać dalszemu rozwojowi sytuacji. W międzyczasie, możesz powrócić do swoich codziennych zajęć. Odmaszerować.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_31">
+		<text>Dziękuję za potwierdzenie. Cóż, nie mam niczego innego, czego bym od ciebie potrzebował, możesz powrócić do swoich codziennych zajęć. Odmaszerować.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_4">
+		<text>Zrozumiano.</text>
+	</string>
+	
+	<string id="dushman_operation_afterglow_0">
+		<text>Otrzymałem informację o tajemniczej transmisji radiowej. Masz dla mnie jakiś specjalny kontrakt?</text>
+	</string>
+	<string id="dushman_operation_afterglow_1">
+		<text>Tak, oczywiście. Tym się właśnie zajmujemy. Nasza drużyna w Zatonie przechwyciła przerywany sygnał radiowy z okolic Żelaznego Lasu w Zatonie. Rzecz w tym, że wszystko co słyszą, to niezrozumiały szum. Chcę, żebyś się tam wybrał i sprawdził co się dzieje z pomocą porządnego ekwipunku.</text>
+	</string>
+	<string id="dushman_operation_afterglow_2">
+		<text>W porządku.</text>
+	</string>
+	<string id="dushman_operation_afterglow_21">
+		<text>Wybacz Duszman, mam teraz co innego na głowie.</text>
+	</string>
+	<string id="dushman_operation_afterglow_3">
+		<text>Bardzo dobrze, takie informacje też bywają wartościowe. Weź to radio, Wieprz zamontował w nim zaawansowane urządzenie deszyfrujące. Wróć, gdy cokolwiek znajdziesz.</text>
+	</string>
+	
+	<string id="dushman_operation_afterglow_transmission_report_0">
+		<text>Wróciłem z Zatonu.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_1">
+		<text>Usłyszałeś coś interesującego?</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_2">
+		<text>W rzeczy samej. Pułkownik Diegtiariow zatrudnił mnie do pomocy przy tajnej operacji. Próbowali powstrzymać grupę bardzo ciekawskich cudzoziemców, zwanych UNISG, przed dowiedzeniem się o zbyt wielu kłopotliwych sekretach Zony.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_21">
+		<text>Nie, nie do końca. Tylko szum, nic specjalnego.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_3">
+		<text>UN już tu są? Jeden z ich zwiadowców miał ode mnie odebrać pewne informacje, ale nigdy tu nie dotarł. Teraz już wiemy dlaczego, skoro zostali tak szybko zdemaskowani. Jeśli UN zażyczą sobie naszych usług, to im pomogę. To co ty masz zamiar zrobić, to już inna sprawa, nie będę cię trzymać na smyczy. Dzięki zawiłym intrygom wśród zachodnich korporacji i rządów zyskamy na tym, niezależnie od wyniku.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_31">
+		<text>Niektóre poszlaki bywają ślepym zaułkiem. No cóż, jestem pewien, że masz wiele interesujących kontraktów do wypełnienia.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_4">
+		<text>Dobrze. Do zobaczenia.</text>
+	</string>
+	
+	<string id="sidorovich_operation_afterglow_0">
+		<text>Słyszałem wiadomość o tajemniczej transmisji radiowej. Masz dla mnie jakąś robotę?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_1">
+		<text>Zawsze chętny na zarobek, co, stalkerze? Tak, pojawiła się ostatnio pewna rzecz. Dowiedziałem się od Brodacza, że stalkerzy mówią ostatnio o pewnym dziwnym sygnale radiowym, który łapią w pobliżu Żelaznego Lasu w Zatonie. Albo to sprawka anomalii, albo dzieje się coś interesującego. Sprawdzisz to, co nie?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_2">
+		<text>Pewnie, Sid. Siedź wygodnie, gdy ja przespaceruję się na drugą stronę Zony, po raz n-ty.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_21">
+		<text>Wybacz Sid, nie jestem teraz na to gotowy.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_3">
+		<text>Dobry chłopak. Weź ze sobą to radio, chyba, że masz zamiar przechwycić transmisję trzymając drut w zębach. Wróć jeśli dowiesz się czegoś ciekawego.</text>
+	</string>
+	
+	<string id="sidorovich_operation_afterglow_transmission_report_0">
+		<text>Wróciłem z Zatonu.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_1">
+		<text>Usłyszałeś coś interesującego?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_2">
+		<text>Tak, bardzo interesującego. Widzisz, człowiek zwany Pułkownikiem Diegtiariowem prowadził tajną operację w centrum Zony. Walczy z grupą zwaną UNISG, zagranicznymi siłami specjalnymi, która próbuje odkryć jak najwięcej brudu na temat Zony.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_21">
+		<text>Nie do końca. Przebyłem niezłą podróż, tylko po to, by posłuchać trochę szumu.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_3">
+		<text>To świetne wieści, stalkerze. Jak już sam dobrze wiesz, informacje są warte kupę pieniędzy, szczególnie te tajne. Zobaczę, co mogę z tym zrobić, hehe. W każdym razie, możesz wrócić do swoich zajęć.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_31">
+		<text>Eh kurwa, podejrzewałem, że to kolejna historyjka wyssana z palca któregoś stalkera. W każdym razie, możesz wrócić do swoich zajęć.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_4">
+		<text>Do zobaczenia.</text>
+	</string>
+	
+	<string id="cold_operation_afterglow_0">
+		<text>Otrzymałem informację o tajemniczej transmisji radiowej. Masz dla mnie jakieś specjalne zadanie?</text>
+	</string>
+	<string id="cold_operation_afterglow_1">
+		<text>Tak, jest pewna małą rzecz, którą mógłbyś się zająć. Dowiedziałem się od naszych kontaktów w szeregach Ekologów, że w Żelaznym Lesie, w Zatonie można przechwycić dziwną transmisję radiową. Wiem, wiem, to miejsce to praktycznie drugie Wielkie Bagno, jedynie po drugiej stronie Zony. Nadal uważam, że warto to sprawdzić, choćby dlatego, że Elektrownia jest bardzo blisko tego miejsca.</text>
+	</string>
+	<string id="cold_operation_afterglow_2">
+		<text>Brzmi interesująco, wchodzę w to.</text>
+	</string>
+	<string id="cold_operation_afterglow_21">
+		<text>Wybacz Zimny, nie jestem jeszcze gotów na kolejną wyprawę o takiej skali.</text>
+	</string>
+	<string id="cold_operation_afterglow_3">
+		<text>Zapowiada się kolejna wyprawa, hehe. Weź ze sobą to ustrojstwo od Nowikowa, pomoże ci rozszyfrować jakąkolwiek transmisję uda ci się przechwycić. Powodzenia.</text>
+	</string>
+	
+	<string id="cold_operation_afterglow_transmission_report_0">
+		<text>Wróciłem z Zatonu.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_1">
+		<text>Usłyszałeś coś interesującego?</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_2">
+		<text>Pewnie. Usłyszałem wojskową transmisję i dołączyłem do tajnej operacji prowadzonej przez gościa zwanego Pułkownikiem Diegtiariowem. Chcieli się pozbyć drużyny wysłanej przez grupę zwaną UNISG, która, zdaniem SBU, ostatnimi czasy przygląda się Zonie zbyt blisko.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_21">
+		<text>Nie do końca. Trochę anomalicznego szumu, nic więcej.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_3">
+		<text>No proszę. Całkiem interesujące. Cóż, mam nadzieję, że podobała ci się chwilowa zabawa w sekretnego agenta. Mamy szczęście, że nie dostałeś kulki w tył głowy w zamian za pomoc. Możesz teraz trochę odpocząć, ja sprawdzę co możemy zrobić z tą informacją.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_31">
+		<text>No cóż, zgaduję, że nawet Kalancha nie będzie zainteresowany. Dzięki, że próbowałeś pomóc. Możesz już iść.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_4">
+		<text>Trzymaj się, Zimny.</text>
+	</string>
+	
+	<string id="lukash_operation_afterglow_0">
+		<text>Słyszałem coś o tajemniczej transmisji radiowej. Masz dla mnie jakąś nową przygodę?</text>
+	</string>
+	<string id="lukash_operation_afterglow_1">
+		<text>Nie usiedzisz w jednym miejscu zbyt długo, co? Podoba mi się twój zapał, kumplu. No więc, Loki powiedział mi, że było ostatnio sporo szumu wokół Żelaznego Lasu w Zatonie. Z jednej strony to mogą być tylko anomalie wydające dziwne dźwięki, a z drugiej mogą się okazać tajnymi transmisjami Specnazu, lub czymś podobnym. Idź i zobacz co się dzieje.</text>
+	</string>
+	<string id="lukash_operation_afterglow_2">
+		<text>Świetnie, wchodzę w to!</text>
+	</string>
+	<string id="lukash_operation_afterglow_21">
+		<text>Wybacz Łukasz, muszę się najpierw pozbyć kaca.</text>
+	</string>
+	<string id="lukash_operation_afterglow_3">
+		<text>I to mi się podoba. Ah, no tak, weź to radio. Zgaduję, że nie masz w głowie żadnego żelastwa, więc powinno ci się przydać. Daj znać jak znajdziesz coś interesującego.</text>
+	</string>
+	
+	<string id="lukash_operation_afterglow_transmission_report_0">
+		<text>Wróciłem z Zatonu.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_1">
+		<text>Usłyszałeś coś interesującego?</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_2">
+		<text>Gościu, nie uwierzyłbyś! Ze wszystkiego co mogło mi się przytrafić, wziąłem udział w tajnej wojskowej operacji! Gość zwany Diegtiariowem chciał się pozbyć grupki agentów UNISG. Są jakąś międzynarodową grupą wojskową, która prowadzi dochodzenie na temat Zony. Oczywiście, armii się to nie spodobało.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_21">
+		<text>Nie, nie do końca. Posłuchałem trochę szumu anomalii i wróciłem jak mi się znudziło.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_3">
+		<text>Hah, dwie organizacje rządowe kopiące się nawzajem po tyłkach, w imię sekretów Zony? To dopiero zabawne! Dobrze wiedzieć, że Diegtiariow nadal żyje. Wojsko to banda drani, za to ten gość to kawał wspaniałego drania. Jeśli znów go spotkasz, to powiedz mu żeby zrobił sobie przerwę i znów wyciągnął pomocną dłoń dla chłopaków z Janowa, ok? Z tego co słyszę to sprawy pogarszają się tam z dnia na dzień.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_31">
+		<text>Cóż, słuchanie śpiewu anomalii nie musiało być wcale takie złe, co? Dobra, nieważne. Możesz iść zająć się czymś bardziej interesującym, nie chcę, żeby się zanudził na śmierć. To by dopiero był sposób na wykitowanie w Zonie...</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_4">
+		<text>Trzymaj się.</text>
+	</string>
+	
+	<string id="sakharov_operation_afterglow_0">
+		<text>Otrzymałem informację o tajemniczej transmisji radiowej. Masz dla mnie jakieś ważne zadanie?</text>
+	</string>
+	<string id="sakharov_operation_afterglow_1">
+		<text>O, tak, młody człowieku. Znasz Profesora Hermanna? Jego bunkier na północy złożył intrygujące raporty na temat transmisji radiowych pojawiających się w Anomalii Żelazny Las, w Zatonie. Jest to szczególnie interesujące ze względu na wysoką aktywność anomalii w tym regionie. Chciałbym przeprowadzić w tym miejscu kilka badań, nie wiadomo, co będziemy w stanie odkryć.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_2">
+		<text>Natychmiast ruszam, Profesorze.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_21">
+		<text>Proszę wybaczyć, Profesorze, nie jestem chwilowo gotów na tak daleką wyprawę.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_3">
+		<text>Dziękuję. Weź ze sobą to urządzenie. Pomoże ci w rozszyfrowaniu dowolnego sygnału, na jaki możesz trafić. Życzę ci powodzenia.</text>
+	</string>
+	
+	<string id="sakharov_operation_afterglow_transmission_report_0">
+		<text>Wróciłem z Zatonu.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_1">
+		<text>Odkryłeś coś interesującego?</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_2">
+		<text>Tak, Profesorze. Przechwyciłem wojskową transmisję radiową, po czym zostałem tymczasowo wcielony do tajnej operacji prowadzonej przez Pułkownika Diegtiariowa. Starliśmy się z grupą wysłaną przez UNISG, zagraniczną organizację próbująca badać najgłębsze sekrety Zony.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_21">
+		<text>Nie do końca, Profesorze. Tylko trochę szumu z okolicznych anomalii.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_3">
+		<text>Oh, rozumiem. Mimo, że badanie Zony i jej niesamowitych właściwości jest warte naszych starań, to mogę jedynie drżeć na myśl o tym, co by się stało gdyby ta wiedza wpadła w nieodpowiednie ręce. Dziękuję ci, młody człowieku, możesz już iść.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_31">
+		<text>Cóż za strata czasu. Wygląda na to, że będę musiał odrzucić hipotezę Hermanna.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_4">
+		<text>Do widzenia, profesorze.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_psycho_0">
+		<text>Moja... głowa... moja... głowa...</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_0">
+		<text>Cześć, twardzielu.</text>
+	</string>
+	
+	<string id="stalker_rogue_repair_oa_0">
+		<text>Cześć, Łotrze. Masz pod ręką swoje narzędzia?</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_help_psycho_0">
+		<text>Co... co ty robisz, kolego?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_1">
+		<text>Moja... głowa... cholerna... anomalia... potrzebuję... tabletek... potrzebuję... tabletki...</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_2">
+		<text>O kurwa. Wytrzymaj jeszcze przez chwilę, zaraz coś znadję!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_20">
+		<text>Ocknij się, gościu! Przezwycięż to!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_21">
+		<text>Agh... pomóż... mi...</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_22">
+		<text>Do kurwy nędzy, trzymaj się w kupie!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_23">
+		<text>Przestań... krzyczeć... M-muszę... mmm... mmm... MONOLIT!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_24">
+		<text>Kurwa!</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_heal_psycho_0">
+		<text>Mam tabletki, weź je!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_1">
+		<text>Dz-dzięki gościu, prawie mnie dorwali.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_2">
+		<text>Co się stało?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_3">
+		<text>Eh... nasza drużyna została podzielona podczas walk z Monolitem. Powoli się wycofywałem, prowadząc ogień zaporowy, by utrzymać fanatyków na dystansie... przypadkowo wlazłem w środek anomalii psionicznej, nagle zacząłem słyszeć głosy. Skurwysyny z Monolitu mnie po prostu podniosły, i przytargały w to miejsce. Chyba chcieli mnie wcielić w swoje szeregi. Wolałbym prędzej wskoczyć jakąś anomalię... inną niż tą. Kurwa mać.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_4">
+		<text>Co się stało z twoim hełmem psionicznym?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_5">
+		<text>Cholerne ustrojstwo sprawiało, że drżała mi szczęka. Po wyłączeniu Zwęglacza uznałem, że go nie potrzebuje. Jak widać nieźle się tym popisałem. Wróćmy do pralni. Musimy się przegrupować.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_6">
+		<text>Chodźmy.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_saved_0">
+		<text>Jesteśmy na miejscu.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_saved_1">
+		<text>Dzięki, twardzielu. Uratowałeś mnie przed czymś gorszym niż śmiercią. Nie zapomnę ci tego.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_saved_2">
+		<text>Cała przyjemność po mojej stronie, Łotrze.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_join_0">
+		<text>Musimy się śpieszyć, ruszajmy.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_join_1">
+		<text>Mam złe przeczucia.</text>
+	</string>
+	
+	<string id="pri_a17_strelok_dialogue_0">
+		<text>Hej, Strielok. Jak zwykle w starciu z Monolitem, co?</text>
+	</string>
+	<string id="pri_a17_strelok_dialogue_1">
+		<text>Dzięki, nie spodziewałem się tu ciebie. Tu nie jest bezpiecznie. Chodźmy do pralni, musimy porozmawiać.</text>
+	</string>
+	<string id="pri_a17_strelok_dialogue_2">
+		<text>Ruszajmy.</text>
+	</string>
+	
+	<string id="pri_a16_strelok_dialogue_0">
+		<text>Co się stało? Gdzie reszta?</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_1">
+		<text>Odcinaliśmy dostawy zasobów Monolitu, próbując ich zagłodzić. Po jakimś czasie zebrali drużynę i wysłali ją na nas. Zostaliśmy odseparowani podczas walki. Kontakt radiowy w tym miejscu nie jest zbyt bezpieczny, a ja jestem zbyt zmęczony, by osobiście poszukać Łotra i Szwa. Rozdzieliliśmy się w pobliżu Opuszczonego Szpitala, nie mogli się rozejść daleko. Rozejrzyj się po okolicy, spróbuj ich znaleźć.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_2">
+		<text>Jasna sprawa, zostań tu. Przyprowadzę ich.</text>
+	</string>
+	
+	<string id="pri_a18_rogue_fallen_0">
+		<text>Znalazłem Łotra w budynku przedszkola, modlił się do dziwnego pomnika. Nie poradził sobie z anomalią psioniczną.</text>
+	</string>
+	<string id="pri_a18_rogue_fallen_1">
+		<text>Cholera. Chwalił się, że nic w Zonie nie jest w stanie go zabić. Ani mutanty, ani Monolit... tylko po to, by usmażyć sobie głowę w anomalii. Niech spoczywa w pokoju.</text>
+	</string>
+	<string id="pri_a18_rogue_fallen_2">
+		<text>Niech spoczywa.</text>
+	</string>
+	
+	<string id="pri_a28_stitch_fallen_0">
+		<text>Znalazłem Szwa niedaleko Kina, otoczonego przez hordę zombie. Nie dałem rady go uratować.</text>
+	</string>
+	<string id="pri_a28_stitch_fallen_1">
+		<text>Bez niego Zona będzie znacznie bardziej zabójczym miejscem. Niech spoczywa w pokoju.</text>
+	</string>
+	<string id="pri_a28_stitch_fallen_2">
+		<text>Niech spoczywa.</text>
+	</string>
+	
+	<string id="pri_a16_strelok_dialogue_team_0">
+		<text>Prypeć jest jak zwykle zabójcza.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_1">
+		<text>Tak. Całe szczęście cała drużyna przetrwała. Nie chciałbym ponownie pochować swoich towarzyszy.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_100">
+		<text>Łotr był twardy jak stal. Będzie nam ciężko bez jego wsparcia w walce.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_110">
+		<text>Szew był dobrym towarzyszem. Będzie nam brakowało jego poczucia humoru.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_120">
+		<text>Prawie wszyscy moi przyjaciele, pochłonięci przez Zonę... po raz kolejny. Co Zona odbierze mi następnym razem? Nie zostało mi już wiele.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_2">
+		<text>Nie ma problemu. Czuję się trochę jak część zespołu, cieszę się, że mogłem pomóc.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_200">
+		<text>Nie spodziewałem się, że Łotr zginie, tym bardziej, że nie w bitwie. Cholera.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_210">
+		<text>Szew był zawsze pogodnym gościem, dziwne uczucie, wiedzieć, że zginął. Cholera.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_220">
+		<text>Zona jest bezwzględna. Sama myśl, że zginęli po tym wszystkim, przez co przeszliśmy... ponure przypomnienie, o tym, z czym mamy do czynienia.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_3">
+		<text>Nie pozostaje nic innego, niż kontynuować. Po śmierci Świadomości-Z, ciosach jakie zadaliśmy Monolitowi i Grzechowi i wyłączeniu wszystkich instalacji psionicznych... Zona i tak pozostaje niewzruszona. Zastanawiam się, czy w ogóle jesteśmy w stanie zatrzymać te wszystkie koszmary.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_4">
+		<text>Myślę, że Zona ma zamiar tu zostać, na dobre i na złe.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_5">
+		<text>Możliwe. Pomyślimy o naszym następnym kroku po chwili odpoczynku. Zdaję sobie sprawę, że jesteś członkiem Powinności i nie możesz po prostu odejść, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać..</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_51">
+		<text>Możliwe. Pomyślimy o naszym następnym kroku po chwili odpoczynku. Zdaję sobie sprawę, że jesteś najemnikiem i nie do końca odpowiadałoby ci zerwanie kontraktu z Duszmanem, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać..</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_52">
+		<text>Możliwe. Pomyślimy o naszym następnym kroku po chwili odpoczynku. Zdaję sobie sprawę, że jesteś wolnym stalkerem i możesz preferować niezależność, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać..</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_53">
+		<text>Możliwe. Pomyślimy o naszym następnym kroku po chwili odpoczynku. Zdaję sobie sprawę, że jesteś członkiem Czystego Nieba i prawdopodobnie odmówisz, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać..</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_54">
+		<text>Możliwe. Pomyślimy o naszym następnym kroku po chwili odpoczynku. Zdaję sobie sprawę, że jesteś członkiem Wolności i możesz się nie zgadzać z moimi przekonaniami, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać..</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_55">
+		<text>Możliwe. Pomyślimy o naszym następnym kroku po chwili odpoczynku. Zdaję sobie sprawę, że jesteś Ekologiem i nie możesz po prostu odejść, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać..</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_500">
+		<text>Możliwe. Pomyślę o swoim następnym kroku. Zdaję sobie sprawę, że jesteś członkiem Powinności i nie możesz po prostu odejść, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_501">
+		<text>Możliwe. Pomyślę o swoim następnym kroku. Zdaję sobie sprawę, że jesteś najemnikiem i nie do końca odpowiadałoby ci zerwanie kontraktu z Duszmanem, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_502">
+		<text>Możliwe. Pomyślę o swoim następnym kroku. Zdaję sobie sprawę, że jesteś wolnym stalkerem i możesz preferować niezależność, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_503">
+		<text>Możliwe. Pomyślę o swoim następnym kroku. Zdaję sobie sprawę, że jesteś członkiem Czystego Nieba i prawdopodobnie odmówisz, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_504">
+		<text>Możliwe. Pomyślę o swoim następnym kroku. Zdaję sobie sprawę, że jesteś członkiem Wolności i możesz się nie zgadzać z moimi przekonaniami, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_505">
+		<text>Możliwe. Pomyślę o swoim następnym kroku. Zdaję sobie sprawę, że jesteś Ekologiem i nie możesz po prostu odejść, ale rozważ dołączenie do nas. Będziemy potrzebowali tyle pomocy, ile tylko zdołamy uzyskać.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_6">
+		<text>Dobra, Strielok, rozważę to.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_61">
+		<text>Wybacz Strielok, ale nie mogę porzucić swoich zobowiązań. Żegnaj.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_7">
+		<text>Rozumiem. Do zobaczenia.</text>
+	</string>
+	
+	<string id="strelok_finale_dialogue_0">
+		<text>Pułkownik Diegtiariow, agent SBU stojący na zewnątrz, ma rozkaz aresztowania cię... lub eliminacji.</text>
+	</string>
+	<string id="strelok_finale_dialogue_1">
+		<text>Nie uśmiecha mi się więcej współpracy z wojskiem. Zawsze, gdy coś zniszczą wolą udawać, że nic się nie stało i utrzymać to w ścisłej tajemnicy. Naprawianie błędów jest dla nich po prostu zbyt ciężkie i kosztowne, bez względu na konsekwencje.</text>
+	</string>
+	<string id="strelok_finale_dialogue_2">
+		<text>Wiem, Strielok, po prostu mnie wysłuchaj.</text>
+	</string>
+	<string id="strelok_finale_dialogue_3">
+		<text>Tak?</text>
+	</string>
+	<string id="strelok_finale_dialogue_4">
+		<text>Zyskałem zaufanie Diegtiariowa. Mamy szansę wziąć jego ludzi z zaskoczenia, jeśli będziemy działać szybko. Nie chcę tego robić, ale nie pozwolę im cię aresztować.</text>
+	</string>
+	<string id="strelok_finale_dialogue_400">
+		<text>Ze względu na sukces całej reszty tej operacji, Diegtiariow ma wystarczająco swobody, by wynegocjować kompromis. Jeśli zgodzisz się odejść w cień i zatrzymać wiedzę o Zonie dla siebie, będziesz mógł odejść. Wesprę cię, jeśli Pułkownik będzie próbował złamać swoje słowo.</text>
+	</string>
+	<string id="strelok_finale_dialogue_401">
+		<text>Ze względu na sukces całej reszty tej operacji, Diegtiariow ma wystarczająco swobody, by wynegocjować kompromis. Jeśli zgodzisz się odejść w cień i zatrzymać wiedzę o Zonie dla siebie, będziesz mógł odejść. Wesprę cię, jeśli Pułkownik będzie próbował złamać swoje słowo.</text>
+	</string>
+	<string id="strelok_finale_dialogue_402">
+		<text>Ze względu na sukces całej reszty tej operacji, Diegtiariow ma wystarczająco swobody, by wynegocjować kompromis. Jeśli zgodzisz się odejść w cień i zatrzymać wiedzę o Zonie dla siebie, będziesz mógł odejść. Wesprę cię, jeśli Pułkownik będzie próbował złamać swoje słowo.</text>
+	</string>
+	<string id="strelok_finale_dialogue_5">
+		<text>Niech tak będzie. Skoro sprawy zaszły tak daleko, to skończmy je na dobre.</text>
+	</string>
+	<string id="strelok_finale_dialogue_500">
+		<text>Sam planowałem mniej więcej to samo. Powiedzmy mu, że odejdę.</text>
+	</string>
+	<string id="strelok_finale_dialogue_6">
+		<text>Okej, zróbmy to. Za mną.</text>
+	</string>
+	
+	<string id="strelok_finale_fight_dialogue_0">
+		<text>Cóż, Pułkownik nie żyje. To powinno spowolnić wojsko w pościgu za tobą.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_1">
+		<text>Był porządnym człowiekiem. Wątpię, że wojsko będzie kontynuować misję bez niego. Dziękuję, że stanąłeś po mojej stronie.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_100">
+		<text>Szkoda, że do tego doszło, przynajmniej znów mogliśmy na ciebie liczyć. Dziękuję.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_2">
+		<text>Po wszystkim, przez co razem przeszliśmy? To drobnostka.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_3">
+		<text>Tak, naprawdę przeszliśmy wspólnie przez wiele kłopotów, prawda? Cieszę się, że mogliśmy odbyć tą podróż i smuci mnie, że chyli się ona ku końcowi. Muszę znów się ukryć, odnaleźć miejsce, o którym Zona nie wie. Prawdopodobnie nie zobaczymy się przez bardzo długi czas. Może w końcu odwiedzę Doktora, zabiorę go ze sobą. Kto wie? Tak czy inaczej, żegnaj... i do zobaczenia.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_4">
+		<text>Żegnaj, Strielok.</text>
+	</string>
+	
+	<string id="strelok_finale_negotiator_dialogue_0">
+		<text>Wygląda na to, że goście z armii pozwolą ci wyjść z tego bez szwanku.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_1">
+		<text>Mogło się to potoczyć inaczej, ale miałem przeczucie, ze Diegtiariow pójdzie po rozum do głowy. Tak czy inaczej, to wielka ulga.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_100">
+		<text>Tak, też się cieszę. Szkoda, że cała grupa nie mogła dzielić z nami tego momentu. Tak czy inaczej, to prawdopodobnie najlepsze, na co mogliśmy liczyć.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_101">
+		<text>Tak, też się cieszę. Szkoda, że cała grupa nie mogła dzielić z nami tego momentu. Tak czy inaczej, to prawdopodobnie najlepsze, na co mogliśmy liczyć.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_102">
+		<text>To okropne, że Szew i Łotr zginęli tak krótko przed dotarciem do pokojowego rozwiązania. Będę musiał znaleźć chwilę, by pochować ich obok Kła i Ducha.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_2">
+		<text>Tak, sytuacja bardzo szybko uległa zmianie. Cieszę się, że mogłem pomóc w jej rozwiązaniu.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_202">
+		<text>Jestem pewien, że również będą pamiętani jako legendy.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_3">
+		<text>Powinniśmy ruszać. Powinniśmy znaleźć nową kryjówkę, taką, o której Zona jeszcze nie wie. Wiele razem przeszliśmy. Cieszę się, że mogliśmy odbyć tą podróż i smuci mnie, że chyli się ona ku końcowi. Może w końcu odwiedzę Doktora. Jestem pewien, że chciałby poznać moją nową grupę, ale po tym... cóż, tylko Zona wie co to będzie. Nie wiem, czy miałem rację co do niektórych rzeczy, ale udało nam się... i jestem za to wdzięczny. Żegnaj.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_300">
+		<text>Powinniśmy ruszać. Powinniśmy znaleźć nową kryjówkę, taką, o której Zona jeszcze nie wie. Wiele razem przeszliśmy. Cieszę się, że mogliśmy odbyć tą podróż i smuci mnie, że chyli się ona ku końcowi. Może w końcu odwiedzę Doktora. Jestem pewien, że chciałby poznać Szwa, mają wiele wspólnego, ale po tym... cóż, tylko Zona wie co to będzie. Nie wiem, czy miałem rację co do niektórych rzeczy, ale udało nam się... i jestem za to wdzięczny. Żegnaj.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_301">
+		<text>Powinniśmy ruszać. Powinniśmy znaleźć nową kryjówkę, taką, o której Zona jeszcze nie wie. Wiele razem przeszliśmy. Cieszę się, że mogliśmy odbyć tą podróż i smuci mnie, że chyli się ona ku końcowi. Może w końcu odwiedzę Doktora. Jestem pewien, że chciałby poznać Łotra, ale po tym... cóż, tylko Zona wie co to będzie. Nie wiem, czy miałem rację co do niektórych rzeczy, ale udało nam się... i jestem za to wdzięczny. Żegnaj.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_302">
+		<text>Powinienem ruszać. Muszę znaleźć nową kryjówkę, taką, o której Zona jeszcze nie wie. Wiele razem przeszliśmy. Cieszę się, że mogliśmy odbyć tą podróż i smuci mnie, że chyli się ona ku końcowi i żaden z moich towarzyszy nie dotarł do jej końca. Może w końcu odwiedzę Doktora. Dobrze będzie zobaczyć jednego z niewielu przyjaciół, którzy przetrwali, ale po tym... cóż, tylko Zona wie co to będzie. Nie wiem, czy miałem rację co do niektórych rzeczy, ale udało nam się... i jestem za to wdzięczny. Żegnaj.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_4">
+		<text>Mam nadzieję, że wkrótce się znów zobaczymy. Do następnego, Strielok.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_oa_0">
+		<text>To było ostre. Jak się tu w ogóle znalazłeś?</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_1">
+		<text>Walczyliśmy z dużą grupą Monolitu. Sytuacja się napięła, ostrzał ze wszystkich stron, wybuchy granatów, bezsensowne krzyki Monolitian... Uciekłem do teatru, by złapać trochę oddechu. Okazało się, był wypełniony cholernymi zombie. Wyskoczyłem stamtąd jak poparzony... prosto w kolejna grupę zombie. Dobrze, że się pojawiłeś, kończyły mi się już opcje... Możemy już wracać do pralni? Proszę?</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_2">
+		<text>Jasna sprawa. Chodźmy.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_oa_saved_0">
+		<text>Udało nam się. Nie zostałeś ugryziony, co? Nie wiem, kto byłby w stanie zająć się infekcją u medyka.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_saved_1">
+		<text>Ha! Śmiałbym się, gdybym się już przestał trząść... uff. Dzięki za pomoc, gościu, mam u ciebie dług.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_saved_2">
+		<text>Cała przyjemność po mojej stronie.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_oa_join_0">
+		<text>Musimy się śpieszyć, chodź.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_join_1">
+		<text>Jasne, chodźmy!</text>
+	</string>
+	
+	<string id="degtyarev_start_0">
+		<text>Mamy tu napięty grafik, streszczajmy się.</text>
+	</string>
+	
+	<string id="degtyarev_start_jup_0">
+		<text>Witaj.</text>
+	</string>
+	
+	<string id="degtyarev_start_pri_0">
+		<text>O, to ty. Lepiej, żebyś się dalej nie mieszał.</text>
+	</string>
+	
+	<string id="degtyarev_transmission_0">
+		<text>Kim jesteś?</text>
+	</string>
+	<string id="degtyarev_transmission_1">
+		<text>To moja kwestia, stalkerze. Wygląda na to, że przyciągnęliśmy trochę niechcianej uwagi. Jestem Pułkownik Diegtiariow. Nie mamy zbyt wiele czasu, więc złożę ci propozycję nie do odrzucenia: chodź i pomóż nam wyeliminować wrogą drużynę. Mam nadzieję, że mogę polegać na członku Powinności.</text>
+	</string>
+	<string id="degtyarev_transmission_100">
+		<text>To moja kwestia, najemniku. Wygląda na to, że przyciągnęliśmy trochę niechcianej uwagi. Jestem Pułkownik Diegtiariow. Nie mamy zbyt wiele czasu, więc złożę ci propozycję nie do odrzucenia: chodź i pomóż nam wyeliminować wrogą drużynę. Oczywiście, zostaniesz odpowiednio wynagrodzony.</text>
+	</string>
+	<string id="degtyarev_transmission_110">
+		<text>To moja kwestia, stalkerze. Wygląda na to, że przyciągnęliśmy trochę niechcianej uwagi. Jestem Pułkownik Diegtiariow. Nie mamy zbyt wiele czasu, więc złożę ci propozycję nie do odrzucenia: chodź i pomóż nam wyeliminować wrogą drużynę. Oczywiście, zostaniesz odpowiednio wynagrodzony.</text>
+	</string>
+	<string id="degtyarev_transmission_120">
+		<text>To moja kwestia, stalkerze. Wygląda na to, że przyciągnęliśmy trochę niechcianej uwagi. Jestem Pułkownik Diegtiariow. Nie mamy zbyt wiele czasu, więc złożę ci propozycję nie do odrzucenia: chodź i pomóż nam wyeliminować wrogą drużynę. Jako członek Czystego Nieba, na pewno rozumiesz, że niektóre sekrety najlepiej pozostawić nieodkrytymi.</text>
+	</string>
+	<string id="degtyarev_transmission_130">
+		<text>To moja kwestia, stalkerze. Wygląda na to, że przyciągnęliśmy trochę niechcianej uwagi. Jestem Pułkownik Diegtiariow. Nie mamy zbyt wiele czasu, więc złożę ci propozycję nie do odrzucenia: chodź i pomóż nam wyeliminować wrogą drużynę. Wiem, że Wolność nie jest największym fanem wojska, jednak mógłbyś teraz odpłacić dług, który jest mi winna twoja fakcja za pomoc w Janowie.</text>
+	</string>
+	<string id="degtyarev_transmission_140">
+		<text>To moja kwestia. Wygląda na to, że przyciągnęliśmy trochę niechcianej uwagi. Jestem Pułkownik Diegtiariow. Nie mamy zbyt wiele czasu, więc złożę ci propozycję nie do odrzucenia: chodź i pomóż nam wyeliminować wrogą drużynę. Wiem, że jesteś tu pewnie w celu przeprowadzenia jakichś badań, ale dowiodłeś już swojej odwagi w starciu z Grzechem, a każda pomoc będzie w tej sytuacji doceniona.</text>
+	</string>
+	<string id="degtyarev_transmission_2">
+		<text>Dobrze, pomogę wam.</text>
+	</string>
+	<string id="degtyarev_transmission_21">
+		<text>Wolałbym się w to nie mieszać.</text>
+	</string>
+	<string id="degtyarev_transmission_3">
+		<text>Dobrze. Wróg przebywa obecnie w opuszczonej leśniczówce, na południowy wschód stąd. Idź na szpicy, mój oddział będzie zaraz za tobą.</text>
+	</string>
+	<string id="degtyarev_transmission_31">
+		<text>Już jesteś zamieszany, więc obawiam się, że nie jesteś w pozycji, z której mógłbyś odmówić. Mogę pominąć fakt, że cię spotkałem w rozmowie z moimi przełożonymi, jeśli tylko nam pomożesz. Rozważ moje słowa.</text>
+	</string>
+	<string id="degtyarev_transmission_4">
+		<text>Dobrze, Pułkowniku. Chodźmy.</text>
+	</string>
+	<string id="degtyarev_transmission_41">
+		<text>Powiedzmy, że masz rację. Zgoda. Pomogę wam.</text>
+	</string>
+	
+	<string id="degtyarev_rally_point_middle_0">
+		<text>Mamy ich wszystkich. Co teraz?</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_1">
+		<text>Zlikwidowaliśmy dopiero wartowników, których zostawiono na straży. Poczekajmy tu na resztę drużyny, powinni niedługo wrócić ze zwiadu.</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_2">
+		<text>Jak wielu?</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_3">
+		<text>Dziewięciu dobrze uzbrojonych żołnierzy. Ich dowódca nosi egzoszkielet, przygotuj się na ciężką wymianę ognia.</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_4">
+		<text>Miejmy nadzieję, że nie zorientują się zbyt szybko co się dzieje.</text>
+	</string>
+	
+	<string id="degtyarev_rally_point_0">
+		<text>Teraz mamy ich wszystkich. Coś jeszcze?</text>
+	</string>
+	<string id="degtyarev_rally_point_1">
+		<text>Przeszukaj ciała. Chcę zobaczyć PDA ich kapitana.</text>
+	</string>
+	<string id="degtyarev_rally_point_2">
+		<text>Jasna sprawa.</text>
+	</string>
+	
+	<string id="degtyarev_rally_point_pda_0">
+		<text>Trzymaj, znalazłem PDA kapitana.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_1">
+		<text>Dobrze. To nam pomoże przewidzieć ich kolejny ruch.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_2">
+		<text>Kim są w ogóle ci ludzie?</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_3">
+		<text>Widziałeś naszywki na ich kombinezonach?</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_4">
+		<text>Tak, widzę napis "UNISG", ale jeśli to byli naukowcy, to ja jestem burerem.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_5">
+		<text>Możliwe, że byli w roku 2011, gdy stworzono tę formację. Ale biorąc pod uwagę ostanie wydarzenia, wojnę z Grzechem, ogromną emisję... wygląda na to, że Narody Zjednoczone zdecydowały przekształcić ich w specjalny oddział rozpoznania. Zwiadowcy, których pojmaliśmy, twierdzą, że wciąż badają Zonę, zupełnie jak Ekolodzy, ale wiemy, że są też bardzo ciekawscy na temat źródła jej powstania. Jest to coś, co powinno, przynajmniej teraz, pozostać tajemnicą.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_6">
+		<text>Wow, naprawdę mi to powiedziałeś. Dostanę teraz kulkę w tył głowy?</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_7">
+		<text>Nie martw się. To nie jest pierwszy raz, kiedy pracuję z tutejszymi stalkerami. Doceniam twoją pomoc, więc otrzymasz ode mnie odpowiednią prowizję. Utrzymam twój udział w sekrecie. Dam ci tylko przyjacielskie ostrzeżenie: zatrzymaj dla siebie wszystko, czego się tu dowiedziałeś. Im mniej mówisz, tym mniejsza szansa, że będziemy musieli kiedyś po ciebie przyjść.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_8">
+		<text>Rozumiem, zgoda. Żegnaj, Pułkowniku.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_special_delivery_0">
+		<text>Przyznam, że się tu ciebie nie spodziewałem. Co robisz w Janowie?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_1">
+		<text>Zwykła wizyta. Wiesz, podróże, polowania na najgrubszą zwierzynę, te sprawy.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_2">
+		<text>Nie obawiasz się złej reakcji stalkerów?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_3">
+		<text>Oczywiście, że nie. Prawda jest taka, że lokalna społeczność całkiem dobrze mnie wspomina. Poznali mnie jako pomocnego, neutralnego stalkera i chciałbym, żeby tak pozostało.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_4">
+		<text>Ok, jasne. Ale dlaczego wysłałeś mi wiadomość? Nie wydaje mi się, żebyś potrzebował towarzysza podróży.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_5">
+		<text>Jak już dobrze wiesz, jestem zajętym człowiekiem. Jest wiele spraw, które wymagają zamknięcia w jednym momencie. Dużo osiągnąłeś podczas swojego pobytu w Zonie. Każda pomoc jaką możesz mi zapewnić byłaby wysoko doceniona i wynagrodzona.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_6">
+		<text>Czego potrzebujesz?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_7">
+		<text>Potrzebuję, by pewna paczka trafiła do jednego z moich przyjaciół. Będzie czekać niedaleko stąd. Rzecz w tym, że otrzymałem od niego informację, że jest ścigany przez grupę "bandytów". Tych samych, z którymi ostatnio walczyliśmy. Dostawa musi się odbyć jak najszybciej i najdyskretniej. Wchodzisz w to?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_8">
+		<text>Tak, zrobię to.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_9">
+		<text>Wróć, gdy skończysz.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_undercover_agent_0">
+		<text>Co do tej dostawy...</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_1">
+		<text>Tak, stalkerze?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_11">
+		<text>Zgaduję, że profesjonalista twojego pokroju nie trafił na żadne problemy?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_2">
+		<text>Nieważne.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_20">
+		<text>Dostarczyłem paczkę do twojego, hmm, przyjaciela.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_200">
+		<text>Twój przyjaciel został zdemaskowany. Był martwy, gdy do niego dotarłem.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_210">
+		<text>Wybacz, nie byłem w stanie dostarczyć paczki na czas.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_3">
+		<text>Doskonale, oto twoja nagroda. Oraz kolejna zadanie. Widzisz, kolejny z moich przyjaciół zdołał zinfiltrować grupę tych "bandytów". Obserwuje ich poczynania już od jakiegoś czasu. Skontaktuj się z nim bezpośrednio i odbierz od niego pendrive z informacjami.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_4">
+		<text>A co z "bandytami", z którymi będzie on przebywać? Nie otworzą ognia?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_5">
+		<text>Ze względu na okoliczności, w jakich się znalazła, ta konkretna grupa nie powinna mieć problemu z twoją obecnością, o ile nie zorientują się dlaczego tak naprawdę tam jesteś. Mój przyjaciel zapyta o niebezpieczną zwierzynę. Pamiętaj, by mu powiedzieć, że zostałeś po drodze do niego zaatakowany przez grupę ślepych psów.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_6">
+		<text>Okej, robi się.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_300">
+		<text>Kurwa, to niedobrze. Będę musiał obmyślić nowy plan dostarczenia paczki. Myślę, że wciąż należy ci się nagroda za to, że próbowałeś, lepiej żebyś był dobrze zmotywowany do kolejnego zadania. Widzisz, kolejny z moich przyjaciół zdołał zinfiltrować grupę tych "bandytów". Obserwuje ich poczynania już od jakiegoś czasu. Skontaktuj się z nim bezpośrednio i odbierz od niego pendrive z informacjami.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_search_unit_0">
+		<text>Co do twojego przyjaciela...</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_1">
+		<text>Tak?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_2">
+		<text>Nic, nieważne.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_20">
+		<text>Mam pendrive. Niczego nie podejrzewali.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_200">
+		<text>Mam pendrive. Niestety, skopałem sprawę z kodem i sprawy się skomplikowały.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_3">
+		<text>Dobra robota. Robota w tym sektorze jest już prawie skończona. Pozostała jedna rzecz: wygląda na to, że "bandyci" uważnie przeszukują starą fabrykę Jupiter. Chcę by nie znaleźli żadnych poufnych informacji, w razie gdyby coś takiego tam było, więc powinniśmy się ich pozbyć. Przezorny zawsze ubezpieczony.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_4">
+		 <text>Zgoda, ruszajmy.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_300">
+		<text>Ty... cholera jasna, to było proste hasło! Nie spodziewałem się po tobie czegoś takiego. Całe szczęście wciąż możemy mieć użytek z informacji, które przyniosłeś. Robota w tym sektorze jest już prawie skończona. Pozostała jedna rzecz: wygląda na to, że "bandyci" uważnie przeszukują starą fabrykę Jupiter. Chcę by nie znaleźli żadnych poufnych informacji, w razie gdyby coś takiego tam było, więc powinniśmy się ich pozbyć. Przezorny zawsze ubezpieczony.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_search_unit_middle_0">
+		<text>Cóż, liczba naszych ofiar właśnie się powiększyła. To już wszystko?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_middle_1">
+		<text>Bezpośrednie zagrożenie zostało wyeliminowane. Teraz powinniśmy przeszukać kompleks i zebrać pozostałe dokumenty. Byłem tu parę lat temu, ale mogłem coś przeoczyć. Byliśmy wtedy bardzo zajęci.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_middle_2">
+		<text>Dobra. Zamieniam się w kopacza.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_final_0">
+		<text>Masz, weź te dokumenty.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_1">
+		<text>Bardzo dobrze, nasza praca w Jupiterze została zakończona. Pora na mnie, Operacja Brzask nie jest jeszcze zakończona. Muszę się zająć pewną sytuacją na Przedmieściach Prypeci, ale nie ma już potrzeby, żebyś ingerował. Dziękuję za pomoc. Do zobaczenia.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_2">
+		<text>Do zobaczenia, Pułkowniku.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_final_bad_0">
+		<text>Spóźniliśmy się. Jeśli cokolwiek tu było, to już jest pewnie uważnie analizowane przez naukowców z UNISG. Co teraz?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_bad_1">
+		<text>Moja praca stała się właśnie znacznie utrudniona, oto co teraz. Wygląda na to, że nie mamy już nic więcej do zrobienia w Jupiterze. Pora na mnie, muszę jakoś uratować tą operację. Muszę się zająć pewną sytuacją na Przedmieściach Prypeci, ale nasze współpraca kończy się w tym momencie. Do zobaczenia.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_bad_2">
+		<text>Do zobaczenia, Diegtiariow.</text>
+	</string>
+	
+	<string id="degtyarev_finale_dialogue_0">
+		<text>Co się tu dzieje, Pułkowniku?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_1">
+		<text>Można o tym łatwo zapomnieć, ale jestem oficerem Biura Ochrony Ukrainy i mam swoje rozkazy. Zona posiada wiele sekretów, które nie powinny ujrzeć światła dziennego. Niestety, niektórzy ludzie dowiedzieli się już zbyt wiele. Strielok jest jednym z tych ludzi, o czym wie również UNISG. Moim głównym zadaniem jest zapobiegnięcie wyciekowi informacji w niepożądane ręce. Moje obecne rozkazy to przywrócenie Strieloka do pracy pod naszym nadzorem jako oficjalny doradca badawczy... lub eliminacja.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_2">
+		<text>Czy ty naprawdę próbujesz aresztować Strieloka? Jest jednym z najbardziej doświadczonych stalkerów w Zonie. Ten człowiek walczy i wygrywa z Monolitem od lat!</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_3">
+		<text>Operacja Brzask była jak dotąd wielkim rozczarowaniem. UNISG odkryli już wystarczająco, by usprawiedliwić międzynarodową aneksję Zony. Sytuacja jest konkretnie rozjebana i ostatnie, co możemy zrobić dla tej operacji to kontrola szkód. Nie możemy pozwolić, by ktokolwiek rozmawiał ze Strielokiem. To również dotyczy ciebie.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_300">
+		<text>Operacja Brzask była jak dotąd wielkim sukcesem. Udało nam się utrzymać wszystkie sekrety z dala od zasięgu UNISG, przez co będą oni zmuszeni do znacznej demilitaryzacji swoich sił w Zonie, lub nawet do całkowitego jej opuszczenia. Sytuacja jest stabilna i wszystko co nam pozostało przed zakończeniem operacji to dopilnowanie paru niedokończonych spraw. Na przykład, nie możemy pozwolić, by ktokolwiek rozmawiał ze Strielokiem.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_310">
+		<text>Operacja Brzask była jak dotąd rozczarowaniem. UNISG dowiedziało się wystarczająco wiele, by zabezpieczyć dodatkowe finansowanie i wsparcie ze strony Narodów Zjednoczonych. Sytuacja jest poważna i dla dobra całej operacji nie możemy sobie pozwolić na więcej potknięć. Nie możemy pozwolić, by ktokolwiek rozmawiał ze Strielokiem. To również dotyczy ciebie.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_320">
+		<text>Operacja Brzask była jak dotąd sukcesem. Mimo, że UNISG dowiedzieli się niektórych rzeczy, nie będzie to wystarczające, by usprawiedliwić utrzymanie ich operacji przez najbliższy rok lub dwa. Sytuacja jest korzystna, a my powinniśmy ją wykorzystać do dopilnowania niedokończonych spraw i zakończenia operacji. Nie możemy pozwolić, by ktokolwiek rozmawiał ze Strielokiem.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_4">
+		<text>Żałuję, że nie mogłem służyć lepszą pomocą. Ale czy to naprawdę konieczne?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_400">
+		<text>Cieszę się, że mogłem się przyczynić do osiągnięcia tego sukcesu. Czy jest szansa, bym mógł prosić w zamian o przysługę?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_410">
+		<text>Wcale nie jest tak źle jak mówisz, nie musisz tego robić!</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_420">
+		<text>Cieszę się, że byłem w tanie pomóc w osiągnięciu tego sukcesu. Czy jest szansa, bym mógł prosić w zamian o przysługę?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_5">
+		<text>Tak, jest to absolutnie konieczne. Obawiam się, że będę potrzebował twojej pełnej kooperacji, jeśli nie chcesz być również "zamieciony pod dywan".</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_500">
+		<text>To operacja wojskowa, jednak faktycznie przyczyniłeś się do jej sukcesu. Jaką "przysługę" masz na myśli?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_510">
+		<text>Mylisz się, muszę to zrobić. Mam nadzieję, że będziesz współpracować. Nie chcę, byś również został "zamieciony pod dywan".</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_520">
+		<text>To operacja wojskowa i nie jestem pewien, że mam wystarczająco swobody, by przyznawać teraz jakiekolwiek "przysługi"... ale spróbuj.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_6">
+		<text>Cholera. Wygląda na to, że nie mam wyboru.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_61">
+		<text>Mam tego dość, Diegtiariow. Pora się ciebie pozbyć, powinienem był to zrobić już na początku.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_600">
+		<text>Chyba oboje zdajemy sobie sprawę, że Strielok się na to nie zgodzi. Pozwól mi wypracować z nim kompromis: przekonam go, by odszedł w cień razem ze swoimi sekretami, a ty dasz mu spokój.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_7">
+		<text>Brzmi rozsądnie. Górze się to nie spodoba, ale ze względu na ogólny sukces naszej operacji myślę, że mam wystarczająco dużo swobody, by pozwolić mu się 'wyśliznąć'. Zgoda. Masz dziesięć minut na rozstrzygnięcie sprawy.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_8">
+		<text>Dziękuję, Pułkowniku. To najlepsze rozwiązanie dla nas wszystkich.</text>
+	</string>
+	
+	<string id="degtyarev_finale_military_dialogue_0">
+		<text>Dopiąłeś swego. Strielok nie wyjawi już żadnych sekretów.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_1">
+		<text>To nie było najlepsze z rozwiązań, ale nie mieliśmy wielkiego wyboru. Operacja Brzask nie jest już kompletną porażką... możesz odejść w jednym kawałku, tak długo jak tylko przysięgasz trzymać mordę na kłódkę. Pamiętaj, będziemy cię obserwować.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_100">
+		<text>To nie było najlepsze rozwiązanie, ale skoro zadziałało, to zadziałało... Przynajmniej teraz możemy powiedzieć, że Operacja Brzask była częściowym sukcesem. W zamian za względną kooperację pozwolę ci odejść, jeśli przysięgniesz trzymać mordę na kłódkę. Pamiętaj, będziemy cię obserwować.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_2">
+		<text>Zgodziłem się na to tylko po to, by mieć spokój z tobą i twoimi żołnierzykami. Z pewnością nie powiem nikomu, czego dowiedziałem się na temat Zony. To obietnica.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_3">
+		<text>Bardzo dobrze. Bez urazy, ale mam nadzieję, że się więcej nie zobaczymy.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_300">
+		<text>Bardzo dobrze. Prawdopodobnie już się nie zobaczymy, ale zgaduję, że ci to odpowiada.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_4">
+		<text>Żegnaj, Pułkowniku.</text>
+	</string>
+
+	<string id="degtyarev_finale_negotiator_dialogue_0">
+		<text>Kolejny oddział UNISG unieszkodliwiony, nie ma już powodu do przemocy. Strielok się upewni, że już go nie znajdą.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_1">
+		<text>Porządna robota. Strielok może odejść, nie będziemy go więcej ścigać. Ciebie również.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_100">
+		<text>Dobra robota. Pozwolimy Strielokowi odejść, jednak będziemy mieć na niego oko. To samo tyczy się ciebie.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_2">
+		<text>Zgoda. Współpraca z tobą była przyjemnością, Pułkowniku.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_3">
+		<text>Po raz kolejny doskonała robota. Wkrótce możemy możemy mieć kolejną okazję do współpracy. Do zobaczenia.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_300">
+		<text>Całkiem nieźle się spisałeś. Możesz wrócić do swoich zajęć. Żegnaj.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_4">
+		<text>Do zobaczenia, Pułkowniku.</text>
+	</string>
+
+	<string id="army_lt_jup_special_delivery_0">
+		<text>Tak? Czego chcesz?</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_1">
+		<text>Mam dla ciebie przesyłkę od Pułkownika Diegtiariowa.</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_2">
+		<text>Dobra, daj mi ją.</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_3">
+		<text>To wszystko?</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_4">
+		<text>Tak, nie ma czasu do stracenia. Możesz iść.</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_5">
+		<text>Szerokiej drogi.</text>
+	</string>
+
+	<string id="army_isg_spy_undercover_agent_0">
+		<text>Co tu robisz, stalkerze? W obozie panuje napięta atmosfera, lepiej trzymaj się z dala, jeśli nie chcesz kłopotów.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_1">
+		<text>Jestem tylko posłańcem. Wspólny kontakt chciał, żebym poinformował was o aktywności pobliskich mutantów.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_2">
+		<text>Ah, jasne. Więc jak minęła podróż? Żadnych niebezpieczeństw?</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_3">
+		<text>Zostałem po drodze zaatakowany przez stado ślepych psów.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_301">
+		<text>Po zastanowieniu... tak, zostałem zaatakowany przez stado ślepych psów.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_30">
+		<text>Zostałem po drodze zaatakowany przez stado nibypsów.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_31">
+		<text>Zostałem po drodze zaatakowany przez pseudogiganta.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_40">
+		<text>Uh, jesteś pewien?</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_50">
+		<text>Kurwa, ty idioto! Weź to i uciekaj jak najszybciej!</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_4">
+		<text>Mhm, dobrze. Będziemy się za nimi rozglądać, dzięki. Weź to i idź w swoją stronę.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_5">
+		<text>Żegnaj.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_60">
+		<text>Cholera jasna.</text>
+	</string>
+
+	<string id="military_tarasov_dialog_start_0">
+		<text>Kolejna misja w Zonie...</text>
+	</string>
+	<string id="military_tarasov_dialog_oa_join_0">
+		<text>Pora ruszać.</text>
+	</string>
+	<string id="military_tarasov_dialog_oa_join_1">
+		<text>I pomyśleć, że kilka lat temu zostaliśmy wsparci przez stalkera. Cóż, rozkaz to rozkaz.</text>
+	</string>
+</string_table>

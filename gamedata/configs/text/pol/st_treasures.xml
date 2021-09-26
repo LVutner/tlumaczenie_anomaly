@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<string_table>
+	<string id="st_dark_valley_treasure_1_name">
+		<text>Skrzynka w piwnicy</text>
+	</string>
+	<string id="st_dark_valley_treasure_1_descr">
+		<text>Wrzuciłem swoje rzeczy do piwnicy, niedaleko drzwi z napisem "niebezpieczeństwo". Nie mam teraz czasu, ale z pewnością je później zabiorę.</text>
+	</string>
+	<string id="st_dark_valley_treasure_2_name">
+		<text>Skrytka w pomieszczeniu rozdzielni</text>
+	</string>
+	<string id="st_dark_valley_treasure_2_descr">
+		<text>Zrobilem małą skrytkę w pomieszczeniu rozdzielni elektrycznej, na drugim piętrze opuszczonej fabryki. Poczekam aż będę miał nieco więcej artefaktów, a potem wszystkie je sprzedam.</text>
+	</string>
+	<string id="st_dark_valley_treasure_3_name">
+		<text>Skrytka w ślepym zaułku kolektora ściekowego</text>
+	</string>
+	<string id="st_dark_valley_treasure_3_descr">
+		<text>Przypadkowo trafiłem na ślepy zaułek na końcu kolektora ściekowego pod bazą. Wyglądał na dobre miejsce do ukrycia kilku skarbów. Są w odnodze jednej z rur.</text>
+	</string>
+	<string id="st_dark_valley_treasure_4_name">
+		<text>Skrytka w rurze</text>
+	</string>
+	<string id="st_dark_valley_treasure_4_descr">
+		<text>Stworzyłem skrytkę w rurze na pierwszym piętrze opuszczonej fabryki, niedaleko schodów.</text>
+	</string>
+	<string id="st_dark_valley_treasure_5_name">
+		<text>Rura pod zbiornikiem</text>
+	</string>
+	<string id="st_dark_valley_treasure_5_descr">
+		<text>Stado psów zaszło mi drogę obok farmy, więc zrzuciłem plecak i schowałem go w rurze pod zbiornikiem, po czym stamtąd prysnąłem. Zabiorę go, gdy tylko bedę mógł.</text>
+	</string>
+	<string id="st_dark_valley_treasure_6_name">
+		<text>Skrytka w fabryce</text>
+	</string>
+	<string id="st_dark_valley_treasure_6_descr">
+		<text>Kawał dobrej skrytki w fabryce. Jest zaraz naprzeciwko wejścia, w kawałku poprzecznej rury z zaworem. Latwo ją pomylić z innymi, identycznymi rurami.</text>
+	</string>
+	<string id="st_dark_valley_treasure_7_name">
+		<text>Plecak w przyczepie</text>
+	</string>
+	<string id="st_dark_valley_treasure_7_descr">
+		<text>Powinienem w koncu zabrać swój plecak z przedniego siedzenia tej przyczepy. Musiałem się go pozbyć, w obawie, że mnie dorwą.</text>
+	</string>
+	<string id="st_dark_valley_treasure_8_name">
+		<text>Skrytka pod jodłą</text>
+	</string>
+	<string id="st_dark_valley_treasure_8_descr">
+		<text>Obym nie zapomniał pod którą jodłą zostawiłem swój łup. Jest blisko wejścia do kolektora, ale to nadal nie daje mi pewności.</text>
+	</string>
+	<string id="st_dark_valley_treasure_9_name">
+		<text>Plecak na drzewie</text>
+	</string>
+	<string id="st_dark_valley_treasure_9_descr">
+		<text>Wszyscy chowają swoje rzeczy pod ziemią, za to ja postanowiłem ukryć swoje na drzewie. Założę się, że nikt tam nawet nie spojrzy!</text>
+	</string>
+	<string id="st_dark_valley_treasure_10_name">
+		<text>Sekretna skrytka pod dachem</text>
+	</string>
+	<string id="st_dark_valley_treasure_10_descr">
+		<text>Nie martwię się o swoją skrytkę. Nawet jeśli ktoś będzie jej szukać, to bedzię musiał skakać po tych belkach, jak jakaś małpa, by się do niej dostać.</text>
+	</string>
+	<string id="st_dark_valley_treasure_11_name">
+		<text>Skrytka na wieży</text>
+	</string>
+	<string id="st_dark_valley_treasure_11_descr">
+		<text>Powiedziałem koledze, że zgubiłem swój plecak, a ten frajer to kupił. Tak naprawdę urkyłem go na szczycie wieży cisnień. Nadal tam na mnie czeka.</text>
+	</string>
+	<string id="st_dark_valley_treasure_12_name">
+		<text>Plecak w elewatorze</text>
+	</string>
+	<string id="st_dark_valley_treasure_12_descr">
+		<text>Podczas tej całej strzelaniny miałem niewiele czasu na porządne ukrycie swoich rzeczy. Wrzuciłem je do tego "domku" pod drewnianymi belkami. Wrócę tam w odpowiedniej chwili.</text>
+	</string>
+	<string id="st_dark_valley_treasure_13_name">
+		<text>Skrzynka ślusarza</text>
+	</string>
+	<string id="st_dark_valley_treasure_13_descr">
+		<text>Znalazłem starą skrzynkę ślusarską i ukryłem w niej swój "skarb". Przeniosę go, gdy tylko znajdę bezpieczniejsze miejsce.</text>
+	</string>
+	<string id="st_dark_valley_treasure_14_name">
+		<text>Sejf w fabryce</text>
+	</string>
+	<string id="st_dark_valley_treasure_14_descr">
+		<text>Jeśli ktos to czyta, to znaczy że już wącham kwiatki od spodu. Wiec oto, co chciałbym ci powiedzieć o mojej skrytce w sejfie - mam nadzieję, że go nigdy nie otworzysz, dupku!</text>
+	</string>
+	<string id="st_dark_valley_treasure_15_descr">
+		<text>Nie byłem pewien, czy wyjdę z tego starcia z życiem, więc schowałem trochę swoich rzeczy w tym zardzewialym sejfie, na opuszczonej farmie. Pora je odzyskać.</text>
+	</string>
+	<string id="st_dark_valley_treasure_16_name">
+		<text>Pień na wysepce</text>
+	</string>
+	<string id="st_dark_valley_treasure_16_descr">
+		<text>Jeden z moich kumpli miał ze sobą niezle skarby, gdy coś go dorwało na tych bagnach. Nie przeżył, ale zdążył mi przekazać, że ukrył część z nich w zgniłym pniu niedaleko anteny. Powinienem go odszukać.</text>
+	</string>
+	<string id="st_dark_valley_treasure_17_name">
+		<text>Zgniły pień</text>
+	</string>
+	<string id="st_dark_valley_treasure_17_descr">
+		<text>Nie ufam swojemu partnerowi. Myślę, że wkrótce spróbuje mnie okraść, więc ukryłem swój łup. Ukryłem go niedaleko mostu na wysepce, w przegniłym pniu. Mam nadzieję, że go nie znajdzie.</text>
+	</string>
+	<string id="st_dark_valley_treasure_18_name">
+		<text>Zgniły pień</text>
+	</string>
+	<string id="st_dark_valley_treasure_18_descr">
+		<text>Uciekałem pewnego dnia przed dzikami i wrzuciłem swoje rzeczy do dziury w pniu drzewa, niedaleko starej farmy.</text>
+	</string>
+	<string id="st_dark_valley_treasure_19_name">
+		<text>Pień przy wzgórzu</text>
+	</string>
+	<string id="st_dark_valley_treasure_19_descr">
+		<text>Stworzyłem swoją skrytkę u stóp wzgórza, pod starym pniem. To dobre miejsce - mam tylko nadzieję, że nadal będę na tyle szczęśliwy, że znajdę więcej fantów do ukrycia.</text>
+	</string>
+	<string id="st_dark_valley_treasure_20_name">
+		<text>Pień niedaleko drewnianego pokładu</text>
+	</string>
+	<string id="st_dark_valley_treasure_20_descr">
+		<text>Widziałem kilka razy, jak Kolia chodził do tego pnia na wyspie. Założę się, że ten sknerus ma tam skrytkę. Pozwolę mu zebrać trochę więcej fantów zanim tam zajrzę.</text>
+	</string>
+	<string id="st_dark_valley_treasure_21_name">
+		<text>Stary Zaporożec</text>
+	</string>
+	<string id="st_dark_valley_treasure_21_descr">
+		<text>Te pajace zachodzą w głowę próbując dowiedzieć się gdzie się podziały ich rzeczy! Ha-ha-ha! Cóż, schowałem je w tym starym Zaporożcu, niedaleko bagien. Założę się, że nikt nie będzie się tam rozglądać.</text>
+	</string>
+	<string id="st_yantar_treasure_1_name">
+		<text>Skrzynka elektryczna w fabryce</text>
+	</string>
+	<string id="st_yantar_treasure_1_descr">
+		<text>Zajrzałem do PDA Andreja i widziałem, że stworzył skrytkę w zardzewiałej skrzynce elektrycznej na terenie fabryki.</text>
+	</string>
+	<string id="st_yantar_treasure_2_name">
+		<text>Rozdzielnia przy transformatorze</text>
+	</string>
+	<string id="st_yantar_treasure_2_descr">
+		<text>Gdy cała fabryka została odcięta, wrzuciłem wszystkie swoje rzeczy w tym panelu w pomieszczeniu transformatora.</text>
+	</string>
+	<string id="st_yantar_treasure_3_name">
+		<text>Skrzynka w fabryce</text>
+	</string>
+	<string id="st_yantar_treasure_3_descr">
+		<text>Znalazłem w hangarze coś, co było kiedyś skrzynką narzędziową. W środku coś grzechotwało, ale nie miałem czasu zajrzeć do środka - sprawdzę to następnym razem.</text>
+	</string>
+	<string id="st_yantar_treasure_4_name">
+		<text>Mała skrzynka w ciężarówce</text>
+	</string>
+	<string id="st_yantar_treasure_4_descr">
+		<text>Fajne miejsce na schowek - pomiędzy kabiną, a paką. Tutjesze zombie i promieniowanie stanowią dodatkową ochronę.</text>
+	</string>
+	<string id="st_yantar_treasure_5_name">
+		<text>Skrytka przy płocie</text>
+	</string>
+	<string id="st_yantar_treasure_5_descr">
+		<text>Schowałem małe co nieco w skrzyżowanych rurach, niedaleko pojazdu budowlanego, przy płocie.</text>
+	</string>
+	<string id="st_yantar_treasure_6_name">
+		<text>Kilka błyskotek w rurze</text>
+	</string>
+	<string id="st_yantar_treasure_6_descr">
+		<text>Zabrałem ze sobą najbardziej wartościowe rzeczy, a resztę wcisnąłem w rurę, w pokoju z dziurą w ścianie.</text>
+	</string>
+	<string id="st_yantar_treasure_7_name">
+		<text>Plecka przy wejściu</text>
+	</string>
+	<string id="st_yantar_treasure_7_descr">
+		<text>Musiałem zostawić plecak pełen łupu w ruinach przy wejściu. Ciekawe, czy ktoś go już znalazł...</text>
+	</string>
+	<string id="st_yantar_treasure_8_name">
+		<text>Skrytka w kanale wentylacyjnym</text>
+	</string>
+	<string id="st_yantar_treasure_8_descr">
+		<text>Hej, Anton, pamiętaj koordynaty i punkty odniesienia - plecak jest w kanale wentylacyjnym, obok rozbitej ściany. Pozdrawiam, Sowa.</text>
+	</string>
+	<string id="st_yantar_treasure_9_name">
+		<text>Plecak pod siedzeniem</text>
+	</string>
+	<string id="st_yantar_treasure_9_descr">
+		<text>Nie miałem czasu na myślenie, więc wcisnąłem swój łup pod siedzenie kierowcy w starym UAZie.</text>
+	</string>
+	<string id="st_yantar_treasure_10_name">
+		<text>Skrytka w skrzyni biegów dźwigu</text>
+	</string>
+	<string id="st_yantar_treasure_10_descr">
+		<text>Bóg wie, co mnie skłoniło do zrobienia skrytki w takim miejscu. Teraz nawet nie mogę jej dosięgnąć!</text>
+	</string>
+	<string id="st_yantar_treasure_11_name">
+		<text>Schowek w sejfie</text>
+	</string>
+	<string id="st_yantar_treasure_11_descr">
+		<text>Najlepsza skrytka w Zonie należy teraz do mnie. Jest w sejfie, na terenie fabryki.</text>
+	</string>
+	<string id="st_yantar_treasure_12_name">
+		<text>Pusta kłoda</text>
+	</string>
+	<string id="st_yantar_treasure_12_descr">
+		<text>Schowałem swoje rzeczy w pustej kłodzie, przy "cierniu".</text>
+	</string>
+	<string id="st_yantar_treasure_13_name">
+		<text>Kłoda przy wzgórzu</text>
+	</string>
+	<string id="st_yantar_treasure_13_descr">
+		<text>Przez te zombie z fabryki nie miałem innego wyjścia, niż pożegnać się ze swoimi fantami. Schowałem ja w kłodzie, u stóp wzgóza.</text>
+	</string>
+	<string id="st_yantar_treasure_14_name">
+		<text>Pień niedaleko wieży</text>
+	</string>
+	<string id="st_yantar_treasure_14_descr">
+		<text>Zrobiłem kolejną skrytkę w dziurawym pniu, na wzgórzu z więżą wysokiego napięcia. Wszyscy myślą, że chodzę tam tylko dla widoków, debile!</text>
+	</string>
+	<string id="st_gar_treasure_17_name">
+		<text>Rura z dyszą</text>
+	</string>
+	<string id="st_gar_treasure_17_descr">
+		<text>Stworzyłem skrytkę w dyszy jednej z rur, na tej kupie radioaktywnych śmieci.</text>
+	</string>
+	<string id="st_gar_treasure_18_name">
+		<text>Rura przy lokomotywie</text>
+	</string>
+	<string id="st_gar_treasure_18_descr">
+		<text>Obok zrujnowanej lokomotywy na wysypisku leży rura z moim urobkiem.</text>
+	</string>
+	<string id="st_agr_treasure_1_name">
+		<text>Pod krzyżem</text>
+	</string>
+	<string id="st_agr_treasure_1_descr">
+		<text>Agroprom, krazki, krzyż. Grób pod krzyżem.</text>
+	</string>
+	<string id="st_agr_treasure_2_name">
+		<text>Panel elektryczny w warsztacie</text>
+	</string>
+	<string id="st_agr_treasure_2_descr">
+		<text>Ten sukinsyn Dehydrator obdziera nas wszystkich z łupu. Pieprzony stary grzyb. Schowałem przed tym frajerem swoje rzeczy we wnętrzu panelu elektrycznego, na drugim piętrze.</text>
+	</string>
+	<string id="st_agr_treasure_3_name">
+		<text>Traktor</text>
+	</string>
+	<string id="st_agr_treasure_4_name">
+		<text>Samochód w garażu</text>
+	</string>
+	<string id="st_agr_treasure_4_descr">
+		<text>Schowałem swoje śmieci w bagażniku terenówki dowódcy. Moje rzeczy będą bezpieczne, dopóki nikt go nie naprawi.</text>
+	</string>
+	<string id="st_agr_treasure_5_name">
+		<text>Walizka pod wagonem</text>
+	</string>
+	<string id="st_agr_treasure_5_descr">
+		<text>Skrzynka pod wagonem w Agropromie.</text>
+	</string>
+	<string id="st_agr_treasure_6_name">
+		<text>Bus na przystanku</text>
+	</string>
+	<string id="st_agr_treasure_6_descr">
+		<text>Skrzynka w busie na przystanku, w pobliżu neutralnej bazy.</text>
+	</string>
+	<string id="st_agr_treasure_3_descr">
+		<text>Po tym jak Timej naprawił traktor, załadowaliśmy się wszyscy i wyruszyliśmy na nocną przejażdżkę. Trafiliśmy wtedy na pijawki. Musieliśmy spieprzać jak najszybciej i zgubiliśmy skrzynkę z urobkiem.</text>
+	</string>
+	<string id="st_agr_treasure_7_name">
+		<text>Rura w gruzach</text>
+	</string>
+	<string id="st_agr_treasure_7_descr">
+		<text>Skrytka: zablokowane wejście do podziemi, w rurze w kształcie kolana.</text>
+	</string>
+	<string id="st_agr_treasure_8_name">
+		<text>Niczyj plecak</text>
+	</string>
+	<string id="st_agr_treasure_9_name">
+		<text>Baza stalkerów</text>
+	</string>
+	<string id="st_agr_treasure_9_descr">
+		<text>Zarzuciłem swój plecak na tamto drzewo, inaczej każdy by się dowiedział, kto wrobił Witala. Najszybszą drogą byłyby rury wychodzące z terenu neutralnej bazy.</text>
+	</string>
+	<string id="st_agr_treasure_8_descr">
+		<text>Zauważyłem coś na drzewie, w pobliżu bazy wojskowej, ale nie miałem jak się tam wspiąć.</text>
+	</string>
+	<string id="st_agr_treasure_10_name">
+		<text>Rura na bagnie</text>
+	</string>
+	<string id="st_agr_treasure_11_name">
+		<text>Zgubiony plecak</text>
+	</string>
+	<string id="st_agr_treasure_11_descr">
+		<text>Wracaliśmy właśnie z wyprawy i odpoczywaliśmy przy kamieniach i jakimś cudem zapomniałem o swoim plecaku. Wrócę po niego, gdy tylko znajdę czas.</text>
+	</string>
+	<string id="st_agr_treasure_12_name">
+		<text>Plecak Rigmana</text>
+	</string>
+	<string id="st_agr_treasure_12_descr">
+		<text>Musiałem wspiąć się na sam szczyt tej wieży i czekać tam, aż nasi chłopcy przegonili psy. Upuściłem swój plecak w krzakach.</text>
+	</string>
+	<string id="st_agr_treasure_10_descr">
+		<text>Moja skrytka jest w rurze na bagnie. Łup jest w plecaku.</text>
+	</string>
+	<string id="st_agr_treasure_13_name">
+		<text>Sejf w krzakach</text>
+	</string>
+	<string id="st_agr_treasure_13_descr">
+		<text>Próbowaliśmy wykopać ten sejf w pobliżu skarpy. Po deszczu było tak błotniście, że ciągle się ślizgaliśmy i upadaliśmy, aż w końcu sobie odpuściliśmy.</text>
+	</string>
+	<string id="st_agr_treasure_14_name">
+		<text>Samotna kłoda</text>
+	</string>
+	<string id="st_agr_treasure_15_name">
+		<text>Jaja wielkanocne</text>
+	</string>
+	<string id="st_agr_treasure_15_descr">
+		<text>Na Wielkanoc Anton nakłonił nas do zrobienia kilku skrytek dla klanu. Wetknąłem jedno z tych "jaj wielkanocnych" do kłody.</text>
+	</string>
+	<string id="st_agr_treasure_14_descr">
+		<text>Nikt nie będzie szukał mojej skrytki w kłodzie, niedaleko zarośli.</text>
+	</string>
+	<string id="st_agru_treasure_1_name">
+		<text>Rura w pomieszczeniu kontrolnym</text>
+	</string>
+	<string id="st_agru_treasure_1_descr">
+		<text>Kiedy potwory zaczęły zalewać okolicę, ukryłem część swoich rzeczy w rurze i dałem nogę.</text>
+	</string>
+	<string id="st_agru_treasure_2_name">
+		<text>Plecak w anomaliach</text>
+	</string>
+	<string id="st_agru_treasure_2_descr">
+		<text>Przechodząc przez most upuściłem plecak w sam środek skażonej strefy. Próbowałem się do niego dostać, ale nie dałem rady.</text>
+	</string>
+	<string id="st_agru_treasure_4_name">
+		<text>Plecak przy trupie</text>
+	</string>
+	<string id="st_agru_treasure_4_descr">
+		<text>Małe, wstrętne mutanty, przypominające szczury, albo myszoskoczki, rozerwały mojego kumpla na strzępy. Ledwo uszedłem z życiem - dzięki bogu w pobliżu były schody.</text>
+	</string>
+	<string id="st_agru_treasure_5_name">
+		<text>Plecak pod schodami</text>
+	</string>
+	<string id="st_agru_treasure_5_descr">
+		<text>Widziałem duży czarny plecak w wodzie, pod schodami. Wlazłbym tam, gdyby nie tak groźnie wyglądająca anomalia.</text>
+	</string>
+	<string id="st_esc_treasure_1_name">
+		<text>Pod krzyżem na wzgórzu</text>
+	</string>
+	<string id="st_esc_treasure_1_descr">
+		<text>Ukryłem swój łup w fałszywym grobie stalkera na wzgórzu.</text>
+	</string>
+	<string id="st_esc_treasure_2_name">
+		<text>Skrzynia nad mostem</text>
+	</string>
+	<string id="st_esc_treasure_2_descr">
+		<text>Spakowałem swój łup do skrzyni na skrzyżowaniu belek mostu. Cholera, strzasznie się spociłem podczas tej wspinaczki...</text>
+	</string>
+	<string id="st_esc_treasure_3_name">
+		<text>Rura pod powalonym drzewem</text>
+	</string>
+	<string id="st_esc_treasure_3_descr">
+		<text>Rozbiliśmy obóz niedaleko Wioski Kotów. Schowałem swoje rzeczy w rurze pod powalonym drzewem. Muszę pamiętać, żeby je potem zabrać.</text>
+	</string>
+	<string id="st_esc_treasure_15_name">
+		<text>Rura w tunelu</text>
+	</string>
+	<string id="st_esc_treasure_15_descr">
+		<text>Rzucaliśmy różnymi śmieciami w anomalie i przez przypadek wrzuciliśmy tam rurę wypchaną naszym urobkiem. Nadal tam leży i zbiera kurz.</text>
+	</string>
+	<string id="st_esc_treasure_4_name">
+		<text>Plecak w rurze od pieca</text>
+	</string>
+	<string id="st_esc_treasure_4_descr">
+		<text>Za czasów, kiedy byłem żółtodziobem storzyłem sobie małą skrytkę w rurze od pieca. Już nawet nie pamiętam, co tam zostawiłem.</text>
+	</string>
+	<string id="st_esc_treasure_5_name">
+		<text>Skrytka na drzewie</text>
+	</string>
+	<string id="st_esc_treasure_5_descr">
+		<text>Obserwowałem stację pojazdów z jednego z drzew. Postanowiłem zostawić na nim swój plecak. Najłatwiejszy sposób na wspięcie się z powrotem to gałąź od strony wzgórza.</text>
+	</string>
+	<string id="st_esc_treasure_6_name">
+		<text>Pod lokomotywą</text>
+	</string>
+	<string id="st_esc_treasure_6_descr">
+		<text>Mój dowódca przysłał rozkaz natychmiastowego wsparcia grupy Nikolajewa. Wrzuciłem wtedy swój plecak pod lokomotywę, obok nasypu.</text>
+	</string>
+	<string id="st_esc_treasure_7_name">
+		<text>Plecak za krzakiem</text>
+	</string>
+	<string id="st_esc_treasure_7_descr">
+		<text>Pewnej nocy wpadliśmy na bandytów i wdaliśmy się w małą wymianę ognia. Chwilę później musieliśmy zwiewać, więc wrzuciłem swój plecak pomiędzy głazy, za krzakiem.</text>
+	</string>
+	<string id="st_esc_treasure_8_name">
+		<text>Plecak pod drewnem opałowym</text>
+	</string>
+	<string id="st_esc_treasure_8_descr">
+		<text>Ułożyłem stertę drewna, by ukryć w niej swój łup. Leży obok dwupiętrowego budynku, naprzeciwko farmy.</text>
+	</string>
+	<string id="st_esc_treasure_16_name">
+		<text>Sejf w rurze</text>
+	</string>
+	<string id="st_esc_treasure_17_name">
+		<text>Sejf w bazie</text>
+	</string>
+	<string id="st_esc_treasure_17_descr">
+		<text>Ził trzyma swoje smieci w sejfie, w neutralnej bazie w Kordonie.</text>
+	</string>
+	<string id="st_esc_treasure_16_descr">
+		<text>Zrobiliśmy z Kolianem skrytkę w sejfie, na tym śmietnisku obok Wioski Kotów.</text>
+	</string>
+	<string id="st_esc_treasure_9_name">
+		<text>Skrytka w kłodzie</text>
+	</string>
+	<string id="st_esc_treasure_9_descr">
+		<text>Zaatakowały mnie psy, więc nie miałem wyboru - schowałem łup w pękniętej kłodzie na środku pola i dałem nogę z powrotem do obozu.</text>
+	</string>
+	<string id="st_esc_treasure_10_name">
+		<text>Skrytka w kłodzie</text>
+	</string>
+	<string id="st_esc_treasure_10_descr">
+		<text>Zdobyłem koordynaty skrytki martwego stalkera - jest w kłodzie, za farmą.</text>
+	</string>
+	<string id="st_esc_treasure_11_name">
+		<text>Pień w świerkowym lesie</text>
+	</string>
+	<string id="st_esc_treasure_11_descr">
+		<text>Ukryliśmy z kumplem resztki urobku w starym pniaku przy jodłach.</text>
+	</string>
+	<string id="st_esc_treasure_12_name">
+		<text>Pień niedaleko wioski</text>
+	</string>
+	<string id="st_esc_treasure_12_descr">
+		<text>Nie szedłem zbyt daleko, by wybrać miejsce na skrytkę. Wybrałem pierwszy lepszy dziurawy pień, niedaleko Wioski Kotów. Składam tam wszystko, co mi wpadnie w ręce.</text>
+	</string>
+	<string id="st_esc_treasure_13_name">
+		<text>Pień w lesie</text>
+	</string>
+	<string id="st_esc_treasure_13_descr">
+		<text>Sidorowicz powiedział nam, żebyśmy zrobili skrytkę w pobliżu posterunku prowadzącego na zewnątrz, pewnie dla jakiegoś kota. Schowałem wszystko pod pniem, niedaleko wzgórza.</text>
+	</string>
+	<string id="st_esc_treasure_14_name">
+		<text>Pień w Kordonie</text>
+	</string>
+	<string id="st_esc_treasure_14_descr">
+		<text>Idąc na Wysypisko schowałem wszystko w pustym pniu w lesie, żeby bandyci nie mieli czego rabować.</text>
+	</string>
+
+	<string id="st_gar_treasure_1_name">
+		<text>Panel elektryczny na stercie</text>
+	</string>
+	<string id="st_gar_treasure_1_descr">
+		<text>Odłożyłem trochę rzeczy, żeby sprzedać je potem na Pchlim Targu. Są w panelu elektrycznym, niedaleko kabiny dźwigu.</text>
+	</string>
+	<string id="st_gar_treasure_2_name">
+		<text>Panel w szopie</text>
+	</string>
+	<string id="st_gar_treasure_2_descr">
+		<text>Nie mogę się doczekać, aż sprzedam łup, który odłożyłem sobie w szopie, niedaleko stąd.</text>
+	</string>
+	<string id="st_gar_treasure_16_name">
+		<text>Panel elektryczny na śmietnisku</text>
+	</string>
+	<string id="st_gar_treasure_16_descr">
+		<text>Łup jest pod pokrywą panelu elektrycznego, na jednej ze stert.</text>
+	</string>
+	<string id="st_gar_treasure_3_name">
+		<text>Rura na Wysypisku</text>
+	</string>
+	<string id="st_gar_treasure_3_descr">
+		<text>Schowałem swoje skarby w odciętej rurze, żeby nikt mi nich nie ukradł.</text>
+	</string>
+	<string id="st_gar_treasure_4_name">
+		<text>Rura u stóp dźwigu</text>
+	</string>
+	<string id="st_gar_treasure_4_descr">
+		<text>U stóp zawalonego dźwigu leży rura - odłożyłem tam trochę błyskotek na deszczowy dzień.</text>
+	</string>
+	<string id="st_gar_treasure_5_name">
+		<text>Plecak pod jodłą</text>
+	</string>
+	<string id="st_gar_treasure_19_name">
+		<text>Plecak w kabinie dźwigu</text>
+	</string>
+	<string id="st_gar_treasure_19_descr">
+		<text>Schowałem swój plecak w kabinie dźwigu, gdy ten jeszcze stał. Teraz nie mogę się tam dostać.</text>
+	</string>
+	<string id="st_gar_treasure_5_descr">
+		<text>Dopóki sprawy się nie polepszą, mój plecak z całą zawartością będzie leżeć w ukryciu, pod tą jodłą.</text>
+	</string>
+	<string id="st_gar_treasure_20_name">
+		<text>Schowane towary</text>
+	</string>
+	<string id="st_gar_treasure_20_descr">
+		<text>Wrzuciłem swój plecak na radioaktywną stertę, żeby moi wrogowie nie mogli się do niego dostać.</text>
+	</string>
+	<string id="st_gar_treasure_6_name">
+		<text>Skrytka na śmietnisku</text>
+	</string>
+	<string id="st_gar_treasure_6_descr">
+		<text>Wetknąłem swoje rzeczy pod betonową płytę niedaleko skażonych pojazdów. Powinienem je niedługo zabrać, zanim ktoś mnie uprzedzi.</text>
+	</string>
+	<string id="st_gar_treasure_7_name">
+		<text>Dach lokomotywy</text>
+	</string>
+	<string id="st_gar_treasure_7_descr">
+		<text>Schowałem swój mały plecak na dachu lokomotywy. Nie widać tego gołym okiem, ale łatwo na nią wejść z nasypu.</text>
+	</string>
+	<string id="st_gar_treasure_8_name">
+		<text>Sejf w kałuży</text>
+	</string>
+	<string id="st_gar_treasure_8_descr">
+		<text>Wątpię, żeby komuś chciało się przetrząsać częściowo zatopiony sejf w tym syfie. To dobre miejsce na tymczasową skrytkę.</text>
+	</string>
+	<string id="st_gar_treasure_9_name">
+		<text>Sejf pod znakiem</text>
+	</string>
+	<string id="st_gar_treasure_9_descr">
+		<text>Wetknąłem swój łup do sejfu przy znaku ostrzegawczym. Powinien odstraszyć potencjalnych złodziei!</text>
+	</string>
+	<string id="st_gar_treasure_10_name">
+		<text>Dziura w kłodzie</text>
+	</string>
+	<string id="st_gar_treasure_10_descr">
+		<text>Użyłem dziurawej kłody w pobliżu obozu jako skrytkę.</text>
+	</string>
+	<string id="st_gar_treasure_11_name">
+		<text>Kłoda za dębem</text>
+	</string>
+	<string id="st_gar_treasure_11_descr">
+		<text>Kolian sprzedał mi cieakwą informację - powiedział, że Chwast chowa swój łup w dziurawej kłodzie za martwym dębem.</text>
+	</string>
+	<string id="st_gar_treasure_12_name">
+		<text>Kłoda w krzakach</text>
+	</string>
+	<string id="st_gar_treasure_12_descr">
+		<text>Wepchnąłem swój łup do kłody i zaciągnąłem ją w krzaki. Powinien być tam bezpieczny.</text>
+	</string>
+	<string id="st_gar_treasure_13_name">
+		<text>Schowek uciekiniera</text>
+	</string>
+	<string id="st_gar_treasure_13_descr">
+		<text>Jeden z kopaczy chciał zwiać z naszym towarem, ale Pasterz z chłopakami inaczej się na to zapatrywali. Rozwalili go, ale nie mogli znaleźć towaru. Tylko ja widziałem pień, którego kopacze używali jako schowka.</text>
+	</string>
+	<string id="st_gar_treasure_14_name">
+		<text>Samotny schowek</text>
+	</string>
+	<string id="st_gar_treasure_14_descr">
+		<text>Wybrałem samotny wydrążony pień na schowek - na wypadek, gdyby jeden z naszych chłopaków próbował mnie obrobić.</text>
+	</string>
+	<string id="st_gar_treasure_15_name">
+		<text>Schowek obok bazy</text>
+	</string>
+	<string id="st_gar_treasure_15_descr">
+		<text>Nie wiem, jak inni, ale ja swój towar chowam pod samym nosem Jogi - obok ogrodzenia, pod starym pniem.</text>
+	</string>
+	<string id="st_hos_treasure_1_name">
+		<text>Panel elektryczny w szpitalu</text>
+	</string>
+	<string id="st_hos_treasure_1_descr">
+		<text>Nasza grupa zrobiła schowek w panelu elektrycznym na parterze szpitala.</text>
+	</string>
+	<string id="st_hos_treasure_2_name">
+		<text>Plecak pod schodami</text>
+	</string>
+	<string id="st_hos_treasure_2_descr">
+		<text>Jak zdobywaliśmy pierwsze piętro, musieliśmy pozbyć się wszystkiego, co nie było niezbędne.</text>
+	</string>
+	<string id="st_hos_treasure_3_name">
+		<text>Barykady w korytarzu</text>
+	</string>
+	<string id="st_hos_treasure_3_descr">
+		<text>Tkwiłem pod ostrzałem na korytarzu na pierwszym piętrze szpitala. Musiałem schować towar w starym sejfie na barykadach.</text>
+	</string>
+	<string id="st_lim_treasure_3_name">
+		<text>Rura w kanałach</text>
+	</string>
+	<string id="st_lim_treasure_3_descr">
+		<text>Zauważyłem czyjś schowek w rurze odpływowej. Zajrzę tam, kiedy znów tu będziemy.</text>
+	</string>
+	<string id="st_lim_treasure_6_name">
+		<text>Torba we wnęce</text>
+	</string>
+	<string id="st_lim_treasure_5_name">
+		<text>Torba na strychu</text>
+	</string>
+	<string id="st_lim_treasure_5_descr">
+		<text>Odpieraliśmy ataki przez dwa dni. Pod koniec musieliśmy wycofać się na dach, ale wtedy przybyły nasze posiłki. Zauważyłem walizkę na strychu, ale zapomniałem ją zabrać.</text>
+	</string>
+	<string id="st_lim_treasure_6_descr">
+		<text>Przechodziliśmy przez podwórze, gdy zauważyłem przy ogrodzeniu niewielką skrzynkę na narzędzia.</text>
+	</string>
+	<string id="st_lim_treasure_7_name">
+		<text>Rura pod UAZ-em</text>
+	</string>
+	<string id="st_lim_treasure_8_name">
+		<text>Za garażami</text>
+	</string>
+	<string id="st_lim_treasure_8_descr">
+		<text>Widziałem czyjś schowek za garażami, ale nie miałem czasu go przejrzeć. Jest w dużej rurze za drzewem.</text>
+	</string>
+	<string id="st_lim_treasure_1_name">
+		<text>Rura w śmietniku</text>
+	</string>
+	<string id="st_lim_treasure_1_descr">
+		<text>Przygwoździli nas na jakimś podwórzu. Był tam pojemnik na śmiecie, a w środku rura, w której chyba coś było. Jak tylko skończymy tutaj, wrócę tam i sprawdzę.</text>
+	</string>
+	<string id="st_lim_treasure_7_descr">
+		<text>Torba z jakimś towarem wystawała spod UAZ-a. Nie miałem czasu sprawdzić, ale może uda mi się później - jeśli wcześniej nie zginę.</text>
+	</string>
+	<string id="st_lim_treasure_9_name">
+		<text>Plecak pod schowkiem</text>
+	</string>
+	<string id="st_lim_treasure_9_descr">
+		<text>Wsadziłem plecak biednego Blaszaka pod deskę rozdzielczą starego Moskwicza.</text>
+	</string>
+	<string id="st_lim_treasure_2_name">
+		<text>Plecak przy ogrodzeniu</text>
+	</string>
+	<string id="st_lim_treasure_14_name">
+		<text>Rzeczy rannego</text>
+	</string>
+	<string id="st_lim_treasure_14_descr">
+		<text>Trafili Sanka, jak przechodziliśmy przez mur. Musiał zostawić swój plecak, żeby uratować tyłek.</text>
+	</string>
+	<string id="st_lim_treasure_2_descr">
+		<text>Gonili mnie, więc zostawiłem swój plecak przy ogrodzeniu pod tymi współrzędnymi.</text>
+	</string>
+	<string id="st_lim_treasure_10_name">
+		<text>Plecak truposza</text>
+	</string>
+	<string id="st_lim_treasure_10_descr">
+		<text>Kot obok mnie dostał granatem - wykitował na miejscu. Dan wziął jego plecak i wrzucił go pod most. Trupowi się nie przyda, a nam może.</text>
+	</string>
+	<string id="st_lim_treasure_11_name">
+		<text>Sejf w garażu</text>
+	</string>
+	<string id="st_lim_treasure_11_descr">
+		<text>Szukaliśmy zbiega w garażach i znaleźliśmy sejf. Powinniśmy kiedy spróbować go otworzyć.</text>
+	</string>
+	<string id="st_lim_treasure_12_name">
+		<text>Wpół zakopana kłoda</text>
+	</string>
+	<string id="st_lim_treasure_12_descr">
+		<text>Zanim załatwiliśmy tego gnoja, widziałem, jak grzebał w kłodzie za altaną.</text>
+	</string>
+	<string id="st_lim_treasure_13_name">
+		<text>Zawiniątko w pniu</text>
+	</string>
+	<string id="st_lim_treasure_13_descr">
+		<text>Gdy szykowaliśmy się do ataku, widziałem jakieś zawiniątko w tym pniu.</text>
+	</string>
+	<string id="st_mar_treasure_1_name">
+		<text>Schowek obok bunkra</text>
+	</string>
+	<string id="st_mar_treasure_1_descr">
+		<text>Gang Chińczyka zbliżał się do mnie, więc zatopiłem towar obok włazu do bunkra na bagnach, niedaleko opuszczonego dworca autobusowego.</text>
+	</string>
+	<string id="st_mar_treasure_2_name">
+		<text>Pudełko pod wieżą</text>
+	</string>
+	<string id="st_mar_treasure_2_descr">
+		<text>Zbieram swój towar w schowku pod jedną z wież wysokiego napięcia.</text>
+	</string>
+	<string id="st_mar_treasure_3_name">
+		<text>Skrzynka w kabinie ZIŁ-a</text>
+	</string>
+	<string id="st_mar_treasure_3_descr">
+		<text>Kulawy Alek przyniósł skądś skrzynkę narzędziową ślusarza. Nałożyliśmy do niej towaru i schowaliśmy ja w kabinie zardzewiałego ZIŁ-a.</text>
+	</string>
+	<string id="st_mar_treasure_4_name">
+		<text>Rura w przepompowni</text>
+	</string>
+	<string id="st_mar_treasure_4_descr">
+		<text>Schowałem coś w rozszerzonym końcu rury obok zaworu w starej przepompowni na środku bagien.</text>
+	</string>
+	<string id="st_mar_treasure_6_name">
+		<text>Rura na bagnach</text>
+	</string>
+	<string id="st_mar_treasure_6_descr">
+		<text>Miałem dość tachania po bagnach swojego towaru, więc zostawiłem go na półwyspie w rurze z zaworem. Pomyślałem, że dzięki temu będę miał lżej, a towarowi nic się w trzcinie nie stanie.</text>
+	</string>
+	<string id="st_mar_treasure_5_name">
+		<text>Plecak na bagnach</text>
+	</string>
+	<string id="st_mar_treasure_5_descr">
+		<text>Ledwo uciekłem jednej z tych bagiennych bestii. Zwiewając, zgubiłem plecak, ale nie mam ochoty teraz po niego wracać.</text>
+	</string>
+	<string id="st_mar_treasure_8_name">
+		<text>Zanurzony sejf</text>
+	</string>
+	<string id="st_mar_treasure_8_descr">
+		<text>Niedaleko zawalonego mostu jest zanurzony w wodzie sejf. Zaufałem mu i schowałem do niego swój towar.</text>
+	</string>
+	<string id="st_mar_treasure_7_name">
+		<text>Plecak w trzcinie</text>
+	</string>
+	<string id="st_mar_treasure_7_descr">
+		<text>Zostawiłem plecak w trzcinie, jak walczyłem z dzikami. Nie mam żadnego punktu odniesienia, tylko współrzędne miejsca.</text>
+	</string>
+	<string id="st_mar_treasure_10_name">
+		<text>Pozostawione artefakty</text>
+	</string>
+	<string id="st_mar_treasure_10_descr">
+		<text>Przekręciłem jakiegoś frajera i zabrałem mu plecak pełen towaru. Postanowiłem ukryć go w trzcinie, żeby nikt mnie z nim nie złapał.</text>
+	</string>
+	<string id="st_mar_treasure_9_name">
+		<text>Pniak obok drzewa</text>
+	</string>
+	<string id="st_mar_treasure_9_descr">
+		<text>Postanowiłem schować swoje rzeczy w pniaku obok wyschniętego drzewa. Zabiorę je, gdy będę sie żegnał z Bagnami.</text>
+	</string>
+	<string id="st_mar_treasure_12_name">
+		<text>Kłoda obok wieży</text>
+	</string>
+	<string id="st_mar_treasure_12_descr">
+		<text>Pęknięta kłoda niedaleko wieży wysokiego napięcia.</text>
+	</string>
+	<string id="st_mar_treasure_11_name">
+		<text>Grób z maską przeciwgazową</text>
+	</string>
+	<string id="st_mar_treasure_11_descr">
+		<text>Martwym bardziej ufam niż żywym. Mój schowek jest na cmentarzu, w grobie z maską przeciwgazową na lewym krańcu.</text>
+	</string>
+	<string id="st_mar_treasure_14_name">
+		<text>Drewniany krzyż</text>
+	</string>
+	<string id="st_mar_treasure_14_descr">
+		<text>Odłożyłem co nieco na czarną godzinę. Schowek jest w jedynym grobie z drewnianym krzyżem na przycerkiewnym cmentarzu.</text>
+	</string>
+	<string id="st_mar_treasure_13_name">
+		<text>Sterta drewna przy cerkwi</text>
+	</string>
+	<string id="st_mar_treasure_13_descr">
+		<text>Dobry Boże, zaopiekuj się moimi rzeczami. Ukryłem je w pękniętej kłodzie w stercie drewna.</text>
+	</string>
+	<string id="st_mar_treasure_16_name">
+		<text>Schowek w trzcinie</text>
+	</string>
+	<string id="st_mar_treasure_16_descr">
+		<text>Zostawiłem plecak w trzcinie niedaleko cerkwi. Teraz nie mogę go znaleźć nawet po współrzędnych z PDA.</text>
+	</string>
+	<string id="st_mar_treasure_15_name">
+		<text>Sejf w ziemi</text>
+	</string>
+	<string id="st_mar_treasure_15_descr">
+		<text>Wsadziłem mój towar do sefju na brzegu bagna obok cerkwi. Walcie się, frajerzy!</text>
+	</string>
+	<string id="st_mar_treasure_18_name">
+		<text>Torba pod piecem</text>
+	</string>
+	<string id="st_mar_treasure_18_descr">
+		<text>Co ma wspólnego gorący piec z gorącą laską? Na jednym i drugim możesz się sparzyć! Ha, ha. W piecu schowałem moją torbę pełną towaru.</text>
+	</string>
+	<string id="st_mar_treasure_17_name">
+		<text>Towar w Zaporożcu</text>
+	</string>
+	<string id="st_mar_treasure_17_descr">
+		<text>Spędziliśmy pół nocy na wpół zatopionym Zaporożcu, zanim nasi kumple przyszli nam z pomocą. Nie wiedziałem, kto pierwszy do nas dotrze, więc schowałem swój towar w okolicy. Powinienem go wygrzebać, póki świeci słońce.</text>
+	</string>
+	<string id="st_mar_treasure_20_name">
+		<text>Pniak obok torów</text>
+	</string>
+	<string id="st_mar_treasure_20_descr">
+		<text>Przechodziliśmy obok torów, gdy usłyszeliśmy strzały. Schowałem mój towar w pniaku za jakimiś głazami na wszelki wypadek.</text>
+	</string>
+	<string id="st_mar_treasure_19_name">
+		<text>Rura od zbiornika</text>
+	</string>
+	<string id="st_mar_treasure_19_descr">
+		<text>Trzymamy z chłopakami towar w wylocie rury, tej z zaworem, biegnącej od zbiornika na Bagna.</text>
+	</string>
+	<string id="st_mar_treasure_22_name">
+		<text>Plecak przy materacu</text>
+	</string>
+	<string id="st_mar_treasure_22_descr">
+		<text>Głupi Lecha spał na materacu w podtopionej łodzi i zapomniał swojego plecaka.</text>
+	</string>
+	<string id="st_mar_treasure_21_name">
+		<text>Skrzynka w kuchni</text>
+	</string>
+	<string id="st_mar_treasure_21_descr">
+		<text>Odłożyłem trochę rzeczy do późniejszego przehandlowania. Są w niebieskiej skrzynce w letniej kuchni.</text>
+	</string>
+	<string id="st_mar_treasure_24_name">
+		<text>Schowek w kłodzie</text>
+	</string>
+	<string id="st_mar_treasure_24_descr">
+		<text>Zanim przeszedłem do innej części Bagien, musiałem odciążyć plecak. Schowałem część towaru w pękniętej kłodzie.</text>
+	</string>
+	<string id="st_mar_treasure_23_name">
+		<text>Schowek w panelu</text>
+	</string>
+	<string id="st_mar_treasure_23_descr">
+		<text>Panel na zewnątrz transformatorowni na gospodarstwie. Niebezpieczeństwo! Nie zbliżać się!</text>
+	</string>
+	<string id="st_mar_treasure_25_name">
+		<text>Skrzynka elektryczna na dworcu autobusowym</text>
+	</string>
+	<string id="st_mar_treasure_25_descr">
+		<text>Gdy dołączyłem do gangu Szarego, ukryłem trochę świecidełek w skrzynce elektrycznej na dworcu. Kto wie, może się kiedyś przydadzą.</text>
+	</string>
+	<string id="st_mar_treasure_26_name">
+		<text>Plecak na szlaku</text>
+	</string>
+	<string id="st_mar_treasure_26_descr">
+		<text>Napotkałem na szlaku potwora, a miałem przy sobie tylko nóż. Rzuciłem plecak i skoczyłem na niego. Znaleźli mnie później półtora kilometra dalej. Powinienem tam kiedyś wrócić.</text>
+	</string>
+	<string id="st_mar_treasure_27_name">
+		<text>Pniak obok młodego drzewa</text>
+	</string>
+	<string id="st_mar_treasure_27_descr">
+		<text>Hak może skubać frajerów, ja zbieram towar po trochu i chowam go pod pniakiem obok młodego drzewa.</text>
+	</string>
+	<string id="st_mar_treasure_28_name">
+		<text>Sejf za uschniętym drzewem</text>
+	</string>
+	<string id="st_mar_treasure_28_descr">
+		<text>Zbieram towar, żeby wymienić go na leki dla syna. Chowam go w sejfie za uschniętym drzewem. Jak tylko będę miał wystarczającą ilość, zmywam się z Zony.</text>
+	</string>
+	<string id="st_mar_treasure_29_name">
+		<text>Schowek w krzakach</text>
+	</string>
+	<string id="st_mar_treasure_29_descr">
+		<text>Po wyjściu z Bagien nie miałem siły iść, więc zostawiłem towar przy ścieżce w krzakach.</text>
+	</string>
+	<string id="st_mar_treasure_30_name">
+		<text>Schowek pod ciężarówką</text>
+	</string>
+	<string id="st_mar_treasure_30_descr">
+		<text>W skrzynce narzędziowej pod ciężarówką, naprzeciwko mostu.</text>
+	</string>
+	<string id="st_mar_treasure_31_name">
+		<text>Na środku bagna</text>
+	</string>
+	<string id="st_mar_treasure_31_descr">
+		<text>Zostawiłem skrzynkę z towarem w samym środku bagna, na betonowej płycie z wystającymi metalowymi prętami. Zabiorę ją, jak będę wychodził na zewnątrz.</text>
+	</string>
+	<string id="st_mar_treasure_32_name">
+		<text>Skrzynka w piecu</text>
+	</string>
+	<string id="st_mar_treasure_32_descr">
+		<text>Mój schowek jest w skrzynce, skrzynka w piecu, piec w zgliszczach domu, dom na Bagnach.</text>
+	</string>
+	<string id="st_mar_treasure_33_name">
+		<text>Sejf w trzcinie</text>
+	</string>
+	<string id="st_mar_treasure_33_descr">
+		<text>Nie wiem, skąd się wziął ten sejf na bagnie, ale nie mogłem się oprzeć okazji. Trzymam tam teraz swoje rzeczy.</text>
+	</string>
+	<string id="st_mar_treasure_34_name">
+		<text>Pień drzewa na bagnach</text>
+	</string>
+	<string id="st_mar_treasure_34_descr">
+		<text>Szef powiedział, żeby nie brać za dużo towaru. Schowałem mój pod pniakiem obok wieży ciśnień, w krzakach pod drzewem.</text>
+	</string>
+	<string id="st_mar_treasure_35_name">
+		<text>Kłoda na bagnach</text>
+	</string>
+	<string id="st_mar_treasure_35_descr">
+		<text>Przedzierając się przez bagna, zauważyłem spróchniałą kłodę obok drewnianego pomostu. Pomyślałem, że będzie się świetnie nadawać do chowania moich "skarbów".</text>
+	</string>
+	<string id="st_mar_treasure_36_name">
+		<text>Plecak na wyspie</text>
+	</string>
+	<string id="st_mar_treasure_36_descr">
+		<text>Ganiał mnie bagienny stwór. Po paru kilometrach tego maratonu tak się zmęczyłem, że musiałem zostawić plecak na jednej z wysp.</text>
+	</string>
+	<string id="st_mar_treasure_37_name">
+		<text>Właz obok stacji</text>
+	</string>
+	<string id="st_mar_treasure_37_descr">
+		<text>Zostawiłem mój towar pod jednym z włazów obok stacji, żeby nie ukradł mi go jakiś rabuś.</text>
+	</string>
+	<string id="st_mar_treasure_38_name">
+		<text>Schowek w rurze</text>
+	</string>
+	<string id="st_mar_treasure_38_descr">
+		<text>Po Mitce pozostał tylko ten czarny plecak w wielkiej rurze.</text>
+	</string>
+	<string id="st_mar_treasure_39_name">
+		<text>Skrzynka narzędziowa w kabinie</text>
+	</string>
+	<string id="st_mar_treasure_39_descr">
+		<text>Znalazłem skrzynkę narzędziową na bagnie, wsadziłem tam swoje rzeczy i schowałem ją w kabinie dźwigu. Poczekam, aż sprawy się polepszą, i ją zabiorę.</text>
+	</string>
+	<string id="st_mar_treasure_40_name">
+		<text>Plecak pod wagonem</text>
+	</string>
+	<string id="st_mar_treasure_40_descr">
+		<text>Próbowałem uciekać, więc zmniejszyłem swoje obciążenie, zostawiając plecak pod wagonem na torach.</text>
+	</string>
+	<string id="st_mar_treasure_41_name">
+		<text>Na krawędzi kopuły</text>
+	</string>
+	<string id="st_mar_treasure_41_descr">
+		<text>Zostawiłem plecak na krawędzi kopuły cerkwi. Musiałem wyglądać jak kozica, skacząc po tym dachu.</text>
+	</string>
+	<string id="st_mar_treasure_42_name">
+		<text>Pod mostem</text>
+	</string>
+	<string id="st_mar_treasure_42_descr">
+		<text>Schowaliśmy się pod mostem, a goniący nas kolesie po nim przebiegli. Zostawiłem tam plecak z towarem obok belki.</text>
+	</string>
+	<string id="st_mar_treasure_43_name">
+		<text>Pomiędzy głazami</text>
+	</string>
+	<string id="st_mar_treasure_43_descr">
+		<text>Wrzuciłem torbę w szczelinę pomiędzy trzema głazami, bo mogła wpaść w ręce jakichś chciwych gnojków.</text>
+	</string>
+	<string id="st_mar_treasure_44_name">
+		<text>Kłoda pod głazami</text>
+	</string>
+	<string id="st_mar_treasure_44_descr">
+		<text>Szukałem bezpiecznego schowka na mój towar i znalazłem ładną dziurawą kłodę pod głazami w trzcinie.</text>
+	</string>
+	<string id="st_mil_treasure_11_name">
+		<text>Schowek w grobie</text>
+	</string>
+	<string id="st_mil_treasure_11_descr">
+		<text>Schowałem swoje rzeczy pod krzyżem na grobie. Niech spoczywają w pokoju, póki po nie nie wrócę.</text>
+	</string>
+	<string id="st_mil_treasure_12_name">
+		<text>Krzyż obok drzewa</text>
+	</string>
+	<string id="st_mil_treasure_12_descr">
+		<text>Zrobiłem schowek w grobie obok drzewa.</text>
+	</string>
+	<string id="st_mil_treasure_1_name">
+		<text>Walizka w piecu</text>
+	</string>
+	<string id="st_mil_treasure_1_descr">
+		<text>Wsadziłem małą walizkę do pieca w rozpadającej się chacie. Będę tam znosił mój towar w miarę zbierania.</text>
+	</string>
+	<string id="st_mil_treasure_13_name">
+		<text>Rura przy wejściu do bazy</text>
+	</string>
+	<string id="st_mil_treasure_13_descr">
+		<text>Schowałem towar pod samym nosem chorążego. Jest w rurze za budką wartownika przy wejściu do bazy.</text>
+	</string>
+	<string id="st_mil_treasure_2_name">
+		<text>Plecak przy kominie</text>
+	</string>
+	<string id="st_mil_treasure_14_name">
+		<text>Schowek w Moskwiczu</text>
+	</string>
+	<string id="st_mil_treasure_14_descr">
+		<text>Jak wróci Maks, dam mu jego plecak, a na razie niech leży w starym Moskwiczu.</text>
+	</string>
+	<string id="st_mil_treasure_2_descr">
+		<text>Zostawiłem plecak przy kominie na strychu rozpadającego się domu. Wróciłbym po niego, gdyby nie ta pijawka w wiosce.</text>
+	</string>
+	<string id="st_mil_treasure_3_name">
+		<text>Plecak pod przyczepą</text>
+	</string>
+	<string id="st_mil_treasure_4_name">
+		<text>Schowek pod mostem</text>
+	</string>
+	<string id="st_mil_treasure_4_descr">
+		<text>Plecak jest w wagonie pod mostem w bazie wojskowej.</text>
+	</string>
+	<string id="st_mil_treasure_5_name">
+		<text>Szczelina w tunelu</text>
+	</string>
+	<string id="st_mil_treasure_5_descr">
+		<text>Jak zrobiło się gorąco, wrzuciłem swój plecak do szczeliny na tunelu, ale zaczepił się o pręt. Żal mi było odchodzić bez niego - muszę wrócić i go zabrać.</text>
+	</string>
+	<string id="st_mil_treasure_6_name">
+		<text>Schowek w wychodku</text>
+	</string>
+	<string id="st_mil_treasure_6_descr">
+		<text>Wątpię, czy ktoś będzie szukał towaru w wiejskim wychodku. Tam właśnie jest mój schowek, więc się nie martwię.</text>
+	</string>
+	<string id="st_mil_treasure_7_name">
+		<text>Schowek obok ogrodzenia</text>
+	</string>
+	<string id="st_mil_treasure_7_descr">
+		<text>Zostawiłem plecak biednego Koljana za hangarem. Miałem dość swojego towaru do niesienia.</text>
+	</string>
+	<string id="st_mil_treasure_8_name">
+		<text>Plecak pod drzewem</text>
+	</string>
+	<string id="st_mil_treasure_8_descr">
+		<text>Jak tylko zobaczyłem tego potwora obok wieży ciśnień, rzuciłem swój plecak pod przewrócone drzewo. W takich chwilach małe obciążenie może ci uratować tyłek.</text>
+	</string>
+	<string id="st_mil_treasure_15_name">
+		<text>Plecak w piwnicy</text>
+	</string>
+	<string id="st_mil_treasure_15_descr">
+		<text>Taki byłem skołowany po emisji, że zostawiłem plecak w piwnicy. Wrócę po niego, jak będzie ze mną lepiej.</text>
+	</string>
+	<string id="st_mil_treasure_16_name">
+		<text>Zapomniany plecak</text>
+	</string>
+	<string id="st_mil_treasure_16_descr">
+		<text>Wybuch rozniósł ścianę na kawałki, a jeden z nich mnie przywalił. Musiałem zdjąć plecak, żeby się stamtąd wygrzebać i zrobić rozpierduchę, a przy tym ostatnim tak się dobrze bawiłem, że zapomniałem o plecaku. Pewie ciągle tam leży...</text>
+	</string>
+	<string id="st_mil_treasure_17_name">
+		<text>Schowek w kuchni</text>
+	</string>
+	<string id="st_mil_treasure_17_descr">
+		<text>Zielony plecak w kuchni w jednym z domów w opuszczonej wiosce. Współrzędne zapisane.</text>
+	</string>
+	<string id="st_mil_treasure_18_name">
+		<text>Schowek pod głazem</text>
+	</string>
+	<string id="st_mil_treasure_18_descr">
+		<text>Musiałem ostatnio spieprzać i zostawiłem plecak pełen towaru w krzakach pomiędzy dwoma głazami.</text>
+	</string>
+	<string id="st_mil_treasure_3_descr">
+		<text>Widziałem, jak jeden koleś wrzucił swój plecak pod przyczepę przed nadejściem emisji. Powinienem to zbadać.</text>
+	</string>
+	<string id="st_mil_treasure_9_name">
+		<text>Kłoda pod głazami</text>
+	</string>
+	<string id="st_mil_treasure_19_name">
+		<text>Schowek za przyczepą rolnika</text>
+	</string>
+	<string id="st_mil_treasure_19_descr">
+		<text>Schowek w wielkiej kłodzie obok przyczepy rolnika.</text>
+	</string>
+	<string id="st_mil_treasure_20_name">
+		<text>Kłoda pod głazami</text>
+	</string>
+	<string id="st_mil_treasure_20_descr">
+		<text>Na skraju grupy głazów jest kłoda, a w niej, z dala od wścibskich oczu, jest mój schowek.</text>
+	</string>
+	<string id="st_mil_treasure_9_descr">
+		<text>Schowałem swoje rzeczy w kłodzie pod sosną, obok przewróconej wieży.</text>
+	</string>
+	<string id="st_mil_treasure_10_name">
+		<text>Pniak za betonowymi płytami</text>
+	</string>
+	<string id="st_mil_treasure_21_name">
+		<text>Pniak obok ogrodzenia</text>
+	</string>
+	<string id="st_mil_treasure_21_descr">
+		<text>Witiok powiedział, że zostawił moją działkę w pniaku pomiędzy ogrodzeniem bazy wojskowej i małym bagnem.</text>
+	</string>
+	<string id="st_mil_treasure_10_descr">
+		<text>Pniak pomiędzy dwoma głazami, za stosem betonowych płyt.</text>
+	</string>
+	<string id="st_red_treasure_2_name">
+		<text>Niebieska skrzynka</text>
+	</string>
+	<string id="st_red_treasure_2_descr">
+		<text>Mój towar jest w niebieskiej skrzyni na pierwszym piętrze budynku obok chaty.</text>
+	</string>
+	<string id="st_red_treasure_1_name">
+		<text>Rura w wózku</text>
+	</string>
+	<string id="st_red_treasure_1_descr">
+		<text>Wetknąłem swoje rzeczy do rury, którą wrzuciłem do zardzewiałego wózka w starym kamieniołomie.</text>
+	</string>
+	<string id="st_red_treasure_8_name">
+		<text>Czarny plecak</text>
+	</string>
+	<string id="st_red_treasure_9_name">
+		<text>Plecak na gałęzi</text>
+	</string>
+	<string id="st_red_treasure_9_descr">
+		<text>Chowałem się przed jakąś bestią na drzewie. Nie widziałem jej, ale dobrze słyszałem. Zostawiłem plecak na gałęzi, zeskoczyłem i dałem chodu.</text>
+	</string>
+	<string id="st_red_treasure_8_descr">
+		<text>Cholera, jak uciekałem z lasu, zostawiłem tam mój czarny plecak. Nawet wiem, gdzie jest, ale nie wrócę tam, chyba że ktoś najpierw zjara cały las napalmem.</text>
+	</string>
+	<string id="st_red_treasure_10_name">
+		<text>Drzewo obok ogrodzenia</text>
+	</string>
+	<string id="st_red_treasure_10_descr">
+		<text>Musiałem zwiewać przed cholerną pijawką aż do ogrodzenia rezerwatu i wleźć na drzewo. Gdybym nie zostawił plecaka na tym drzewie, nie przeskoczyłbym przez ogrodzenie.</text>
+	</string>
+	<string id="st_red_treasure_19_name">
+		<text>Plecak w jaskini</text>
+	</string>
+	<string id="st_red_treasure_19_descr">
+		<text>W nocy wczołgałem się do jaskini, żeby się zdrzemnąć. Przebudziła mnie pijawka dobierająca się do mojej torby. Zwiałem stamtąd jak mistrz sprintu, ale pijawka ma mój plecak.</text>
+	</string>
+	<string id="st_red_treasure_11_name">
+		<text>Głaz przy wąwozie</text>
+	</string>
+	<string id="st_red_treasure_11_descr">
+		<text>Kilka psów zapędziło mnie do wąwozu, więc rzuciłem plecak na głazy i spróbowałem się przebić.</text>
+	</string>
+	<string id="st_red_treasure_3_name">
+		<text>Plecak w krzakach</text>
+	</string>
+	<string id="st_red_treasure_12_name">
+		<text>Plecak w lesie</text>
+	</string>
+	<string id="st_red_treasure_12_descr">
+		<text>Było jak w horrorze. Nie wiem, jak się wydostałem. Straciłem plecak, ale pamiętam, że mogłem go zostawić tylko w jednym miejscu.</text>
+	</string>
+	<string id="st_red_treasure_13_name">
+		<text>Plecak pod głazami</text>
+	</string>
+	<string id="st_red_treasure_13_descr">
+		<text>Było mi za ciężko z plecakiem Kolii, więc włożyłem go pod głazy przy zjeździe na most w Limańsku.</text>
+	</string>
+	<string id="st_red_treasure_14_name">
+		<text>Przeklęty towar</text>
+	</string>
+	<string id="st_red_treasure_14_descr">
+		<text>Ten plecak ma niezłą historię. Każdy, kto się go dotknął, nie żyje. Wyrzuciłem go, żeby nie mieć do czynienia z tym przeklętym cholerstwem</text>
+	</string>
+	<string id="st_red_treasure_15_name">
+		<text>Dziwne miejsce</text>
+	</string>
+	<string id="st_red_treasure_15_descr">
+		<text>Zdrzemnąłem się koło głazu z plecakiem pod głową. Rano znalazłem się w zupełnie innym miejscu. Próbowałem znaleźć ten głaz, ale z jakiegoś powodu chodziłem w kółko.</text>
+	</string>
+	<string id="st_red_treasure_16_name">
+		<text>Plecak w osypisku</text>
+	</string>
+	<string id="st_red_treasure_16_descr">
+		<text>W wąwozie osunęły się skały i zleciały prosto na mnie przy wyjściu z Czerwonego Lasu. Potem coś ciemnego zaczęło się zza nich wynurzać. Ledwo zwiałem, ale musiałem po drodze wyrzucić swoje rzeczy.</text>
+	</string>
+	<string id="st_red_treasure_3_descr">
+		<text>Przedzieraliśmy się przez krzaki i jakimś cudem zgubiłem plecak.</text>
+	</string>
+	<string id="st_red_treasure_17_name">
+		<text>Zgubiony plecak</text>
+	</string>
+	<string id="st_red_treasure_17_descr">
+		<text>Ten idiota Abram zgubił mój plecak na skałach, gdzieś w tej okolicy. Teraz boi się wrócić po niego. Prawdziwy przyjaciel!</text>
+	</string>
+	<string id="st_red_treasure_18_name">
+		<text>Schowek w chodniku kopalni</text>
+	</string>
+	<string id="st_red_treasure_18_descr">
+		<text>Schowałem swoje artefakty na końcu chodnika w opuszczonej kopalni.</text>
+	</string>
+	<string id="st_red_treasure_24_name">
+		<text>Pniak w dziczy</text>
+	</string>
+	<string id="st_red_treasure_24_descr">
+		<text>Zabłądziłem w Czerwonym Lesie i zostawiłem cały towar tutaj, w pniaku.</text>
+	</string>
+	<string id="st_red_treasure_4_name">
+		<text>Towar w dziurze w drzewie</text>
+	</string>
+	<string id="st_red_treasure_4_descr">
+		<text>W drodze do Limańska Bicz i ja schowaliśmy swoje rzeczy w dziurze w powalonym drzewie, niedaleko wyjścia z rezerwatu.</text>
+	</string>
+	<string id="st_red_treasure_5_name">
+		<text>Podziurawiony pniak</text>
+	</string>
+	<string id="st_red_treasure_6_name">
+		<text>Pniak przed lasem</text>
+	</string>
+	<string id="st_red_treasure_6_descr">
+		<text>Nie wiemy, co czeka nas w tym lesie, więc schowaliśmy swoje rzeczy w spróchniałym pniaku.</text>
+	</string>
+	<string id="st_red_treasure_7_name">
+		<text>Pniak obok wąwozu</text>
+	</string>
+	<string id="st_red_treasure_7_descr">
+		<text>Zostawiliśmy trochę towaru obok tej zarąbistej anomalii. Kierujemy się do samej anomalii. Jest tak niesamowita, że na pewno są w niej naprawdę cenne artefakty.</text>
+	</string>
+	<string id="st_red_treasure_20_name">
+		<text>Wielki pniak</text>
+	</string>
+	<string id="st_red_treasure_20_descr">
+		<text>Sewa powiedział mi o wielkim wydrążonym pniu w Czerwonym Lesie. Spróbuję go znaleźć i zobaczyć, co jest w środku.</text>
+	</string>
+	<string id="st_red_treasure_21_name">
+		<text>Schowek w pniaku</text>
+	</string>
+	<string id="st_red_treasure_21_descr">
+		<text>Schowaliśmy z Żeką trochę rzeczy w pniaku w Czerwonym Lesie.</text>
+	</string>
+	<string id="st_red_treasure_22_name">
+		<text>Pniak obok wąwozu</text>
+	</string>
+	<string id="st_red_treasure_22_descr">
+		<text>Wpadając do wąwozu, trafiłem na ten pniak, więc na razie schowałem w nim swoje rzeczy.</text>
+	</string>
+	<string id="st_red_treasure_5_descr">
+		<text>Usłyszałem krzyki i wycie, więc wsadziłem rzeczy do najbliższego podziurawionego pniaka i zwiałem.</text>
+	</string>
+	<string id="st_red_treasure_23_name">
+		<text>Zaporożec przy wejściu do kopalni</text>
+	</string>
+	<string id="st_red_treasure_23_descr">
+		<text>Schowałem mój towar pod siedzeniem Zaporożca przy wejściu do kopalni. Zabiorę go, zanim pójdę do Sidorowicza.</text>
+	</string>
+	<string id="st_dark_valley_treasure_15_name">
+		<text>Sejf w gospodarstwie</text>
+	</string>
+	<string id="st_yantar_treasure_15_name">
+		<text>Kłoda za garażami</text>
+	</string>
+	<string id="st_yantar_treasure_15_descr">
+		<text>Schowałem swój towar w kłodzie za garażami, obok fabryki "Jantar". Wtedy to było najlepsze miejsce.</text>
+	</string>
+	<string id="st_dark_valley_treasure_22_name">
+		<text>Schowek pod młodą jodłą.</text>
+	</string>
+	<string id="st_dark_valley_treasure_22_descr">
+		<text>Schowałem swój plecak w rurze pod młodą jodłą niedaleko bagna.</text>
+	</string>
+	<string id="st_esc_treasure_weapon_prisoner_descr">
+		<text>W betonowej rurze ukryty jest mały sejf. Są w nim rzeczy, które zachowałem na czarną godzinę.</text>
+	</string>
+	<string id="st_esc_treasure_weapon_prisoner_name">
+		<text>Schowek majora Chaleckija.</text>
+	</string>
+	<string id="st_gar_treasure_quest_bandit_base_name">
+		<text>Stary schowek</text>
+	</string>
+	<string id="st_gar_treasure_quest_bandit_base_descr">
+		<text>Kopacze chowali swoją zdobycz w tym schowku.</text>
+	</string>
+	<string id="st_gar_treasure_quest_old_pda_name">
+		<text>Skrzynka narzędziowa</text>
+	</string>
+	<string id="st_gar_treasure_quest_old_pda_descr">
+		<text>Stary PDA jest pod fałszywym spodem skrzynki narzędziowej</text>
+	</string>
+	<string id="st_gar_treasure_quest_reward_in_anomaly_name">
+		<text>Schowek w anomalii</text>
+	</string>
+	<string id="st_gar_treasure_quest_reward_in_anomaly_descr">
+		<text>Jeśli Joga nie kłamał, w schowku wśród anomalii znajduje się specjalna spluwa.</text>
+	</string>
+	<string id="st_gar_treasure_quest_smuggler_weapons_name">
+		<text>Bagażnik samochodu</text>
+	</string>
+	<string id="st_gar_treasure_quest_smuggler_weapons_descr">
+		<text>Zdaniem Stringowa w bagażniku starego samochodu jest towar jakiegoś przemytnika.</text>
+	</string>
+	<string id="st_mar_q_n_10_name">
+		<text>Schowek na Bagnach</text>
+	</string>
+	<string id="st_mar_q_n_10_descr">
+		<text>W przetwórni odpadów na Bagnach jest bardzo cenny schowek. Jego zawartość jest teraz twoja.</text>
+	</string>
+	<string id="st_mar_q_n_11_name">
+		<text>Sejf z nagrodą</text>
+	</string>
+	<string id="st_mar_q_n_11_descr">
+		<text>Koleś, to klucze do sejfu, w którym jest coś cennego. Przynajmniej tak słyszałem...</text>
+	</string>
+	<string id="st_mar_q_n_12_name">
+		<text>Nagroda</text>
+	</string>
+	<string id="st_mar_q_n_12_descr">
+		<text>Nasze tajne schowki za twoją kasę. Sprzedaję je wszystkie tylko tobie.</text>
+	</string>
+	<string id="st_mar_q_n_13_name">
+		<text>Mała walizka</text>
+	</string>
+	<string id="st_mar_q_n_13_descr">
+		<text>W takim wypadku tu są współrzędne walizki z towarem. Znajdziesz ją za śmietnikiem koło muru.</text>
+	</string>
+	<string id="st_mar_q_n_14_name">
+		<text>Sejf pod mostem</text>
+	</string>
+	<string id="st_mar_q_n_14_descr">
+		<text>Nie będę cię zanudzał opowieściami. Znajdziesz schowek w sejfie pod mostem.</text>
+	</string>
+	<string id="st_mar_q_n_6_name">
+		<text>Plecak jako zapłata</text>
+	</string>
+	<string id="st_mar_q_n_6_descr">
+		<text>Zawartość plecaka, którego współrzędne przesyłam ci na PDA, jest warta więcej niż pieniądze, które zostawiasz w mojej kieszeni.</text>
+	</string>
+	<string id="st_mar_q_n_7_name">
+		<text>Sejf z zamkiem szyfrowym</text>
+	</string>
+	<string id="st_mar_q_n_7_descr">
+		<text>Twoje pieniądze są warte łupu ukryteto w sejfie na Bagnach.</text>
+	</string>
+	<string id="st_mar_q_n_8_name">
+		<text>Łup jako zapłata</text>
+	</string>
+	<string id="st_mar_q_n_8_descr">
+		<text>Łup, który znajdziesz w czarnym plecaku pod głazami, należy teraz do ciebie. Uznajmy, że jesteśmy rozliczeni.</text>
+	</string>
+	<string id="st_mar_q_n_9_name">
+		<text>Skrzynka pod wieżą</text>
+	</string>
+	<string id="st_mar_q_n_9_descr">
+		<text>Zaufane źródło doniosło mi raz o towarze w niczyim schowku pod wieżą.</text>
+	</string>
+	<string id="st_mar_q_t_a_15_name">
+		<text>Plecak martwego żołnierza</text>
+	</string>
+	<string id="st_mar_q_t_a_15_descr">
+		<text>Dostaniesz więcej, niż zapłaciłeś. Twoja nagroda jest w plecaku obok ciała żołnierza.</text>
+	</string>
+	<string id="st_mar_q_t_a_3_name">
+		<text>Dodatkowy kłopot</text>
+	</string>
+	<string id="st_mar_q_t_a_3_descr">
+		<text>Wysil się trochę i znajdź plecak martwego żołnierza, a wszystkie wydatki zwrócą ci się z nawiązką.</text>
+	</string>
+	<string id="st_mar_q_t_l_16_name">
+		<text>Trudna nagroda</text>
+	</string>
+	<string id="st_mar_q_t_l_16_descr">
+		<text>Nagrodzę cię informacją o cennym, ale trudnym do zdobycia łupie. Uważaj na siebie - jego poprzedni właściciel nie posłuchał moich rad...</text>
+	</string>
+	<string id="st_mar_q_t_l_1_name">
+		<text>Plecak trupa</text>
+	</string>
+	<string id="st_mar_q_t_l_1_descr">
+		<text>Towar jest w plecaku na plecach trupa.</text>
+	</string>
+	<string id="st_mar_q_t_l_2_name">
+		<text>Spadochroniarz</text>
+	</string>
+	<string id="st_mar_q_t_l_2_descr">
+		<text>Sztywniaka znajdziesz pod tymi współrzędnymi. W jego plecaku jest twoja należność.</text>
+	</string>
+	<string id="st_mar_q_t_l_4_name">
+		<text>Ciało bojownika</text>
+	</string>
+	<string id="st_mar_q_t_l_4_descr">
+		<text>Informacja dla ciebie: młodzik "odpoczywający" w krzakach pilnuje dla ciebie swojego plecaka.</text>
+	</string>
+	<string id="st_mar_q_t_l_5_name">
+		<text>Plecak pod rurociągiem</text>
+	</string>
+	<string id="st_mar_q_t_l_5_descr">
+		<text>Weź te współrzędne - wskazują plecak obok ciała stalkera pod rurociągiem.</text>
+	</string>
+	<string id="st_esc_q10_n_name">
+		<text>Pniak obok drutu kolczastego</text>
+	</string>
+	<string id="st_esc_q10_n_descr">
+		<text>Dobra, koleś. Swoją nagrodę znajdziesz w pniaku obok drutu kolczastego.</text>
+	</string>
+	<string id="st_esc_q1_n_name">
+		<text>Zielona skrzynia</text>
+	</string>
+	<string id="st_esc_q1_n_descr">
+		<text>Zachowałem ten towar specjalnie dla ciebie. Jest w wojskowej skrzyni na obrzeżach Kordonu. Oddaję z nim kawałek swojego serca!</text>
+	</string>
+	<string id="st_esc_q2_n_name">
+		<text>Mały samotny plecak</text>
+	</string>
+	<string id="st_esc_q2_n_descr">
+		<text>Twoja szczodrość zostanie nagrodzona wielkodusznością! He, he. Oto mój schowek. Zrób z nim i jego zawartością, co zechcesz.</text>
+	</string>
+	<string id="st_esc_q3_t_l_name">
+		<text>Droga na Bagna</text>
+	</string>
+	<string id="st_esc_q3_t_l_descr">
+		<text>Ja biorę twoje pieniądze, ty bierzesz mój schowek. Znajdziesz go przy drodze na Bagna, obok ciała.</text>
+	</string>
+	<string id="st_esc_q4_t_a_name">
+		<text>Nagroda dla bohatera</text>
+	</string>
+	<string id="st_esc_q4_t_a_descr">
+		<text>Twój zakup czeka na ciebie w plecaku obok ciała pechowego stalkera. Szukaj go koło starego elektrowozu.</text>
+	</string>
+	<string id="st_esc_q5_n_name">
+		<text>Rekompensata</text>
+	</string>
+	<string id="st_esc_q5_n_descr">
+		<text>Schowek znajdziesz pod tymi współrzędnymi, w plecaku pod drzewem</text>
+	</string>
+	<string id="st_esc_q6_n_name">
+		<text>Wstęp dozwolony</text>
+	</string>
+	<string id="st_esc_q6_n_descr">
+		<text>Moja część umowy jest w panelu elektrycznym windy. Możesz tam śmiało grzebać, nie ma prądu. Ale nie mogę zagwarantować tego samego, jeśli chodzi o anomalie...</text>
+	</string>
+	<string id="st_esc_q7_n_name">
+		<text>Walizka pod wagonem</text>
+	</string>
+	<string id="st_esc_q7_n_descr">
+		<text>Twoją zdobyczą jest zawartość walizki pod wagonem.</text>
+	</string>
+	<string id="st_esc_q8_n_name">
+		<text>Fałszywy grób</text>
+	</string>
+	<string id="st_esc_q8_n_descr">
+		<text>Rozkopywanie grobów to zły uczynek, ale mój schowek jest w fałszywym grobie, więc nie będziesz zakłócał spokoju zmarłym.</text>
+	</string>
+	<string id="st_esc_q9_t_a_name">
+		<text>Walizka za złomowiskiem</text>
+	</string>
+	<string id="st_esc_q9_t_a_descr">
+		<text>Zapłacę ci zawartością walizki leżącej obok anomalii za złomowiskiem w Kordonie. Sięga po nią pewien jegomość, ale nie przejmuj się nim, został wyłączony z akcji.</text>
+	</string>
+	<string id="st_gar_q10_n_name">
+		<text>Pniak na skraju Wysypiska</text>
+	</string>
+	<string id="st_gar_q10_n_descr">
+		<text>Dam ci cynk. Twoje wynagrodzenie czeka w pniaku na skraju Wysypiska.</text>
+	</string>
+	<string id="st_gar_q1_n_name">
+		<text>Czarny plecak we wraku</text>
+	</string>
+	<string id="st_gar_q1_n_descr">
+		<text>Twoja należność znajduje się w czarnym plecaku we wraku dźwigu.</text>
+	</string>
+	<string id="st_gar_q2_n_name">
+		<text>Odcięta rura</text>
+	</string>
+	<string id="st_gar_q2_n_descr">
+		<text>Ja dostałem pieniądze, ale ty musisz iść po swój towar do schowka w odciętej rurze.</text>
+	</string>
+	<string id="st_gar_q3_n_name">
+		<text>Skrzynka elektryczna we wraku</text>
+	</string>
+	<string id="st_gar_q3_n_descr">
+		<text>Jakiś czas temu zrobiłem ten schowek dla siebie, ale teraz muszę oddać go tobie. Trudno.</text>
+	</string>
+	<string id="st_gar_q4_n_name">
+		<text>Skrzynka w skażonych śmieciach</text>
+	</string>
+	<string id="st_gar_q4_n_descr">
+		<text>Daję ci współrzędne skrzynki z towarem. Nie usmaż sobie tylko jajek - panuje tam duże promieniowanie.</text>
+	</string>
+	<string id="st_gar_q5_n_name">
+		<text>Skrzynia obok lemiesza buldożera</text>
+	</string>
+	<string id="st_gar_q5_n_descr">
+		<text>Znajdziesz swój zakup obok lemiesza buldożera.</text>
+	</string>
+	<string id="st_gar_q6_t_l_name">
+		<text>Plecak trupa</text>
+	</string>
+	<string id="st_gar_q6_t_l_descr">
+		<text>Nie boisz się duchów, co? Szukaj schowka w plecaku obok zwłok.</text>
+	</string>
+	<string id="st_gar_q7_t_l_name">
+		<text>Zwłoki obok koparki</text>
+	</string>
+	<string id="st_gar_q7_t_l_descr">
+		<text>Martwy chłopak obok przewróconej koparki sprezentuje ci zawartość swojego plecaka</text>
+	</string>
+	<string id="st_gar_q8_t_a_name">
+		<text>Zwłoki na Wysypisku</text>
+	</string>
+	<string id="st_gar_q8_t_a_descr">
+		<text>Będziesz musiał się trochę namęczyć, by zdobyć swoją należność. Towar jest w plecaku ofiary anomalii.</text>
+	</string>
+	<string id="st_gar_q9_n_name">
+		<text>Po drodze do Agropromu</text>
+	</string>
+	<string id="st_gar_q9_n_descr">
+		<text>Szukaj skrzynki w UAZ-ie po drodze do Agropromu. Powinieneś docenić jej zawartość.</text>
+	</string>
+	<string id="st_val_q10_n_name">
+		<text>Sejf w hangarze</text>
+	</string>
+	<string id="st_val_q10_n_descr">
+		<text>Dotrzymuję przyrzeczeń - obiecany schowek czeka w sejfie w starej fabryce.</text>
+	</string>
+	<string id="st_val_q11_t_l_name">
+		<text>Zwłoki przy skałach</text>
+	</string>
+	<string id="st_val_q11_t_l_descr">
+		<text>Właśnie kupiłeś zawartość plecaka znajdującego się na zwłokach leżących koło skał.</text>
+	</string>
+	<string id="st_val_q1_n_name">
+		<text>Pod zbiornikiem</text>
+	</string>
+	<string id="st_val_q1_n_descr">
+		<text>Mój towar - wróć, teraz to twój towar - jest w plecaku pod zbiornikiem.</text>
+	</string>
+	<string id="st_val_q2_n_name">
+		<text>Krzewy obok jodły</text>
+	</string>
+	<string id="st_val_q2_n_descr">
+		<text>Wracając z udanej wyprawy, schowałem zdobycz w krzewach. Teraz możesz z niej skorzystać.</text>
+	</string>
+	<string id="st_val_q3_t_a_name">
+		<text>Zwłoki żołnierza</text>
+	</string>
+	<string id="st_val_q3_t_a_descr">
+		<text>Zapisz sobie: bardzo cenny łup - plecak - pechowy żołnierz - zaraz obok anomalii.</text>
+	</string>
+	<string id="st_val_q4_n_name">
+		<text>Łup w krzakach</text>
+	</string>
+	<string id="st_val_q4_n_descr">
+		<text>Zawsze reguluję swoje rachunki, a teraz według mojego rachunku mam ci dać współrzędne mojego towaru.</text>
+	</string>
+	<string id="st_val_q5_n_name">
+		<text>Sejf w bazie "Wolności"</text>
+	</string>
+	<string id="st_val_q5_n_descr">
+		<text>W dwupiętrowym budynku w bazie "Wolności" jest sejf z cenną zawartością.</text>
+	</string>
+	<string id="st_val_q6_n_name">
+		<text>Skrzynia na szczycie wieży</text>
+	</string>
+	<string id="st_val_q6_n_descr">
+		<text>Doceniam twoje zainteresowanie i zaspokoję je zawartością niebieskiej skrzyni na szczycie wieży za bazą "Wolności".</text>
+	</string>
+	<string id="st_val_q7_n_name">
+		<text>Grób stalkera</text>
+	</string>
+	<string id="st_val_q7_n_descr">
+		<text>Właśnie kupiłeś to, co jest pod krzyżem na grobie stalkera obok starego drzewa</text>
+	</string>
+	<string id="st_val_q8_n_name">
+		<text>Skrzynka pod siedzeniem</text>
+	</string>
+	<string id="st_val_q8_n_descr">
+		<text>Pod siedzeniem kierowcy w czerwonym ŁAZ-ie znajdziesz skrzynkę. Możesz sprawdzić, co w niej jest. Albo nie - jak chcesz.</text>
+	</string>
+	<string id="st_val_q9_n_name">
+		<text>Pniak obok ogrodzenia</text>
+	</string>
+	<string id="st_val_q9_n_descr">
+		<text>Na takie przypadki mam trochę towaru ukrytego w pniaku obok ogrodzenia.</text>
+	</string>
+	<string id="st_agr_q10_t_l_name">
+		<text>Skonfiskowany towar obok anomalii</text>
+	</string>
+	<string id="st_agr_q10_t_l_descr">
+		<text>Pewien żołnierz wlazł w anomalię i jego plecak z towarem skonfiskowanym stalkerom wciąż tam jest, leży obok niego. Jeśli ci się uda, może być twój.</text>
+	</string>
+	<string id="st_agr_q1_n_name">
+		<text>Przy ogrodzeniu obok drutu kolczastego</text>
+	</string>
+	<string id="st_agr_q1_n_descr">
+		<text>Dobra, zapłacę ci zawartością tego schowka - plecaka stalkera przy ogrodzeniu. Jako punkt odniesienia posłuży ci wieża wysokiego napięcia.</text>
+	</string>
+	<string id="st_agr_q2_n_name">
+		<text>Pod wyrwanym drzewem</text>
+	</string>
+	<string id="st_agr_q2_n_descr">
+		<text>Nie mamy magazynów w Zonie, przykro mi! Pospiesz się i zgarnij towar spod wyrwanego drzewa, zanim ktoś inny to zrobi.</text>
+	</string>
+	<string id="st_agr_q3_t_a_name">
+		<text>Zwłoki w napromieniowanym punkcie</text>
+	</string>
+	<string id="st_agr_q3_t_a_descr">
+		<text>Interesują cię pełne schowki i to właśnie mam. Będą twoje, jeśli odważysz się wejść do napromieniowanego punktu. Twoja nagroda leży przy zwłokach.</text>
+	</string>
+	<string id="st_agr_q4_n_name">
+		<text>Walce na grobie</text>
+	</string>
+	<string id="st_agr_q4_n_descr">
+		<text>Honor jest wart więcej od pieniędzy, więc weź sobie towar ukryty w walcach na anonimowym grobie.</text>
+	</string>
+	<string id="st_agr_q5_n_name">
+		<text>Róg ogrodzenia</text>
+	</string>
+	<string id="st_agr_q5_n_descr">
+		<text>Po ostatniej emisji Walka Chińczyk, niech go Bóg błogosławi, schował coś w starym pniaku w rogu ogrodzenia.</text>
+	</string>
+	<string id="st_agr_q6_n_name">
+		<text>Centralka telefoniczna</text>
+	</string>
+	<string id="st_agr_q6_n_descr">
+		<text>Mój towar - przepraszam, twój towar - jest w centralce telefonicznej w bazie "Powinności".</text>
+	</string>
+	<string id="st_agr_q7_n_name">
+		<text>Kłoda przy drzewie</text>
+	</string>
+	<string id="st_agr_q7_n_descr">
+		<text>Któregoś dnia dobrzy ludzie opowiedzieli mi o schowku należącym do moich wrogów. Opróżnij go, co?</text>
+	</string>
+	<string id="st_agr_q8_t_a_name">
+		<text>Zwłoki w furgonetce</text>
+	</string>
+	<string id="st_agr_q8_t_a_descr">
+		<text>Ci żołnierze tak się spieszyli, że wjechali prosto w anomalię w tej okolicy. Wszyscy kopnęli w kalendarz, a ty możesz kopnąć się po ich towar.</text>
+	</string>
+	<string id="st_agr_q9_n_name">
+		<text>Sejf pod osuwiskiem</text>
+	</string>
+	<string id="st_agr_q9_n_descr">
+		<text>Zagrzebałem sejf z moim towarem w wąwozie. Udawajmy, że od początku był przeznaczony dla ciebie</text>
+	</string>
+	<string id="st_agru_q1_n_name">
+		<text>Poprzeczna belka pod schodami</text>
+	</string>
+	<string id="st_agru_q1_n_descr">
+		<text>Wiem o pewnym schowku w tym przeklętym miejscu. Z drugiej strony, możesz mieć pewność, że nikt w nim nie grzebał. Szukaj w piwnicy pod schodami.</text>
+	</string>
+	<string id="st_agru_q2_n_name">
+		<text>Walizka pod ziemią</text>
+	</string>
+	<string id="st_agru_q2_n_descr">
+		<text>U stóp spiralnych schodów znajdziesz walizkę z towarem. Uważaj, by nie zakłócić spokoju licznym mieszkańcom podziemi.</text>
+	</string>
+	<string id="st_agru_q3_t_a_name">
+		<text>Pod ziemią</text>
+	</string>
+	<string id="st_agru_q3_t_a_descr">
+		<text>Jest miejsce, w którym możesz znaleźć plecak żołnierza. Trafił na anomalię w podziemiach Agropromu. Oby tylko ciebie nie spotkało to samo!</text>
+	</string>
+	<string id="st_agru_q4_n_name">
+		<text>Rura w kolektorze</text>
+	</string>
+	<string id="st_agru_q4_n_descr">
+		<text>Z PDA jakiegoś stalkera dowiedziałem się o schowku ukrytym w podziemiach Agropromu. Skopiuj sobie współrzędne.</text>
+	</string>
+	<string id="st_yan_q8_t_l_name">
+		<text>Zwłoki w jeziorze</text>
+	</string>
+	<string id="st_yan_q8_t_l_descr">
+		<text>Szukaj pleacka żołnierza, który wybrał się popływać w jeziorze.</text>
+	</string>
+	<string id="st_yan_q1_n_name">
+		<text>Skrzynia na dachu kotłowni</text>
+	</string>
+	<string id="st_yan_q1_n_descr">
+		<text>W niebieskiej skrzyni na dachu kotłowni jest mały schowek. W okolicy roi się od zombi, więc uważaj.</text>
+	</string>
+	<string id="st_yan_q2_n_name">
+		<text>Skrzynia w wagonie</text>
+	</string>
+	<string id="st_yan_q2_n_descr">
+		<text>Świetnie - weź te współrzędne skrzyni w wagonie w fabryce. Idź tam - będziesz wiedział, co zrobić</text>
+	</string>
+	<string id="st_yan_q3_t_l_name">
+		<text>Plecak przy rynnie</text>
+	</string>
+	<string id="st_yan_q3_t_l_descr">
+		<text>Znajdź plecak przy rynnie, a będziemy kwita. Obok leżą zwłoki jakiegoś neutralnego, więc łatwo go znajdziesz.</text>
+	</string>
+	<string id="st_yan_q4_n_name">
+		<text>Skrzynia w bazie naukowców</text>
+	</string>
+	<string id="st_yan_q4_n_descr">
+		<text>Doskonale! Weź wszystko, co znajdziesz w skrzyni w bagażniku UAZ-a w bazie naukowców.</text>
+	</string>
+	<string id="st_yan_q5_n_name">
+		<text>Budka z centralką telefoniczną</text>
+	</string>
+	<string id="st_yan_q5_n_descr">
+		<text>Zapłacę ci współrzędnymi schowka w budce koło fabryki.</text>
+	</string>
+	<string id="st_yan_q6_n_name">
+		<text>Wylot zbiornika</text>
+	</string>
+	<string id="st_yan_q6_n_descr">
+		<text>Coś jest ukryte w wylocie zbiornika w fabryce. Nigdy nie sprawdzałem co takiego.</text>
+	</string>
+	<string id="st_yan_q7_n_name">
+		<text>Kabina MAZ-a</text>
+	</string>
+	<string id="st_yan_q7_n_descr">
+		<text>Towar znajdziesz w skrzyce w kabinie MAZ-a.</text>
+	</string>
+	<string id="st_yan_q9_n_name">
+		<text>Pniak naprzeciwko obozu naukowców</text>
+	</string>
+	<string id="st_yan_q9_n_descr">
+		<text>Szukaj schowka pod pniakiem naprzeciwko obozu naukowców.</text>
+	</string>
+	<string id="st_red_q10_n_name">
+		<text>Rura w kopalni</text>
+	</string>
+	<string id="st_red_q10_n_descr">
+		<text>Wiem, że coś cennego jest w schowku w Czerwonym Lesie.</text>
+	</string>
+	<string id="st_red_q1_t_l_name">
+		<text>Martwy stalker</text>
+	</string>
+	<string id="st_red_q1_t_l_descr">
+		<text>Widziałem w PDA martwego stalkera, że miał coś ciekawego w plecaku. Oto współrzędne.</text>
+	</string>
+	<string id="st_red_q2_t_a_name">
+		<text>Niebezpieczny schowek</text>
+	</string>
+	<string id="st_red_q2_t_a_descr">
+		<text>Wysłałem już jakiegoś frajera do tego schowka, ale wiem, że do niego nie dotarł - odwalił kitę w pobliskiej anomalii.</text>
+	</string>
+	<string id="st_red_q3_n_name">
+		<text>Czerwony zawór</text>
+	</string>
+	<string id="st_red_q3_n_descr">
+		<text>Schowek jest za czerwonym zaworem na rurze w kopalni. Jego zawartość wcale mnie nie interesuje.</text>
+	</string>
+	<string id="st_red_q4_n_name">
+		<text>Autobus</text>
+	</string>
+	<string id="st_red_q4_n_descr">
+		<text>Mój kumpel zrobił sobie schowek pod tylnym siedzeniem tego autobusu. Nie ma go już wśród nas, więc nie będzie miał nic przeciwko, jak odwiedzisz jego skrytkę.</text>
+	</string>
+	<string id="st_red_q5_n_name">
+		<text>Rura w gruzowisku</text>
+	</string>
+	<string id="st_red_q5_n_descr">
+		<text>Dowiedziałem się o tej skrytce od więźnia - jest w rurze w gruzowisku za transporterem.</text>
+	</string>
+	<string id="st_red_q6_n_name">
+		<text>Skrzynia z plecakiem</text>
+	</string>
+	<string id="st_red_q6_n_descr">
+		<text>Twój skarb jest wprost bajeczny! Dobra, słuchaj - nagroda jest w plecaku, plecak w skrzyni, skrzynia przy moście, most po drugiej stronie Czerwonego Lasu</text>
+	</string>
+	<string id="st_red_q7_t_a_name">
+		<text>Plecak nieszczęśnika</text>
+	</string>
+	<string id="st_red_q7_t_a_descr">
+		<text>Ten nieszczęśnik niósł dla mnie plecak przez Czerwony Las, ale mu się nie udało. Jeśli znajdziesz ten plecak, będzie twój.</text>
+	</string>
+	<string id="st_red_q8_n_name">
+		<text>Sejf obok tramwaju</text>
+	</string>
+	<string id="st_red_q8_n_descr">
+		<text>Moje informacje są prawdziwe, to żadna ściema. Jakiś lump schował coś cennego w sejfie obok przewróconego tramwaju.</text>
+	</string>
+	<string id="st_red_q9_n_name">
+		<text>Zwykły stary pniak</text>
+	</string>
+	<string id="st_red_q9_n_descr">
+		<text>W podziurawionym pniaku jest schowek. Nie odznacza się wyglądem, bez moich współrzędnych na niego nie trafisz. Dlatego też ci je daję.</text>
+	</string>
+	<string id="st_mil_q10_n_name">
+		<text>Schowek w lesie</text>
+	</string>
+	<string id="st_mil_q10_n_descr">
+		<text>Pod skałami w lesie jest schowany plecak, a ja przekazuję jego współrzędne odpowiedniej osobie.</text>
+	</string>
+	<string id="st_mil_q1_t_l_name">
+		<text>Plecak pod zwłokami</text>
+	</string>
+	<string id="st_mil_q1_t_l_descr">
+		<text>Może to nie jest prawdziwy schowek, ale w plecaku na wieży ciśnień powinno być coś cennego.</text>
+	</string>
+	<string id="st_mil_q2_n_name">
+		<text>Schowek pod wyrwanym drzewem</text>
+	</string>
+	<string id="st_mil_q2_n_descr">
+		<text>Możesz mi wierzyć - pod wyrwanym drzewem jest schowek.</text>
+	</string>
+	<string id="st_mil_q3_n_name">
+		<text>Sejf babuni</text>
+	</string>
+	<string id="st_mil_q3_n_descr">
+		<text>Nie wie, jak sejf znalazł się na piecu, ale źródła mówią mi, że nie jest pusty.</text>
+	</string>
+	<string id="st_mil_q4_n_name">
+		<text>Schowek w grobie</text>
+	</string>
+	<string id="st_mil_q4_n_descr">
+		<text>Mówią, że można się wzbogacić, zaglądając pod krzyż pod tymi współrzędnymi.</text>
+	</string>
+	<string id="st_mil_q5_n_name">
+		<text>Skrzynia w bazie wojskowej</text>
+	</string>
+	<string id="st_mil_q5_n_descr">
+		<text>Jeśli uda ci się wślizgnąć do bazy wojskowej, w skrzyni na strychu znajdziesz nagrodę za swój trud.</text>
+	</string>
+	<string id="st_mil_q6_n_a_name">
+		<text>Sejf w szafie</text>
+	</string>
+	<string id="st_mil_q6_n_a_descr">
+		<text>Według moich źródeł coś cennego jest w sejfie w koszarach.</text>
+	</string>
+	<string id="st_mil_q7_n_a_name">
+		<text>Mały sejf</text>
+	</string>
+	<string id="st_mil_q7_n_a_descr">
+		<text>Kapitan Jeltiszew nosił swój sejf cały czas przy sobie, dopóki go nie przenieśli gdzie indziej. Może pójdziesz sprawdzić, co jest w środku?</text>
+	</string>
+	<string id="st_mil_q8_n_a_name">
+		<text>Sterta śmieci</text>
+	</string>
+	<string id="st_mil_q8_n_a_descr">
+		<text>Jawa specjalnie trzymał swoje rzeczy w stercie śmieci, tylko że w końcu o nich zapomniał. Ja to sobie zapisałem i teraz przekazuję tobie.</text>
+	</string>
+	<string id="st_mil_q9_n_a_name">
+		<text>Skrzynka z tajemnicą</text>
+	</string>
+	<string id="st_mil_q9_n_a_descr">
+		<text>Za kabiną wojskowego MAZ-a jest skrzynka z tajemnicą. Właśnie tę tajemnicę sprzedaję tobie.</text>
+	</string>
+
+	<string id="st_trc_inventory_box_descr">
+		<text>Włożyłem wszystko do skrzyni, w wagonie niedaleko bazy. Tak właśnie to zaplanowaliśmy, teraz wystarczy poczekać.</text>
+	</string>
+	<string id="st_trc_inventory_box_name">
+		<text>Uzgodniona skrytka</text>
+	</string>
+	<string id="st_trc_inventory_box_0000_descr">
+		<text>Schowałem skrzynię w autobusie - powinna być niezauważalna</text>
+	</string>
+	<string id="st_trc_inventory_box_0000_name">
+		<text>Schowek w autobusie</text>
+	</string>
+	<string id="st_trc_inventory_box_0001_descr">
+		<text>Schowałem część amunicji w panelu elektrycznym.</text>
+	</string>
+	<string id="st_trc_inventory_box_0001_name">
+		<text>Schowek w panelu elektrycznym</text>
+	</string>
+	<string id="st_trc_inventory_box_0002_descr">
+		<text>Schowałem swój plecak pod jodłą.</text>
+	</string>
+	<string id="st_trc_inventory_box_0002_name">
+		<text>Schowek pod drzewem</text>
+	</string>
+	<string id="st_trc_inventory_box_0003_descr">
+		<text>W stercie śmieci leży częściowo zakopany sejf. Tam właśnie wszystko schowałem.</text>
+	</string>
+	<string id="st_trc_inventory_box_0003_name">
+		<text>Sejf w południowej stercie</text>
+	</string>
+	<string id="st_trc_inventory_box_0004_descr">
+		<text>Schowek ukryty w cieniu - trudno o lepsze miejsce.</text>
+	</string>
+	<string id="st_trc_inventory_box_0004_name">
+		<text>Zgniły pień</text>
+	</string>
+	<string id="st_trc_inventory_box_0005_descr">
+		<text>Jakiś koleś wpadł anomalię przy elewatorze - plecak jest na widoku, ale ciężko się do niego dostać.</text>
+	</string>
+	<string id="st_trc_inventory_box_0005_name">
+		<text>Pod czerpakiem</text>
+	</string>
+	<string id="st_trc_inventory_box_0006_descr">
+		<text>Zostawiłem plecak w napromieniowanych ruinach.</text>
+	</string>
+	<string id="st_trc_inventory_box_0006_name">
+		<text>Niebezpieczny sekret</text>
+	</string>
+	<string id="st_trc_inventory_box_0007_descr">
+		<text>Schowałem wszystko w samochodzie, Długi powiedział, że to dobre miejsce.</text>
+	</string>
+	<string id="st_trc_inventory_box_0007_name">
+		<text>Schowek w samochodzie</text>
+	</string>
+	<string id="st_trc_inventory_box_0008_descr">
+		<text>Schowałem plecak pod samochodem, nikomu nie będzie się chciało tam zaglądać</text>
+	</string>
+	<string id="st_trc_inventory_box_0008_name">
+		<text>Ukryty plecak</text>
+	</string>
+	<string id="st_trc_inventory_box_0009_descr">
+		<text>Zostawiłem skrzynię w samochodzie przy bagnie</text>
+	</string>
+	<string id="st_trc_inventory_box_0009_name">
+		<text>Samochód ze skrytką</text>
+	</string>
+	<string id="st_trc_inventory_box_0011_descr">
+		<text>Schowałem swoje rzeczy w samochodzie na wzgórzu</text>
+	</string>
+	<string id="st_trc_inventory_box_0011_name">
+		<text>Schowek na wzgórzu</text>
+	</string>
+	<string id="st_trc_inventory_box_0012_descr">
+		<text>Muszę stąd pryskać. Sacharow i Krugłow to kompletni psychopaci - chcą, żebym wszedł z jakimś stalkerem w sam środek napromieniowanego pola. Pieprzyć ich. Zabieram się stąd, jak tylko odłożę wystarczająco dużo zapasów pod włazem.</text>
+	</string>
+	<string id="st_trc_inventory_box_0012_name">
+		<text>Skrytka naukowca</text>
+	</string>
+	<string id="st_trc_inventory_box_0013_descr">
+		<text>Musiałem zostawić swój plecak</text>
+	</string>
+	<string id="st_trc_inventory_box_0013_name">
+		<text>Porzucony plecak</text>
+	</string>
+	<string id="st_trc_inventory_box_0014_descr">
+		<text>Żółtodziobowi udało się wykraść bandytom jakąś skrzynię. Schował ją w wydachowanej Ładzie. Mówił, że wygądała na własność rządową. Będziemy musieli uzbroić paru chłopców i po nią wrócić.</text>
+	</string>
+	<string id="st_trc_inventory_box_0014_name">
+		<text>Rządowa skrzynka</text>
+	</string>
+	<string id="st_trc_inventory_box_0015_descr">
+		<text>Zostawiliśmy cały urobek w skrzyni, zabierzemy go w drodze powrotnej</text>
+	</string>
+	<string id="st_trc_inventory_box_0015_name">
+		<text>Schowek w skrzyni</text>
+	</string>
+	<string id="st_trc_inventory_box_0016_descr">
+		<text>W dolinie, wśród anomalii leży jakiś plecak. Muszę się jakoś do niego dostać.</text>
+	</string>
+	<string id="st_trc_inventory_box_0016_name">
+		<text>Bezpański plecak</text>
+	</string>
+	<string id="st_trc_inventory_box_0017_descr">
+		<text>Wrzuciłem swój szmelc do skrzynki - potem ją zabiorę.</text>
+	</string>
+	<string id="st_trc_inventory_box_0017_name">
+		<text>W nadwoziu ciężarówki</text>
+	</string>
+	<string id="st_trc_inventory_box_0018_descr">
+		<text>Wcisnąłem towar do kłody, nie sądzę, żeby je znaleźli.</text>
+	</string>
+	<string id="st_trc_inventory_box_0018_name">
+		<text>Skarb w kłodzie</text>
+	</string>
+	<string id="st_trc_inventory_box_0019_name">
+		<text>Porzucony kredens</text>
+	</string>
+	<string id="st_trc_inventory_box_0019_descr">
+		<text>Zawsze ceniłem ten kredens za przestronność. Musieliśmy go zostawić, gdy mutanty wyskoczyły ze swoich nor.</text>
+	</string>
+	<string id="st_trc_inventory_box_0010_name">
+		<text>Biały Zaporożec</text>
+	</string>
+	<string id="st_trc_inventory_box_0010_descr">
+		<text>Pewnego dnia Joga straci kontrolę nad tym miejscem. Zabiorę wtedy swój towar z białego samochodu i dam nogę.</text>
+	</string>
+	<string id="st_trc_inventory_box_0020_descr">
+		<text>Znalazłem dobre miejsce na skrytkę - w środku wydrążonego pnia</text>
+	</string>
+	<string id="st_trc_inventory_box_0020_name">
+		<text>Skrytka w pniu</text>
+	</string>
+	<string id="st_trc_inventory_box_0021_descr">
+		<text>Towar w zgniłym pniu</text>
+	</string>
+	<string id="st_trc_inventory_box_0021_name">
+		<text>Zgniły pień</text>
+	</string>
+	<string id="st_trc_inventory_box_0022_descr">
+		<text>W obozie bandytów jest samochód z ukrytą w nim skrzynką. Musimy się do niego zakraść i sprawdzić, co jest w środku. Mam przeczucie, że coś dobrego.</text>
+	</string>
+	<string id="st_trc_inventory_box_0022_name">
+		<text>Skrzynia w samochodzie</text>
+	</string>
+	<string id="st_trc_inventory_box_0023_descr">
+		<text>Znalazłem skrzynkę, w której będę składać nadwyżkowy towar</text>
+	</string>
+	<string id="st_trc_inventory_box_0023_name">
+		<text>Skrzynia z towarem</text>
+	</string>
+	<string id="st_trc_inventory_box_0024_descr">
+		<text>Schowałem towar w kabinie Kamaza</text>
+	</string>
+	<string id="st_trc_inventory_box_0024_name">
+		<text>Skrytka w Kamazie</text>
+	</string>
+	<string id="st_trc_inventory_box_0025_descr">
+		<text>Ukryłem plecak jednego z kotów. Nigdy udało mu się go odnaleźć.</text>
+	</string>
+	<string id="st_trc_inventory_box_0025_name">
+		<text>Ukryty plecak</text>
+	</string>
+	<string id="st_trc_inventory_box_0026_descr">
+		<text>Ciaglę słyszy się o rabunkach. Kradnie się nawet wśród swoich... ale mojej skrzyni nigdy nie znajdą.</text>
+	</string>
+	<string id="st_trc_inventory_box_0026_name">
+		<text>Skrzynia</text>
+	</string>
+	<string id="st_trc_inventory_box_0027_descr">
+		<text>Schowałem swój towar w żelaznej kapsule</text>
+	</string>
+	<string id="st_trc_inventory_box_0027_name">
+		<text>Skrytka stalkera</text>
+	</string>
+	<string id="st_trc_inventory_box_0028_descr">
+		<text>Wrzuciłem rzeczy do rury, potem je zabiorę. Gdybym mógł, to zabrałbym je od razu. Mam nadzieję, że się nie zamoczą.</text>
+	</string>
+	<string id="st_trc_inventory_box_0028_name">
+		<text>Rzeczy w rurze</text>
+	</string>
+	<string id="st_trc_inventory_box_0029_descr">
+		<text>W pniaku jest sekretny schowek.</text>
+	</string>
+	<string id="st_trc_inventory_box_0029_name">
+		<text>Sekretny pniak</text>
+	</string>
+	<string id="st_trc_inventory_box_0030_descr">
+		<text>Musiałem wrzucić plecak pod drzewo. Inaczej nie dałbym rady uciec bandytom.</text>
+	</string>
+	<string id="st_trc_inventory_box_0030_name">
+		<text>Plecak stalkera</text>
+	</string>
+	<string id="st_trc_inventory_box_0031_descr">
+		<text>Skrzynia pozostawiona w furgonetce - trzeba ją zabrać</text>
+	</string>
+	<string id="st_trc_inventory_box_0031_name">
+		<text>Zapomniana skrzynia</text>
+	</string>
+	<string id="st_trc_inventory_box_0032_descr">
+		<text>Wszystko, co ukradłem Borowowi jest teraz w sejfie pod sosną. Teraz muszę trochę poczekać, aż chłopaki się uspokoją.</text>
+	</string>
+	<string id="st_trc_inventory_box_0032_name">
+		<text>Ukryty sejf</text>
+	</string>
+
+	<string id="st_agr_smart_terrain_6_4_box_descr">
+		<text>Od teraz nasza skrytka będzie w tunelu. To dobre miejsce - niewielu o nim wie, a anomalie powstrzymają nieproszonych gości.</text>
+	</string>
+	<string id="st_agr_smart_terrain_6_4_box_name">
+		<text>Skrytka Sieryja</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_4_descr">
+		<text>Schowałem wszystko w pniu, przy tunelu.</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_4_name">
+		<text>Dziurawy pień</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_box_descr">
+		<text>Schowałem trochę skarbów pod krzyżem, przy krzaku.</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_box_name">
+		<text>Pod krzyżem</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_1_box_descr">
+		<text>Strzelali do mnie. Musiałem wrzucić plecak pod wagon. Przynajmniej udało mi się uciec. Niedługo wrócę i go zabiorę.</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_1_box_name">
+		<text>Plecak pijaka</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_box_descr">
+		<text>Skrytka w skrzyni pod schodami.</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_box_name">
+		<text>Skrzynia w klatce schodowej</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_2_box_descr">
+		<text>Schowałem wszystko w skrzyni, nikt nie powinien zwrócić uwagi.</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_n_2_box_name">
+		<text>Skrzynia</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_2_box_descr">
+		<text>Znalazłem sejf pod powalonym drzewem. Przechowam w nim swoje rzeczy.</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_2_box_name">
+		<text>Sejf pod drzewem</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_3_box_descr">
+		<text>Trzeba będzie powiedzieć chłopakom, że towar jest w starej rurze. Nie ma mowy, żebym się tam wspinał.</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_3_box_name">
+		<text>Napromieniowana rura</text>
+	</string>
+	<string id="st_agr_smart_terrain_3_5_box_descr">
+		<text>Pod krzakiem jest częściowo zakopany sejf - tam składuję swoje rzeczy.</text>
+	</string>
+	<string id="st_agr_smart_terrain_3_5_box_name">
+		<text>Sejf pod krzakiem</text>
+	</string>
+	<string id="st_agr_smart_terrain_6_6_box_descr">
+		<text>Znaleźli moją skrzynkę pod belką. Ktoś ją tu przyciągnął z samego Instytutu. Poczekam na kumpla i razem ją zabierzemy.</text>
+	</string>
+	<string id="st_agr_smart_terrain_6_6_box_name">
+		<text>Skrzynka archiwalna</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_box_descr">
+		<text>Dobra skrzynka na gromadzenie dodatkowego szmelcu</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_box_name">
+		<text>Skrzynka z instytutu</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_1_box_descr">
+		<text>Schowałem wszystko w sejfie, ale teraz roi się tam od żołnierzy.</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_1_box_name">
+		<text>Sejf w Agropromie</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_2_box_descr">
+		<text>Solidna skrzynia, w której składowano kiedyś sprzęt instytutu.</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_n_2_box_name">
+		<text>Skrzynia dozorcy</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_2_descr">
+		<text>Dobra skrzynia do składowania drobnych rzeczy. Trzymałem kiedyś w takiej narzędzie do obróbki metalu.</text>
+	</string>
+	<string id="st_agr_duty_bar_secret_2_name">
+		<text>Skrzynka narzędziowa</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0002_descr">
+		<text>Schowałem plecak w pobliżu bazy Powinności. Później go zabiorę.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0002_name">
+		<text>Ukryty plecak</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0003_descr">
+		<text>Goniła mnie sfora psów. Gdybym nie zrzucił plecaka, to nie dobiegłbym do bramy</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0003_name">
+		<text>Porzucony plecak</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0004_descr">
+		<text>Zakopali pod krzyżem wszystko, co po nim zostało.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0004_name">
+		<text>Skrytka pod krzyżem</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0005_descr">
+		<text>Zostawiłem tu swój plecak, żeby ułatwić sobie przeprawę.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0005_name">
+		<text>Plecak</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0006_descr">
+		<text>Amunicja posterunku Powinności jest składowana w bunkrze i nikt jej specjalnie nie pilnuje</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0006_name">
+		<text>Zasoby w bunkrze</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0007_descr">
+		<text>Widziałem, jak koleś z Powinności chował coś w rurze przy bramie</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0007_name">
+		<text>Skrytka w rurze</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0008_descr">
+		<text>To cały jego dobytek. Póki co może z nim zostać.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0008_name">
+		<text>Skrytka pod krzyżem</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0009_descr">
+		<text>Idę do baru, plecak zostawiam w hangarze</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0009_name">
+		<text>Plecak</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0010_descr">
+		<text>Chodzą słuchy, że w tablicy rozdzielczej na terenie Powinności jest coś wartościowego.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0010_name">
+		<text>Tablica rozdzielcza</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0011_descr">
+		<text>Wciągnąłem skrzynię na szczyt wieży przed bazą Powinności - nikt jej tam nie zauważy.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0011_name">
+		<text>Skrytka na wieży</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0012_descr">
+		<text>Schowałem rzeczy w rurze pod schodami</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0012_name">
+		<text>Skrytka</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0013_descr">
+		<text>Schowałem towar niedaleko baru, za anomaliami - nikt tam nie wejdzie. A nawet gdyby się komuś udało, to nie będzie wiedział jak się tam dostać. To bardzo proste - wystarczy lekko pociągnąć za drzwi.</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0013_name">
+		<text>Schowek Arniego</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0014_descr">
+		<text>Zakopałem towar niedaleko baru</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0014_name">
+		<text>Skrytka</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0015_descr">
+		<text>Przy barze, w skrzyni</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0015_name">
+		<text>Skrzynia</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0016_descr">
+		<text>Schowałem skrzynię w bocznej uliczce obok baru</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0016_name">
+		<text>Skrzynka</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0017_descr">
+		<text>Zakopałem wszystko pod krzyżem, za sosnami</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0017_name">
+		<text>Skrytka</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0018_descr">
+		<text>Schowałem trochę towaru pod krzyżem przy wzgórzu</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0018_name">
+		<text>Skrytka pod krzyżem</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0019_descr">
+		<text>Schowałem skrzynkę w rurze przy Arenie</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0019_name">
+		<text>Skrzynka</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0020_descr">
+		<text>Schowałem swój szmelc w rurze pod wieżą</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0020_name">
+		<text>Skrytka</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0021_descr">
+		<text>Pod krzyżem jest schowek</text>
+	</string>
+	<string id="st_l05_bar_inventory_box_0021_name">
+		<text>Skrytka</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_8_box_descr">
+		<text>Zakopałem trochę towaru pod mostem, gdy nasza grupa walczyła z mundurowymi. Pozwolę im tam poleżeć.</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_8_box_name">
+		<text>Pod krzyżem</text>
+	</string>
+	<string id="st_esc_treasure_novice_stalker_descr">
+		<text>Lichoj powiedział mi, że skrytka jest w piwnicy. Za dużo paplał, więc musieliśmy się go pozbyć.</text>
+	</string>
+	<string id="st_esc_treasure_novice_stalker_name">
+		<text>Piwnica we wiosce</text>
+	</string>
+	<string id="st_esc_recover_item_4_corpse_descr">
+		<text>Powiedziano mi, że dowódca ma w swoim biurze skrzynkę wypchaną kosztownościami.</text>
+	</string>
+	<string id="st_esc_recover_item_4_corpse_name">
+		<text>Skarb dowódcy</text>
+	</string>
+	<string id="st_esc_smart_terrain_7_11_box_descr">
+		<text>Ukryłem towar w piwnicy bandytów. Wcześniej ich tam nie było, więc poczekajmy na właściwą chwilę, by się ich wszystkich pozbyć.</text>
+	</string>
+	<string id="st_esc_smart_terrain_7_11_box_name">
+		<text>Piwnica rozbójników</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_5_box_descr">
+		<text>Widziałem jak jeden z bandytów schował swój towar do skrzyni w hangarze. A gdybym się tam zakradł?</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_5_box_name">
+		<text>Pudło bandytów</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_box_descr">
+		<text>Dyspozytor kazał nam się wycofać. Więc znalazłem skrzynię, wrzuciłem do niej wszystko, co miałem i wróciłem.</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_7_box_name">
+		<text>Zapasy w skrzyni</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_2_box_descr">
+		<text>Schowałem towar w wagonie, gdy strzelały do mnie dupki z Powinności. Muszę po niego jakoś wrócić i odwdzięczyć się Powinności.</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_2_box_name">
+		<text>Skrzynia na posterunku</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_3_box_descr">
+		<text>Ledwo wspiąłem się po belkach, ale przynajmniej dobrze ukryłem plecak - nikt nie będzie próbował tu wejść.</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_3_box_name">
+		<text>Towar jest pod betonowymi blokami</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_2_box_descr">
+		<text>Wepchnąłem swój plecak do pieca, później mi się przyda.</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_2_box_name">
+		<text>Skrytka w piecu</text>
+	</string>
+	<string id="st_l07_military_inventory_box_0020_descr">
+		<text>Schowałem towar w samochodzie, w opuszczonej wiosce.</text>
+	</string>
+	<string id="st_l07_military_inventory_box_0020_name">
+		<text>Skrytka w samochodzie</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_4_box_descr">
+		<text>Schowałem plecak ze sprzętem w przytulnym miejscu.</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_4_box_name">
+		<text>Plecak ze sprzętem</text>
+	</string>
+	<string id="st_mil_additional_quest_1_box_descr">
+		<text>Śmigłowiec spadł zaraz obok bazy wojskowej, a zaraz obok niego leży skrzynia. Jest jednak problem - roi się tam od anomalii.</text>
+	</string>
+	<string id="st_mil_additional_quest_1_box_name">
+		<text>Skrzynia ze śmigłowca</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_8_box_descr">
+		<text>Schowałem plecak w kabinie dźwigu. Potem go zabiorę.</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_8_box_name">
+		<text>Skrytka na wysokości</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_8_box_descr">
+		<text>Skrzynia na dodatkowy towar</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_8_box_name">
+		<text>Skrzynia z towarem</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_box_descr">
+		<text>Wrzuciłem towar do skrzyni - potem go zabiorę</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_box_name">
+		<text>Tymczasowa skrytka</text>
+	</string>
+	<string id="st_mil_smart_terrain_5_6_box_descr">
+		<text>Schowałem towar w samochodzie, zaraz pod nosem Wolności. Nie było czasu na szukanie lepszego miejsca.</text>
+	</string>
+	<string id="st_mil_smart_terrain_5_6_box_name">
+		<text>Skrytka w samochodzie</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0000_descr">
+		<text>Mówią, że jakiś znany stalker kopnął tu w kalendarz i nikt jeszcze nie dobrał się do jego sprzętu</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0000_name">
+		<text>Rzeczy martwego stalkera</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_descr">
+		<text>Słyszałem, że w garażu jest skrzynka wypchana dobrym towarem</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_name">
+		<text>Skarb w garażu</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0001_descr">
+		<text>Słyszałem, że w przedszkolu jest skrzynka wypchana dobrym towarem</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0001_name">
+		<text>Stara skrytka</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0002_descr">
+		<text>Kieł został pochowany pod monumentem w Prypeci. Cały jego sprzęt jest nadal z nim - nikt nie chciał okradać zmarłego.</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0002_name">
+		<text>Sprzęt Kła</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0006_descr">
+		<text>Ostatnie, co o nim wiadomo, to że był jedynym ocalałym po zwęglaczu. Zostawił wszystkie swoje zapasy w jakimś starym markecie i ruszył w drogę. Nic nie poszło zgodnie z planem, a on był najlepszym dowódcą Wolności w całej naszej historii.</text>
+	</string>
+	<string id="st_l11_pripyat_inventory_box_0006_name">
+		<text>Zapasy dowódcy Wolności</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0001_descr">
+		<text>Krzyż jest na drodze do zwęglacza. Nie ważyłem się iść dalej i ukryłem wszystko pod nim.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0001_name">
+		<text>Skarb Mruka</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0002_descr">
+		<text>Zginął tu jakiś stalker. Obok leży jego towar i nikomu nie udało się jeszcze do niego dostać.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0002_name">
+		<text>Sprzęt martwego stalkera</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0003_descr">
+		<text>Mówią, że w lesie jest jakiś częściowo zakopany sejf pełen dobrego</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0003_name">
+		<text>Towar w sejfie</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0000_descr">
+		<text>Mówili im, żeby nie latać nad Zwęglaczem. Jak widać, nie posłuchali. Wylądowali w środku lasu, prawdopodobnie nikt nie przeżył. Naszym zadaniem było odzyskanie rzeczy, które ze sobą mieli.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0000_name">
+		<text>Paczka dla Powinności</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_descr">
+		<text>Mówią, że zapasy jednej z frakcji, która próbowała dostać się do centrum Zony nadal leżą w zasięgu działania Zwęglacza. Nikt z nich nie wrócił, a zapasy nadal czekają, aż ktoś je odbierze.</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_name">
+		<text>Zapasy lekkomyślnej grupy</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0005_descr">
+		<text>Mówią, że były lider którejś z frakcji kopnął tu w kalendarz, i że miał ze sobą wartościowy sprzęt</text>
+	</string>
+	<string id="st_l10_radar_inventory_box_0005_name">
+		<text>Sprzęt byłego dowódcy</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_descr">
+		<text>Schowałem plecak pod żelazną płytą</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_name">
+		<text>Ukryty pecak</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0001_descr">
+		<text>Schowałem towar pod krzyżem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0001_name">
+		<text>Schowek pod krzyżem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0002_descr">
+		<text>Schowałem małe co nieco w skrzyni pod małym domkiem. Powinienem o tym pamiętać.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0002_name">
+		<text>Skrzynia pod małym domem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0003_descr">
+		<text>Chowałem plecak pod schodami, gdy napatoczyli się ci kretyni. Cholera, jak ja mam go teraz odzyskać?</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0003_name">
+		<text>Plecak stalkera</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0004_descr">
+		<text>W rogu, za drzewem jest częściowo zakopany sejf. Będę tam teraz odkładać swój towar.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0004_name">
+		<text>Skrytka za drzewem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0005_descr">
+		<text>Schowali wszystko w skrzyni w garażu, który przejęli podczas nalotu.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0005_name">
+		<text>Skrytka w garażu</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0006_descr">
+		<text>Schowałem trochę rzeczy w skrzynce za budką</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0006_name">
+		<text>Ukryta skrzynka</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0007_descr">
+		<text>Wetknąłem plecak do dziury. Z góry nie da się go dostrzec.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0007_name">
+		<text>Plecak w skrytce</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0008_descr">
+		<text>Schowałem małą skrzynkę w bezpiecznym miejscu</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0008_name">
+		<text>Skrzynka</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0024_descr">
+		<text>Mój plecak jest zaraz pod dachem. Odłożyłem go na czarną godzinę.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0024_name">
+		<text>Skrytka stalkera</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0009_descr">
+		<text>Mówią, że w tym małym domku jest skrytka, a w niej jakiś towar</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0009_name">
+		<text>Sejf w domu</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0010_descr">
+		<text>Schowałem wszystko w domu, w rurze. Uwaga, wszystko jest tam popieprzone</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0010_name">
+		<text>Skrytka w rurze</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0011_descr">
+		<text>Weź to, o czym rozmawialiśmy ze skrzynki. Nikt się tam z reguły nie kręci</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0011_name">
+		<text>Ukryta skrzynia</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0012_descr">
+		<text>Ukryłem wszystko pod krzyżem, w bocznej uliczce</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0012_name">
+		<text>Skrytka pod krzyżem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0013_descr">
+		<text>Schowali dodatkowe zapasy pod betonem, na placu budowy</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0013_name">
+		<text>Skrytka pod betonem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0014_descr">
+		<text>Schowamy urobek w skrzyni na placu budowym, w razie, gdybyśmy musieli pryskać.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0014_name">
+		<text>Skrytka Szczęściarza</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0015_descr">
+		<text>Schowałem wszystko w jednej z bocznych uliczek, na placu budowy</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0015_name">
+		<text>Nyczka</text> <!-- Nychka -->
+	</string>
+	<string id="st_l06_rostok_inventory_box_0016_descr">
+		<text>Wetknąłem wszystko do rury - potem to zabiorę</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0016_name">
+		<text>Skrytka w rurze</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0017_descr">
+		<text>Schowałem towar w skrzyni, niedaleko placu budowy</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0017_name">
+		<text>Skrzynka</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0018_descr">
+		<text>Zaciągnąłem skrzynkę do kabiny dźwigu</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0018_name">
+		<text>Skrzynka w dźwigu</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0019_descr">
+		<text>Schowałem towar pod włazem, na rogu.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0019_name">
+		<text>Skrytka pod włazem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0020_descr">
+		<text>Wlazłem w anomalię szukając artefaktów. Ledwo mogłem ustać o własnych siłach, więc rzuciłem swój plecak w jakiś zaułek.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0020_name">
+		<text>Porzucony plecak</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0021_descr">
+		<text>Wepchnąłem skrzynię pod sam sufit, przy wieży.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0021_name">
+		<text>Skrzynka pod sufitem</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0022_descr">
+		<text>Schowaliśmy nasze znalezisko w skrzyni, niedaleko placu budowy.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0022_name">
+		<text>Skrytka w rurze</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0025_descr">
+		<text>Zostawiłem plecak przy dźwigu</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0025_name">
+		<text>Plecak</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0023_descr">
+		<text>Wetknąłem cały towar do kłody. Nie sądzę, że ktoś go znajdzie.</text>
+	</string>
+	<string id="st_l06_rostok_inventory_box_0023_name">
+		<text>Skrytka</text>
+	</string>
+	<string id="st_val_smatr_terrain_4_0_box_descr">
+		<text>Wrzuciłem swoje rzeczy do rury. Potem je zabiorę.</text>
+	</string>
+	<string id="st_val_smatr_terrain_4_0_box_name">
+		<text>Skrytka w rurze</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0013_descr">
+		<text>Włożyłem skrzynię do sekretnego schowka - to porządne miejsce.</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0013_name">
+		<text>Skrzynia</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0002_descr">
+		<text>Zostawiłem plecak w opuszczonym budynku. Nie było nikogo w pobliżu.</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0002_name">
+		<text>Porzucony plecak</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0029_descr">
+		<text>Włożyłem towar do jakiejś skrzyni. Potem go zabiorę.</text>
+	</string>
+	<string id="st_l04_darkvalley_inventory_box_0029_name">
+		<text>Pospolita skrzynia</text>
+	</string>
+	<string id="st_val_smatr_terrain_7_6_box_descr">
+		<text>Schowałem towar w samochodzie, zaraz pod nosem bandytów. Nie było czasu na szukanie lepszego miejsca.</text>
+	</string>
+	<string id="st_val_smatr_terrain_7_6_box_name">
+		<text>Skrytka w samochodzie</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_4_box_descr">
+		<text>Schowałem za garażem trochę towaru na potem.</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_4_box_name">
+		<text>Plecak za garażem</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_5_box_descr">
+		<text>Schowałem plecak plecak w budce, zaraz za kupą metalu</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_5_box_name">
+		<text>Plecak z łupem</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_6_box_descr">
+		<text>Towar jest schowany w samochodzie, niedaleko obszaru. Emisje nie przekraczają normy.</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_6_box_name">
+		<text>Łup jest w samochodzie</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_box_descr">
+		<text>Mówią, że jest tu czyjś łup, ale emisje nie pozwalają się do niego dostać.</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_box_name">
+		<text>Stary plecak</text>
+	</string>
+	<string id="st_yan_smart_terrain_1_6_box_descr">
+		<text>Mówią, że jest tu skrytka jakiejś grupy. Zastanawia mnie jak się tam dostali pomimo emisji.</text>
+	</string>
+	<string id="st_yan_smart_terrain_1_6_box_name">
+		<text>Skrytka grupy</text>
+	</string>
+	<string id="st_yan_recover_item_2_corpse_descr">
+		<text>Kolejny ochotnik wykitował, bo kolejny prototyp nie ochronił go przed emisjami. Dostał się tylko na środek obszaru i tam już pozostał. Sacharow chce przeprowadzić dokładniejsze pomiary, ale ja się nigdzie nie ruszam. Jeszcze sam tak skończę.</text>
+	</string>
+	<string id="st_yan_recover_item_2_corpse_name">
+		<text>Plecak testera</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_4_box_descr">
+		<text>Mówią, że jest tam czyjś łup, ale nie ma mowy, żeby się tam dostać z tymi emisjami.</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_4_box_name">
+		<text>Stara skrytka</text>
+	</string>
+	<string id="st_yan_smart_terrain_6_4_box_descr">
+		<text>Mówią, że jest tu czyjś sejf, ale nie ma jak go wydostać, gdy trwają te emisje.</text>
+	</string>
+	<string id="st_yan_smart_terrain_6_4_box_name">
+		<text>Skrzynia z towarem</text>
+	</string>
+</string_table>

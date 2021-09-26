@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="windows-1250" ?>		
+		
+<!--===========================================================		
+<		
+< TEXT STRINGS FOR LOST TO THE ZONE: MORTAL SIN TASKS		
+<	Anomaly 1.5 - Lost to the Zone: Mortal Sin	
+<		
+<	Made by: SarisKhan	
+<	Last revised: 04 September 2019	
+<		
+<===========================================================-->		
+		
+<string_table>		
+		
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Mortal Sin Task 1 -->	
+	<string id="lttz_ms_start_title">	
+		<text>Grzech Śmiertelny: Tajemniczy Posłaniec</text>
+	</string>	
+		
+	<string id="lttz_ms_start_dolg_descr">	
+		<text>Generał Woronin chce, byś przesłuchał tajemniczego posłańca, który zaczepia stalkerów w Barze 100 Radów.</text>
+	</string>	
+	<string id="lttz_ms_start_dolg_descr_talk">	
+		<text>Zdobyłeś od posłańca wartościowe informacje. Wróć do Generała Woronina.</text>
+	</string>	
+	<string id="lttz_ms_start_dolg_descr_kill">	
+		<text>Zdobyłeś od posłańca wartościowe informacje, po czym go zabiłeś. Wróć do Generała Woronina.</text>
+	</string>	
+		
+	<string id="lttz_ms_start_killer_descr">	
+		<text>Duszman chce, byś przesłuchał tajemniczego posłańca, który zaczepia najemników w ich bazie, w Martwym Mieście.</text>
+	</string>	
+	<string id="lttz_ms_start_killer_descr_talk">	
+		<text>Zdobyłeś od posłańca wartościowe informacje. Wróć do Duszmana.</text>
+	</string>	
+	<string id="lttz_ms_start_killer_descr_kill">	
+		<text>Zdobyłeś od posłańca wartościowe informacje, po czym go zabiłeś. Wróć do Duszmana.</text>
+	</string>	
+		
+	<string id="lttz_ms_start_stalker_descr">	
+		<text>Sidorowicz chce, byś przesłuchał tajemniczego posłańca, który zaczepia stalkerów w Wiosce Kotów.</text>
+	</string>	
+	<string id="lttz_ms_start_stalker_descr_talk">	
+		<text>Zdobyłeś od posłańca wartościowe informacje. Wróć do Sidorowicza.</text>
+	</string>	
+	<string id="lttz_ms_start_stalker_descr_kill">	
+		<text>Zdobyłeś od posłańca wartościowe informacje, po czym go zabiłeś. Wróć do Sidorowicza.</text>
+	</string>	
+		
+	<string id="lttz_ms_start_csky_descr">	
+		<text>Zimny chce, byś przesłuchał tajemniczego posłańca, który zaczepia stalkerów w Bazie na Bagnach.</text>
+	</string>	
+	<string id="lttz_ms_start_csky_descr_talk">	
+		<text>Zdobyłeś od posłańca wartościowe informacje. Wróć do Zimnego.</text>
+	</string>	
+	<string id="lttz_ms_start_csky_descr_kill">	
+		<text>Zdobyłeś od posłańca wartościowe informacje, po czym go zabiłeś. Wróć do Zimnego.</text>
+	</string>	
+		
+	<string id="lttz_ms_start_freedom_descr">	
+		<text>Łukasz chce, byś przesłuchał tajemniczego posłańca, który zaczepia stalkerów w bazie Wolności.</text>
+	</string>	
+	<string id="lttz_ms_start_freedom_descr_talk">	
+		<text>Zdobyłeś od posłańca wartościowe informacje. Wróć do Łukasza.</text>
+	</string>	
+	<string id="lttz_ms_start_freedom_descr_kill">	
+		<text>Zdobyłeś od posłańca wartościowe informacje, po czym go zabiłeś. Wróć do Łukasza.</text>
+	</string>	
+		
+	<string id="lttz_ms_start_ecolog_descr">	
+		<text>Profesor Sacharow chce, byś przesłuchał tajemniczego posłańca, który zaczepia strażników w pobliżu bunkra.</text>
+	</string>	
+	<string id="lttz_ms_start_ecolog_descr_talk">	
+		<text>Zdobyłeś od posłańca wartościowe informacje. Wróć do Profesora Sacharowa.</text>
+	</string>	
+	<string id="lttz_ms_start_ecolog_descr_kill">	
+		<text>Zdobyłeś od posłańca wartościowe informacje, po czym go zabiłeś. Wróć do Profesora Sacharowa.</text>
+	</string>	
+		
+	<string id="vodnik_notes_name">	
+		<text>Notatki Wodnika</text>
+	</string>	
+	<string id="vodnik_notes_desc">	
+		<text>"Wielu zdecydowało się poświecić naszej sprawie, niezależnie od tego, czy rozumieli wspaniałość Zony od początku, czy potrzebowali wyjaśnień. Zazdroszczę Założycielom; zostali stworzeni przez Panów, byli świadkami zrodzenia Wyraju! Ale nas również oczyścili - oceniając nas jako godnych - i oczyszczą jeszcze więcej nowych braci. Razem rozgłosimy naszą wiadomość na cały świat."</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 2 -->	
+	<string id="lttz_ms_red_forester_title">	
+		<text>Grzech Śmiertelny: Czerwony Leśnik</text>
+	</string>	
+	<string id="lttz_ms_red_forester_descr">	
+		<text>Porozmawiaj z Leśnikiem o potencjalnej aktywności Grzechu w Czerwonym Lesie.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 3 -->	
+	<string id="lttz_ms_red_forest_attackers_title">	
+		<text>Grzech Śmiertelny: Widy z Czerwonego Lasu</text>
+	</string>	
+	<string id="lttz_ms_red_forest_attackers_descr">	
+		<text>Leśnik wywnioskował, że tajemniczy stalkerzy, za którymi podążasz rozbili w pobliżu obóz. Skonfrontuj ich.</text>
+	</string>	
+	<string id="lttz_ms_red_forest_attackers_descr2">	
+		<text>Sprawdź ciała w poszukiwaniu informacji.</text>
+	</string>	
+		
+	<string id="attackers_pda_name">	
+		<text>PDA dowódcy oddziału Grzechu</text>
+	</string>	
+	<string id="attackers_pda_desc">	
+		<text>Ten PDA należał do dowódcy oddziału. Zawiera mapę Czerwonego Lasu z kilkoma oznaczonymi lokacjami, jedna z nich jeszcze nie odhaczona. Wygląda na to, że drużyna kogoś ścigała i była bardzo blisko do ich odnalezienia. Jest tu też mnóstwo zaszyfrowanych informacji; mogą się okazać wartościowe.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 4 -->	
+	<string id="lttz_ms_runaway_title">	
+		<text>Grzech Śmiertelny: Ścigany</text>
+	</string>	
+	<string id="lttz_ms_runaway_descr">	
+		<text>Grzesznicy kogoś ścigali. Planowali w następnej kolejności sprawdzić kopalnie. Sprawdź to miejsce za nich.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 5 -->	
+	<string id="lttz_ms_needle_haystack_title">	
+		<text>Grzech Śmiertelny: Igła w Stogu Siana</text>
+	</string>	
+	<string id="lttz_ms_needle_haystack_descr">	
+		<text>Szew potrzebuje swojego urządzenia hakerskiego do wypełnienia ważnego zadania. Odzyskaj je ze skrytki mieszczącej się gdzieś we wrakach busów, na środku Cmentarzyska Pojazdów.</text>
+	</string>	
+	<string id="lttz_ms_return_stitch_descr">	
+		<text>Odnalazłeś urządzenie. Przynieś je Szwowi.</text>
+	</string>	
+		
+	<string id="stitch_decoder_name">	
+		<text>Dekoder Szwa</text>
+	</string>	
+	<string id="stitch_decoder_desc">	
+		<text>To nieco przestarzałe narzędzie hakerskie należy do Szwa. Powinno być kompatybilne z równie przestarzałymi urządzeniami rozmieszczonymi w całej Zonie.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 6 -->	
+	<string id="lttz_ms_report_title">	
+		<text>Grzech Śmiertelny: Raport Sytuacji</text>
+	</string>	
+	<string id="lttz_ms_report_dolg_descr">	
+		<text>Według Szwa, Grzech przygotowuje się do dużej kampanii. Zdaj raport Generałowi Woroninowi.</text>
+	</string>	
+	<string id="lttz_ms_report_killer_descr">	
+		<text>Według Szwa, Grzech przygotowuje się do dużej kampanii. Zdaj raport Duszmanowi.</text>
+	</string>	
+	<string id="lttz_ms_report_stalker_descr">	
+		<text>Według Szwa, Grzech przygotowuje się do dużej kampanii. Zdaj raport Sidorowiczowi.</text>
+	</string>	
+	<string id="lttz_ms_report_csky_descr">	
+		<text>Według Szwa, Grzech przygotowuje się do dużej kampanii. Zdaj raport Zimnemu.</text>
+	</string>	
+	<string id="lttz_ms_report_freedom_descr">	
+		<text>Według Szwa, Grzech przygotowuje się do dużej kampanii. Zdaj raport Łukaszowi.</text>
+	</string>	
+	<string id="lttz_ms_report_ecolog_descr">	
+		<text>Według Szwa, Grzech przygotowuje się do dużej kampanii. Zdaj raport Profesorowi Sacharowowi.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 7 -->	
+	<string id="lttz_ms_ambush_title">	
+		<text>Grzech Śmiertelny: Zasadzka</text>
+	</string>	
+	<string id="lttz_ms_ambush_dolg_descr">	
+		<text>Grzech atakuje Bar. Musisz ich odeprzeć.</text>
+	</string>	
+	<string id="lttz_ms_ambush_dolg_done_descr">	
+		<text>Odparłeś wrogi atak. Zdaj raport Generałowi Woroninowi.</text>
+	</string>	
+	<string id="lttz_ms_ambush_killer_descr">	
+		<text>Grzech atakuje Martwe Miasto. Musisz ich odeprzeć.</text>
+	</string>	
+	<string id="lttz_ms_ambush_killer_done_descr">	
+		<text>Odparłeś wrogi atak. Zdaj raport Duszmanowi.</text>
+	</string>	
+	<string id="lttz_ms_ambush_stalker_descr">	
+		<text>Grzech atakuje the Wioskę Kotów. Musisz ich odeprzeć.</text>
+	</string>	
+	<string id="lttz_ms_ambush_stalker_done_descr">	
+		<text>Odparłeś wrogi atak. Zdaj raport Sidorowiczowi.</text>
+	</string>	
+	<string id="lttz_ms_ambush_csky_descr">	
+		<text>Grzech atakuje Łowisko. Musisz ich odeprzeć.</text>
+	</string>	
+	<string id="lttz_ms_ambush_csky_done_descr">	
+		<text>Odparłeś wrogi atak. Zdaj raport Zimnemu.</text>
+	</string>	
+	<string id="lttz_ms_ambush_freedom_descr">	
+		<text>Grzech atakuje bazę. Musisz ich odeprzeć.</text>
+	</string>	
+	<string id="lttz_ms_ambush_freedom_done_descr">	
+		<text>Odparłeś wrogi atak.. Zdaj raport Łukaszowi.</text>
+	</string>	
+	<string id="lttz_ms_ambush_ecolog_descr">	
+		<text>Siły Grzechu szturmują bunkier. Musisz ich odeprzeć.</text>
+	</string>	
+	<string id="lttz_ms_ambush_ecolog_done_descr">	
+		<text>Odparłeś wrogi atak. Zdaj raport Profesorowi Sacharowowi.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task -->	
+	<string id="lttz_ms_dark_crusade_title">	
+		<text>Grzech Śmiertelny: Mroczna Krucjata</text>
+	</string>	
+	<string id="lttz_ms_dark_crusade_descr">	
+		<text>Grzech stanowi ogromne zagrożenie dla całej społeczności stalkerów. Zrób co możesz, by ich zatrzymać.</text>
+	</string>	
+	<string id="lttz_ms_dark_crusade_descr2">	
+		<text>Czernobów planuje rozszerzyć Zonę na cały świat. Trzeba go zatrzymać.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 8 -->	
+	<string id="lttz_ms_preemptive_strike_title">	
+		<text>Grzech Śmiertelny: Wyprzedzający Cios</text>
+	</string>	
+	<string id="lttz_ms_protect_miracle_machine_descr">	
+		<text>Grzech próbuje reaktywować Maszynę Cudów. Wyeliminuj oddział pilnujący wejścia do laboratorium.</text>
+	</string>	
+	<string id="lttz_ms_protect_miracle_machine_descr2">	
+		<text>Grzech próbuje reaktywować Maszynę Cudów. Zejdź do laboratorium i zabij wszystkich napotkanych wrogów.</text>
+	</string>	
+	<string id="lttz_ms_protect_miracle_machine_descr3">	
+		<text>Grzech próbuje reaktywować Maszynę Cudów. Zapobiegnij sukcesowi ostatniego oddziału.</text>
+	</string>	
+		
+	<string id="lttz_ms_protect_brain_scorcher_descr">	
+		<text>Grzech próbuje reaktywować Mózgozwęglacz. Przejdź do Radaru i wyeliminuj wszystkie wrogie siły.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 9 -->	
+	<string id="lttz_ms_to_war_title">	
+		<text>Grzech Śmiertelny: Do Wojny</text>
+	</string>	
+	<string id="lttz_ms_to_war_descr">	
+		<text>Po porażce poniesionej przy próbie reaktywacji instalacji psionicznych, Grzech zadeklarował otwartą wojnę. Przejdź do Limańska, by skontaktować się z Łotrem i uformować zjednoczony front.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 10 -->	
+	<string id="lttz_ms_urban_warfare_title">	
+		<text>Grzech Śmiertelny: Walka o Limańsk</text>
+	</string>	
+	<string id="lttz_ms_urban_warfare_descr">	
+		<text>Siły Grzechu kontrolują większość Limańska. Wyeliminuj ich dowódców, by ich rozproszyć.</text>
+	</string>	
+	<string id="lttz_ms_urban_warfare_descr2">	
+		<text>Pokonałeś inkwizytorów Grzechu. Powiedz Łotrowi o swoim sukcesie.</text>
+	</string>	
+		
+	<string id="drekavac_notes_name">	
+		<text>Notatki Drekavaca</text>
+	</string>	
+	<string id="drekavac_notes_desc">	
+		<text>"W końcu, po latach przygotowań możemy kontynuować plan Panów. To niefortunne, że tak wielu nam nie wierzy, ale słowa to czasem za mało. Są oślepieni przez prymitywne ludzkie żądze. Jeśli nie zaprzestaną swojej przemocy, my również odpowiemy przemocą. Może wtedy zrozumieją. Ziarno Wyraju kiełkuje, a ja jestem tu, by rozsiać je jak najdalej. Jestem czubkiem włóczni."</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 11 -->	
+	<string id="lttz_ms_war_prisoner_title">	
+		<text>Grzech Śmiertelny: Jeniec</text>
+	</string>	
+	<string id="lttz_ms_war_prisoner_descr">	
+		<text>Łotr zdołał pojmać członka Grzechu. Wyciągnij z niego użyteczne informacje.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 12 -->	
+	<string id="lttz_ms_contact_lost_title">	
+		<text>Grzech Śmiertelny: Brak Łączności</text>
+	</string>	
+	<string id="lttz_ms_contact_lost_descr">	
+		<text>Zespół zwiadowczy wysłany przez Łotra nie wrócił z misji. Sprawdź ich sytuację.</text>
+	</string>	
+	<string id="lttz_ms_contact_lost_descr2">	
+		<text>Zdołałeś zdobyć informacje na temat drużyny. Wróć do Łotra.</text>
+	</string>	
+		
+	<string id="contact_lost_pda_name">	
+		<text>PDA dowódcy zwiadowców</text>
+	</string>	
+	<string id="contact_lost_pda_desc">	
+		<text>Ten PDA należał do dowódcy drużyny zwiadowców. Zdołał przed śmiercią nagrać ważną informację o wrogich siłach.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 13 -->	
+	<string id="lttz_ms_destruction_site_title">	
+		<text>Grzech Śmiertelny: Plac Destrukcji</text>
+	</string>	
+	<string id="lttz_ms_destruction_site_descr">	
+		<text>Siły Grzechu okopały się na ufortyfikowanej pozycji, na starym placu budowy. Wyeliminuj ich, by zabezpieczyć Limańsk i otworzyć drogę na północ.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 14 -->	
+	<string id="lttz_ms_hospital_assault_title">	
+		<text>Grzech Śmiertelny: Szturm na Szpital</text>
+	</string>	
+	<string id="lttz_ms_hospital_assault_descr">	
+		<text>Rozgrom pozostałości Grzechu w Limańsku, by dostać się do Opuszczonego Szpitala.</text>
+	</string>	
+	<string id="lttz_ms_hospital_assault_descr2">	
+		<text>Wyprzyj siły Grzechu z Opuszczonego Szpitala, pozbawiając ich twierdzy i skieruj się do Elektrowni.</text>
+	</string>	
+	<string id="lttz_ms_hospital_assault_descr3">	
+		<text>Telepatyczny głos wezwał cię do tajemniczego stalkera. Zbadaj sytuację.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 15 -->	
+	<string id="lttz_ms_heart_zone_title">	
+		<text>Grzech Śmiertelny: Serce Zony</text>
+	</string>	
+	<string id="lttz_ms_heart_zone_descr">	
+		<text>Wyeliminuj patrole Grzechu w drodze na północ Elektrowni, by zapewnić bezpieczny powrót.</text>
+	</string>	
+	<string id="lttz_ms_heart_zone_descr2">	
+		<text>Dotrzyj do upiornego miejsca zwanego Generatorami.</text>
+	</string>	
+	<string id="lttz_ms_heart_zone_descr3">	
+		<text>Niezidentyfikowany stalker skontaktował się z tobą przez PDA. Oby to był sojusznik...</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 16 -->	
+	<string id="lttz_ms_decisive_blow_title">	
+		<text>Grzech Śmiertelny: Decydujący Cios</text>
+	</string>	
+	<string id="lttz_ms_decisive_blow_descr">	
+		<text>Pozostałości sił Grzechu zbierają się wokół wejścia do Laboratorium. Zaatakuj ich, by odwrócić ich uwagę od sabotażu Strieloka.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 17 -->	
+	<string id="lttz_ms_confrontation_title">	
+		<text>Grzech Śmiertelny: Konfrontacja</text>
+	</string>	
+	<string id="lttz_ms_confrontation_descr">	
+		<text>Grzech zawiódł w swojej misji. Skonfrontuj się z Czernobogiem.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 18 -->	
+	<string id="lttz_ms_endgame_title">	
+		<text>Grzech Śmiertelny: Zakończenie</text>
+	</string>	
+	<string id="lttz_ms_endgame_descr">	
+		<text>Ścigaj Czernoboga i nie pozwól mu wypowiedzieć życzenia.</text>
+	</string>	
+		
+	<string id="chernobog_notes_name">	
+		<text>Notatki Czernoboga</text>
+	</string>	
+	<string id="chernobog_notes_desc">	
+		<text>"Zona jest cudem. Panowie nas oczyścili. Wkrótce - myśleliśmy - Zona oczyści cały świat. Ale tak się nie stało. Nasz mały raj padł wkrótce ofiarą nieczystych ludzi z grzesznego świata. I w akcie niewyobrażalnego okrucieństwa, bestia zwana Strielokiem zraniła potęzny Monolit, i wtargnęła do komnat Panów, by unicestwić ich śmiertelne formy. Mimo to nie poddam się. Nie mogę pozwolić, by ten cud został pożarty przez występki i plugawość niewiernych. Więc my, Grzech, musimy dopełnić woli Panów. Będziemy toczyć wojnę przeciw brutalności, by wprowadzić wieczny pokój."</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 19 -->	
+	<string id="lttz_ms_choice_title">	
+		<text>Grzech Śmiertelny: Wybór</text>
+	</string>	
+	<string id="lttz_ms_choice_descr">	
+		<text>Chernobóg jest martwy. Stoisz teraz przed decyzją, czy chcesz osobiście skorzystać ze Spełniacza Życzeń.</text>
+	</string>	
+	<string id="lttz_ms_choice_descr2">	
+		<text>Odezwij się do Spełniacza Życzeń.</text>
+	</string>	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Task 20 -->	
+	<string id="lttz_ms_zone_hero_title">	
+		<text>Grzech Śmiertelny: Bohater Zony</text>
+	</string>	
+	<string id="lttz_ms_zone_hero_dolg_descr">	
+		<text>Powstrzymałeś Grzech przed przyśpieszeniem rozrostu Zony. Powiedz Generałowi Woroninowi o swoim sukcesie.</text>
+	</string>	
+	<string id="lttz_ms_zone_hero_killer_descr">	
+		<text>Upewniłeś się, że Zona pozostanie w swoim obecnym, lukratywnym stanie. Powiedz Duszmanowi o swoim sukcesie.</text>
+	</string>	
+	<string id="lttz_ms_zone_hero_stalker_descr">	
+		<text>Skonfrontowałeś się z siłą zagrażającą wszystkim stalkerom i zwyciężyłeś. Powiedz Sidorowiczowi o swoim sukcesie.</text>
+	</string>	
+	<string id="lttz_ms_zone_hero_csky_descr">	
+		<text>Zapobiegłeś wytrąceniu Zony z balansu. Powiedz Zimnemu o swoim sukcesie.</text>
+	</string>	
+	<string id="lttz_ms_zone_hero_freedom_descr">	
+		<text>Powstrzymałeś tyranów przed narzuceniem ich woli całemu światu. Powiedz Łukaszowi o swoim sukcesie.</text>
+	</string>	
+	<string id="lttz_ms_zone_hero_ecolog_descr">	
+		<text>Przetrwałeś przygodę, która zabiłaby większość naukowców i utrzymałeś Zonę pod kontrolą, dla dobra dalszych badań. Powiedz Profesorowi Sacharowowi o swoim sukcesie.</text>
+	</string>	
+		
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->	
+		
+	<!-- ----------------------------------------------------------------------------------------- -->	
+	<!-- Grzech Śmiertelny Unquenchable Flame Tasks -->	
+	<string id="unquenchable_flame_task_name">	
+		<text>Niezduszony Płomień</text>
+	</string>	
+	<string id="unquenchable_flame_task_text">	
+		<text>Niedobitki Grzechu zbierają się w Zatonie. Musisz ich wyeliminować.</text>
+	</string>	
+		
+	<string id="esc_m_trader_task_4_about">	
+		<text>Stalkerze, wiem, że już się nawalczyłeś z Grzechem, ale Broda powiedział mi, że ich pozostałości są nadal bardzo aktywne. Niektórzy stalkerzy raportowali, że widziano ich w starym magazynie podstacji w Zatonie. Zagrażają moim szlakom handlowym i bardzo mi się to nie podoba. Ucisz ich na dobre.</text>
+	</string>	
+	<string id="esc_m_trader_task_4_finish">	
+		<text>Jesteś niczym jednoosobowa armia, co? Dobra robota, stalkerze. Mam nadzieję, że już nigdy o nich nie usłyszę.</text>
+	</string>	
+	<string id="cit_killers_merc_trader_stalker_task_4_about">	
+		<text>Zrobiłeś sobie całkiem niezłą reputację samodzielnie niszcząc całą frakcję obłąkańców. Widzisz, rzecz w tym, że zostało kilku niedobitków. Nasi chłopcy z posterunku w Zatonie raportowali podejrzane aktywności w pobliskim magazynie i są pewni, że to znów Grzech. Wyeliminuj ich zanim zaczną kolejną krwawą krucjatę.</text>
+	</string>	
+	<string id="cit_killers_merc_trader_stalker_task_4_finish">	
+		<text>Zawsze mogę być pewny, że zakończysz robotę jak prawdziwy profesjonalista. Oto twoja nagroda.</text>
+	</string>	
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">	
+		<text>Cholera, właśnie kiedy miałem zapomnieć o powtarzających się historiach, ci goście nagle znów się pojawiają. Wygląda na to, że niedobitki Grzechu przegrupowują się w opuszczonym magazynie podstacji w Zatonie. Wiem, że to długa droga, ale naprawdę nie podoba mi się wizja Grzechu rosnącego ponownie w siłę. Weź kilku ludzi i się ich pozbądź.</text>
+	</string>	
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">	
+		<text>Ah, dobra robota. Myślę, że wystarczy nam wojaczki na kilka przyszłych lat, nie sądzisz?</text>
+	</string>	
+		
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->	
+		
+</string_table>		

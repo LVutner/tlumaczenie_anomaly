@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: LIVING LEGEND TASKS
+<	Anomaly 1.5 - Lost to the Zone: Living Legend
+<
+<	Made by: SarisKhan
+<	Last revised: 04 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Living Legend Task 1 -->
+	<string id="lttz_ll_find_doctor_task_title">
+		<text>Żywa Legenda: Stary Przyjaciel</text>
+	</string>
+	<string id="lttz_ll_find_doctor_task_descr">
+		<text>Doktor, stary towarzysz Strieloka, zamieszkał w północno-zachodniej części Wielkich Bagien. Znajdź sposób na odnalezienie go, by kontynuować poszukiwania.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 2 -->
+	<string id="lttz_ll_visit_agro_ug_name">
+		<text>Żywa Legenda: Podziemna Kryjówka</text>
+	</string>
+	<string id="lttz_ll_visit_agro_ug_text">
+		<text>Doktor zasugerował złożenie wizyty w dawnej kryjówce grupy Strieloka w podziemiach Agropromu. Mogą tam być wartościowe wskazówki.</text>
+	</string>
+	<string id="lttz_ll_visit_agro_ug_text_2">
+		<text>Z uważnej lektury notatek Doktora wynika, że Strielok ma kryjówkę gdzieś w podziemiach Agropromu. Przeszukaj je w celu znalezienia wskazówek na temat jego pobytu.</text>
+	</string>
+	
+	<string id="strelok_notes_name">
+		<text>Notatnik Strieloka</text>
+	</string>
+	<string id="strelok_notes_desc">
+		<text>Ten notatnik należał kiedyś do Strieloka. Jest w nim mnóstwo chaotycznych i tajemniczych notatek. Wygląda na to, że stalker jest w stanie kryzysu spodowowanego decyzją, która podjął lata temu. Miał zamiar szybko uzupełnić zapasy w Rostoku przed dalszą podróżą na północ, w celu zweryfikowania swoich wyborów.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 3 -->
+	<string id="lttz_ll_visit_barkeep_task_title">
+		<text>Żywa Legenda: Na Tropie</text>
+	</string>
+	<string id="lttz_ll_visit_barkeep_task_descr">
+		<text>Skoro Strielok zatrzymał się w Rostoku, Barman pewnie coś o tym wie. Złóż mu wizytę.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 3 -->
+	<string id="lttz_ll_visit_aslan_task_title">
+		<text>Żywa Legenda: Na Tropie</text>
+	</string>
+	<string id="lttz_ll_visit_aslan_task_descr">
+		<text>Aslan jest dobrze zorientowany na temat północy Zony. Złóż mu wizytę.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 4 -->
+	<string id="lttz_ll_call_north_task_title">
+		<text>Żywa Legenda: Zew Północy</text>
+	</string>
+	<string id="lttz_ll_call_north_task_descr">
+		<text>Zdobądź funkcjonalne urządzenie anty-psioniczne, by ochronić się przez Mózgozwęglaczem.</text>
+	</string>
+	<string id="lttz_ll_call_north_task_descr2">
+		<text>Strażnik to weteran, który broni Bariery. Najprawdopodobniej jest ostatnią osobą, która widziała grupę Strieloka.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 5 -->
+	<string id="lttz_ll_breakthrough_task_name">
+		<text>Żywa Legenda: Przełamanie</text>
+	</string>		
+	<string id="lttz_ll_breakthrough_task_text">
+		<text>Monolit atakuje Barierę. Musisz ich rozbić, jeśli chcesz się przedostać do Radaru.</text>
+	</string>
+	<string id="lttz_ll_talk_gatekeeper_task_descr">
+		<text>Odepchnąłeś szturm Monolitu. Porozmawiaj ze Strażnikiem.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 6 -->
+	<string id="lttz_ll_radar_deactivate_name">
+		<text>Żywa Legenda: Ponad Tęczą</text>
+	</string>
+	<string id="lttz_ll_deactivate_text">
+		<text>Dezaktywuj Mózgozwęglacz, w celu przedostania się na północ Zony.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 7 -->
+	<string id="lttz_ll_visit_beard_task_title">
+		<text>Żywa Legenda: Enklawa</text>
+	</string>
+	<string id="lttz_ll_visit_beard_task_descr">
+		<text>Strażnik przesyła pozdrowienia dla Brody. Ten drugi może wiedzieć coś o Strieloku.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 8 -->
+	<string id="lttz_ll_meet_rogue_task_title">
+		<text>Żywa Legenda: Poznaj Łotra</text>
+	</string>
+	<string id="lttz_ll_meet_rogue_task_descr">
+		<text>Członek grupy Strieloka, Łotr, jest obecnie w Skadowsku. Porozmawiaj z nim, by dowiedzieć się więcej.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 9 -->
+	<string id="lttz_ll_fetch_gauss_task_title">
+		<text>Żywa Legenda: Eksperymentalna Broń</text>
+	</string>
+	<string id="lttz_ll_fetch_gauss_task_descr">
+		<text>Łotr chce, być znalazł dla niego eksperymentalny karabin. Odwiedź opuszczoną instalację wojskową.</text>
+	</string>
+	<string id="lttz_ll_fetch_gauss_task_descr2">
+		<text>Odnalazłeś eksperymentalną broń. Wróć do Łotra.</text>
+	</string>
+	
+	<string id="lttz_ll_wpn_gauss_quest_name">
+		<text>"Obiekt No.62"</text>
+	</string>
+	<string id="lttz_ll_wpn_gauss_quest_descr">
+		<text>Potężny karabin elektromagnetyczny o wysokiej celności. Pobiera energię z artefaktów typu elektrycznego. Przebije się przez najgrubszy pancerz. Ktoś porzucił tą kompaktową wersję na terenie strzelnicy jego prototypowego odpowiednika.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 10 -->
+	<string id="lttz_ll_path_pripyat_task_title">
+		<text>Żywa Legenda: Droga do Prypeci</text>
+	</string>
+	<string id="lttz_ll_path_pripyat_task_descr">
+		<text>Przedostań się przez Podziemia Jupitera. Łotr będzie ci towarzyszyć.</text>
+	</string>
+	<string id="lttz_ll_talk_rogue_underpass_task_descr">
+		<text>Przetrwałeś zasadzkę Monolitu. Porozmawiaj z Łotrem o sytuacji.</text>
+	</string>
+	<string id="lttz_ll_reach_pripyat_task_descr">
+		<text>Dotrzyj do kryjówki Strieloka w Prypeci. Łotr będzie ci towarzyszyć.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 11 -->
+	<string id="lttz_ll_medical_supplies_name">
+		<text>Żywa Legenda: Zasoby Medyczne</text>
+	</string>
+	<string id="lttz_ll_medical_supplies_text">
+		<text>Szew, medyk polowy Strieloka, poprosił cię o zdobycie: %s.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 12 -->
+	<string id="lttz_ll_attack_on_titan_name">
+		<text>Żywa Legenda: Atak na Tytana</text>
+	</string>
+	<string id="lttz_ll_attack_on_titan_text">
+		<text>Niebezpieczny Pseudogigant snuje się po Prypeci. Zabij go przed wyprawą, by zapobiec potencjalnym komplikacjom.</text>
+	</string>
+	<string id="lttz_ll_return_rogue_attack_on_titan_task_descr">
+		<text>Zabiłeś Pseudogiganta. Wróć do Łotra i poinformuj go o sukcesie.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 13 -->
+	<string id="lttz_ll_find_documents_name">
+		<text>Żywa Legenda: Ściśle Tajne</text>
+	</string>
+	<string id="lttz_ll_find_documents_text">
+		<text>Laboratorium X-8 mieści w sobie jedne z największych sekretów Zony. Znadź dokumenty i przynieś je Strielokowi.</text>
+	</string>
+	
+	<string id="item_doc_x8_ll_name">
+		<text>Dokumenty z X-8</text>
+	</string>
+	<string id="item_doc_x8_ll_desc">
+		<text>Te dokumenty powierzchownie opisują prowadzone przez nieznaną grupę, rozległe eksperymenty nad energią psioniczną. Przede wszystkim wyniki zdają się potwierdzać istnienie pola energii psionicznej otaczającego całą ziemię.\n \nZawierają też krótki opis wyrafinowanej maszynerii, która może mieć potencjalny wpływ na wcześniej opisane pole.\n  \nJednak znaczna większość z tych dokumentów zawiera tylko długie listy ludzkich obiektów doświadczalnych, które zostały wystawione na działanie zmiennych częstotliwości emisji psionicznych. Wielu z nich ponoć rozwinęło nadludzką wytrzymałość, intelekt lub zdolności telepatyczne. U niektórych stwierdzono późniejszy zgon, innych przeniesiono, a dalsze losy wielu z nich nie zostały w ogóle uwzględnione, tak jakby zniknęli lub uciekli.\n \nNa jednym z marginesów można odczytać następującą notatkę: "Wystarczająco już zniekształciliśmy ludzką formę w imię naszej wizji! Jak długo, zanim nasze grzechy i pycha zwrócą się przeciwko nam?". Strielok będzie z pewnością zainteresowany.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 14 -->
+	<string id="lttz_ll_eidolon_start_task_title">
+		<text>Żywa Legenda: Pierwsze Uderzenie</text>
+	</string>
+	<string id="lttz_ll_eidolon_start_task_descr">
+		<text>Zbierz drużynę i wyrusz naprzeciw Eidolonowi.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 15 -->
+	<string id="lttz_ll_eidolon_task_title">
+		<text>Żywa Legenda: Wybraniec Monolitu</text>
+	</string>
+	<string id="lttz_ll_eidolon_task_descr">
+		<text>Zaatakuj Dom Kultury i wywab z niego Eidolona.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 16 -->
+	<string id="lttz_ll_strelok_objective_task_title">
+		<text>Żywa Legenda: Ambitny Cel</text>
+	</string>
+	<string id="lttz_ll_strelok_objective_task_descr">
+		<text>Eidolon został pokonany. Pora, by Strielok wyjawił swój główny cel.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 17 -->
+	<string id="lttz_ll_chernobyl_raid_task_title">
+		<text>Żywa Legenda: Szturm na Elektrownię</text>
+	</string>
+	<string id="lttz_ll_chernobyl_raid_task_descr">
+		<text>Dotrzyj do Elektrowni i pokonaj broniące jej siły Monolitu.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 18 -->
+	<string id="lttz_ll_crucible_task_title">
+		<text>Żywa Legenda: Próba Ognia</text>
+	</string>
+	<string id="lttz_ll_crucible_task_descr">
+		<text>Przedrzyj się do Centrum Kontrolnego Monolitu, pokonaj jego upiornych obrońców i zdobądź Odłamek Monolitu.</text>
+	</string>
+	
+	<string id="item_monolith_shard_name">
+		<text>Odłamek Monolitu</text>
+	</string>
+	<string id="item_monolith_shard_desc">
+		<text>Ten przedmiot, zgodnie z legendą, został odłamany z samego Spełniacza Życzeń. Posiada właściwości niepodobne do żadnego innego artefaktu. Iskrzy potężną energią i zdaje się, że posiada złowieszczą moc, której nie widać za pierwszym spojrzeniem.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 19 -->
+	<string id="lttz_ll_answers_task_title">
+		<text>Żywa Legenda: Odpowiedzi</text>
+	</string>
+	<string id="lttz_ll_answers_task_descr">
+		<text>Zdobyłeś Odłamek Monolitu. Przyszedł czas na odpowiedzi.</text>
+	</string>
+	
+	<string id="st_strelok_pendrive_name">
+		<text>Pendrive Strieloka</text>
+	</string>
+	<string id="st_strelok_pendrive_descr">
+		<text>Ten pendrive zawiera mnóstwo zaszyfrowanych informacji: kopia zapasowa odkryć, które Strielok gromadził przez wszystkie swoje lata w Zonie. Bezcenny dowód na istnienie tajnych eksperymentów, które mogły być przyczyną powstania Zony.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Żywa Legenda Task 20 -->
+	<string id="lttz_ll_finish_task_title">
+		<text>Żywa Legenda: Koniec</text>
+	</string>
+	
+	<string id="lttz_ll_finish_csky_task_descr">
+		<text>Wróć do Zimnego i powiedz mu o swoim sukcesie.</text>
+	</string>
+	<string id="lttz_ll_finish_stalker_task_descr">
+		<text>Wróć do Sidorowicza i powiedz mu o swoim sukcesie.</text>
+	</string>
+	<string id="lttz_ll_finish_killer_task_descr">
+		<text>Wróć do Duszmana i powiedz mu o swoim sukcesie.</text>
+	</string>
+	<string id="lttz_ll_finish_freedom_task_descr">
+		<text>Wróć do Łukasza i powiedz mu o swoim sukcesie.</text>
+	</string>
+	<string id="lttz_ll_finish_dolg_task_descr">
+		<text>Wróć do Generała Woronina i powiedz mu o swoim sukcesie.</text>
+	</string>
+	<string id="lttz_ll_finish_ecolog_task_descr">
+		<text>Wróć do Profesora Sacharowa i powiedz mu o swoim sukcesie.</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+	
+</string_table>

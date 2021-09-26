@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+  <string id="st_anabiotic_combat">
+      <text>Wziкcie anabiotykуw byіoby niebezpieczne w pobliїu wrogуw</text>
+  </string>
+
+   <string id="st_psy_death_scene">
+      <text>Unikn№іeњ losu gorszego, niї њmierж...</text>
+  </string>
+
+  <string id="st_psy_zombification_scene">
+      <text>Zona daіa Ci drug№ szansк...</text>
+  </string>
+</string_table>

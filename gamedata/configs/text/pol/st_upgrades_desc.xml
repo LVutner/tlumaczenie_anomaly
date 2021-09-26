@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Upgrades descriptions
+-->
+
+<string_table>
+
+<!--
+	Outfits upgrades
+-->
+	<string id="st_up_armor_1_name">
+		<text>Płyty kewlarowe</text>
+	</string>
+	<string id="st_up_armor_1_descr">
+		<text>Wzmocnione płyty, które są w stanie wiele wytrzymać, jednak nie są bardziej odporne.</text>
+	</string>
+	<string id="st_up_armor_2_name">
+		<text>Płyty poliwęglanowe</text>
+	</string>
+	<string id="st_up_armor_2_descr">
+		<text>Nie są zbyt wytrzymałe, ale oferują lepszą negację impulsu pocisku niż kewlar.</text>
+	</string>
+	<string id="st_up_armor_3_name">
+		<text>Dwuwarstwowa płyta ochronna</text>
+	</string>
+	<string id="st_up_armor_3_descr">
+		<text>Pancerz z wewnętrzną warstwą, która rozprowadza energię po większej powierzchni.</text>
+	</string>
+	<string id="st_up_armor_4_name">
+		<text>Instalacja mobilnych płyt ochronnych na stawach</text>
+	</string>
+	<string id="st_up_armor_4_descr">
+		<text>Ruchome płyty osłaniające stawy.</text>
+	</string>
+	
+	
+	<string id="st_up_damage_1_name">
+		<text>Segmentowana ochrona</text>
+	</string>
+	<string id="st_up_damage_1_descr">
+		<text>Cieńsze warstwy pancerza zostały posegmentowane w celu zminimalizowania tempa zużycia.</text>
+	</string>
+	<string id="st_up_damage_2_name">
+		<text>Dodatkowe aluminiowe/tytanowe płyty</text>
+	</string>
+	<string id="st_up_damage_2_descr">
+		<text>Zwiększona liczba tytanowych płyt znacznie zwiększa odporność pancerza.</text>
+	</string>
+	<string id="st_up_damage_3_name">
+		<text>Dodatkowa warstwa mobilna</text>
+	</string>
+	<string id="st_up_damage_3_descr">
+		<text>Ruchome płyty osłaniające stawy.</text>
+	</string>
+	
+	
+	<string id="st_up_durability_1_name">
+		<text>Skórzane wkładki pogrubiające</text>
+	</string>
+	<string id="st_up_durability_1_descr">
+		<text>Nie dają zwiększonej ochrony, lecz zmniejszają tempo zużycia.</text>
+	</string>
+	<string id="st_up_durability_2_name">
+		<text>Rama ochronna o wysokiej trwałości</text>
+	</string>
+	<string id="st_up_durability_2_descr">
+		<text>Używana do wzmocnienia kombinezonu.</text>
+	</string>
+	<string id="st_up_durability_3_name">
+		<text>Wzmocnione kewlarowe wkładki i płyty</text>
+	</string>
+	<string id="st_up_durability_3_descr">
+		<text>Wzmocnione płyty, które wytrzymują więcej i wzmacniają kombinezon.</text>
+	</string>
+	
+	
+	<string id="st_up_weight_1_name">
+		<text>Komponenty z węgla stałego</text>
+	</string>
+	<string id="st_up_weight_1_descr">
+		<text>Zamienienie metalu na włókno węglowe pozwala na znaczne odciążenie pancerza, poświęcając przy tym trwałość.</text>
+	</string>
+	<string id="st_up_weight_2_name">
+		<text>Lżejsza aluminiowa rama</text>
+	</string>
+	<string id="st_up_weight_2_descr">
+		<text>Aluminiowa rama zamieniająca cięższą, stalową. Zmniejsza obciążenie</text>
+	</string>
+	<string id="st_up_weight_3_name">
+		<text>Instalacja lżejszych plastików i syntetyków</text>
+	</string>
+	<string id="st_up_weight_3_descr">
+		<text>Użycie lżejszych materiałów w celu odciążenia pancerza.</text>
+	</string>
+	<string id="st_up_weight_4_name">
+		<text>Lżejsze syntetyki i polimery</text>
+	</string>
+	<string id="st_up_weight_4_descr">
+		<text>Tkaniny, zaciski i zagęszczacze zostają zamienione przez lżejsze, syntetyczne odpowiedniki.</text>
+	</string>
+	
+		
+	<string id="st_up_carry_1_name">
+		<text>System mocowań do dystrybucji masy</text>
+	</string>
+	<string id="st_up_carry_1_descr">
+		<text>System mocowań pozwala na równe rozprowadzenie obciążenia ciała.</text>
+	</string>
+	<string id="st_up_carry_2_name">
+		<text>Rama do dystrybucji masy</text>
+	</string>
+	<string id="st_up_carry_2_descr">
+		<text>Rama na plecy mająca za zadanie odciążyć ramiona i zwiększyć maksymalny udźwig.</text>
+	</string>
+	<string id="st_up_carry_3_name">
+		<text>Dodatkowe serwomotory</text>
+	</string>
+	<string id="st_up_carry_3_descr">
+		<text>Dodatkowe urządzenia ruchowe pozwalają na uradzenie większej masy.</text>
+	</string>
+	
+	
+	<string id="st_up_shock_1_name">
+		<text>Wewnętrzna izolacyjna na bazie konstantanu</text>
+	</string>
+	<string id="st_up_shock_1_descr">
+		<text>Cienka warstwa konstantanu pozwala odizolować się od wyładowań.</text>
+	</string>
+	<string id="st_up_shock_2_name">
+		<text>Konstantanowe wkładki do izolacji termicznej</text>
+	</string>
+	<string id="st_up_shock_2_descr">
+		<text>Konstantan jest w stanie izolować od elektryczności i posiada bardzo wysoką temperaturę topnienia.</text>
+	</string>
+	<string id="st_up_shock_3_name">
+		<text>Kombinezon z wkładkami manganowymi</text>
+	</string>
+	<string id="st_up_shock_3_descr">
+		<text>Ten stop niklu z magnezem jest używany w pancerzach do zapobiegania porażeniom elektrycznym.</text>
+	</string>
+	
+	
+	<string id="st_up_burn_1_name">
+		<text>Tkanina potraktowana substancją ognioodporną</text>
+	</string>
+	<string id="st_up_burn_1_descr">
+		<text>Modyfikacja popularna wśród stalkerów poszukujących artefaktów ogniowych.</text>
+	</string>
+	<string id="st_up_burn_2_name">
+		<text>Wkładki z płyt magnezowych</text>
+	</string>
+	<string id="st_up_burn_2_descr">
+		<text>Magnezowe wkładki chronią przed zagrożeniami termicznymi.</text>
+	</string>
+	<string id="st_up_burn_3_name">
+		<text>Ochrona termiczna z włókien szklanych</text>
+	</string>
+	<string id="st_up_burn_3_descr">
+		<text>Włókna szklane są używane w kombinezonach służb ratowniczych podczas klęsk żywiołowych.</text>
+	</string>
+	<string id="st_up_burn_4_name">
+		<text>Ognioodporny kombinezon z niklowymi wkładkami</text>
+	</string>
+	<string id="st_up_burn_4_descr">
+		<text>Nikiel jest wysoce ognioodporny i może być używany jako wkładka do pancerza</text>
+	</string>
+	<string id="st_up_helm_burn_1_name">
+		<text>Konstantanowa maska "Thunderbird"</text>
+	</string>
+	<string id="st_up_helm_burn_1_descr">
+		<text>Rama z ochronnego stopu zaprojektowana do ochrony przed temperaturą i elektrycznością.</text>
+	</string>
+	
+	
+	<string id="st_up_rad_1_name">
+		<text>Gumowana tkanina kombinezonu</text>
+	</string>
+	<string id="st_up_rad_1_descr">
+		<text>Guma jest jednym z podstawowych materiałów używanych do ochrony przed promieniowaniem.</text>
+	</string>
+	<string id="st_up_rad_2_name">
+		<text>Wewnętrzna warstwa ochronna ze szkła akrylowego</text>
+	</string>
+	<string id="st_up_rad_2_descr">
+		<text>Szkło akrylowe pochłania dwa typy promieniowania jednocześnie będąc lżejszym od ołowiu.</text>
+	</string>
+	<string id="st_up_rad_3_name">
+		<text>Dodatkowe ołowiane elementy</text>
+	</string>
+	<string id="st_up_rad_3_descr">
+		<text>Ołów pochłania ich wszystkie trzy typy promieniowania.</text>
+	</string>	
+	<string id="st_up_helm_rad_1_name">
+		<text>Aktywne filtry</text>
+	</string>
+	<string id="st_up_helm_rad_1_descr">
+		<text>Aktywne filtry dają odporność na radioaktywne cząsteczki.</text>
+	</string>
+	<string id="st_up_helm_rad_2_name">
+		<text>Powłoka ze szkła akrylowego</text>
+	</string>
+	<string id="st_up_helm_rad_2_descr">
+		<text>Maska ze szkła akrylowego zapewnia częściową odporność na promieniowanie.</text>
+	</string>
+	<string id="st_up_helm_rad_3_name">
+		<text>Wzmocniony respirator</text>
+	</string>
+	<string id="st_up_helm_rad_3_descr">
+		<text>Filtr z dodatkową warstwą oczyszczającą i system usuwania substancji trujących.</text>
+	</string>
+	
+	
+	<string id="st_up_chem_1_name">
+		<text>Kombinezon z brezentu</text>
+	</string>
+	<string id="st_up_chem_1_descr">
+		<text>Podstawowa ochrona przed deszczem i substancjami żrącymi wchodzącymi w kontakt ze skórą</text>
+	</string>
+	<string id="st_up_chem_2_name">
+		<text>Hermetyczna wewnętrzna plastikowa warstwa</text>
+	</string>
+	<string id="st_up_chem_2_descr">
+		<text>Nawet prosta plastikowa warstwa może ochronić przed zagrożeniem chemicznym.</text>
+	</string>
+	<string id="st_up_chem_3_name">
+		<text>Kombinezon z impregnowanej tkaniny</text>
+	</string>
+	<string id="st_up_chem_3_descr">
+		<text>Impregnowana tkanina zapobiega zatruciu toksynami.</text>
+	</string>
+	<string id="st_up_chem_4_name">
+		<text>Syntetyczny z elastyczną ołowianą siatką</text>
+	</string>
+	<string id="st_up_chem_4_descr">
+		<text>Ołowiana siatka daje nieprzebijalną ochronę chemiczną nie obciążając noszącego.</text>
+	</string>
+	<string id="st_up_helm_chem_1_name">
+		<text>Filtry do pracy w skażonych obszarach</text>
+	</string>
+	<string id="st_up_helm_chem_1_descr">
+		<text>Filtr ze wzmocnioną powłoką antykorozyjną z dodatkową warstwą ochronną.</text>
+	</string>
+	<string id="st_up_helm_chem_2_name">
+		<text>Impregnowana maska oddechowa</text>
+	</string>
+	<string id="st_up_helm_chem_2_descr">
+		<text>Respirator całkowicie zatrzymujący substancje trujące.</text>
+	</string>
+	
+	
+	<string id="st_up_tele_1_name">
+		<text>Podwójne stalowe obręcze do ochrony psionicznej</text>
+	</string>
+	<string id="st_up_tele_1_descr">
+		<text>Te obręcze posiadają właściwości dające częściową ochronę przed emisjami psionicznymi.</text>
+	</string>
+	<string id="st_up_helm_tele_1_name">
+		<text>Instalacja ochronnej kopuły</text>
+	</string>
+	<string id="st_up_helm_tele_1_descr">
+		<text>Zaawansowana technicznie ochrona psioniczna wynaleziona przez doktora Sacharowa.</text>
+	</string>
+	
+	
+	<string id="st_up_arty_1_name">
+		<text>Główny moduł mocowania</text>
+	</string>
+	<string id="st_up_arty_1_descr">
+		<text>Instalacja głównego modułu mocowania na pancerzu.</text>
+	</string>
+	<string id="st_up_arty_2_name">
+		<text>Moduł dodatkowego mocowania</text>
+	</string>
+	<string id="st_up_arty_2_descr">
+		<text>Instalacja dodatkowego modułu mocowania na pancerzu.</text>
+	</string>
+	<string id="st_up_arty_3_name">
+		<text>Dwuprzedziałowy moduł mocowania</text>
+	</string>
+	<string id="st_up_arty_3_descr">
+		<text>Instalacja dwuprzedziałowego modułu mocowania na pancerzu.</text>
+	</string>
+	
+	
+	<string id="st_up_stamina_1_name">
+		<text>System wewnętrznej regulacji termicznej</text>
+	</string>
+	<string id="st_up_stamina_1_descr">
+		<text>Ulepszenie ergonomiczne: specjalne mocowania na kombinezonie sprawiające, że niesiona masa sprawia wrażenie lżejszej.</text>
+	</string>
+	<string id="st_up_stamina_2_name">
+		<text>Wbudowany system atletyczny</text>
+	</string>
+	<string id="st_up_stamina_2_descr">
+		<text>Model eksperymentalnego systemu wspomagania biegu, nieużywany poza Zoną ze względów cenowych i etycznych.</text>
+	</string>
+	<string id="st_up_helm_stamina_1_name">
+		<text>Filtry oczyszczania pary</text>
+	</string>
+	<string id="st_up_helm_stamina_1_descr">
+		<text>Zestaw filtrów używany w skażonych obszarach lub krytycznych warunkach termicznych, będących zbyt wysokie lub niskie dla samodzielnego oddychania.</text>
+	</string>
+	
+	
+	<string id="st_up_bleed_1_name">
+		<text>Hemostymulator "Promień"</text>
+	</string>
+	<string id="st_up_bleed_1_descr">
+		<text>Ten mały emiter fal, gdy noszony regularnie, wspiera krzepnięcie krwi.</text>
+	</string>
+	<string id="st_up_bleed_2_name">
+		<text>Wtryskiwacz hemoglobiny "Hydra"</text>
+	</string>
+	<string id="st_up_bleed_2_descr">
+		<text>Wtryskiwacz typu B, który regularnie wprowadza czynniki krzepiące do krwiobiegu, gdy ciśnienie krwi drastycznie spadnie.</text>
+	</string>
+	
+	
+	<string id="st_up_health_1_name">
+		<text>Wtryskiwacz adrenaliny "Furia"</text>
+	</string>
+	<string id="st_up_health_1_descr">
+		<text>Wtryskiwacz typu A, rozwijany przez jeden z Kijowskich instytutów, regularnie wprowadza niewielkie dawki adrenaliny do krwiobiegu, co może uratować życie w nagłej sytuacji.</text>
+	</string>
+	<string id="st_up_health_2_name">
+		<text>System odbudowujący "Feniks"</text>
+	</string>
+	<string id="st_up_health_2_descr">
+		<text>Zintegrowany system monitorujący zdrowie, zasób witamin, adrenalinę, czy substancje anaboliczne noszącego.</text>
+	</string>
+	<string id="st_up_health_3_name">
+		<text>Instalacja systemu podtrzymywania życia</text>
+	</string>
+	<string id="st_up_health_3_descr">
+		<text>Ten mocowany na szyi eksperymentalny emiter fal posiada silne właściwości uspokajające. Jego budowa i działanie nie zostały jeszcze do końca wyjaśnione.</text>
+	</string>
+	
+	
+	<string id="st_up_run_1_name">
+		<text>Instalacja hydraulicznych wzmocnień</text>
+	</string>
+	<string id="st_up_run_1_descr">
+		<text>Instalacja hydraulicznych wzmocnień to modyfikacja używana w egzoszkieletach czwartej generacji. Umożliwia sprint.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Sergeant Spooner (Military Trader) -->
+	<string id="guid_agr_mlr_military_0">
+		<text>Moїesz zorganizowaж mi transport? Muszк gdzieњ polecieж.</text>
+	</string>
+	<string id="guid_agr_mlr_military_1">
+		<text>Ta, mogк ciк zabraж do Kordonu i Jan... Czekaj, kim ty w ogуle jesteњ? Oferujк transport, ale nie dla kaїdego szeregowca. Sio.</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_list_0">
+		<text>Przypomnisz mi dok№d latacie?</text>
+	</string>
+	<string id="guid_agr_mlr_military_list_1">
+		<text>Do naszego posterunku w Kordonie za piкж tysiкcy, oraz do mobilnej bazy w Jantarze za siedem tysiкcy.</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_vert_0">
+		<text>Potrzebujк pilota.</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_1">
+		<text>Dobra, nastкpy transport niedіugo rusza. Dok№d?</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_2">
+		<text>Na posterunek w Kordonie. %c[d_orange][5000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_3">
+		<text>Do bazy w Jantarze. %c[d_orange][7000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_4">
+		<text>Zmieniіem zdanie.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_army_0">
+		<text>Znalazіem czarn№ skrzynkк we wraku helikoptera.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_army_1">
+		<text>Dobre znalezisko! Dobra robota, їoіnierzu.</text>
+	</string>
+
+	
+<!-- Military - Medic -->
+	<string id="rogovets_about_himself_1_6_army_mlr_0">
+		<text>Opowiedz mi o sobie.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_1">
+		<text>Jestem medykiem. Dostaіem kontrakt w Zonie i praktycznie od razu, po krуtkim przygotowaniu, przypisano mnie do operacji "Tor Wodny". Po upadku operacji utknкliњmy w Prypeci - cуї, przynajmniej ci, ktуrzy ocalali... pomуgі nam czіowiek z SBU, po czym nas ewakuowano. Caіy czas drкczy mnie jedna sytuacja: nasz dowуdca wysіaі nas do przedszkola, w ktуrym - wedіug wstкpnych informacji - mieњciіo siк urz№dzenie zakіуcaj№ce komuniacjк radiow№. Nie wiem co we mnie wst№piіo, nie czuіem siк sob№ – Oњlepіem, nie wiedziaіem gdzie siк podziali moi koledzy, jakby ktoњ zaіoїyі mi worek na gіowк. Znalazіem w tym przedszkolu lodуwkк, w ktуrej siк ukryіem. Usіyszaіem gіoњn№ eksplozjк zaraz nade mn№ po czym, z jakiegoњ powodu poczuіem siк lepiej, ale lodуwka siк zatrzasnкіa i nie mogіem wyjњж bez pomocy z zewn№trz. Nie wiem, czy zamkn№іem j№ wіasnorкcznie, czy drzwi trzymaі poltergeist...</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_2">
+		<text>Co siк staіo pуџniej? Dlaczego nie opuњciіeњ armii?</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_3">
+		<text>Cуї... Potrzebowaіem pieniкdzy, czemu miaіbym tu wracaж z innego powodu? Lekarze zawsze siк przydaj№... Nie zostaіo nas wielu w armii. Caіe szczкњcie nie zostaіem zdegradowany za poraїkк naszej operacji, z drugiej strony nie byіem taї wcale uwielbiany - w przeciwieсstwie do majora, ktуry nadal krкci siк gdzieњ po Zonie.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_4">
+		<text>Rozumiem. Їyczк ci szczкњcia w podrуїy.</text>
+	</string>
+	
+	<string id="rogovets_hello_1_6_army_mlr_0">
+		<text>Hm? O, to ty...</text>
+	</string>
+
+	
+<!-- Commander, barman in Agroprom -->
+	<string id="barmen_about_himself_1_6_army_mlr_0">
+		<text>Kim jesteњ?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_1">
+		<text>Cуї, moїna powiedzieж, їe jestem lokalnym barmanem, kwatermistrzem... nazywaj mnie jak chcesz. Moїna powiedzieж, ze byіem jednym z niewielu, ktуrzy uczestniczyli w sprz№taniu po incydencie w elektrowni. Nie jestem st№d, ale zdecydowaіem siк przybyж do Zony na kontrakcie. Mam w koсcu trochк doњwiadczenia.</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_2">
+		<text>Jak tam byіo, zaraz po incydencie?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_3">
+		<text>Byіem wtedy tylko poborowym, jedyne co robiіem to pomiary promieniowania i sprz№tanie. Goњcie spod elektrowni siedzieli za to w gуwnie po sam pas. Nawet nasza technologia nie dawaіa sobie rady z promieniowaniem, a co dopiero ludzie... wyobraџ sobie. Grafit z dachu elektrowni byі usuwany cholernymi іopatami. Promieniowanie to dziwna rzecz - dla jednych oznacza kl№twк, a drugich po prostu oszczкdza, jak Diatіowa, ktуry przeїyі wystarczaj№co dіugo, by trafiж do wiкzienia.</text>
+	</string>
+</string_table>

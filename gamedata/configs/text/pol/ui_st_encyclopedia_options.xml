@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<!-- ALSEWARE -->
+<!-- File made by Andrzejas using Oyissan Tool -->
+<string_table>
+	<string id="encyclopedia_options">
+		<text>Opcje</text>
+	</string>
+	<string id="encyclopedia_options_ai_die_to_anomalies">
+		<text>NPC i mutanty wpadają w anomalie</text>
+	</string>
+	<string id="encyclopedia_options_ai_die_to_anomalies_text">
+		<text>%c[pda_white]NPC i mutanty wpadają w anomalie%c[ui_gray_1] usuwa anomalie jako czynnik wyszukiwania ścieżek dla AI.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo włączeniu tej funkcji NPC oraz mutanty stracą znolność omijania anomalii.\n
+		\nOd teraz będą musieli polegać na swoim doświadczeniu i zmysłach, aby w nie nie wpaść. Tak samo, jak ty.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_aoe_pickup_mode">
+		<text>Podnoszenie wielu przedmiotów</text>
+	</string>
+	<string id="encyclopedia_options_aoe_pickup_mode_text">
+		<text>
+		%c[pda_white]Podnoszenie wielu przedmiotów%c[ui_gray_1] pozwala podnieść wiele przedmiotów jednocześnie.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo włączeniu możesz podnieść wiele przedmiotów pojedynczym wciśnięciem klawisza (Użyj) , tak jak w S.T.A.L.K.E.R.: Zew prypeci.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_artefact_degradation">
+		<text>Rozpad artefaktów</text>
+	</string>
+	<string id="encyclopedia_options_artefact_degradation_text">
+		<text>
+		%c[pda_white]Rozpad artefaktów%c[ui_gray_1] powoduje ich powolne zurzycie podczas noszenia na pasie.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo właczeniu tej opcji zdobywanie artefaktów będzie twoim stałym zajęciem.\n
+		\nArtefakty będą słabły w miarę zużycia, zmuszając Cię do ciągłego poszukiwania i zbierania nowych. Koniec z łatwym źródłem przychodu!\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_delayed_repairs">
+		<text>Czas potrzebny na naprawę sprzętu</text>
+	</string>
+	<string id="encyclopedia_options_delayed_repairs_text">
+		<text>
+		%c[pda_white]Czas potrzebny na naprawę sprzętu%c[ui_gray_1] pozwala technikom na przechowanie twojego sprzętu na czas naprwy.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo włączeniu tej opcji technicy nie będą naprawiali sprzętu natychmiast, a potrzebują oni czasu na dokonanie zamówionych napraw..\n
+		\nPo przekazaniu uszkodzonych fantów możesz pytać ich, czy są już gotowe do odbioru lub ile jeszcze trzeba na to poczekać.\n
+		\nFunkcja wskazana, jeśli szukasz realizmu - oddanie technikowi przedmiotu, to brak dostępu do niego na jakiś czas, co wymusza na nas samowystarczalność w zakresie rusznikarstwa i napraw krawieckich.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_enhanced_recoil">
+		<text>Zaawansowany efekt odrzutu</text>
+	</string>
+	<string id="encyclopedia_options_enhanced_recoil_text">
+		<text>
+		%c[pda_white]Zaawansowany efekt odrzutu%c[ui_gray_1] urealnia zachowanie się broni podczas wystrzału.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nNormalnie podczas strzelania z broni jedynym efektem, jaki zapewnia wbudowany system odrzutu, jest stopniowe podnoszenie celownika, animacja broni i nieznaczne zwiększenie rozrzutu pocisków.\n
+		\nZ tego powodu standardowy system jest nieco wadliwy. Odrzut można skompensować, strzelając seriami i ściągając celownik myszką w dół podczas prowadzenia ognia.\n
+		\nPo włączeniu tej funkcji odrzut będzie dużo bardziej nieprzewidywalny. To z kolei wymaga wprawy z każdym jednym typem broni. Trzeba w przemyślany sposób dobierać ulepszenia i amunicję, ponieważ ich wpływ będzie dużo bardziej zauważalny.\n
+		\nKorzystaj z tej opcji tylko wtedy, kiedy gra utrzymuje się powyżej 30 FPS. Zalecana wartość, to 50-60 FPS.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_hardcore_ai_aim">
+		<text>Zwiększona celność NPC</text>
+	</string>
+	<string id="encyclopedia_options_hardcore_ai_aim_text">
+		<text>
+		%c[pda_white]Zwiększona celność NPC%c[ui_gray_1] skraca czas reakcji AI i sprawia, że gra robi się naprwawdę trudna!.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo włączeniu trudniej ci będzie kul po prostu biegając. Wykorzystywanie osłon w trakcie wymiany ognia stanie się kluczowe.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_helicopter_patrols">
+		<text>Patrole helikopterów</text>
+	</string>
+	<string id="encyclopedia_options_helicopter_patrols_text">
+		<text>
+		%c[pda_white]Patrole helikopterów%c[ui_gray_1] umożliwia frakcjom wykorzystanie wsparcia lotniczego do obrony strategicznych obszarów.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nFrakcje posiadające śmigłowiec patrolujący będą miały możliwość wezwania go w celu wsparcia ataku lub obrony przed wrogiem (także tobą) i mutantami.\n
+		\nPomimo strasznego wyglądu, śmigłowiec może zostać łatwo strącony poprzez uszkodzenie tylnego wirnika.\n
+		\nJeśli denerwują cię odgłosy wirników śmigłowców, to możesz je wyłączyć niezależnie od tego ustawienia w opcjach dźwięku w menu gry.\n
+		\nDomyślnie: Wyłączone\n
+		\n%c[pda_green]Lokacje%c[ui_gray_1]
+		\n• Agroprom\n• Kordon\n• Mroczna Droga\n• Bagna\n• Limańsk
+		</text>
+	</string>
+	<string id="encyclopedia_options_localisation">
+		<text>Język</text>
+	</string>
+	<string id="encyclopedia_options_localisation_text">
+		<text>
+		%c[pda_white]Język%c[ui_gray_1] pozwala na zmianę języka dialogów, tekstów, opisów.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo wybraniu języka większość tekstów zostanie zmieniona automatycznie, jednak niektóre z nich wciąż będą wymagły restartu gry.\n
+		\nDomyślny język: angielski. (eng).\n
+		\n%c[pda_green]Dostępne wersje językowe%c[ui_gray_1]
+		\n• angielska: eng
+		\n• rosyjska: rus
+		\n• polska: pol\n
+		\nNiniejsze spolszczenie jest dziełem grupy stalkerów w skład której wchodzą:\n
+		%c[pda_white]Struś, rfm, Andrzejas i Moonbow Dew%c[ui_gray_1].\n
+		\nSpecjalne podziękowania dla członków społeczności %c[pda_white]Centum Zony%c[ui_gray_1]: 
+		\n  - Leśny\n  - Ropasiak\n  - Nostalgov\n  - Rus Rakieta\n - Mindhaven\n - LVutner\n - Sierioża
+		</text>
+	</string>
+	<string id="encyclopedia_options_lootmoney">
+		<text>Pieniądze przy ciałach</text>
+	</string>
+	<string id="encyclopedia_options_lootmoney_text">
+		<text>
+		%c[d_cyan]Pieniądze przy ciałach%c[ui_gray_1] pozwalają ci znaleźć pieniądze w kieszeniach zabitych NPC.\n
+		\n%c[d_green]Informacje%c[ui_gray_1]\n
+		\nIlość znalzionej gotówki zależy od rangi zabitego stalkera. Im wyższa ranga, tym więcej pieniędzy zostawi.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_online_exclusion">
+		<text>Wył. spawnu w pobliżu gracza</text>
+	</string>
+	<string id="encyclopedia_options_online_exclusion_text">
+		<text>
+		%c[pda_white]Wył. spawnu w pobliżu gracza%c[ui_gray_1] tworzy bezpieczną strefę bez spawnu wrogów wokół twojej postaci.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPodczas poruszania się w pobliżu miejsc wejścia/wyjścia z lokacji możesz zostać zaatakowany przez nieprzyjaciela przybywającego z innych obszarów. Po włączeniu tej funkcji pojawienie się ich jest opóźnione do czasu, aż oddalisz się na bezpieczną odległość.\n
+		\nWarto zauważyć, że ten system skupia się wyłącznie na tobie; jeśli jacykolwiek przeciwnicy znajdują się w pobliżu twojego punktu spawnu w momencie, gdy pojawiasz się w lokacji, nie zostaną oni usunięci.\n
+		\nDomyślna wartość wynosi 25.
+		</text>
+	</string>
+	<string id="encyclopedia_options_population_factors">
+		<text>Współczynniki populacji</text>
+	</string>
+	<string id="encyclopedia_options_population_factors_text">
+		<text>
+		%c[pda_white]Współczynniki populacji%c[ui_gray_1] wpływają na liczbę stalkerów i mutantów  w Zonie.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nWspółczynniki populacji NPC i mutantów można dostosowywać niezależnie od siebie. Funkcja pozwalając Ci decydować o tym, jak dzika lub zasiedlona ma być Zona bez potrzeby modyfikowania jakichkolwiek plików gry.\n
+		\nEfekt jest największy w momencie rozpoczęcia nowej gry. Zmiana tych ustawień w trakcie trwającej już rozgrywki zostanie uwzględniona dopiero po śmierci części stalkerów/mutantów i wpłynie na to, ile kolejnych pojawi się na ich miejsce.\n
+		\nDomyślna wartość wynosi 0.5.
+		</text>
+	</string>
+	<string id="encyclopedia_options_quicksave_count">
+		<text>Liczba quicksave'ów</text>
+	</string>
+	<string id="encyclopedia_options_quicksave_count_text">
+		<text>
+		%c[pda_white]Liczba quicksave'ów%c[ui_gray_1] określa, kiedy gra zacznie nadpisywać najstarsze quicksave'y.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPodczas tworzenia quicksave'a nazwa pliku zostanie uzupełniona o numer na końcu - te numery są używane przez grę, aby pomóc w śledzeniu wielu różnych quicksave'ów.\n
+		\nUstawiając większą liczbę quicksave'ów, będziesz mógł łatwiej cofnąć grę sprzed chwili, kiedy zapisałeś ją w złym momencie.\n
+		\nDomyślna wartość wynosi 5.
+		</text>
+	</string>
+	<string id="encyclopedia_options_radio_music">
+		<text>Rozgłośnie radiowe</text>
+	</string>
+	<string id="encyclopedia_options_radio_music_text">
+		<text>
+		%c[pda_white]Rozgłośnie radiowe%c[ui_gray_1] pozwala na odtwarzanie lokalnych rozgłośni radiowych.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nW Zonie występują rozgłośnie nadające muzykę dla zapewnienia rozrywki.\n
+		\nDomyślnie: Włączone\n
+		\n%c[pda_green]Rozgłośnie%c[ui_gray_1]
+		\n• Agroprom: Baza wojskowa
+		\n• Kordon: Bunkier Sidorowicza
+		\n• Bagna: baza Czystego Nieba
+		\n• Dolina Mroku: baza Bandytów
+		\n• Rostok: Bar "Sto Radów"
+		\n• Czerwony Las: wieża Leśnika
+		</text>
+	</string>
+	<string id="encyclopedia_options_sleep_deprivation">
+		<text>Potrzeba snu</text>
+	</string>
+	<string id="encyclopedia_options_sleep_deprivation_text">
+		<text>
+		%c[pda_white]Potrzeba snu%c[ui_gray_1] powoduje, że upływ czasu i spożywanie przedmiotów stopniowo męczą twoją postać.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPodróżując po Zonie znajdziesz sporo łóżek, materacy i śpiworów. Zazwyczaj są one jednak używane do pomijania czasu pod przykrywką spania. Po włączeniu tej opcji stają się one istotnym elementem rozgrywki.\n
+		\nZ upływem czasu twoja postać zacie odczuwać skutki zmęczenia. Towarzyszyć temu będą zaburzenia widoku (obrazu) oraz motoryki. Efekty będą co raz silniejsze, dopóki się nie wyśpisz, lub stracisz przytomność z powodu wycieńczenia.\n
+		\nPrzyjmowanie lekarstw czy spożywanie alkoholu może przyspieszyć nasze znurzenie. Odwleka je natomiast spożywanie substancji orzeźwiających, jak napoje energetyczne, czy kawa. Uważaj jednak, bo ich nadmiar spowoduje tymczasową bezsenności.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_thirst">
+		<text>Symulacja pragnienia</text>
+	</string>
+	<string id="encyclopedia_options_thirst_text">
+		<text>
+		\n%c[d_green]Informacje%c[ui_gray_1]
+		\nJak można się spodziewać - dodaje pragnienie do listy naszych potrzeb. Zmusza nas do nieustannego pamiętania o uzupełnianiu elektrolitów w organiźmie. Kolejny krokczek w stronę realizmu, który utrudnia grę.\n
+		\nWskaźnik pragnienia pokaże się w HUD. Jeśli nie uzupełnisz brakujących płynów, twoje zdrowie i wytrzymałość zaczną się pogarszać, doprowadzając nawet do zgonu!\n
+		\nDomyślnie: Włączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_dynamic_news">
+		<text>Dyn. wiadomości</text>
+	</string>
+	<string id="encyclopedia_options_dynamic_news_text">
+		<text>
+		%c[pda_white]Dynamiczne wiadomości%c[ui_gray_1] pozwalają stalkerom na używanie czatu w PDA.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nStalkerzy będą korzystać z sieci komunikacyjnej PDA do dzielenia się swoją aktywnością. Będą komentować wydarzenia, których byli świadkami, lub które miały miejsce w ich okolicy.\n
+		\nWysyłane komunikaty mogą być bardzo różne - od typowego, całkowicie przyziemnego narzekania na ceny u handlarzy po nerwowe, nieraz wręcz histeryczne prośby o wsparcie stalkerów będących pod ostrzałem, czy zaatakowanych przez mutanta.\n
+		\nZ tym systemem powiązane jest wiele innych funkcji: stalkerzy będą komentować twoje podejrzane zachowanie, kiedy tropisz kogoś poszukiwanego; niektórzy dadzą ci wskazówki odnośnie celu albo wspomną, że ktoś ma zadanie do zlecenia.\n
+		\nDomyślnie: Włączone\n
+
+		\n%c[pda_green]Opcje%c[ui_gray_1]
+		\nDynamiczne wiadomości posiadają własne opcje, które można całkowicie włączyć/wyłączyć, a także ustawić odstęp między wiadomościami.\n
+		\nDodatkowe menu opcji dostępne pod klawiszem F1, na ekranie menu głównego.
+	</text>
+	</string>
+	<string id="encyclopedia_options_extended_hud">
+		<text>Rozszerzony HUD</text>
+	</string>
+	<string id="encyclopedia_options_extended_hud_text">
+		<text>
+		%c[pda_white]Rozszerzony HUD%c[ui_gray_1] wyświetla dodatkowe informacje na ekranie.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo włączeniu na ekranie wyświetlana będzie miniaturowa wersja pasa artefaktów oraz informacje o kompanach.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_portrait_by_outfit">
+		<text>Portret zależny od stroju</text>
+	</string>
+	<string id="encyclopedia_options_portrait_by_outfit_text">
+		<text>
+		%c[pda_white]Portret zależny od stroju%c[ui_gray_1] zmienia portret twojej postaci zależnie od noszonego właśnie stroju.\n
+		\n%c[pda_green]Informacje%c[ui_gray_1]
+		\nPo włączeniu tej opcji, za każdym razem kiedy założysz lub zdejmiesz strój (nie dotyczy nakryć głowy), portret twojej postaci zostanie zmieniony na taki, który najbardzej przypomina jej obecny wygląd.\n
+		\nDomyślnie: Wyłączone
+		</text>
+	</string>
+	<string id="encyclopedia_options_use_battery">
+		<text>Użycie baterii</text>
+	</string>
+	<string id="encyclopedia_options_use_battery_text">
+		<text>
+		%c[d_cyan]Użycie baterii%c[ui_gray_1] sprawia, że będziesz musiał dbać o stan naładowania baterii w swoich urządzeniech.\n
+		\n%c[d_green]Information%c[ui_gray_1]\n
+		\nUrządzenia takie jak latarka, PDA czy odbiornik radiowy wymagają zasilania.\n
+		\nAby utrzymać je w stanie gotowości do działania będziesz musiał wymieniać w nich baterie.\n
+		\nWarto mieć ich kilka przy sobie. Możesz je znaleźć lub kupić od innych stalkerów i handlarzy.\n
+		\nDomyślnie: Włączone
+		</text>
+	</string>
+</string_table>

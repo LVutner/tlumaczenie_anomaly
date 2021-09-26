@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Usable Items (Special Purposes)
+-->
+
+<string_table>
+	
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Podstawowe narzкdzia</text>
+	</string>
+	<string id="st_itm_basickit_name">
+		<text>Podstawowe narzкdzia</text>
+	</string>
+	<string id="st_itm_basickit_descr">
+		<text>Podstawowy zestaw narzкdzi. Nie nadaj№ siк do zaawansowanej konserwacji, jednak wprawiony technik na pewno zrobi z nich uїytek. Zawieraj№ rуїne typy i rozmiary szczypcуw, њrub, klejуw i і№cznikуw. Odpowiednia wiedza i umiejкtnoњci w poі№czeniu z tym zestawem pozwoli na stworzenie podstawowego ekwipunku.\n \n
+		%c[ui_gray_3]NOTATKI:\n
+		%c[0,250,250,0] • %c[ui_gray_2] Technik moїe ich uїyж do modyfikacji broni i pancerza.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_purple] • %c[ui_gray_2] do wіasnorкcznego uїytku w warsztacie\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiaіуw\n</text>
+	</string>
+
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Zaawansowane narzкdzia</text>
+	</string>
+	<string id="st_itm_advancedkit_name">
+		<text>Zaawansowane narzкdzia</text>
+	</string>
+	<string id="st_itm_advancedkit_descr">
+		<text>Porz№dny zestaw starych narzкdzi, ktуre mimo wieku pozostaіy w dobrej kondycji. Zawiera zestaw drobnych szczypcуw, pкset i drobnych narzкdzi ze specjalistycznymi koсcуwkami. Odpowiednia wiedza i umiejкtnoњci w poі№czeniu z tym zestawem pozwol№ na stworzenie lepszego ekwipunku.\n \n
+		%c[ui_gray_3]NOTATKI:\n
+		%c[0,250,250,0] • %c[ui_gray_2] Technik moїe ich uїyж do modyfikacji broni i pancerza.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_purple] • %c[ui_gray_2] do wіasnorкcznego uїytku w warsztacie\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiaіуw\n</text>
+	</string>
+	
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Eksperckie narzкdzia</text>
+	</string>
+	<string id="st_itm_expertkit_name">
+		<text>Eksperckie narzкdzia</text>
+	</string>
+	<string id="st_itm_expertkit_descr">
+		<text>Zestaw profesjonalnych narzкdzi o wysokiej jakoњci przeznaczonych do strojenia ekwipunku. Zawiera zestaw wierteі, precyzyjnych szczypcуw, lutownicк, 4 milimetrowe nasadki na њrubokrкty i multimetr. Odpowiednia wiedza i umiejкtnoњci w poі№czeniu z tym zestawem pozwoli na stworzenie zaawansowanego ekwipunku.\n \n
+		%c[ui_gray_3]NOTATKI:\n
+		%c[0,250,250,0] • %c[ui_gray_2] Technik moїe ich uїyж do modyfikacji broni i pancerza.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_purple] • %c[ui_gray_2] do wіasnorкcznego uїytku w warsztacie\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiaіуw\n</text>
+	</string>
+	
+	<string id="st_itm_drugkit">
+		<text>Zestaw chemiczny</text>
+	</string>
+	<string id="st_itm_drugkit_descr">
+		<text>W skіad tego zestawu wchodz№ maіe pudeіka i przerуїne metalowe pojemniki do gospodarowania i produkowania lekуw lub narkotykуw. Zawiera plastikowe paczki, tabletki i ampuіki.\n \n
+		%c[ui_gray_3]NOTATKI:\n
+		%c[0,250,250,0] • %c[ui_gray_2] Medyk moїe ich uїyж do tworzenia lekуw i narkotykуw.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_purple] • %c[ui_gray_2] do wіasnorкcznego uїytku w warsztacie\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wysokiej jakoњci\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiaіуw\n</text>
+	</string>
+	
+	<string id="st_itm_ammokit">
+		<text>Zestaw rusznikarski</text>
+	</string>
+	<string id="st_itm_ammokit_descr">
+		<text>Porz№dny zestaw zіoїony ze starych narzкdzi rusznikarskich i akcesoriуw. Zawiera zestaw punktakуw, mіotek rusznikarski, prasк i zestaw do odmierzania prochu. Odpowiednia wiedza i umiejкtnoњci w poі№czeniu z tym zestawem pozwoli na recykling starej amunicji.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_purple] • %c[ui_gray_2] do wіasnorкcznego uїytku na warsztacie\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wysokiej jakoњci\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		%c[d_red] • %c[ui_gray_2] wymaga odpowiednich materiaіуw\n</text>
+	</string>
+	<!-- asfdsfsdfds -->
+	<string id="st_binocular_name">
+		<text>Lornetka Wojskowa</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Standardowa lornetka ukraiсskiej armii. Bardzo wytrzymaіa.\n</text>
+	</string>
+	
+	<string id="st_con_checker_name">
+		<text>Rozpiska ze stanem broni</text>
+	</string>
+	<string id="st_con_checker_descr">
+		<text>Kawaіek papieru z wypisanym kolejno stanem twojego ekwipunku.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_orange] • %c[ui_gray_2] do uїytku w celu oceny stanu ekwipunku\n</text>
+	</string>
+	<!-- unused? -->
+	<string id="st_container_tool_name">
+		<text>Artefact handling tool</text>
+	</string>
+	<string id="st_container_tool_descr">
+		<text>Tongs made from hardened steel, intended exclusively for handling artefacts. Due to specific mechanics of operation, there is no other way of removing an artefact from containers. The tongs will also let you avoid burns that normally follow touching an artefact with bare hands; they will not, however, protect you from effects of artefacts on your psyche and neural system. No true artefact hunter in the Zone ever leaves the base without a similar tool.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[ui_white] • %c[ui_gray_2] usable for handling artefacts\n
+		%c[ui_white] • %c[ui_gray_2] essential for manipulating contents of urz№dzenie do przechowywania artefaktуws\n</text>
+	</string>
+	
+	<string id="st_lead_box_name">
+		<text>Oіowiany Pojemnik (pusty)</text>
+	</string>
+	<string id="st_lead_box_descr">
+		<text>Oіowiany pojemnik (OP) to proste metalowe pudeіko o grubych њcianach, z piankowymi wkіadkami, wyposaїone w ciкїk№, uszczelnian№ ciњnieniowo pokrywк. Zaprojektowane z myњl№ o transporcie odpadуw radioaktywnych, w Zonie sіuїy gіуwnie jako urz№dzenie do bezpiecznego skіadowania i przenoszenia artefaktуw. Caіkowicie zatrzymuje przepіyw promieniowania, zapewniaj№c uїytkownikowi wzglкdne bezpieczeсstwo. Nie moїna jednak go przypi№ж do pasa, co oznacza, їe negatywne, zarуwno jak i pozytywne efekty artefaktуw nie bкd№ miaіy efektu na uїytkowniku.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[ui_white] • %c[ui_gray_2] urz№dzenie do przechowywania artefaktуw\n
+		%c[ui_white] • %c[ui_gray_2] pojemnoњж: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] stan: %c[ui_gray_1] pusty\n \n
+		%c[d_red]OSTRZEЇENIE:\n \n
+		%c[default]Musisz usun№ж artefakt z pojemnika zanim bкdziesz mуgі go sprzedaж.\n</text>
+	</string>
+	
+	<string id="st_lead_box_half_name">
+		<text>Oіowiany Pojemnik (half-filled)</text>
+	</string>
+	<string id="st_lead_box_half_descr">
+		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[ui_white] • %c[ui_gray_2] urz№dzenie do przechowywania artefaktуw\n
+		%c[ui_white] • %c[ui_gray_2] pojemnoњж: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] stan: %c[ui_gray_1] 50% full\n \n
+		%c[d_red]OSTRZEЇENIE:\n \n
+		%c[default]Musisz usun№ж artefakt z pojemnika zanim bкdziesz mуgі go sprzedaж.\n</text>
+	</string>
+	
+	<string id="st_lead_box_closed_name">
+		<text>Lead-lined metal container (full)</text>
+	</string>
+	<string id="st_lead_box_closed_descr">
+		<text>Oіowiany pojemnik (OP) to proste metalowe pudeіko o grubych њcianach, z piankowymi wkіadkami, wyposaїone w ciкїk№, uszczelnian№ ciњnieniowo pokrywк. Zaprojektowane z myњl№ o transporcie odpadуw radioaktywnych, w Zonie sіuїy gіуwnie jako urz№dzenie do bezpiecznego skіadowania i przenoszenia artefaktуw. Caіkowicie zatrzymuje przepіyw promieniowania, zapewniaj№c uїytkownikowi wzglкdne bezpieczeсstwo. Nie moїna jednak go przypi№ж do pasa, co oznacza, їe negatywne, zarуwno jak i pozytywne efekty artefaktуw nie bкd№ miaіy efektu na uїytkowniku.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[ui_white] • %c[ui_gray_2] urz№dzenie do przechowywania artefaktуw\n
+		%c[ui_white] • %c[ui_gray_2] pojemnoњж: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] stan: %c[ui_gray_1] peіny\n \n
+		%c[d_red]OSTRZEЇENIE:\n \n
+		%c[default]Musisz usun№ж artefakt z pojemnika zanim bкdziesz mуgі go sprzedaж.\n</text>
+	</string>
+	
+	<string id="st_crowbar">
+		<text>Crowbar (reusable)</text>
+	</string>
+	<string id="st_crowbar_descr">
+		<text>The best tool for opening locks and unhinging doors. A common find in industrial areas. Some stalkers for reasons unknown keep it in their inventories in spite of its heavy weight. Low value. There was a famous Stalker who carried around a unique crowbar with the inscription saying "Property of Black Mesa". It is sought after to such an extent that some stalkers are searching for it as if they were looking for rare and przedmiot wartoњciowy artefacts.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_orange] • %c[ui_gray_2] nieograniczone uїycia</text>
+	</string>
+	
+	<string id="st_bolts_pack">
+		<text>Paczka њrub</text>
+	</string>
+	<string id="st_bolts_pack_descr">
+		<text>Њruby s№ tanie i іatwo dostкpne, uїywa siк ich jako tani№ alternatywк nawigacji wњrуd anomalii. Paczki ze њrubami i starymi іuskami moїna dostaж u wiкkszoњci handlarzy.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_orange] • %c[ui_gray_2] zawiera od 20 do 30 sztuk\n</text>
+	</string>
+	
+	
+	<string id="st_swiss">
+		<text>Scyzoryk</text>
+	</string>
+	<string id="st_swiss_descr">
+		<text>Potrzebujesz otworzyж konserwк, utrzymaж swуj sprzкt w dobrej kondycji, przeci№ж linк, albo naostrzyж swoje najlepsze naboje? Skorzystaj z uniwersalnego i eleganckiego scyzoryka. W Zonie jest pospolitym towarem, przez co jego cena jest zaniїona. Moїe zostaж uїyty jako materiaі pomocniczy w naprawie broni i kombinezonуw.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_purple] • %c[ui_gray_2] narzкdzie do demontaїu\n
+		</text>
+	</string>
+	
+	<string id="st_grooming">
+		<text>Zestaw do pielкgnacji</text>
+	</string>
+	<string id="st_grooming_descr">
+		<text>Zestaw zawiera nylonowe balistyczne etui z grzebieniem do zarostu i noїyczkami o bardzo ostrych ostrzach ze stali nierdzewnej, antypoњlizgowym uchwytem i precyzyjn№ koсcуwk№.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_purple] • %c[ui_gray_2] narzкdzie do demontaїu\n
+		</text>
+	</string>
+	<!-- unused? -->
+	<string id="st_drugs_kit">
+		<text>Maіa apteczka</text>
+	</string>
+	<string id="st_drugs_kit_descr">
+		<text>Zestaw skіadaj№cy siк z rуїnych plastikowych i metalowych pudeіek do dawkowania i produkowania medykamentуw. Niektуre plastikowe woreczki zawieraj№ tabletki i zioіa.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot techniczny\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wartoњciowy\n
+		%c[d_red] • %c[ui_gray_2] przedmiot bezuїyteczny\n</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_name">
+		<text>Њpiwуr</text>
+	</string>
+	<string id="st_itm_sleepbag_descr">
+		<text>Lekki њpiwуr, ktуry utrzyma ciк w ciepіym i suchym stanie, gdy potrzebujesz odpocz№ж. Pamiкtaj, by wybraж bezpieczne miejsce z moїliwoњci№ іatwej ucieczki. Њpiwуr jest automatycznie podnoszony po obudzeniu siк, lub naciњniкciu przycisku 'anuluj'.\n \n
+		%c[d_cyan]OSTRZEЇENIE:\n \n
+		%c[ui_gray_1]Spanie na otwartej przestrzeni moїe przyci№gn№ж drapieїniki. Nie chroni przed promieniowaniem.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] tworzy przenoњne іуїko\n
+		%c[d_blue] • %c[ui_gray_2] nieograniczone uїycia\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n</text>
+	</string>
+	
+	<string id="st_compression_bag">
+		<text>Worek kompresyjny</text>
+	</string>
+	<string id="st_compression_bag_descr">
+		<text>Mieњci lekki њpiwуr lub niewielk№ liczbк ubraс\n \n
+		%c[ui_gray_2] WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] uїyj w pobliїu rozіoїonego њpiwora, by go spakowaж\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n</text>
+	</string>
+	
+	<string id="st_itm_tent_bag">
+		<text>Pusta torba na namiot</text>
+	</string>
+	<string id="st_itm_tent_bag_descr">
+		<text>Torba przeznaczona do skіadowania i przenoszenia namiotu kempingowego. Demontaї i pakowanie wymaga trochк czasu.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_orange] • %c[ui_gray_2] umoїliwia spakowanie namiotu\n
+		%c[d_blue] • %c[ui_gray_2] nieograniczone uїycia\n</text>
+	</string>
+
+	<string id="st_itm_tent_name">
+		<text>Torba z namiotem kempingowym</text>
+	</string>
+	<string id="st_itm_tent_descr">
+		<text>Torba zawieraj№ca namiot kempingowy, chroni№cy przed deszczem i wiatrem. Rozіoїenie wymaga trochк czasu. W Zonie zaleca siк rozіoїenie w miejscu z іatw№ drog№ ucieczki.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		%c[d_orange] • %c[ui_gray_2] umoїliwia rozіoїenie namiotu\n
+		%c[d_blue] • %c[ui_gray_2] nieograniczone uїycia\n</text>
+	</string>
+	
+	<string id="st_lighter">
+		<text>Zapalniczka</text>
+	</string>
+	<string id="st_lighter_descr">
+		<text>Niezawodne, wodoodporne џrуdіo ognia, niezbкdne nie tylko do gotowania posiіkуw, ale rуwnieї do odpalania papierosуw, lub czegoњ mocniejszego przed - odpukaж - walk№ z kontrolerem. Ta wytrzymaіa zapalniczka to њwietny wybуr w toksycznym њrodowisku Zony.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI: \n
+		%c[d_orange] • %c[ui_gray_2] do uїytku przy: %c[ui_gray_1] gotowaniu, paleniu\n</text>
+	</string>
+	
+	<string id="st_lighter_refillers_descr">
+		<text>Nie ma sensu w noszeniu zapalniczki, jeњli nie moїesz ni№ niczego podpaliж. Doњwiadczeni stalkerzy zawsze pamiкtaj№, by napeіniж swoje zapalniczki paliwem przed wyruszeniem w podrуї w gі№b Zony. Szeroko dostкpne w Zonie paliwo do zapalniczek jest stosunkowo tanie i wykonuje zadanie w wystarczaj№cym stopniu.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n 
+		%c[d_orange] • %c[ui_gray_2] do uїytku przy: %c[ui_gray_1] tankowaniu zapalniczki (+100%)\n</text>
+	</string>
+	
+	<string id="st_lighter_refiller5">
+		<text>Paliwo do zapalniczki (pozostaіo 133 ml)</text>
+	</string>
+	<string id="st_lighter_refiller4">
+		<text>Paliwo do zapalniczki (pozostaіo 107 ml)</text>
+	</string>
+	<string id="st_lighter_refiller3">
+		<text>Paliwo do zapalniczki (pozostaіo 80 ml)</text>
+	</string>
+	<string id="st_lighter_refiller2">
+		<text>Paliwo do zapalniczki (pozostaіo 54 ml)</text>
+	</string>
+	<string id="st_lighter_refiller1">
+		<text>Paliwo do zapalniczki (pozostaіo 27 ml)</text>
+	</string>
+	
+	<string id="st_itm_mapkit">
+		<text>Mapa anomalii</text>
+	</string>
+	<string id="st_itm_mapkit_descr">
+		<text>Niezatytuіowany dokument zawieraj№cy rкcznie pisane notatki, kilka zdjкж i kilka akapitуw tekstu. Nic specjalnego, poza jedn№ map№, zawieraj№c№ kilka oznaczonych lokacji. Wygl№da na to, їe jej wіaњciciel byі іowc№ artefaktуw.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_cyan] • %c[ui_gray_2] wіasnoњж osobista\n
+		%c[d_green] • %c[ui_gray_2] zawiera informacje\n
+		</text>
+	</string>
+	<string id="st_itm_mapkit_1">
+		<text>Mapa anomalii (Magazyny Wojskowe)</text>
+	</string>
+	<string id="st_itm_mapkit_2">
+		<text>Mapa anomalii (Jantar)</text>
+	</string>
+	<string id="st_itm_mapkit_3">
+		<text>Mapa anomalii (Czerwony Las)</text>
+	</string>
+	<string id="st_itm_mapkit_4">
+		<text>Mapa anomalii (Martwe Miasto)</text>
+	</string>
+	<string id="st_itm_mapkit_5">
+		<text>Mapa anomalii (Cmentarzysko Pojazdуw)</text>
+	</string>
+	<string id="st_itm_mapkit_6">
+		<text>Mapa anomalii (Jupiter)</text>
+	</string>
+	<string id="st_itm_mapkit_7">
+		<text>Mapa anomalii (Zaton)</text>
+	</string>
+	<string id="st_itm_mapkit_8">
+		<text>Mapa anomalii (Њmietnisko)</text>
+	</string>
+	<string id="st_itm_mapkit_9">
+		<text>Mapa anomalii (Agroprom)</text>
+	</string>
+	<!-- unused -->
+	<string id="st_ammo_box">
+		<text>A box of ammo</text>
+	</string>
+	<string id="st_ammo_box_descr">
+		<text>Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimise the risk of a weapon jam in the heat of battle.\n \n
+		%c[ui_gray_3]WЈAЊCIWOSCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego uїytku\n
+		</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_name">
+		<text>Њpiwуr</text>
+	</string>
+	<string id="st_itm_sleepbag_desc">
+		<text>Przenoњny њpiwуr przeznaczony do utrzymania uїytkownika w ciepіych warunkach.\n \n%c[255,255,255,0]Podwуjnie kliknij, by rozіoїyж na ziemi.\n</text>
+	</string>
+	
+	<string id="st_itm_gunsmith_toolkit">
+		<text>Zestaw do konserwacji broni</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+		<text>Zestaw zawieraj№cy oleje i narzкdzia potrzebne do podstawowej konserwacji broni. Przydatny w trasie, ale jednoczeњnie nieco ciкїki.\n \n%c[255,255,255,0]Przeci№gnij na przedmiot, ktуry chcesz naprawiж.\n</text>
+	</string>
+	
+	<string id="st_itm_outfit_toolkit">
+		<text>Zestaw krawiecki</text>
+	</string>
+	<string id="st_itm_outfit_toolkit_descr">
+		<text>Prowizoryczny zestaw zwieraj№cy wyposaїenie krawieckie i zamienne materiaіy do konserwacji kombinezonуw. Przydatny w zaszywaniu dziur i pкkniкж w materiale.\n \n%c[255,255,255,0]Przeci№gnij na przedmiot, ktуry chcesz naprawiж.\n</text>
+	</string>
+	
+	<string id="st_itm_tent_name">
+		<text>Wojskowy namiot</text>
+	</string>
+	<string id="st_itm_tent_desc">
+		<text>Wojskowy namiot, zaprojektowany do ochrony przed zі№ pogod№. By rozіoїyж, ustaw go na wolnej przestrzeni.\n</text>
+	</string>
+	
+	<string id="st_itm_lantern_name">
+		<text>Latarka LEDowa</text>
+	</string>
+	<string id="st_itm_lantern_desc">
+		<text>Duїa, wytrzymaіa i potкїna lampa dziaіaj№ca na bateriach litowo-jonowych. Do uїytku stacjonarnego; powinno siк j№ ustawiж na ziemi.\n</text>
+	</string>
+	
+	<string id="st_itm_artefact_container_name">
+		<text>Pojemnik na artefakty</text>
+	</string>
+</string_table>

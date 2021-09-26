@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_other">
+		<text>Frakcje (Pozostaіe)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_other_zombified">
+		<text>Zzombifikowani</text>
+	</string>
+	<string id="encyclopedia_factions_other_zombified_text">
+		<text>
+			%c[pda_white]Zzombifikowani%c[ui_gray_1] stalkerzy to ci, ktуrzy padli ofiarami silnych pуl psionicznych.\n
+			\n%c[pda_green]Informacje%c[ui_gray_1]
+			\nStworzenia te s№ pozbawione wyїszych funkcji mуzgowych i polegaj№ jedynie na szcz№tkowych odruchach i bodџcach, bez њwiadomej aktywnoњci, oraz z nieludzko wysok№ odpornoњci№ na bуl.\n
+			\nZdrowie psychiczne i fizyczne zzombifikowanego stalkera bкd№ z czasem siк pogarszaж, aї do momentu caіkowitego utracenia czіowieczeсstwa i obrуcenia siк w mutanta zwanego Zombie.\n
+			\nW odrуїnieniu od mutanta, zzombifikowani posiadaj№ umiejкtnoњж korzystania z broni i narzкdzi, oraz dziaіania w grupie. Moїna ich czкsto zaobserwowaж dziaіaj№cych w sіuїbie їoіnierzy Monolitu.\n
+			\n%c[pda_green]Statystyki%c[ui_gray_1]\n
+			\n• Liderzy: Nieznani\n• Bazy: Nieznane\n• Barwy: Rуїne\n
+		</text>
+	</string>
+	
+</string_table>

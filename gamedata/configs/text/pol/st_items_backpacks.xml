@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+<!--
+	Backpacks
+-->
+
+<string_table>
+	<string id="st_itm_backpack_name">
+		<text>Plecak</text>
+	</string>
+	<string id="st_itm_backpack_desc">
+		<text>Plecak wykonany z wytrzymałego materiału, zdolny wytrzymać najtrudniejsze warunki pogodowe.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+			%c[d_blue] • %c[ui_gray_2] składuje przedmioty\n
+			%c[0,100,255,150] • %c[ui_gray_2] umożliwia stworzenie skrytki\n
+			</text>
+	</string>
+	
+	<string id="st_equ_smallpack_name">
+		<text>Plecak Kempingowy</text>
+	</string>
+	<string id="st_equ_smallpack_desc">
+		<text>Plecak o znacznej pojemności. Wnętrze zostało wyłożone wodoodpornym materiałem. Nie jest to zbyt estetycznym rozwiązaniem, ale spełnia swoje zadanie. Popularny wybór wśród stalkerów i kotów.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+			%c[d_blue] • %c[ui_gray_2] składuje przedmioty\n
+			%c[0,100,255,150] • %c[ui_gray_2] umożliwia stworzenie skrytki\n
+		</text>
+	</string>
+	
+	<string id="st_equ_smilpack_name">
+		<text>Plecak Podróżny</text>
+	</string>
+	<string id="st_equ_smilpack_desc">
+		<text>Duży plecak przeznaczony do długich podróży. Systemy rozłożenia ciężkości pozwalają na noszenie ekwipunku i zapasów wystarczających na maksymalnie pięć dni.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+			%c[d_blue] • %c[ui_gray_2] składuje przedmioty\n
+			%c[0,100,255,150] • %c[ui_gray_2] umożliwia stworzenie skrytki\n
+		</text>
+	</string>
+	
+	<string id="st_equ_milpack_name">
+		<text>Plecak Bojowy</text>
+	</string>
+	<string id="st_equ_milpack_desc">
+		<text>Plecak bojowy używany przez wojsko, dostosowany do przechowywania dodatkowych medykamentów i amunicji.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+			%c[d_blue] • %c[ui_gray_2] składuje przedmioty\n
+			%c[0,100,255,150] • %c[ui_gray_2] umożliwia stworzenie skrytki\n
+		</text>
+	</string>
+	
+	<string id="st_equ_touristpack_name">
+		<text>Plecak Turystyczny</text>
+	</string>
+	<string id="st_equ_touristpack_desc">
+		<text>Plecak turystyczny o wielkiej przestrzeni składowej. Niezbyt popularny ze względu na nieporęczne wymiary.\n \n
+			%c[ui_gray_1]WŁAŚCIWOŚCI:\n
+			%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+			%c[d_blue] • %c[ui_gray_2] składuje przedmioty\n
+			%c[0,100,255,150] • %c[ui_gray_2] umożliwia stworzenie skrytki\n
+		</text>
+	</string>
+	
+	<string id="st_kit_hunt">
+		<text>Zestaw Myśliwski</text>
+	</string>
+	<string id="st_kit_hunt_descr">
+		<text>Torba pełna haczyków, noży i innego ekwipunku ułatwiającego skórowanie i oprawianie zwierząt oraz mutantów. Niewielu stalkerów nosi ze sobą profesjonalny sprzęt do polowania na mutanty. Prawdopodobnie ze względu na niską popularność zmutowanego mięsa, którego spożycie często prowadzi do niestrawności. Dzięki wysokiej różnorodności narzędzi, zestaw ten nadaje się do zwiększenia efektywności wykonywanych napraw.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot codziennego użytku\n
+		%c[d_blue] • %c[ui_gray_2] składuje przedmioty\n
+		%c[0,100,255,150] • %c[ui_gray_2] umożliwia stworzenie skrytki\n
+		%c[d_orange] • %c[ui_gray_2] przyśpiesza oprawianie i zwiększa liczbę pozyskanych materiałów z mutantów\n
+		</text>
+	</string>
+	
+	<string id="st_itm_actor_backpack_name">
+		<text>System Szybkiego Odczepienia</text>
+	</string>
+	<string id="st_itm_actor_backpack_descr">
+		<text>Bycie zaskoczonym przez wroga w Zonie jest jedną z najgorszych rzeczy jaka może ci się przytrafić. Mimo, że to urządzenie nie zapobiegnie takim sytuacjom, z pewnością pomoże ci wydostać się z tarapatów. Jego działanie jest bardzo proste: niemal natychmiastowo odczepia szelki od twojego plecaka umożliwiając szybką ucieczkę bez obciążenia. By go użyć, umieść go w jednym z okienek 'szybkiego użycia'. Naciśnij skót klawiszowy, by aktywować zrzucenie plecaka (wraz z zawartością) na ziemię. Twoja broń, amunicja, kombinezon i przedmioty dodatkowe pozostaną w twoim ekwipunku. Możesz podnieść swój plecak tak samo, jak utworzoną skrytkę.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] wbudowany GPS\n
+		%c[d_blue] • %c[ui_gray_2] bardzo szybkie użycie\n
+		%c[d_blue] • %c[ui_gray_2] wyposażenie bojowe pozostaje na użytkowniku\n</text>
+	</string>
+	<string id="st_itm_actor_backpack_desc_mlr">
+		<text>Często używany przez stalkerów jako zabezpieczenie w razie nieprzewidzianej sytuacji. Posiada prostą budowę, składającą się z prostych szelek, które mogą zostać odłączone razem z plecakiem w dowolnym momencie, umożliwiając szybką ucieczkę.</text>
+	</string>
+	
+	<string id="st_itm_backpack_stash_name">
+		<text>Oznaczony plecak</text>
+	</string>
+	<string id="st_itm_backpack_stash_desc">
+		<text>Niezwykle wytrzymały plecak ze zintegrowanymi urządzeniami GPS. Automatycznie synchronizuje się z twoim PDA po zrzuceniu. Plecak jest wykonany z mocnych i wytrzymałych materiałów, które utrzymają twój ekwipunek w bezpiecznych i suchych warunkach, niezależnie od środowiska. Wierzchni kamuflaż zapewnia, że nie zostanie on zbyt łatwo odnaleziony.\n \n
+		%c[ui_gray_3]WŁAŚCIWOŚCI:\n
+		%c[d_blue] • %c[ui_gray_2] przedmiot wojskowy\n
+		%c[d_blue] • %c[ui_gray_2] wbudowany GPS\n
+		%c[d_red] • %c[ui_gray_2] jednorazowy użytek\n</text>
+	</string>
+	
+</string_table>

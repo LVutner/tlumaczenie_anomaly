@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="windows-1250"?>		
+<string_table>		
+	<string id="ui_st_abandoned_sawmill">	
+		<text>Opuszczony tartak (Zaton)</text>
+	</string>	
+	<string id="ui_st_abandoned_school">	
+		<text>Opuszczona szkoła (Martwe Miasto)</text>
+	</string>	
+	<string id="ui_st_abandoned_village">	
+		<text>Wioska pijawek (Magazyny Wojskowe)</text>
+	</string>	
+	<string id="ui_st_brain_scorcher">	
+		<text>Mózgozwęglacz (Radar)</text>
+	</string>	
+	<string id="ui_st_car_park">	
+		<text>Plac maszynowy (Kordon)</text>
+	</string>	
+	<string id="ui_st_construction_site">	
+		<text>Plac budowy (Dzicz)</text>
+	</string>	
+	<string id="ui_st_container_warehouse">	
+		<text>Skład kontenerów (Jupiter)</text>
+	</string>	
+	<string id="ui_st_cultural_center">	
+		<text>Pałac kultury (Prypeć)</text>
+	</string>	
+	<string id="ui_st_eastern_factory">	
+		<text>Wschodnia fabryka (Mroczna Dolina)</text>
+	</string>	
+	<string id="ui_st_factory_complex">	
+		<text>Kompleks fabryczny (Agroprom)</text>
+	</string>	
+	<string id="ui_st_hermanns_bunker">	
+		<text>Bunkier Naukowców (Jupiter)</text>
+	</string>	
+	<string id="ui_st_hidden_base">	
+		<text>Baza Czystego Nieba (Wielkie Bagno)</text>
+	</string>	
+	<string id="ui_st_kopachy_village">	
+		<text>Kopaczi (Jupiter)</text>
+	</string>	
+	<string id="ui_st_lodging_house">	
+		<text>Noclegownia (Rostok)</text>
+	</string>	
+	<string id="ui_st_makeshift_barracks">	
+		<text>Koszary (Rostok)</text>
+	</string>	
+	<string id="ui_st_military_base">	
+		<text>Baza Wolności (Magazyny Wojskowe)</text>
+	</string>	
+	<string id="ui_st_northern_factory">	
+		<text>Baza Bandytów (Mroczna Dolina)</text>
+	</string>	
+	<string id="ui_st_river_port">	
+		<text>Port rzeczny (Przedmieścia)</text>
+	</string>	
+	<string id="ui_st_rookie_village">	
+		<text>Wioska Kotów (Kordon)</text>
+	</string>	
+	<string id="ui_st_research_institute">	
+		<text>Instytut (Agroprom)</text>
+	</string>	
+	<string id="ui_st_sakharovs_bunker">	
+		<text>Bunkier Naukowców (Jantar)</text>
+	</string>	
+	<string id="ui_st_skadovsk_shipwreck">	
+		<text>Skadowsk (Zaton)</text>
+	</string>	
+	<string id="ui_st_southern_checkpoint">	
+		<text>Południowy posterunek (Kordon)</text>
+	</string>	
+	<string id="ui_st_sports_center">	
+		<text>Baza Najemników (Martwe Miasto)</text>
+	</string>	
+	<string id="ui_st_train_hanger">	
+		<text>Hangar kolejowy (Wysypisko)</text>
+	</string>	
+	<string id="ui_st_tunnel_entrance">	
+		<text>Wejście do tunelu (Jupiter)</text>
+	</string>	
+	<string id="ui_st_tunnel_refuge">	
+		<text>Schron w tunelu (Podz. Agropromu)</text>
+	</string>	
+	<string id="ui_st_tuzla_outpost">	
+		<text>Północny obóz (Wielkie Bagno)</text>
+	</string>	
+	<string id="ui_st_yanov_station">	
+		<text>Stacja Janów (Jupiter)</text>
+	</string>	
+	<string id="ui_st_pripyat_hospital">	
+		<text>Szpital (Przedmieścia)</text>
+	</string>	
+	<string id="ui_st_red_forest_old_mine">	
+		<text>Zachodnie tunele (Czerwony Las)</text>
+	</string>	
+		
+		
+	<!-- Last Day -->	
+	<string id="ui_st_atp">	
+		<text>Plac maszynowy (Kordon)</text>
+	</string>	
+	<string id="ui_st_barricades_at_the_car">	
+		<text>Barykada (Agroprom)</text>
+	</string>	
+	<string id="ui_st_camp_at_crane">	
+		<text>Obóz przy dźwigu (Elektrownia)</text>
+	</string>	
+	<string id="ui_st_camp_on_a_hillock">	
+		<text>Obóz na wzgórzu (Cmentarzysko Pojazdów)</text>
+	</string>	
+	<string id="ui_st_check_point">	
+		<text>Posterunek (Jupiter)</text>
+	</string>	
+	<string id="ui_st_crossroads">	
+		<text>Skrzyżowanie (Cmentarzysko Pojazdów)</text>
+	</string>	
+	<string id="ui_st_curve_beam">	
+		<text>Wąwóz (Magazyny Wojskowe)</text>
+	</string>	
+	<string id="ui_st_deadlock_of_a_tunnel">	
+		<text>Tunel (Agroprom)</text>
+	</string>	
+	<string id="ui_st_destroyed_bridge">	
+		<text>Zniszczony most (Mroczna Dolina)</text>
+	</string>	
+	<string id="ui_st_eastern_checkpoint">	
+		<text>Wschodni posterunek (Cmentarzysko Pojazdów)</text>
+	</string>	
+	<string id="ui_st_fallen_helicopter">	
+		<text>Wrak helikoptera (Magazyny Wojskowe)</text>
+	</string>	
+	<string id="ui_st_farm_base_neytral">	
+		<text>Farma (Kordon)</text>
+	</string>	
+	<string id="ui_st_filling_station">	
+		<text>Stacja paliw (Mroczna Dolina)</text>
+	</string>	
+	<string id="ui_st_flea_market">	
+		<text>Pchli Targ (Wysypisko)</text>
+	</string>	
+	<string id="ui_st_forest_area">	
+		<text>Leśniczówka (Zaton)</text>
+	</string>	
+	<string id="ui_st_halt_behind_a_dump">	
+		<text>Przystanek (Cmentarzysko Pojazdów)</text>
+	</string>	
+	<string id="ui_st_hideout">	
+		<text>Kryjówka (Przedmieścia)</text>
+	</string>	
+	<string id="ui_st_house_on_the_hill">	
+		<text>Dom na wzgórzu</text>
+	</string>	
+	<string id="ui_st_kbo_monolith">	
+		<text>Centrum Jubilejny (Przedmieścia)</text>
+	</string>	
+	<string id="ui_st_machine_yard">	
+		<text>Plac maszynowy (Wielkie Bagno)</text>
+	</string>	
+	<string id="ui_st_military_base_two">	
+		<text>Baza Wojskowa (Generatory)</text>
+	</string>	
+	<string id="ui_st_mine_koper">	
+		<text>Wieża szybowa (Czerwony Las)</text>
+	</string>	
+	<string id="ui_st_outpost_of_dolg">	
+		<text>Posterunek Powinności (Wysypisko)</text>
+	</string>	
+	<string id="ui_st_parking_at_kamaz">	
+		<text>Parking (Dzicz)</text>
+	</string>	
+	<string id="ui_st_parking_on_a_farm">	
+		<text>Parking na farmie (Mroczna Dolina)</text>
+	</string>	
+	<string id="ui_st_parking_under_an_embankment">	
+		<text>Pod wałem przeciwpowodziowym (Wielkie Bagno)</text>
+	</string>	
+	<string id="ui_st_pole_bandit_base">	
+		<text>Parking (Polana)</text>
+	</string>	
+	<string id="ui_st_pole_stalker_village">	
+		<text>Zagroda (Polana)</text>
+	</string>	
+	<string id="ui_st_post_of_mercenaries">	
+		<text>Posterunek najemników (Magazyny Wojskowe)</text>
+	</string>	
+	<string id="ui_st_power_station">	
+		<text>Dziedziniec (Elektrownia)</text>
+	</string>	
+	<string id="ui_st_small_village">	
+		<text>Mała wioska (Mroczna Dolina)</text>
+	</string>	
+	<string id="ui_st_prachechnya">	
+		<text>Pralnia (Przedmieścia)</text>
+	</string>	
+	<string id="ui_st_processing_station">	
+		<text>Zakład utylizacji odpadów (Zaton)</text>
+	</string>	
+	<string id="ui_st_ruins">	
+		<text>Ruiny (Opuszczony Szpital)</text>
+	</string>	
+	<string id="ui_st_store_books_a18">	
+		<text>Księgarnia (Przedmieścia)</text>
+	</string>	
+	<string id="ui_st_yard">	
+		<text>Podwórze (Limańsk)</text>
+	</string>	
+	<string id="ui_st_yard_with_a_terrace">	
+		<text>Taras przy podwórzu (Limańsk)</text>
+	</string>	
+</string_table>

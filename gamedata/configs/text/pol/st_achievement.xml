@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="st_achievement_1_name">
+		<text>Ciкїkie Kieszenie</text>
+	</string>
+	<string id="st_achievement_1_hint">
+		<text>Handlarze chкtniej sprzedadz№ ci wysokiej jakoњci sprzкt, nawet jeњli nie speіniasz wymagaс co do przychylnoњci ich frakcji.</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>Twoje bogactwo staіo siк legendarne wњrуd handlarzy Zony. Zachкceni potencjaln№ inwestycj№ zaoferuj№ ci najlepszy sprzкt, jakim dysponuj№, bez wzglкdu na twoje relacje z ich frakcj№.</text>
+	</string>
+	<string id="st_achievement_1_unlock">
+		<text>Odblokowaіeњ osi№gniecie: "Ciкїkie Kieszenie".</text>
+	</string>
+	
+	<string id="st_achievement_2_name">
+		<text>Radioterapia</text>
+	</string>
+	<string id="st_achievement_2_hint">
+		<text>Masz szansк przetrwaж burzк psioniczn№ lub emisjк bez koniecznoњci korzystania ze schronu.</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>W pewien dziwny sposуb, w jednym z zak№tkуw twojego umysіu nagle zapadіa cisza. Myњl o nadchodz№cych wyіadowaniach nie budzi w tobie niepokoju. Co wiкcej, podczas ich trwania czujesz siк niemal odprкїony.</text>
+	</string>
+	<string id="st_achievement_2_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Radioterapia".</text>
+	</string>
+	
+	<string id="st_achievement_3_name">
+		<text>Przemysі Informacyjny</text>
+	</string>
+	<string id="st_achievement_3_hint">
+		<text>Od teraz poњrednicy zapіac№ dodatkowy bonus za kaїdy dostarczony PDA.</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>Wielu ludzi uwaїa informacje za rуwnie wartoњciowe, co artefakty. Dziкki swojemu doњwiadczeniu w tym biznesie jesteњ w stanie wynegocjowaж wyїsze ceny za sprzedane noњniki informacji.</text>
+	</string>
+	<string id="st_achievement_3_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Przemysі Informacyjny".</text>
+	</string>
+	
+	<string id="st_achievement_4_name">
+		<text>Koniec Transmisji</text>
+	</string>
+	<string id="st_achievement_4_hint">
+		<text>Stalkerzy bкd№ chкtniej pokonywaж trasy biegn№ce przez Jantar i Radar.</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>Po przekonaniu siк, co nios№ ze sob№ lekkomyњlne eksperymenty przeprowadzane w Zonie, postanowiіeњ wzi№ж sprawy w swoje rкce. Po wyі№czeniu obu Emiterуw drogi przez Jantar i Radar stoj№ otworem.</text>
+	</string>
+	<string id="st_achievement_4_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Koniec Transmisji".</text>
+	</string>
+	
+	<string id="st_achievement_5_name">
+		<text>Drapieїnik Alfa</text>
+	</string>
+	<string id="st_achievement_5_hint">
+		<text>Jesteњ w stanie oporz№dziж ciaіa zabitych mutantуw znacznie szybciej.</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>Staіeњ siк postrachem fauny w caіej Zonie - z twojej rкki zginкіo wiкcej mutantуw, niї jesteњ w stanie zliczyж. Twoje doњwiadczenie w skуrowaniu mutantуw sprawiіo, їe moїesz to robiж z zamkniкtymi oczami.</text>
+	</string>
+	<string id="st_achievement_5_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Drapieїnik Alfa"</text>
+	</string>
+	
+	<string id="st_achievement_6_name">
+		<text>Pieni№dze albo Їycie</text>
+	</string>
+	<string id="st_achievement_6_hint">
+		<text>Poddaj№cy siк Stalkerzy mog№ czasem wyjawiж lokalizacjк drugiej skrytki.</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>Na swojej drodze pozostawiasz jedynie іuski i martwe ciaіa. Twoja zabуjcza skutecznoњж staіa siк tematem opowieњci wњrуd twoich wrogуw. Ci, ktуrzy przetrwaj№ w starciu wystarczaj№co dіugo bкd№ gotowi rozstaж siк ze swoim sprzкtem, jeњli ma to dla nich oznaczaж ujњcie z їyciem.</text>
+	</string>
+	<string id="st_achievement_6_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Pieni№dze albo Їycie".</text>
+	</string>
+	
+	<string id="st_achievement_7_name">
+		<text>Wojna Zmechanizowana</text>
+	</string>
+	<string id="st_achievement_7_hint">
+		<text>Komponenty pomocnicze uїywane przy naprawach s№ bardziej skuteczne.</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>Technik, ktуremu pomogіeњ siк wyposaїyж, w dowodzie wdziкcznoњci pokazaі ci kilka trikуw i nauczyі ciк jak wydajniej korzystaж z materiaіуw naprawczych.</text>
+	</string> 
+	<string id="st_achievement_7_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Wojna Zmechanizowana"</text>
+	</string>
+	
+	<string id="st_achievement_8_name">
+		<text>Turysta</text>
+	</string>
+	<string id="st_achievement_8_hint">
+		<text>Twoja bliska znajomoњж z Zon№ pozwoliіa ci odgadn№ж poіoїenie kilku najlepszych skrytek.</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>Pomimo niebezpieczeсstw, udaіo ci siк dotrzeж do kaїdego z zak№tkуw Zony. Od bіotnistych gікbi Wielkich Bagien po rdzawe labirynty Cmentarzyska Maszyn - znasz Zonк jak wіasn№ kieszeс.</text>
+	</string>
+	<string id="st_achievement_8_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Turysta".</text>
+	</string>
+	
+	<string id="st_achievement_9_name">
+		<text>Domokr№їca</text>
+	</string>
+	<string id="st_achievement_9_hint">
+		<text>Twoje szczкњcie w znajdywaniu skrytek zostaіo nieco podwyїszone.</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>Doњwiadczenie w przetrz№saniu cudzych skrytek wyіoniіo w tobie prawdziwy talent do znajdowania najlepszych fantуw. Pomimo wzlotуw i upadkуw, czujesz, їe twoje szczкњcie wzrasta.</text>
+	</string>
+	<string id="st_achievement_9_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Domokr№їca".</text>
+	</string>
+	
+	<string id="st_achievement_10_name">
+		<text>Perfekcjonista</text>
+	</string>
+	<string id="st_achievement_10_hint">
+		<text>Odblokowano wszystkie osi№gniecia.</text>
+	</string>
+	<string id="st_achievement_10_descr">
+		<text>Osi№gn№іeњ wszystko, co byіo moїliwe do osi№gniecia. Znasz Zonк lepiej niї ktokolwiek inny. Pozostajesz niepokonany, pomimo wszelkich przeciwieсstw, ktуre spotkaіeњ na swojej drodze.</text>
+	</string>
+	<string id="st_achievement_10_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Perfekcjonista".</text>
+	</string>
+	
+	<string id="st_achievement_11_name">
+		<text>Wtajemniczenie</text>
+	</string>
+	<string id="st_achievement_11_hint">
+		<text>Odblokowano "Renegatуw" jako grywaln№ frakcjк.</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>Zrobiіeњ wszystko, co byіo wymagane do zdobycia sekretnej wiedzy od jednego z najbardziej doњwiadczonych stalkerуw w Zonie. Mimo, їe jesteњ sceptyczny co do tego, czego siк dowiedziaіeњ, doњwiadczenie zdobyte po drodze pozostanie z tob№ juї na zawsze.</text>
+	</string>
+	<string id="st_achievement_11_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Wtajemniczenie".</text>
+	</string>
+	
+	<string id="st_achievement_12_name">
+		<text>Twarde L№dowanie</text>
+	</string>
+	<string id="st_achievement_12_hint">
+		<text>Њmigіowce Mi-24 zostan№ zamienione na Mi-2.</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>Im wyїej lataj№, tym wiкkszy impet ich upadku. W obawie o ich drogi sprzкt, wojsko zdaje siк teraz wysyіaж mniej zaawansowane њmigіowce.</text>
+	</string>
+	<string id="st_achievement_12_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Twarde L№dowanie".</text>
+	</string>
+	
+	<string id="st_achievement_13_name">
+		<text>Geolog</text>
+	</string>
+	<string id="st_achievement_13_hint">
+		<text>Zwiкkszona szansa na pojawienie siк artefkatуw w anomaliach.</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>Szumi№c, sycz№c czy pulsuj№c - Anomalie rozsiane po Zonie nie budz№ juї w tobie strachu. Po wielu owocnych wyprawach zauwaїasz, їe trafiasz na artefakty w coraz to wiкkszych iloњciach.</text>
+	</string>
+	<string id="st_achievement_13_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Geolog".</text>
+	</string>
+	
+	<string id="st_achievement_14_name">
+		<text>Autorytet</text>
+	</string>
+	<string id="st_achievement_14_hint">
+		<text>Moїesz zrekrutowaж wiкksz№ liczbк towarzyszy.</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>Twoje dokonania w Zonie staіy siк legend№. Posiadasz teraz pewnoњж siebie i poczucie przywуdztwa, wynikaj№ce z ogromnego doњwiadczenia. Celowo lub podњwiadomie, wiesz jak przekonaж ludzi do pуjњcia za tob№, choжby w piekielny ogieс.</text>
+	</string>
+	<string id="st_achievement_14_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Autorytet".</text>
+	</string>
+	
+	<string id="st_achievement_15_name">
+		<text>Zapalony Czytelnik</text>
+	</string>
+	<string id="st_achievement_15_hint">
+		<text>Odblokowano szansк na znalezienie specjalnych PDA.</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>Poprzez wіasne doњwiadczenia lub czytanie o cudzych, zdobyіeњ ogromn№ wiedzк na temat Zony i jej mieszkaсcуw. Moїe powinieneњ rozwaїyж podzielenie siк ni№?</text>
+	</string>
+	<string id="st_achievement_15_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Zapalony Czytelnik".</text>
+	</string>
+	
+	<string id="st_achievement_16_name">
+		<text>Dziecinna Przyjemnoњж</text>
+	</string>
+	<string id="st_achievement_16_hint">
+		<text>Zwiкkszona szansa na znalezienie przedmiotуw w rozbitych skrzynkach i pojemnikach.</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>Nie waїne, czy jesteњ na waїnej misji, czy zabijasz tylko czas, skrzynki nigdzie nie s№ bezpieczne. Wzniosіeњ ich destrukcjк do poziomu sztuki - rozbijasz je z finezj№, nie uszkadzaj№c ich zawartoњci.</text>
+	</string>
+	<string id="st_achievement_16_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Dziecinna Przyjemnoњж"</text>
+	</string>
+	
+	<string id="st_achievement_17_name">
+		<text>Recykler</text>
+	</string>
+	<string id="st_achievement_17_hint">
+		<text>Szansa na zdobycie dodatkowego komponentu przy kaїdym rozmontowanym przedmiocie.</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>Wierz№c, їe kaїda czкњж siк liczy, nie moїesz siк powstrzymaж przed rozmontowaniem wszystkiego, co wpadnie ci w rкce. Wraz z doњwiadczeniem w majsterkowaniu staіeњ siк bardziej precyzyjny.</text>
+	</string>
+	<string id="st_achievement_17_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Recykler".</text>
+	</string>
+	
+	<string id="st_achievement_18_name">
+		<text>Zapaі Rzemieњlniczy</text>
+	</string>
+	<string id="st_achievement_18_hint">
+		<text>Crafting wymaga mniej komponentуw.</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>Budowanie wіasnego ekwipunku zawsze sprawiaіo ci niemaі№ satysfakcje, co wiкcej, twoje doњwiadczenie pozwala ci teraz na korzystanie z komponentуw z wiкksz№ wydajnoњci№.</text>
+	</string>
+	<string id="st_achievement_18_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Zapaі Rzemieњlniczy".</text>
+	</string>
+	
+	<string id="st_achievement_19_name">
+		<text>Nieproszony Goњж</text>
+	</string>
+	<string id="st_achievement_19_hint">
+		<text>Zmniejszona szansa wykrycia w przebraniu wrogiej frakcji.</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>Dziкki twojej przebiegіoњci i trafnych obserwacjach jesteњ w stanie kreowaж bardziej przekonuj№ce przebrania. Dziкki temu, jesteњ w stanie z іatwoњci№ wmieszaж siк w tіum i nie wzbudzaж їadnych podejrzeс.</text>
+	</string>
+	<string id="st_achievement_19_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Nieproszony Goњж".</text>
+	</string>
+	
+	<string id="st_achievement_20_name">
+		<text>Rozgrzeszenie</text>
+	</string>
+	<string id="st_achievement_20_hint">
+		<text>Odblokowano "Grzech" jako grywalna fakcje.</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>Gdy mroczni stalkerzy "Grzechu" przedstawili ci swoje cele, stan№іeњ im naprzeciw, ratuj№c њwiat przed skutkami manipulacji noosfer№. </text>
+	</string>
+	<string id="st_achievement_20_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Rozgrzeszenie".</text>
+	</string>
+	
+	<string id="st_achievement_21_name">
+		<text>Kolaborant</text>
+	</string>
+	<string id="st_achievement_21_hint">
+		<text>Odblokowano "UNISG" jako grywaln№ fakcje.</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>Podj№іeњ decyzjк i ostatecznie wybraіeњ swoj№ stronк. Ciкїko stwierdziж, czy byіa to wіaњciwa decyzja... Sam musisz o tym zadecydowaж.</text>
+	</string>
+	<string id="st_achievement_21_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Kolaborant".</text>
+	</string>
+	
+	<string id="st_achievement_22_name">
+		<text>Їelazna Kurtyna</text>
+	</string>
+	<string id="st_achievement_22_hint">
+		<text>Twoja frakcja wynagrodziіa ciк bonusem w postaci 50,000 RU za dokonania wojenne w ich sprawie.</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>Twoja frakcja staіa siк niezaprzeczaln№ siі№ w Zonie, uwaїan№ nawet za lokalne supermocarstwo. Zasoby zdobyte w minionej wojnie wkrуtce trafi№ rуwnieї do ciebie.</text>
+	</string>
+	<string id="st_achievement_22_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Їelazna Kurtyna".</text>
+	</string>
+	
+	<string id="st_achievement_23_name">
+		<text>Mroczna Dusza</text>
+	</string>
+	<string id="st_achievement_23_hint">
+		<text>Twoja ranga zostaіa znacznie podwyїszona.</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>Przetrwaіeњ wydarzenia i zjawiska, przy ktуrych inni stalkerzy poddaliby siк, postradali zmysіy lub po prostu zginкli. Niektуrzy zaczynaj№ nawet kwestionowaж twoj№ њmiertelnoњж.</text>
+	</string>
+	<string id="st_achievement_23_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Mroczna Dusza".</text>
+	</string>
+	
+	<string id="st_achievement_24_name">
+		<text>Niezwyciкїony</text>
+	</string>
+	<string id="st_achievement_24_hint">
+		<text>Moїesz teraz zrobiж zrzut ekranu i pochwaliж siк tym osi№gnieciem swoim znajomym stalkerom.</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>Pomimo wyzwaс, prуb i przeciwnoњci losu, dowiodіeњ, їe jesteњ uosobieniem sukcesu. Jasne jest, їe nie ma w Zonie juї nic, co stanowiіoby dla ciebie wyzwanie. Byж moїe to juї czas na zmianк profesji, lub emeryturк. </text>
+	</string>
+	<string id="st_achievement_24_unlock">
+		<text>Odblokowaіeњ osi№gniкcie: "Niezwyciкїony".</text>
+	</string>
+	
+</string_table>

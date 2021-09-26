@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="windows-1250"?>
+
+<!--
+	Artefacts (active)
+-->
+
+<string_table>
+	<string id="st_af_itcher_name">
+		<text>Skrobak</text>
+	</string>  
+	<string id="st_af_itcher_descr">
+		<text>
+		Formacja o naturze termicznej. Skrobak składa się z dwóch osobnych warstw. Powierzchnia to twardy, gęsty, metamorficzny kamień, pokryty głębokimi wcięciami. Całkowicie nieaktywny - nie posiada żadnych zauważalnych właściwości. Z drugiej strony, miękki rdzeń o żółtawej poświacie składa się z nieznanej substancji organicznej. Nieustannie pochłania ciepło i utrzymuje chlodną temperaturę.
+		\nNie zaleca się zbliżania do anomalii chemicznych będąc w posiadaniu tego artefaktu, gdyż wzmacnia on szkodliwe działanie kwasów i toksyn w krwiobiegu posiadacza.
+		\n \nPromieniuje z niewielką intensywnością.
+		</text>
+	</string> 
+
+	<string id="st_af_pin_name">
+		<text>Szpilka</text>
+	</string>  
+	<string id="st_af_pin_descr">
+		<text>
+		Drobny artefakt formujący się w ekstremalnych temperaturach anomalii termicznych. Budowa tego artefaktu wskazuje na to, że był on pierwotnie narządem rośliny naczyniowej. Dalsze badania wykazały, że we wnętrzu artefaktu znajdują się również inne organiczne tkanki.
+		\nRdzeń nie posiada żadnych użytecznych właściwości, w przeciwieństwie do igiełek, które są w stanie obniżyć temperaturę użytkownika, zarówno jak i wszystkich obiektów, do których zostaną zbliżone.
+		\nArtefakt oferuje niewielką ochronę przed energią psioniczną; bezpośredni wpływ fal psionicznych wprawia go w lekkie drgania. Nie zaleca się zbliżania do anomalii chemicznych będąc w posiadaniu tego artefaktu, gdyż wzmacnia on szkodliwe działanie kwasów i toksyn w krwiobiegu posiadacza.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>  
+	
+	<string id="st_af_cristall_name">
+		<text>Kryształ</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>
+		Artefakt formuje się w strefach o wysokim natężeniu anomalii termicznych. Aktywnie pochłania ciepło pozostając jednocześnie chłodnym.
+		\nChroni również przed prądem elektrycznym. Z drugiej strny, z nieznanych dotąd przyczyn, wystawianie artefaktu na działanie prądu zwiększa jego właściwości przewodnikowe. Z tego powodu należy rozważyć wady i zalety Kryształu przed zbliżeniem się do anomalicznych obszarów.
+		\nPoza terenami Zony Kryształ jest wielce pożądanym towarem wśród jubilerów ze względu na to, że jego rdzeń nie jest radioaktywny i uznaje się go za niezwykle piękny po poddaniu go odpowiedniej obróbce. Jedynie pierwszy centymter zewnętrznej warstwy artefaktu emituje promieniowanie.
+		\nZaleca się jednak ostrożność przy przenoszeniu artefaktu, gdyż długotrwały kontakt z nawet niewielkimi dawkami promieniowania może skutkować śmiercią. Pokryty bardzo twardą zewnętrzną warstwą. Stosunkowo ciężki ze względu na wysoką gęstość.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_fireball_name">
+		<text>Kula Ognista</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>
+		Kulitsty artefakt złożony z czerwonej, krystalicznej substancji, formujący się w anomaliach termicznych.
+		\nPosiada unikalną właściwość: utrzymuje stałą temperaturę 75°F / 24°C, niezależnie od otoczenia. Pozwala to pochłanianie okolicznego ciepła i utworzenia wokół użytkownika obszaru blokującego działanie płomieni.
+		\nNiebezpiecznym efektem ubocznym artefaktu jest wysoka konduktywność, a co za tym idzie, zwiększone ryzyko porażenia elektrycznego, szczególnie podczas burz i w pobliżu anomalii elektrycznych. Stosunkowo ciężki ze względu na wysoką gęstość kryształowego materiału.
+		\n \nEmituje intensywne promieniowanie.
+		</text>
+	</string>
+	
+	<string id="st_af_blood_name">
+		<text>Kamienna Krew</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>
+		Czerwonawa formacja skompresowanych skamielin roślinnych, ziemi i szczątek zwierzęcych. Jest w stanie częściowo zneutralizować trujące chamikalia pochłaniając je i jednocześnie zmniejszając ogólny poziom toksyn w krwiobiegu użytkownika. Całkiem powszechny i niezbyt efektywny, gdyż powoduje ropienie oparzeń chemicznych. Z łatwością zajmuje się ogniem po kontakcie z otwartym płomieniem, w najgorszym przypadku jest możliwy samozapłon. 
+		\nInną pozytywną właściwością tego artefaktu jest wspomaganie krzepliwości krwi, jeśli użytkownik trzyma go blisko ciała. Nie jest jednak zalecane przetrzymywanie tego artefaktu zbyt długo, ze względu na możliwość powstania zatoru w krwiobiegu.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_mincer_meat_name">
+		<text>Kotlet</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>
+		Artefakt posiada miękką, porowatą, przypominającą skórę teksturę. Wygląda i zachowuje się jak gąbka, a swoje specjalne właściwości zdradza jedynie w konkretnych warunkach.
+		\nPo pierwsze, rozwijając metaforę gąbki, wierzy się, że pory na jego powierzchni są w stanie absorbować niewielkie ilości toksyn z otoczenia.
+		\nPo drugie, artefakt lekko podwyższa szkodliwe efekty fal psionicznych na żywych organizmach poprzez absorbowanie i powolne uwalnianie energii psionicznej.
+		\nPo trzecie, Kotlet jest również znany ze swojej przwodności, zbliżonej do skóry żywej istoty.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_bracelet_name">
+		<text>Bransoletka</text>
+	</string>  
+	<string id="st_af_bracelet_descr">
+		<text>
+		Bransoletka powstaje z pospolitych gatunków mchów pod intensywnym wpływem promieniowania i anomalii chemicznych, co wyjaśnia jej organiczną naturę.
+		\nZapewnia wysoką ochronę przed wszystkimi rodzajami kwasów poprzez stopniowe zwiększanie ich poziomu pH do poziomu wody (7 pH).
+		\nGdy w użyciu, artefakt jest również znany z lekkiego przeciwdziałania szkodliwym efektom fal psionicznych.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>  
+	
+	<string id="st_af_baloon_name">
+		<text>Bąbel</text>
+	</string>
+	<string id="st_af_baloon_descr">
+		<text>
+		Mieszanka kilku, pustych w środku organicznych struktur. Emituje gazowe substancje neutralizujące toksyny w ciele użytkownika nie powodując żadnej krzywdy. Zapewnia dzięki temu świetną ochronę przed szkodliwą chemią.
+		\nUtrzymuje również niezależną od otoczenia, stałą temperaturę. Pozwala mu to na pochłanianie ciepła ze swojego otoczenia i utworzenia wokół użytkownika obszaru blokującego działanie płomieni. 
+		\nBąbel posiada również negatywne właściwości. Znacznie wzmacnia on efekty fal psionicznych, czego nie należy bagatelizować. Niektórzy stalkerzy donoszą, że efekt bywa na tyle silny, że będąc w posiadaniu Bąbla dostawali niezwykle intensywnego, rwącego bólu głowy. Jedyne co byli w stanie zrobić to uciekać jak najdalej jak tylko mogli, krzycząc przy tym z bólu. 
+		\n \nEmituje intensywne promieniowanie. 
+		</text>
+	</string>
+	
+	<string id="st_af_electra_sparkler_name">
+		<text>Świecidełko</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>
+		Artefakt przypomina wyglądem prześwitującą, pajęczą sieć. Niczym pajęczy jedwab, lepi się i posiada właściwości przypominające klej.
+		\nMożna go najczęściej znaleźć wśród anomalii elektrycznych, lub w ich sąsiedztwie. Wygląda na to, że zaabsorbował niektóre z ich cech: jest w stanie wypłaszczyć fluktuacje elektryczne oraz zachowuje się niczym mały rezystor, redukując szkodliwy wpływ prądu na użytkownika.
+		\nZ drugiej strony, należy zaznaczyć, że artefakt zwiększa korozywność otaczających go kwasów, co może prowadzić do przyśpieszonego zużycia ekwipunku oraz zwiększonych uszkodzeń tkanek żywych organizmów.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_sponge_name">
+		<text>Gąbka</text>
+	</string>  
+	<string id="st_af_sponge_descr">
+		<text>
+		Gąbka od zawsze była tematem debat wśród Ekologów. Niektórzy z nich sugerują, że jest ona złożona z prostych organizmów jednokomórkowych, gdy inni twierdzą, że jest ona zaawansowaną formą życia, posiadającą samoświadomość odziecziczoną po żywych istotach.
+		\nPomimo wielu teorii, jedno pozostaje pewne: artefakt się porusza. Gąbka próbuje czasem "złapać" obiekt, z którym wchodzi w kontakt. Schowanie jej do pojemnika często bywa przez to kłopotliwe.
+		\nWykazuje silną rezystancję i jest w stanie zaabsorbować śmiertelne dawki prądu. Jest za to niezwykle łatwopalna i spłonie, jeśli wejdzie w kontakt z otwartym ogniem. Istnieje również ryzyko samozapłonu.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string> 
+	
+	<string id="st_af_ring_name">
+		<text>Pierścień</text>
+	</string>  
+	<string id="st_af_ring_descr">
+		<text>
+		Bardzo mały artefakt o naturze elektrycznej. Trudny do dostrzeżenia. Składa się z dwóch, ukształtowanych niczym pierścień, organicznych mas.
+		Po wprawieniu w wirujący ruch, Pierścień nie przestanie się obracać, wbrew pierwszej zasady termodynamiki. Naukowcy sugerują, że swoje grawitacyjne właściwości zawdzięcza anomalii typu Wir.
+		\nZewnętrzny pierścień charakteryzuje się wysoką przewodnością. Absorbuje prąd z okolicznych źródeł i uziemia go w wewnętrznym pierścieniu. Pomimo prostego funkcjonowania, mechanizm stojący za neutralizacją energii wewnątrz drugiego pierścienia pozostaje nieznany.
+		\nDruga strona Pierścienia jest łatwopalna. Długotrwała ekspozycja na płomienie może zwiększyć jego łatwopalność i spowodować samozapłon.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_flash_name">
+		<text>Błysk</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>
+		Ten przypominający kulę plazmy artefakt jest wizualnie zbliżony do Blasku Księżyca.
+		\nBłysk wykazuje silną rezystancję i jest w stanie zaabsorbować śmiertelne dawki prądu.
+		\nGdy w użyciu, artefakt jest również znany z lekkiego przeciwdziałania szkodliwym efektom fal psionicznych.
+		\nZakłóca on jednak procesy lecznicze, przez co zaleca się ostrożność, szczególnie, gdy jest się rannym. Bardzo lekki i poręczny.
+		\n \nEmituje intensywne promieniowanie.
+		</text>
+	</string>
+	
+	<string id="st_af_cristall_flower_name">
+		<text>Kamienny Kwiat</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>
+		Artefakt przypomina stopiony ser, spleciony z szafirowymi kamieniami. Jedynie zewnętrzna, żółta powłoka artefaktu zdaje się emitować promieniowanie. Po uważnej obróbce jest możliwa ekstrakcja nieradioaktywnych, niebieskich części do zastosowania w celach jubilerskich i przemysłowych. Po odpowiednim oczyszczeniu i wypolerowaniu porównanie z szafirem staje się jeszcze bardziej wyraziste: kamienie są równie piękne i wytrzymałe, niczym wspomniany klejnot. Wszystkie te właściwości robią z nich idealne kamienie szlachetne, dzięki czemu są pożądane przez jubilerów na całym świecie. 
+		\nJednak przydatność tego artefaktu nie kończy się na jego wartości przemysłowej. Istnieją dowody naukowe sugerujące, że szafirowe kamienie są w stanie chronić przed falami psioniczymi, a zewnętrzna powkłoka potrafi pochłaniać niewielkie ilości toksyn.
+		\nNiestety, artefakt często doprowadza do podpalenia pobliskich obietków. Z tego względu uznaje się, że absorbuje on ciepło i przenosi je na cokolwiek, co znajduje się w pobliżu.
+		\nZe względu na wysoką gęstość, artefakt ten jest jedną z najcięższych kreacji Zony.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_lobster_eyes_name">
+		<text>Oczy Homara</text>
+	</string>  
+	<string id="st_af_lobster_eyes_descr">
+		<text>
+		Tak jak wskazuje nazwa, ten artefakt jest ukształtowany niczym para złączonych ze sobą jaj. Zewnętrzna powierzchnia jest niezwykle gruba, a jej wysoka gęstość nadaje jej bardzo głęboką barwę.
+		\nArtefakt oferuje nieco silniejsze właściwości anty-psioniczne, niż jego kuzyn, Kamienny Kwiat. Rezonuje pod wpływem fal psionicznych i absorbuje ich szkodliwy wpływ.
+		\nKolejną pozytywną właściwością jest jego umiejętność pochłaniania ciepła, pozostając jednocześnie chłodnym.
+		\nZe względu na wysoką gęstość powłoki, Oczy Homara są dość ciężkie.
+		\n \nPromieniują z przeciętną intensywnością.
+		</text>
+	</string> 
+	
+	<string id="st_af_electra_moonlight_name">
+		<text>Blask Księżyca</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>
+		Ten unikalny, elektrostatyczny artefakt rezonuje pod wpływme fal psionicznych. Stalkerzy nauczyli się go dostrajać w taki sposób, by rezonował w fazie przeciwnej do głównego źródła emisji, co znacząco ogranicza ich szkodliwy efekt. Ta niezwykle urodziwa bryła zwiększa również ochronę przed prądem, znacząco ograniczając przewodność ciała użytkownika.
+		\nNależy pamiętać, że Blask Księżyca zajmie się ogniem, gdy wystawi się go na działanie otwartego płomienia. Istnieje również ryzyko samozapłonu. 
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_black_spray_name">
+		<text>Czarna Kiść</text>
+	</string>  
+	<string id="st_af_black_spray_descr">
+		<text>
+		Ze względu na rzadkość tego artefaktu, istnieje niewiele potwierdzonych informacji na temat jego właściwości i pochodzenia. 
+		\nCzarna Kiść ma podobny kształt do innych szafirowych artefaktów. Jendak organiczna natura rdzenia (który posiada właściwości podobne do artefaktu Szpilka) sugeruje, że uformował się on w wyniku wpływu fal psionicznych i elektromagnetycznych na rośliny naczyniowe.
+		\nKolejną unikalną właściwością jest umiejętność spowolnienia przepływu światła. Ten tajemniczy mechanizm wpływa również na okoliczne fale psioniczne. Z tego właśnie względu, Czarna Kiść neutralizuje fale psioniczne w szerokim promieniu wokół artefaktu.
+		\nNiestety, wszystkie te korzystne właściwości mają swoją cenę. Artefakt staje się niezwykle niebezpieczny w toksycznych środowiskach, potęgując moc trucizn. Przed wejściem w taki obszar zaleca się schowanie artefaktu do plecaka.
+		\nJest poszukiwany przez jubilerów na całym świecie, ze względu na piękną, niebieską aurę, którą emituje.
+		\n \nEmituje intensywne promieniowanie.
+		</text>
+	</string>  
+	
+	<string id="st_af_medusa_name">
+		<text>Meduza</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>
+		Jedno z powszechniejszych znalezisk w Zonie. Ten artekfat grawitacyjny jest w stanie nieznacznie ograniczyć siłę nadchodzących w jego kierunku uderzeń.
+		\nJest w stanie częściowo osłonić użytkownika przed ciepłem emitowanym przez anomalie termiczne.
+		\nArtefakt jest dość ciężki, ze względu na pole grawitacyjne, które zdaje się go obciążać. Potęguje szkodliwe efekty fal psionicznych oraz wykazuje silną przewodność.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_vyvert_name">
+		<text>Skrętak</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>
+		Ten dziwacznie wyglądający artefakt pojawia się zwykle w miejscach o zwiększonej aktywności grawitacyjnej.
+		\nMimo, że sprawia wrażenie organicznego, strukturą przypomina bardziej koral. Dzięki swojej grawitacyjnej naturze jest w stanie cześciowo uchronić użytkownika przed uderzeniami.
+		\nDziała on również niczym gąbka pochłaniająca środki chemiczne i toksyny, zarówno z toksycznymi cząstkami, które dostały się już do ciała użytkownika.
+		\nSkrętak potrafi wytworzyć lokalne pole grawitacyjne, które zwiększa jego masę, co czyni go jednym z cięższych artefaktów.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_empty_name">
+		<text>Pustka</text>
+	</string>  
+	<string id="st_af_empty_descr">
+		<text>
+		Dwa dyski złożone z organicznej masy (głównie z lipidów, celulozy i ligniny) z absolutnie niczym pomiędzy. Ze względu na unikalne pole grawitacyjne uformowane w centrum, odległość pomiędzy dyskami pozostaje niezmienna.
+		\nPróby zciśnięcia dysków ze sobą, lub rozerwania ich jest niemożliwe, ze względu na nieustannie zmieniające się właściwości pola grawitacyjnego. Zupełnie jakby artefakt reagował na każdą siłę, która póbuje na niego oddziaływać.
+		\nZe względu na ten mechanizm, poruszanie się z Pustką to niełatwe zadanie. Pole grawitacyjne zwiększające gęstość otaczającego je powietrza spowalnia ciało użytkownika.
+		\nGłówną wartością użytkową tego artefaktu jest jego zdolność do redukowania tarcia, dająca częściową ochronę przed uderzeniami.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string> 
+ 	
+	<string id="st_af_full_empty_name">
+		<text>Pełna Pustka</text>
+	</string>  
+	<string id="st_af_full_empty_descr">
+		<text>
+		Podobnie do Pustki, artefakt ten składa się z dwóch organicznych dysków połączonych unikalnym polem grawitacyjnym. Jednak pole grawitacyjne Pełnej Pustki jest znacznie bardziej zadziwiające: każdy atom trafiający do centrum, niezależnie od jego natury, staje się interaktywny pod wpływem niezidentyfikowanej siły. Proces ten powoduje powstawanie fotonów (emisję światła).
+		\nNaukowcy nazywają to zjawisko "efektem galaktyki", który nadaje artefaktowi niezwykłą, świetlistą orbitę.
+		\nWzrost gęstości powietrza wokół artefaktu jest wyższy w porównaniu do Pustki. Oznacza to, że artefakt znacznie utrnudni użytkownikowi poruszanie się.
+		\nBędąc lepszą wersją Pustki, charakteryzuje się wybitną ochroną przed uderzeniami. Niektórzy twierdzą, że Pełna Pustka jest w stanie zatrzymać 9-milimetrową kulę, wystrzeloną z przyłożenia.
+		\n \nEmituje intensywne promieniowanie.
+		</text>
+	</string> 
+	
+	<string id="st_af_night_star_name">
+		<text>Gwiazda Wieczorna</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>
+		Ten świetlisty artefakt jest w stanie wygenerować lokalne pole niskiej grawitacji. Często używany przez stalkerów wraz z Grawim - podobnym artefaktem - w celu zwiększenia ładowności ekwipunku.
+		\nZe względu na swój piękny rdzeń jest pożądany przez jubilerów na całym świecie, jednak należy do niego podejść z ostrożnością, gdyż niewłaściwe obchodzenie się z tym artefaktem może prowadzić do eksplozji zdolnej do powalenia niewielkiego budynku. Wszelkie próby obróbki zaleca się wykonywać tylko z użyciem wyspecjalizowanego ekwipunku. Co więcej, jedynie zewnętrzna warstwa artefaktu emituje promieniowanie.
+		\nGwiazda Wieczorna pochłania także toksyny i środki chemiczne z otoczenia, czyniąc z niej świetny artefakt dla poszukiwaczy artefaktów, mimo, że ilość pochłanianych toksyn jest niewielka. It is, however, relatively cheap and even stalkers with pretty tight budgets can afford it if opportunity to buy it arises. 
+		\nThat being said, Nightstar emits odour of burning flesh when in the closest proximity of heat source. Prolonged exposure may enhance its flammability and cause it to ignite.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_gravi_name">
+		<text>Grawi</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>
+		Gravi is formed from metallic substances exposed to prolonged gravitation. This makes it capable of sustaining an powerful anti-gravitational field, which causes it to have various properties, among others reducing weight of all objects in its close proximity. For a long time, the artefact was a mystery, and it was scientist Sakharov at Yantar who first discovered that Gravi creates a minute singularity field of anti-gravitational nature, the phenomenon which occurs in intervals of 30 minutes.
+		\nA dangerous effect of this artefact is the fact that it will increase electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
+		\nAnother downside is that it will increase the negative effects of psy-waves and is a potent conductor.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_gold_fish_name">
+		<text>Złota Rybka</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>
+		Direct successor to and a superior version of Gravi artefact. As was the case with Gravi, it was scientist Sakharov at Yantar who discovered its unique properties after a massive blowout/emission hit the Zone.
+		\nThanks to meticulous research that followed, it was established that this new artefact is produced when three Gravi artefacts interact and get sucked into one another's singularity fields. This phenomenon is extremely rare, due to which the artefact is highly valued.
+		\nIt is rumoured within Ukrainian Spetsnaz circles that in the Zone there are agents from the Ministry of Defence of the Russian Federation whose sole objective is acquiring and transporting Goldfish to specialised laboratories located outside of the Zone.
+		\nThe artefact creates a constant anti-gravitational singularity field which affects only its closest vicinity. However, some stalkers have been known to disappear for no apparent reason leaving only a Goldfish behind.
+		\nBig downside, however, comes along with this powerful anti-gravitational field: the velocity of moving objects inside its radius will rapidly increase, causing dangerous impacts on surrounding objects, including the holder.
+		\n \nRadiation output is highest on the artefact radiation scale.
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Korale Mamy</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>
+		Shaped like a DNA helix, Mama's Beads are created in the Burner anomaly. One of their most characteristic features is that they constantly pulsate, generating emissions beneficial to the human body. These emissions increase the metabolism of any living creature, accelerating coagulation and healing of wounds.The mechanism behind the effects of this artefact is still unknown.
+		\nMama's Beads also possess potent protective qualities: they are able to shield the body and objects from extreme heat.
+		\nOn the other hand, it should be noted that the presence of this artefact increases electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
+		\nThe weight is also quite high for such a small artefact, which leads to a conclusion that is of high density.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_eye_name">
+		<text>Oko</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>
+		This artefact, which resembles the human eye, considerably increases metabolism of the body, helping wounds heal quicker. Experienced stalkers say that Eye also brings luck. Irrespective of the validity of that statement, its positive effects are indeed quite potent. 
+		\nThis artefact soothes the pain and is extremely useful when treating wounds.
+		\nWhen worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants.
+		\nThese beneficial qualities, however, come at a price. This artefact is extremely dangerous when exposed to chemical anomalies as it amplifies their toxicity and increases their potency. It is hence highly recommended to keep the artefact in your backpack, never on the body, when exploring toxic areas unless you have a death wish.
+		\nThe artefact is also known colloquially as "copper eye" as it conducts electricity and amplifies its dangerous effects in the same way as copper does. 
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_fire_name">
+		<text>Płomień</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>
+		This artefact forms in areas of high thermal activity. Produces powerful infrared emissions which intensify metabolic processes, healing wounds before its bearer's very eyes.
+		\nIts healing capabilities are even stronger than in case of the Eye as stalkers in possession of this artefact are said to have survived being wounded by chimeras. Thanks to that, it has earned the reputation of a miraculous artefact.
+		\nMany stalkers owe it their lives, and most veteran mutant hunters carry it in case they run into danger. However, it shares not only positive but also negative properties of its cousin: entering a psy-field with this artefact on the belt is suicide. It will absorb psy energy and emitting it at a considerable rate.
+		\nAlso, it is highly advised to proceed with caution when planning to bring the artefact to the market as prolonged exposure to even minimal amounts of radioactive materials can result in death of the user.
+		\nIt can also be used as a reusable medkit of sorts since it heals wounds very quickly.
+		\n \nEmituje intensywne promieniowanie.
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_name">
+		<text>Bateria</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>
+		\nThe artefact is quite popular in the Zone and is valued by its residents and visitors alike for its energizing properties, although it has an adverse effect on the body when used for prolonged periods of time.
+		\nOne should take note, however, that this artefact hinders blood clotting and increases bleeding rate of open wounds. On the other hand, being a powerful resistor, it is well known for its ability to shield its user from lethal doses of electricity.
+		\nBeing an artefact of electric nature, it is well known for its ability to shield its user from lethal doses of electricity. On the contrary, it should be noted that Battery absorbs heat and is able to convey it to other objects.
+		\nThis artefact is also extremely light and very portable. 
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_dummy_dummy_name">
+		<text>Muszla</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>
+		Shell is composed of two disk of bluish colour connected by semitransparent material of unknown nature.
+		\nThis strange artefact was considered devoid of any useful properties by many scientists for a long time. Only recently has it been discovered that it is indeed quite beneficial.
+		\nWhen the artefact comes into contact with the body, it will make one feel rejuvenated and thus it increases stamina recovery. This effect has in case of some stalkers induced hyperactivity. One downside of this artefact, however, is that it reduces the number of platelets in blood, thus increasing bleeding rate.
+		\nIt provides a considerable level of psy protection and absorbs electromagnetic interference, acting as a grounding material.
+		\nIt will catch fire when exposed to open flame or even spontaneously combust. Caution must be taken when approaching heat sources with this artefact.
+		\nShell is extremely light and very portable.
+		\n \nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_ice_name">
+		<text>Śnieżynka</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>
+		Also colloquially known as "Radioactive Snowflake". At first glance, this artefact resembles a white Kolobok.
+		\nThanks to its unique properties, the artefact can significantly increase the bearer's muscle tone, thus greatly improving stamina recovery. Due to its high radioactivity, stalkers in possession of it are sometimes jokingly referred to as "Radioactive Snowflakes".
+		\nWhen faced with the decision whether to carry it on the belt during a mission, you have to carefully weigh its pros and cons: does it pay to have greater endurance and high protection against electricity at the cost of being constantly exposed to its deadly radiation? Even if you are determined to take it with you, it should be noted that it is not to be used on long excursions to the Zone.
+		\nSnowflake, however, holds a big downside: it interacts with surrounding energy sources by absorbing and amplifying their effects. For this reason, approaching heat sources, toxic areas and psy-fields while holding this artefact is a suicide.
+		\nIt is as light as a snowflake and very easy to carry around.
+		\n \nEmituje intensywne promieniowanie.
+		</text>
+	</string>
+	
+	<string id="st_af_soul_name">
+		<text>Dusza</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>
+		Soul is a unique organic artefact with properties just as unique: it secretes slimy goo that dramatically increases recovery rate of wounds. Thanks to its reasonable price and attractive appearance, this artefact is a valuable collector's item.
+		\nApplying its gooey substance to wounds will soothes the pain and speeds up healing process. 
+		\It also reduces the effects of psy-waves and their damage to one's brain. But it should be known that Soul drains power from its user. The artefact does not have high density and thus is not very heavy.
+		\n \nPromienuje z niewielką intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kulebiak</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>
+		A relatively rare artefact forming in chemical areas, Kolobok is highly valued for its ability to heal most kinds of wounds and stop bleeding in a matter of minutes.
+		\nFor unknown reasons, scientists are spreading rumours among stalkers that the artefact modifies bearer's genetic code, which is unproven and should be regarded as conscious attempt at monopolizing the supply of the artefact by the scientific community. This does not, however, mean that it is completely harmless.
+		\nOne drawback of this artefact is the fact that it will interact to radioactive particles, so it is best to avoid radiation fields when in possession of the artefact, especially since its negative effects are not balanced with positive ones. It will also reduce energy recovery, which is the result of its sharp needle-like appendages. The needles cause small and quickly healing wounds which bring constant pain and itch, thus reducing stamina.
+		\nThis artefact also weakens protection against heat and acids due to its high flammability. 
+		\nLightweight and not too much of a burden to carry around.
+		\nPromieniuje z przeciętną intensywnością.
+		</text>
+	</string>
+	
+	<string id="st_af_glass_name">
+		<text>Świetlik</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>
+		Firefly interacts with fields unknown to science, considerably speeding up regeneration of tissue and organs in living beings, as well as normalizing metabolic processes.
+		\nThis artefact can literally get a badly wounded stalker back on his feet in a matter of minutes. On the other hand, Firefly can spontaneously combust when exposed to potent radioactive sources.
+		\nA big downside to this artefact is that it weakens the body and reduce the number of platelets in blood during heal process, thus increasing bleeding rate.
+		\nIt seems to drain stamina and decrease stamina recovery greatly as well. Some of those who used Firefly for its healing purposes have reported that they couldn't walk for hours afterwards.
+		\nUnfortunately, Firefly is extremely rare.
+		\nEmituje intensywne promieniowanie.
+		</text>
+	</string>
+	
+	<string id="st_af_compass_name">
+		<text>Kompas</text>
+	</string>
+	<string id="st_af_compass_descr">
+		<text>
+		A very rare artefact. It's been several years since one was found.
+		\nIt can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly.
+		\nThe Compass showed few unique properties under last experiments. It can interact to moving objects, causing some to completely disappear. Or perhaps teleport?
+		\nIt also weakens the body by draining stamina and increasing bleeding rate constantly. But the biggest draw however, is the dangerous radiation output this artefact emits comparing to the artefact radiation scale.
+		\nHolding this artefact near the body will cause death in matter of few minutes.
+		</text>
+	</string>
+	
+	<string id="st_af_oasis_heart_name">
+		<text>Serce Oazy</text>
+	</string>
+	<string id="st_af_oasis_heart_descr">
+		<text>
+		This artefact was found at the centre of the legendary Oasis. It appears that the Heart is a crystallised plant, which has acquired the healing properties of the Oasis.
+		\nNot only it dramatically increases recovery rate of wounds and healing process, but also provides the body with strong source of energy. It is a true miracle.
+		\nThat being said, the Oasis is very sensitive to outer sources of energy and surrounding environment. For this reason, interacting with anomaly fields will bring death to the holder.
+		\n \nRadiation output is highest on the artefact radiation scale.
+		</text>
+	</string>
+	
+	<string id="st_af_death_lamp_name">
+		<text>Lampa Śmierci</text>
+	</string>  
+	<string id="st_af_death_lamp_descr">
+		<text>
+		"Big, red and cursed."
+		\nThis is how the locals prefer to describe the Death Lamp, while some refer to it as the "Seed of Satan". Many traders believe the rumours surrounding the artefact, thus refusing to buy it.
+		Little is known about its origins, and nothing of value has been discovered so far.
+		\nDeath Lamp was first discovered few years ago by a group of three experienced stalkers. Shortly after delivering the artefact to the Ecologists in Yantar, two of them found dead with a horrific expression on their faces. Nothing is known about the fate of the third stalker.
+		\nFollowing the accident, members of the science team who studied the artefact had reported having nightmare disorder in the days to follow.
+		\nApart from the mysterious effects, the artefact drains vitality and willpower from the user, often on such a scale that it induces dizziness and in extreme cases causes the user to faint. 
+		\n \nRadiation output is highest on the artefact radiation scale. 
+		</text>
+	</string> 
+	
+	<string id="st_af_monolith_name">
+		<text>Monolit</text>
+	</string>
+	<string id="st_af_monolith_descr">
+		<text>The origin of this artefact is shrouded in mystery, as the very few discovered samples have been gathered from areas close to the Center of the Zone.
+		\nThis unique artefact reacts to surrounding environment and particles changes, and resonates accordingly. It absorbs heat from its vicinity, and shield its user from lethal doses of electricity. Apart from that, it resonates in opposite phase to the main source of emissions, thus significantly neutralizing their effects.
+		Not only that, but studies showed that the "Monolith" is a non-radioactive artefact, unlike the majority of active variants.</text>
+	</string>
+	
+	<string id="st_af_black_name">
+        <text>Czarny Kamień</text>
+    </string>
+    <string id="st_af_black_descr">
+        <text>Truly, an amazing thing. The Black Stone protects against broadly considered adversity but instead is slowly killing the owner. Some stalkers suspect the artefact is a shard of the Monolith.</text>
+    </string>
+	
+	<!-- MLR -->
+	<string id="st_af_misery_bread_name">
+		<text>Anomaliczny chleb</text>
+	</string>
+	<string id="st_af_misery_bread_descr">
+		<text>A piece of bread as dark as the soul of the person that left it.\n \n%c[ui_gray_2]PROPERTIES:\n%c[ui_white] • %c[ui_gray_2] artefact\n%c[d_cyan] • %c[ui_gray_2] attachable</text>
+	</string>
+</string_table>

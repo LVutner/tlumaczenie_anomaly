@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1250"?>		
+<string_table>		
+		
+<!-- (Bandit ground leader) -->		
+	<string id="st_agr_u_bandit_boss_dialog_start_0">	
+		<text>Stój! Kim jesteś i co tu do cholery robisz?!</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_start_1a">	
+		<text>Szukam skarbów. A może tobie się coś trafiło?</text>
+	</string>	
+		<string id="st_agr_u_bandit_boss_dialog_start_1a_1">
+		<text>Nie, nic mi się nie "trafiło". Nie rób sobie jaj, typie. Słyszysz te ryki, tam na dole? Istne eldorado pełne jazgotu. Nadal chce ci się szukać "skarbów"?</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_start_1b">	
+		<text>Eksploruję. Nigdy nie wiadomo, na co tu można trafić.</text>
+	</string>	
+		<string id="st_agr_u_bandit_boss_dialog_start_1b_1">
+		<text>Jaaasne... I ze wszystkich miejsc w Zonie, które mogłeś odwiedzić, eksplorujesz akurat to. Co za przypadek, co nie?</text>
+		</string>
+	<string id="st_agr_u_bandit_boss_dialog_start_1c">	
+		<text>Mam tu coś do zrobienia.</text>
+	</string>	
+		<string id="st_agr_u_bandit_boss_dialog_start_1c_1">
+		<text>No to zajebisty z ciebie pechowiec, stary. Widzę, że obaj płyniemy jedną łódką - obaj mamy tu coś do zrobienia.</text>
+		</string>
+		
+	<string id="st_agr_u_bandit_boss_dialog_ask_0">	
+		<text>A co z wami? Jak tu trafiliście?</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_ask_1">	
+		<text>Wołają na mnie Marynarz. Przyszliśmy tu z ekupą parę dni temu, na polecenie Sułtana. "Nie martwcie się chłopcy, to miejsce jest od dawna opuszczone", "nie ma się czego bać". Tkwimy tu, psia jego mać, od wczoraj, bo na dole ryczy jakieś wściekłe szujstwo, które wylazło cholera wie skąd.  Zeszłej nocy prawie nas wykończyły jakieś wściekłe stwory, które wylazły nie wiadomo skąd. Wycofaliśmy się wtedy w to miejsce i nie ruszamy stąd tyłków.
+		\nMieliśmy znaleźć coś pożytecznego, co mógł tu zostawić Striełok. Podobno gdzieś tutaj kitrał swoje fanty. Diabli wiedzą, na co to Sułtanowi, ale powiedział jasno, że bez czegoś pożytecznego możemy się już w bazie nie pokazywać.</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_ask_2">	
+		<text>Brzmi nieciekawie. Mogę jakoś pomóc?</text>
+	</string>	
+		<string id="st_agr_u_bandit_boss_dialog_ask_5">
+		<text>Serio? To byłoby mega, bo potrzebujemy każdej dodatkowej spluwy, ale to nadal spore ryzyko.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_6">
+		<text>To się okaże. Przeszukamy to miejsce razem?</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_7">
+		<text>Cholera jasna...Sam nie wiem, ziomek. Miałem nadzieję, że już nigdy nie zobaczę tych bydlaków. Ale...</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_72">
+		<text>Ale?</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_73">
+		<text>Słuchaj, nie możemy wrócić z pustymi rękoma, nieważne, ile ich tam jest. Więc jebać to, schodzimy.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_71">
+		<text>Ruszajmy.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_8">
+		<text>Rozejrzę się tu trochę. Jeśli coś znajdę, to dam ci znać.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_81">
+		<text>Mówił ci już ktoś, że jesteś szajbnięty? Ale to dobrze. Powodzenia, czekam tu na ciebie.</text>
+		</string>
+	<string id="st_agr_u_bandit_boss_dialog_ask_3">	
+		<text>Powodzenia. Jakby co, to czekam tutaj.</text>
+	</string>	
+		
+	<string id="st_agr_u_bandit_boss_dialog_ask_4">	
+		<text>Miałeś na myśli te dokumenty?</text>
+	</string>	
+		
+	<string id="st_agr_u_bandit_boss_dialog_give_docs_0">	
+		<text>Trzymaj, znalazłem tą walizkę.</text>
+	</string>	
+		
+	<string id="st_agr_u_bandit_boss_dialog_ask_9">	
+		<text>Co do... Naprawdę?!</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_10">
+		<text>Nie wczuwaj się. Masz, rzuć okiem.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_11">
+		<text>Przykro mi, ale zatrzymam to sobie.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_12">
+		<text>Jesteś co do tego pewien?</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_13">
+		<text>Ta.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_14">
+		<text>Żartuję sobie, możesz ją wziąć.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_15">
+		<text>Nie mam czasu na twoje podchody.</text>
+		</string>
+		
+	<string id="st_agr_u_bandit_boss_dialog_give_docs_1">	
+		<text>Stary, nawet nie wiem, jak ci dziękować!  W końcu możemy się stąd wynosić. Wracam do Sułtana, do Doliny Mroku. Chłopaki tu zostaną jeszcze chwilę, dopóki nie ogarniemy tego wszystkiego.
+		\nChcesz ze mną iść? Dopilnuję, żeby szef odpalił ci twoją dolę.</text>
+	</string>	
+		<string id="st_agr_u_bandit_boss_dialog_give_docs_2">
+		<text>Mam inne rzeczy do roboty, trzymaj się.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_give_docs_3">
+		<text>Ej, zanim pójdziesz...Weź to. Znalazłem to w jednej z tych świetlistych anomalii, jak przeszukiwaliśmy to miejsce. Może to ci się przyda. </text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_give_docs_4">
+		<text>Dobra, dzięki.</text>
+		</string>
+		<string id="st_agr_u_bandit_boss_dialog_give_docs_5">
+		<text>Jasne, chodźmy.</text>
+		</string>
+		
+	<string id="st_agr_u_bandit_boss_dialog_reask">	
+		<text>Okej, mogę pomóc twoim chłopakom w poszukiwaniach.</text>
+	</string>	
+		
+	<string id="st_agr_u_bandit_boss_dialog_arrived_0">	
+		<text>No to jesteśmy.</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_arrived_1">	
+		<text>Dzięki, koleś. Nie zapomnę ci tego. Przy okazji, weź to - znaleźliśmy ten artefakt, jak przeszukiwaliśmy to miejsce. Przyjmij to w zamian za twoją robotę.</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_arrived_2">	
+		<text>Dzięki. Co planujecie teraz zrobić?</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_arrived_3">	
+		<text>Zaniosę tą walizkę Sułtanowi i powiem mu, co się tu stało. Cieszę się, że już po wszystkim. Jeśli się jeszcze kiedyś zobaczymy, to możesz mi postawić kolejkę. Myślę, że po tej przeprawie przyda się nam obu.</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_dialog_arrived_4">	
+		<text>W porządku, trzymaj się.</text>
+	</string>	
+		
+	<string id="st_agr_u_bandit_boss_news_on_going">	
+		<text>Dobra chłopaki, idę na dół z naszym nowym kumplem. Wy tu zostaniecie i będziecie pilnować tyłów.</text>
+	</string>	
+	<string id="st_agr_u_bandit_boss_news_on_going_reply">	
+		<text>Uważaj na siebie, gościu.</text>
+	</string>	
+		
+	<string id="agr_u_bandit_boss_task_1_name">	
+		<text>Podziemna ekspedycja</text>
+	</string>	
+	<string id="agr_u_bandit_boss_task_1_desc_0">	
+		<text>Marynarz potrzebuje pomocy w odnalezieniu dokumentów w Podziemiach Agropromu. Mają to być oryginalne zapiski z badań prowadzonych w instytucie, lub notatki sławnych stalkerów, takich jak Strielok. Przeszukaj każdy zakątek za wartościowymi informacjami.</text>
+	</string>	
+	<string id="agr_u_bandit_boss_task_1_desc_1">	
+		<text>Wróć ze swoim znaleziskiem do Marynarza.</text>
+	</string>	
+	<string id="agr_u_bandit_boss_task_1_desc_2">	
+		<text>Eskortuj Marynarza do bazy bandytów w Dolinie Mroku.</text>
+	</string>	
+	<string id="agr_u_bandit_boss_task_1_desc_3">	
+		<text>Porozmawiaj z Marynarzem.</text>
+	</string>	
+</string_table>
