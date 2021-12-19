@@ -44,7 +44,7 @@
 		<text>9A-91</text>
 	</string>	
 	<string id="st_wpn_9a91_descr">	
-		<text>9A91 to rosyjski subkarabinek automatyczny produkcji KBP Tu³a, zasilany nabojem 9 x 39 mm. Jego konstrukcja charakteryzuje siê d³ugim skokiem t³oka gazowego, umiejscowionego nad luf¹ oraz obrotowego zamka z 4 ryglami. Komora zamkowa zosta³a wykonana z t³oczonej stali, a czó³enko oraz uchwyt pistoletowy z polimerów. Posiada stalow¹ kolbê, sk³adan¹ w górê, do pozycji nad komor¹ zamkow¹. Regulowan¹ szczerbinkê mo¿na ustawiæ na zasiêg 100 i 200 metrów, lecz stosunkowo krótka podstawa celownika oraz stroma trajektoria poddŸwiêkowego naboju ogranicza 9A91 do zasiêgu mierz¹cego jedynie oko³o 100 metrów.\n \n
+		<text>9A91 to rosyjski subkarabinek automatyczny produkcji KBP Tu³a, strzelaj¹cy nabojem 9 x 39 mm. Jego konstrukcja charakteryzuje siê d³ugim skokiem t³oka gazowego, umiejscowionego nad luf¹ oraz obrotowego zamka z 4 ryglami. Komora zamkowa zosta³a wykonana z t³oczonej stali, a czó³enko oraz uchwyt pistoletowy z polimerów. Posiada stalow¹ kolbê, sk³adan¹ w górê, do pozycji nad komor¹ zamkow¹. Regulowan¹ szczerbinkê mo¿na ustawiæ na zasiêg 100 i 200 metrów, lecz stosunkowo krótka podstawa celownika oraz stroma trajektoria poddŸwiêkowego naboju ogranicza 9A91 do zasiêgu mierz¹cego jedynie oko³o 100 metrów.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO,  PSO-1M2-1\n
 		%c[d_purple] • %c[ui_gray_2] t³umik 9A-91/VSK-94\n \n</text>
@@ -60,7 +60,7 @@
 	<string id="st_wpn_abakan_descr">	
 		<text>AN-94 (Automat Nikonowa) to rosyjski karabin szturmowy produkowany w latach 1993-2006, przez zak³ady I¿masz (obecnie Koncern Ka³asznikow). Jego kluczow¹ przewag¹ nad AK-74 jest wprowadzenie dodatkowego trybu 2-strza³owej serii. G³ównymi za³o¿eniami tej konstrukcji by³o opóŸnienie odrzutu, do momentu opuszczenia lufy przez pociski oraz zrównowa¿enie ruchu zamka i suwad³a, za pomoc¹ ruchomej przeciwmasy. U¿ywany przez operatorów Specnazu oraz bojowników Powinnoœci ze wzglêdu na swoje w³aœciwoœci balistyczne na stosukowo wysokich dystansach.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] granatnik GP-25 (wymaga modyfikacji)\n
+		%c[d_purple] • %c[ui_gray_2] granatnik GP-25\n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n \n</text>
 	</string>	
 	<string id="st_wpn_abakan_worn">	
@@ -71,7 +71,7 @@
 		<text>Galil ACE-21</text>
 	</string>	
 	<string id="st_wpn_ace21_descr">	
-		<text>Karabin szturmowy Galil ACE zosta³ zaprojektowany i wyprodukowany przez Izraelsk¹ spó³kê IMI Systems. Wzorem dla rodziny Galil ACE by³ karabin szturmowy Galil AR, który z kolei powsta³ na bazie Automatu Ka³asznikowa. Galil ACE skupia siê na ergonomii, ³atwoœci u¿ycia oraz integracji z dodatkowym osprzêtem i elastycznoœci w warunkach bojowych - rodzina Galil ACE jest kompatybilna z trzema najpopularniejszymi rodzajami amunicji na œwiecie (5.56x45 NATO, 7.62x39 M43 i NATO 7.62x51), wraz z odpowiednimi danym kalibrom konfiguracjami d³ugoœci lufy. Ten konkretny egzemplarz jest zasilany amunicj¹ Kulow¹ 5.56x45 NATO i jest wyposa¿ony w kompaktow¹ lufê. Niezwykle rzadki widok w Zonie.\n \n
+		<text>Karabin szturmowy Galil ACE zosta³ zaprojektowany i wyprodukowany przez Izraelsk¹ spó³kê IMI Systems. Wzorem dla rodziny Galil ACE by³ karabin szturmowy Galil AR, który z kolei powsta³ na bazie Automatu Ka³asznikowa. Galil ACE skupia siê na ergonomii, ³atwoœci u¿ycia oraz integracji z dodatkowym osprzêtem i elastycznoœci w warunkach bojowych - rodzina Galil ACE jest kompatybilna z trzema najpopularniejszymi rodzajami amunicji na œwiecie (5.56x45 NATO, 7.62x39 M43 i NATO 7.62x51), wraz z odpowiednimi danym kalibrom konfiguracjami d³ugoœci lufy. Ten konkretny egzemplarz strzela amunicj¹ Kulow¹ 5.56x45 NATO i jest wyposa¿ony w kompaktow¹ lufê. Niezwykle rzadki widok w Zonie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n\n</text>
@@ -84,7 +84,7 @@
 		<text>AEK-971 (Kamufla¿ Powinnoœci)</text>
 	</string>	
 	<string id="st_wpn_aek971_camo_descr">	
-		<text>Rosyjski karabin szturmowy autorstwa Siergiera Kokszarowa. Konstrukcja maj¹ca na celu zmniejszenie odrzutu oraz zredukowanie rozrzutu konkurowa³a i ostatecznie przegra³a z karabinem AN-94 jako potencjalny nastêpca AK-74N. Niewielka iloœæ karabinów AEK-971 trafi³a do rosyjskiego MSW, lecz pace nad projektem nie usta³y. W 2014 roku zmodernizowane AEK-971 wdro¿ono równolegle z AK-12, jako modele maj¹ce zast¹piæ starsze konstrukcje. Ten konkretny egzemplarz posiada jasnobe¿owy kamufla¿ z czerwonymi akcentami, maj¹cymi symbolizowaæ przynale¿noœæ do frakcji Powinnoœæ. Niektóre mechanizmy zosta³y przebudowane, lub wymienione na nowsze i bardziej niezawodne. W umiejêtnym i dbale wykonanym modyfikacjom uzyskano nieco wy¿sz¹ prêdkoœæ wylotow¹.\n \n
+		<text>Rosyjski karabin szturmowy autorstwa Siergiera Kokszarowa. Konstrukcja maj¹ca na celu zmniejszenie odrzutu oraz zredukowanie rozrzutu konkurowa³a i ostatecznie przegra³a z karabinem AN-94 jako potencjalny nastêpca AK-74N. Niewielka iloœæ karabinów AEK-971 trafi³a do rosyjskiego MSW, lecz pace nad projektem nie usta³y. W 2014 roku zmodernizowane AEK-971 wdro¿ono równolegle z AK-12, jako modele maj¹ce zast¹piæ starsze konstrukcje. Ten konkretny egzemplarz posiada jasnobe¿owy kamufla¿ z czerwonymi akcentami, maj¹cymi symbolizowaæ przynale¿noœæ do frakcji Powinnoœæ. Niektóre mechanizmy zosta³y przebudowane lub wymienione na nowsze i bardziej niezawodne. W umiejêtnym i dbale wykonanym modyfikacjom uzyskano nieco wy¿sz¹ prêdkoœæ wylotow¹.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
 		%c[d_purple] • %c[ui_gray_2] t³umik TGP-A\n
@@ -105,7 +105,7 @@
 		<text>AEK-973</text>
 	</string>	
 	<string id="st_wpn_aek973_descr">	
-		<text>AEK-973 to wersja rozwojowa karabinu AEK-971 zasilana nabojem 7,62 x 39 mm.\n \n
+		<text>AEK-973 to wersja rozwojowa karabinu AEK-971 strzelaj¹ca nabojem 7,62 x 39 mm.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
 		%c[d_purple] • %c[ui_gray_2] t³umik TGP-A\n
@@ -130,7 +130,7 @@
 		<text>AK-101 (zakamuflowany)</text>
 	</string>	
 	<string id="st_wpn_ak101_descr">	
-		<text>AK-101 to karabin szturmowy oparty na konstrukcji AK-74M, przeznaczony na rynek eksportowy. Jest zasilany standardowym dla wiêkszoœci krajów cz³onkowskich NATO nabojem 5.56x45mm. AK-101 jest przeznaczony dla potencjalnych nabywców szukaj¹cych broni ³¹cz¹cej logistyczne walory naboju 5.56x45mm NATO z niezawodnoœci¹ Ka³asznikowa. Zbudowano go z u¿yciem nowoczesnych polimerów i materia³ów kompozytowych w calu zredukowania wagi oraz zwiêkszenia celnoœci. Wiele ulepszeñ zawartych w tej konstrukcji jest równie¿ obecnych w AK-103 i pozosta³ych modelach serii AK-10x.\n \n
+		<text>AK-101 to karabin szturmowy oparty na konstrukcji AK-74M, przeznaczony na rynek eksportowy. Jest strzelaj¹cy standardowym dla wiêkszoœci krajów cz³onkowskich NATO nabojem 5.56x45mm. AK-101 jest przeznaczony dla potencjalnych nabywców szukaj¹cych broni ³¹cz¹cej logistyczne walory naboju 5.56x45mm NATO z niezawodnoœci¹ Ka³asznikowa. Zbudowano go z u¿yciem nowoczesnych polimerów i materia³ów kompozytowych w calu zredukowania wagi oraz zwiêkszenia celnoœci. Wiele ulepszeñ zawartych w tej konstrukcji jest równie¿ obecnych w AK-103 i pozosta³ych modelach serii AK-10x.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] granatnik GP-25 (wymaga modyfikacji)\n
 		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech, EKP-8-02 Kobra, 1P29, PSO-1\n
@@ -175,7 +175,7 @@
 		<text>AK-105</text>
 	</string>	
 	<string id="st_wpn_ak105_descr">	
-		<text>AK-105 to skrócona wersja karabinu AK-74M uzupe³niaj¹ca karabinki AKS-74U w s³u¿bie Rosyjskiej Armii. Konstrukcja zosta³a przystosowana do walki w przestrzeniach zamkniêtych kosztem zmniejszonej skutecznoœci na d³ugim dystansie. Komorê zamkow¹ wykonano z t³oczonej stali, a magazynek ze wzmocnionych w³ókien szklanych. Kolba sk³ada siê w ca³oœci z pustego w œrodku plastiku. Pozwoli³o to na zredukowanie wagi oraz trwa³oœci, zarówno jak i umo¿liwi³o przechowywanie w niej polowego zestawu naprawczego.\n \n
+		<text>AK-105 to skrócona wersja karabinu AK-74M uzupe³niaj¹ca karabinki AKS-74U na wyposa¿eniu Rosyjskiej Armii. Konstrukcja zosta³a przystosowana do walki w przestrzeniach zamkniêtych kosztem zmniejszonej skutecznoœci na d³ugim dystansie. Komorê zamkow¹ wykonano z t³oczonej stali, a magazynek ze wzmocnionych w³ókien szklanych. Kolba sk³ada siê w ca³oœci z pustego w œrodku plastiku. Pozwoli³o to na zredukowanie wagi oraz trwa³oœci, zarówno jak i umo¿liwi³o przechowywanie w niej polowego zestawu naprawczego.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP 1S-03 "Kobra", 1P29, PSO-1\n
 		%c[d_purple] • %c[ui_gray_2] t³umik TGP-A\n \n</text>
@@ -258,7 +258,7 @@
 		<text>AK-74M (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_ak74m_descr">	
-		<text>W roku 1991 fabryka I¿masz rozpoczê³a produkcjê zmodernizowanego AK-74 o oznaczeniu M. Poza kilkoma pomniejszymi usprawnieniami, karabin wyposa¿ono w now¹, sk³adan¹ kolbê wykonan¹ z poliamidu. AK-74M posiada równie¿ wzmocniony hamulec wylotowy i pokrywê komory zamkowej. Ka¿dy AK-74M wyposa¿ono boczn¹ szynê monta¿ow¹ do montowania pomocniczej optyki. Od roku 1991 AK-74M zosta³ wprowadzony do czynnej s³u¿by w armii rosyjskiej, jako broñ zasadnicza.\n \n
+		<text>W roku 1991 fabryka I¿masz rozpoczê³a produkcjê zmodernizowanego AK-74 o oznaczeniu M. Poza kilkoma pomniejszymi usprawnieniami, karabin wyposa¿ono w now¹, sk³adan¹ kolbê wykonan¹ z poliamidu. AK-74M posiada równie¿ wzmocniony hamulec wylotowy i pokrywê komory zamkowej. Ka¿dy AK-74M wyposa¿ono boczn¹ szynê monta¿ow¹ do montowania pomocniczej optyki. Od roku 1991 AK-74M zosta³ wprowadzony na wyposa¿enie armii rosyjskiej jako broñ zasadnicza.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] granatnik GP-25 (wymaga modyfikacji)\n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
@@ -271,7 +271,7 @@
 		<text>AK-74M PK-A</text>
 	</string>	
 	<string id="st_wpn_ak74m_pk-a_descr">	
-		<text>W roku 1991 fabryka I¿masz rozpoczê³a produkcjê zmodernizowanego AK-74 o oznaczeniu M. Poza kilkoma pomniejszymi usprawnieniami, karabin wyposa¿ono w now¹, sk³adan¹ kolbê wykonan¹ z poliamidu. AK-74M posiada równie¿ wzmocniony hamulec wylotowy i pokrywê komory zamkowej. Ka¿dy AK-74M wyposa¿ono boczn¹ szynê monta¿ow¹ do montowania pomocniczej optyki. Od roku 1991 AK-74M zosta³ wprowadzony do czynnej s³u¿by w armii rosyjskiej, jako broñ zasadnicza. Ten egzemplarz wyposa¿ono w celownik PK-A zainstalowany na mocowaniu MTK-83.\n \n
+		<text>W roku 1991 fabryka I¿masz rozpoczê³a produkcjê zmodernizowanego AK-74 o oznaczeniu M. Poza kilkoma pomniejszymi usprawnieniami, karabin wyposa¿ono w now¹, sk³adan¹ kolbê wykonan¹ z poliamidu. AK-74M posiada równie¿ wzmocniony hamulec wylotowy i pokrywê komory zamkowej. Ka¿dy AK-74M wyposa¿ono boczn¹ szynê monta¿ow¹ do montowania pomocniczej optyki. Od roku 1991 AK-74M zosta³ wprowadzony na wyposa¿enie armii rosyjskiej jako broñ zasadnicza. Ten egzemplarz wyposa¿ono w celownik PK-A zainstalowany na mocowaniu MTK-83.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] granatnik GP-25 (wymaga modyfikacji)\n
 		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PK-A\n
@@ -330,7 +330,7 @@
 		<text>AKMN</text>
 	</string>	
 	<string id="st_wpn_akm_descr">	
-		<text>AKM to karabin szturmowy kalibru 7.62x39mm. Jest to wersja rozwojowa karabinu AK-47 (litera M oznacza "Modernizowanyj") zaprojektowana przez Michai³a Ka³asznikowa w latach '50. Modernizacja polega³a na uproszczeniu konstrukcji i lepszym rozk³adzie masy. Wprowadzony do s³u¿by w Armii Czerwonej w roku 1959, AKM jest najbardziej powszechnym wariantem serii karabinów AK. Znalaz³ zastosowanie wœród krajów cz³onkowskich Traktatu Warszawskiego oraz sojuszniczych krajów na terenie Afryki i Azji. Produkcja karabinów AKM zosta³a rozpoczêta przez Fabrykê Broni Tu³a i I¿ewskie Zak³ady Mechaniczne.\n \n
+		<text>AKM to karabin szturmowy kalibru 7.62x39mm. Jest to wersja rozwojowa karabinu AK-47 (litera M oznacza "Modernizowanyj") zaprojektowana przez Michai³a Ka³asznikowa w latach '50. Modernizacja polega³a na uproszczeniu konstrukcji i lepszym rozk³adzie masy. Wprowadzony na wyposa¿enie Armii Czerwonej w roku 1959, AKM jest najbardziej powszechnym wariantem serii karabinów AK. Znalaz³ zastosowanie wœród krajów cz³onkowskich Traktatu Warszawskiego oraz sojuszniczych krajów na terenie Afryki i Azji. Produkcja karabinów AKM zosta³a rozpoczêta przez Fabrykê Broni Tu³a i I¿ewskie Zak³ady Mechaniczne.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] granatnik GP-25 (wymaga modyfikacji)\n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
@@ -397,7 +397,7 @@
 		<text>APS</text>
 	</string>	
 	<string id="st_wpn_aps_descr">	
-		<text>Automatyczny Pistolet Steczkina - APS to rosyjski pistolet maszynowy nosz¹cy imiê swojego konstruktora, Igora Steczkina. APS by³ oryginalnie zasilany nabojem kalibru 7.62x25mm Tokariew, po czym przekalibrowano go do 9x18mm u¿ywanego w nowym pistolecie Makarowa, po tym jak uznano, ¿e nabój ten stanie siê standardem amunicji pistoletowej w Armii Radzieckiej. W roku 1951, 'Steczkin' wraz z 'Makarowem' zosta³y wprowadzone do s³u¿by w Radzieckim arsenale, zastêpuj¹c starzej¹cy siê TT-33.\n \n
+		<text>Automatyczny Pistolet Steczkina - APS to rosyjski pistolet maszynowy nosz¹cy imiê swojego konstruktora, Igora Steczkina. APS by³ oryginalnie strzelaj¹cy nabojem kalibru 7.62x25mm Tokariew, po czym przekalibrowano go do 9x18mm u¿ywanego w nowym pistolecie Makarowa, po tym jak uznano, ¿e nabój ten stanie siê standardem amunicji pistoletowej w Armii Radzieckiej. W roku 1951, 'Steczkin' wraz z 'Makarowem' zosta³y wprowadzone do radzieckiego arsena³u zastêpuj¹c starzej¹cy siê TT-33.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik APS\n \n</text>
 	</string>	
@@ -412,7 +412,7 @@
 		<text>Steyr AUG A1 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_aug_descr">	
-		<text>Steyr AUG to karabin typu bullpup, zasilany nabojem kalibru 5.56mm. Zaprojektowany w latach '60 przez zak³¹dy Steyr Mannlicher GmbH &amp; Co KG (poprzednio znane jako Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr "uniwersalny karabin wojskowy") zosta³ wdro¿ony do Austriackiej Armii jako StG 77 (Sturmgewehr 77) w roku 1978, zastêpuj¹c StG 58 (FN FAL produkowany na licencji). W s³u¿bie od 1978 do chwili obecnej, jest standardow¹ broni¹ Austriackiej Bundeswehry i wielu jednostek policyjnych.\n \n
+		<text>Steyr AUG to karabin typu bullpup, strzelaj¹cy nabojem kalibru 5.56mm. Zaprojektowany w latach '60 przez zak³¹dy Steyr Mannlicher GmbH &amp; Co KG (poprzednio znane jako Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr "uniwersalny karabin wojskowy") zosta³ wdro¿ony do Austriackiej Armii jako StG 77 (Sturmgewehr 77) w roku 1978, zastêpuj¹c StG 58 (FN FAL produkowany na licencji). Na wyposa¿eniu od 1978 do chwili obecnej, jest standardow¹ broni¹ Austriackiej Bundeswehry i wielu jednostek policyjnych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
 		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta 1.5x\n \n</text>
@@ -427,7 +427,7 @@
 		<text>Steyr AUG A1 (wspó³czesny)</text>
 	</string>	
 	<string id="st_wpn_aug_modern_descr">	
-		<text>Steyr AUG to karabin typu bullpup, zasilany nabojem kalibru 5.56mm. Zaprojektowany w latach '60 przez zak³¹dy Steyr Mannlicher GmbH &amp; Co KG (poprzednio znane jako Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr "uniwersalny karabin wojskowy") zosta³ wdro¿ony do Austriackiej Armii jako StG 77 (Sturmgewehr 77) w roku 1978, zastêpuj¹c StG 58 (FN FAL produkowany na licencji). W s³u¿bie od 1978 do chwili obecnej, jest standardow¹ broni¹ Austriackiej Bundeswehry i wielu jednostek policyjnych.\n \n Ten konkretny egzemplarz zosta³ przekalibrowany pod nabój 7.62x51 NATO.\n \n
+		<text>Steyr AUG to karabin typu bullpup, strzelaj¹cy nabojem kalibru 5.56mm. Zaprojektowany w latach '60 przez zak³¹dy Steyr Mannlicher GmbH &amp; Co KG (poprzednio znane jako Steyr-Daimler-Puch). AUG (Armee-Universal-Gewehr "uniwersalny karabin wojskowy") zosta³ wdro¿ony do Austriackiej Armii jako StG 77 (Sturmgewehr 77) w roku 1978, zastêpuj¹c StG 58 (FN FAL produkowany na licencji). Na wyposa¿eniu od 1978 do chwili obecnej, jest standardow¹ broni¹ Austriackiej Bundeswehry i wielu jednostek policyjnych.\n \n Ten konkretny egzemplarz zosta³ przekalibrowany pod nabój 7.62x51 NATO.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
 		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta 1.5x\n \n</text>
@@ -446,7 +446,7 @@
 		<text>Beretta 92F (zakamuflowany)</text>
 	</string>	
 	<string id="st_wpn_beretta_descr">	
-		<text>92F to w³oski pistolet samopowtarzalny, najlepiej znany jako standardowy pistolet wojsk l¹dowych Stanów Zjednoczonych, nastêpca legendarnego M1911. Obs³ugiwany krótkim odrzutem, z ryglowanym zamkiem i aluminiow¹ konstrukcj¹ z twardo chromowanym gwintem lufy. Wdro¿ony do s³u¿by w wielu krajach, oraz popularny wœród kryminalistów, ze wzglêdu na wysok¹ si³ê ra¿enia i du¿¹ pojemnoœæ magazynka.\n \n
+		<text>92F to w³oski pistolet samopowtarzalny, najlepiej znany jako standardowy pistolet wojsk l¹dowych Stanów Zjednoczonych, nastêpca legendarnego M1911. Obs³ugiwany krótkim odrzutem, z ryglowanym zamkiem i aluminiow¹ konstrukcj¹ z twardo chromowanym gwintem lufy. Wdro¿ony na uzbrojenie s³u¿b w wielu krajach oraz popularny wœród kryminalistów, ze wzglêdu na wysok¹ si³ê ra¿enia i du¿¹ pojemnoœæ magazynka.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z 9x19 (wymaga modyfikacji)</text>
 	</string>	
@@ -468,7 +468,7 @@
 		<text>PP-19 Bizon</text>
 	</string>	
 	<string id="st_wpn_bizon_descr">	
-		<text>Rosyjski pistolet maszynowy kalibru 9x18mm Makarow. Zaprojetkowany w I¿ewsku, w s³awnej fabryce I¿masz we wczesnych latach '90. Wdro¿ony do s³u¿by w roku 1996 na potrzeby jednostek antyterrorystycznych. Niew¹tpliwie wzorowany na amerykañskim Calico M960, konstrukcja Bizona ³¹czy wysokiej pojemnoœci magazynek œlimakowy z bardziej konwencjonalnym uk³adem czêœci. Zbudowano go bowiem na bazie skróconej komory zamkowej karabinu AKS-74, wykonanej ze stali t³oczonej. Wyposa¿ony w prosty zamek swobodny, z kurkiem detonuj¹cym ³adunek z zamkniêtego rygla. Bizon jest posiada pó³automatyczny, zarówno jak i automatyczny tryb ognia, wraz z typowym dla AK bezpiecznkiem - dŸwigni¹ po prawej stronie komory zamkowej. Celownik zbli¿ony do AKS-74U, z os³onionym przednim s³upkiem i szczerbin¹ na krzywce.\n \n
+		<text>Rosyjski pistolet maszynowy kalibru 9x18mm Makarow. Zaprojetkowany w I¿ewsku, w s³awnej fabryce I¿masz we wczesnych latach '90. Wdro¿ony na wyposa¿enie jednostek antyterrorystycznych w 1996 roku. Niew¹tpliwie wzorowany na amerykañskim Calico M960, konstrukcja Bizona ³¹czy wysokiej pojemnoœci magazynek œlimakowy z bardziej konwencjonalnym uk³adem czêœci. Zbudowano go bowiem na bazie skróconej komory zamkowej karabinu AKS-74, wykonanej ze stali t³oczonej. Wyposa¿ony w prosty zamek swobodny, z kurkiem detonuj¹cym ³adunek z zamkniêtego rygla. Bizon jest posiada pó³automatyczny, zarówno jak i automatyczny tryb ognia, wraz z typowym dla AK bezpiecznkiem - dŸwigni¹ po prawej stronie komory zamkowej. Celownik zbli¿ony do AKS-74U, z os³onionym przednim s³upkiem i szczerbin¹ na krzywce.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
 		%c[d_purple] • %c[ui_gray_2] t³umik PBS-1\n \n</text>
@@ -490,7 +490,7 @@
 		<text>TOZ-66 (alternatywny)</text>
 	</string>	
 	<string id="st_wpn_bm16_full_descr">	
-		<text>Potê¿na broñ, na któr¹ staæ niemal ka¿dego stalkera. TOZ-66 to ³amana dubeltówka kurkowa produkowana przez Fabrykê Broni Tula. W Zonie znana jako efektywna i niezawodna broñ krótkiego zasiêgu. Jednak ze wzglêdu na swój rozmar i nieporêcznoœæ wielu stalkerów decyduje siê na wydanie swoich ciê¿ko zarobionych rubli na zakup wspó³czesnego pistoletu.\n \n</text>
+		<text>Potê¿na broñ, na któr¹ staæ niemal ka¿dego stalkera. TOZ-66 to ³amana dubeltówka kurkowa produkowana przez Fabrykê Broni Tula. W Zonie znana jako efektywna i niezawodna broñ krótkiego zasiêgu. Jednak ze wzglêdu na swój rozmiar i nieporêcznoœæ wielu stalkerów decyduje siê na wydanie swoich ciê¿ko zarobionych rubli na zakup wspó³czesnego pistoletu.\n \n</text>
 	</string>	
 	<string id="st_wpn_bm16_full_rusty">	
 		<text>TOZ-66 (zardzewia³y)</text>
@@ -522,7 +522,7 @@
 		<text>Colt M1911 (zakamuflowany)</text>
 	</string>	
 	<string id="st_wpn_colt1911_camo_descr">	
-		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednocznonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet zosta³ wdro¿ony do s³u¿by w wojsku, policji oraz u¿ytku cywilnego na ca³ym œwiecie, a jego poplarnoœæ wci¹¿ nie maleje. Ten unikalny model posiada ciemnobe¿ony kamufla¿ z czerwonymi akcentami.\n \n
+		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednoczonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet zosta³ wdro¿ony na wyposa¿enie wojsk, policji oraz u¿ytku cywilnego na ca³ym œwiecie, a jego popularnoœæ wci¹¿ nie maleje. Ten unikalny model posiada ciemnobe¿owy kamufla¿ z czerwonymi akcentami.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik .45 ACP (wymaga modyfikacji)</text>
 	</string>	
@@ -530,7 +530,7 @@
 		<text>Colt M1911 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_colt1911_descr">	
-		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednocznonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet zosta³ wdro¿ony do s³u¿by w wojsku, policji oraz u¿ytku cywilnego na ca³ym œwiecie, a jego poplarnoœæ wci¹¿ nie maleje.\n \n
+		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednoczonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet zosta³ wdro¿ony na wyposa¿enie wojsk, policji oraz u¿ytku cywilnego na ca³ym œwiecie, a jego popularnoœæ wci¹¿ nie maleje.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik .45 ACP (wymaga modyfikacji)</text>
 	</string>	
@@ -538,7 +538,7 @@
 		<text>Colt M1911 (Kamufla¿ Powinnoœci)</text>
 	</string>	
 	<string id="st_wpn_colt1911_duty_descr">	
-		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednocznonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet zosta³ wdro¿ony do s³u¿by w wojsku, policji oraz u¿ytku cywilnego na ca³ym œwiecie, a jego poplarnoœæ wci¹¿ nie maleje. Ten konkretny egzemplarz zosta³ zmodyfikowany w celu zwiêkszenia prêdkoœci wylotowej pocisku.\n \n
+		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednoczonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet trafi³ na wyposa¿enie wojska, policji oraz do u¿ytku cywilnego na ca³ym œwiecie, a jego popularnoœæ wci¹¿ nie maleje. Ten konkretny egzemplarz zosta³ zmodyfikowany w celu zwiêkszenia prêdkoœci wylotowej pocisku.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik .45 ACP (wymaga modyfikacji)</text>
 	</string>	
@@ -546,7 +546,7 @@
 		<text>Colt M1911 (Kamufla¿ Najemników)</text>
 	</string>	
 	<string id="st_wpn_colt1911_merc_descr">	
-		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednocznonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet zosta³ wdro¿ony do s³u¿by w wojsku, policji oraz u¿ytku cywilnego na ca³ym œwiecie, a jego poplarnoœæ wci¹¿ nie maleje. Ten konkrenty egzemplarz zosta³ zmodyfikowany w celu zwiêkszenia celnoœci.\n \n
+		<text>M1911 by³ standardow¹ broni¹ boczn¹ si³ zbrojnych Stanów Zjednoczonych od 1911 do 1985 roku. Ten wyj¹tkowo niezawodny i wytrzyma³y pistolet trafi³ na wyposa¿enie wojska, policji oraz do u¿ytku cywilnego na ca³ym œwiecie, a jego popularnoœæ wci¹¿ nie maleje. Ten konkretny egzemplarz zosta³ zmodyfikowany w celu zwiêkszenia celnoœci.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik .45 ACP (wymaga modyfikacji)</text>
 	</string>	
@@ -601,7 +601,7 @@
 		<text>Desert Eagle (wspó³czesny)</text>
 	</string>	
 	<string id="st_wpn_desert_eagle_nimble">	
-		<text>Desert Eagle "Steppe Eagle"</text>
+		<text>Desert Eagle "Orze³ Stepowy"</text>
 	</string>	
 	<string id="st_wpn_desert_eagle_nimble_descr">	
 		<text>Desert Eagle to niekonwencjonalny pistolet na amunicjê rewolwerow¹ opracowany w 1979 roku przez firmê Magnum Research Inc., a nastêpnie produkowany na licencji przez izrealski koncern IMI. Pistolet ten zosta³ opracowany jako specjalistyczna broñ do polowania na œredni¹ i du¿¹ zwierzynê, a tak¿e do strzelania na odleg³oœæ do piêædziesiêciu metrów. Ze wzglêdu na cenê, wagê i wymiary, a tak¿e fakt, ¿e w ka¿dym z powy¿szych parametrów mo¿na pomieœciæ dwa inne pistolety, broñ ta nie jest zbyt powszechna w Zonie. Ten egzemplarz trafi³ do Zony w posiadaniu stalkera zwanego Loganem Williamsem. Pod przykrywk¹ bycia fotografem magazynu TIME zdo³a³ w pojedynkê dotrzeæ do samego centrum Prypeci. Jego miejsce pobytu jest obecnie nieznane, ale kr¹¿¹ plotki, ¿e pracuje teraz jako broker informacji specjalizuj¹cy siê we wszelkich tematach zwi¹znych z Zon¹.\n \n
@@ -622,7 +622,7 @@
 		<text>FN F2000 (zmodyfikowany)</text>
 	</string>	
 	<string id="st_wpn_fn2000_descr">	
-		<text>FN F2000 to modu³owy system broni strzeleckiej produkowany od 2001 roku przez belgijsk¹ fabrykê broni FN Herstall. Jego podstawowa konfiguracja to karabin szturmowy typu bullpup zasilany nabojem kalibru 5,56x45mm NATO. F2000 ofreuje wszystkie zalety znane z popularnych wspó³czesnych karabinów, takie jak kompaktowoœæ, oburêcznoœæ i szeroki wybór modu³ów i dodatków. Do tej pory FN F2000 znalaz³ tylko kilku kupców, takich jak Si³y Zbrojne S³owenii, czy Belgijskie S³u¿by Specjalne.\n \n
+		<text>FN F2000 to modu³owy system broni strzeleckiej produkowany od 2001 roku przez belgijsk¹ fabrykê broni FN Herstall. Jego podstawowa konfiguracja to karabin szturmowy typu bullpup strzelaj¹cy nabojem kalibru 5,56x45mm NATO. F2000 ofreuje wszystkie zalety znane z popularnych wspó³czesnych karabinów, takie jak kompaktowoœæ, oburêcznoœæ i szeroki wybór modu³ów i dodatków. Do tej pory FN F2000 znalaz³ tylko kilku kupców, takich jak Si³y Zbrojne S³owenii, czy Belgijskie S³u¿by Specjalne.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta FN2000\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
@@ -631,7 +631,7 @@
 		<text>FN F2000 EOTech</text>
 	</string>	
 	<string id="st_wpn_fn2000_nimble_descr">	
-		<text>FN F2000 to modu³owy system broni strzeleckiej produkowany od 2001 roku przez belgijsk¹ fabrykê broni FN Herstall. Jego podstawowa konfiguracja to karabin szturmowy typu bullpup zasilany nabojem kalibru 5,56x45mm NATO. F2000 ofreuje wszystkie zalety znane z popularnych wspó³czesnych karabinów, takie jak kompaktowoœæ, oburêcznoœæ i szeroki wybór modu³ów i dodatków. Do tej pory FN F2000 znalaz³ tylko kilku kupców, takich jak Si³y Zbrojne S³owenii, czy Belgijskie S³u¿by Specjalne. Ten konkretny egzamplarz posiada zintegrowany celownik EOTech, który poprawia wygodê podczas walki w przestrzeniach zamkniêtych kosztem ogólnej celnoœci. Zwiêkszono w nim tak¿e szybkostrzelnoœæ.\n \n
+		<text>FN F2000 to modu³owy system broni strzeleckiej produkowany od 2001 roku przez belgijsk¹ fabrykê broni FN Herstall. Jego podstawowa konfiguracja to karabin szturmowy typu bullpup strzelaj¹cy nabojem kalibru 5,56x45mm NATO. F2000 ofreuje wszystkie zalety znane z popularnych wspó³czesnych karabinów, takie jak kompaktowoœæ, oburêcznoœæ i szeroki wybór modu³ów i dodatków. Do tej pory FN F2000 znalaz³ tylko kilku kupców, takich jak Si³y Zbrojne S³owenii, czy Belgijskie S³u¿by Specjalne. Ten konkretny egzamplarz posiada zintegrowany celownik EOTech, który poprawia wygodê podczas walki w przestrzeniach zamkniêtych kosztem ogólnej celnoœci. Zwiêkszono w nim tak¿e szybkostrzelnoœæ.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
@@ -709,7 +709,7 @@
 		<text>G3A3</text>
 	</string>	
 	<string id="st_wpn_g3_descr">	
-		<text>G3A3 to niemiecki karabin automatyczny produkowany od 1959 roku przez Heckler &amp; Koch GmbH w kolaboracji z Hiszapñsk¹ agencj¹ CETME (Centro de Estudios Tecnicos de Materiales Especiales). Zasilany nabojem 7.62x51mm NATO, jest broni¹ samoczynno-samopowtarzaln¹ dzia³aj¹c¹ na zasadzie odrzutu zamka pó³swobodnego, hamowanego ³o¿yskami. Zosta³ przyjêty do s³u¿by w niemieckiej Bundeswehrze w 1959 roku i pozosta³ w niej do roku 1995, gdy jego miejsce zaj¹³ G36. Pomimo oficjalnego wycofania ze s³u¿by w Bundeswehrze nadal pozostaje w czêœciowym u¿ytku.\n \n
+		<text>G3A3 to niemiecki karabin automatyczny produkowany od 1959 roku przez Heckler &amp; Koch GmbH w kolaboracji z Hiszapñsk¹ agencj¹ CETME (Centro de Estudios Tecnicos de Materiales Especiales). Strzelaj¹cy nabojem 7.62x51mm NATO, jest broni¹ samoczynno-samopowtarzaln¹ dzia³aj¹c¹ na zasadzie odrzutu zamka pó³swobodnego, hamowanego ³o¿yskami. Trafi³ na wyposa¿enie niemieckiej Bundeswehry w 1959 roku i pozosta³ w niej do roku 1995, gdy jego miejsce zaj¹³ G36. Pomimo oficjalnego wycofania z wyposa¿enia Bundeswehry nadal pozostaje w czêœciowym u¿ytku.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
@@ -722,7 +722,7 @@
 		<text>G36</text>
 	</string>	
 	<string id="st_wpn_g36_descr">	
-		<text>G36 to niemiecki karabin automatyczny produkowany przez Heckler &amp; Koch GmbH. Po anulowaniu projektów G11 i G41 w 1986 roku ze wzglêdu na problemy techniczne i logistyczne, niemiecka Bundeswehra pozosta³a z wys³u¿onymi ju¿ karabinami G3. Pora¿ka projektu G11 i zbyt wysoki koszt G41 doprowadzi³y H&K do bankructwa, a nastêpnie wykupienia przez koncern British Aerospace. Pozwoli³o to na rozpoczêcie prac nad nowym karabinem kalibru 5,56x45mm o nazwie fabrycznej HK50. Tym razem u¿yto tañszych tworzyw sztucznych zachowuj¹c jednoczeœnie zalety poprzednich konstrukcji. Dzia³anie HK50 opiera siê na t³oku gazowym o krótkim skoku. Wystrza³ odbywa siê w zamkniêtym zamku ryglowanym przez obrót. Do s³u¿by w Bundeswehrze wprowadzono go w 1995 roku. Znalaz³ siê on równie¿ na wyposa¿eniu wielu zagranicznych jednostek, takich jak brytyjska policja i niektóre amerykañskie jednostki policji. Jak dot¹d nie zg³aszano ¿adnych powa¿nych awarii. Jedyne odnotowane mankamenty to przegrzewaj¹ce siê przy ogniu ci¹³g³ym uchwyty i utrata kalibracji w lunetach wbudowanych w karabiny G36KE. Niektórzy neimieccy ¿o³nierze zg³aszali równie¿ problem z paruj¹cymi szk³ami celowników optycznych w z³ych warunkach pogodowych. Poza wspomnianymi wadami jest to celna, niezawodna i ³atwa w serwisowaniu broñ.\n \n
+		<text>G36 to niemiecki karabin automatyczny produkowany przez Heckler &amp; Koch GmbH. Po anulowaniu projektów G11 i G41 w 1986 roku ze wzglêdu na problemy techniczne i logistyczne, niemiecka Bundeswehra pozosta³a z wys³u¿onymi ju¿ karabinami G3. Pora¿ka projektu G11 i zbyt wysoki koszt G41 doprowadzi³y H&K do bankructwa, a nastêpnie wykupienia przez koncern British Aerospace. Pozwoli³o to na rozpoczêcie prac nad nowym karabinem kalibru 5,56x45mm o nazwie fabrycznej HK50. Tym razem u¿yto tañszych tworzyw sztucznych zachowuj¹c jednoczeœnie zalety poprzednich konstrukcji. Dzia³anie HK50 opiera siê na t³oku gazowym o krótkim skoku. Wystrza³ odbywa siê w zamkniêtym zamku ryglowanym przez obrót. Wprowadzono go na wyposa¿enie Bundeswehry w 1995 roku. Znalaz³ siê on równie¿ na wyposa¿eniu wielu zagranicznych jednostek, takich jak brytyjska policja i niektóre amerykañskie jednostki policji. Jak dot¹d nie zg³aszano ¿adnych powa¿nych awarii. Jedyne odnotowane mankamenty to przegrzewaj¹ce siê przy ogniu ci¹³g³ym uchwyty i utrata kalibracji w lunetach wbudowanych w karabiny G36KE. Niektórzy neimieccy ¿o³nierze zg³aszali równie¿ problem z paruj¹cymi szk³ami celowników optycznych w z³ych warunkach pogodowych. Poza wspomnianymi wadami jest to celna, niezawodna i ³atwa w serwisowaniu broñ.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
 	</string>	
@@ -767,7 +767,7 @@
 		<text>Karabiner 43</text>
 	</string>	
 	<string id="st_wpn_g43_descr">	
-		<text>Gewehr 43, lub Karabiner 43 to niemiecki karabin samopowtarzalny z okresu II wojny œwiatowej. Zaprojektowano go we wczesnych latach '40 w oparciu na obserwacjach przeprowadzonych na zdobycznych radzieckich karabinach SWT. Wyposa¿ony w lunetê ZF-4 o powiêkszeniu 4x.\n \n
+		<text>Gewehr 43 lub Karabiner 43 to niemiecki karabin samopowtarzalny z okresu II wojny œwiatowej. Zaprojektowano go we wczesnych latach '40 w oparciu na obserwacjach przeprowadzonych na zdobycznych radzieckich karabinach SWT. Wyposa¿ony w lunetê ZF-4 o powiêkszeniu 4x.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta ZF-4\n \n</text>
 	</string>	
@@ -776,7 +776,7 @@
 		<text>FAMAS F3</text>		
 	</string>		
 	<string id="st_wpn_famas3_descr">		
-		<text>FAMAS (Fusil d'Assaut de la Manufacture d'Armes de St-Etienne) to francuski karabin szturmowy zaprojektowany przez firmê zbrojeniow¹ Saint-Étienne. Prace nad karabinem rozpoczêto w roku 1967. Jej autorem jest projektant Paul Tellie. Nowy karabin mia³ zast¹piæ starzej¹ce siê karabiny MAS Modéle 49/56, pistolety maszynowe MAT-49 i karabiny maszynowe MAC Mle.1929. Pierwszy prototyp FAMAS-a zbudowano w 1971 roku. Rok póŸniej dopuszczono go do testów w Armii Francuskiej. W miêdzyczasie Francja przyjê³a tymczasowo do s³u¿by szwajcarski karabin szturmowy SIG SG-540 5.56mm. FAMAS wszed³ do s³u¿by w 1978 roku i od tamtego czasu jest standardowym karabinem Armi Francuskiej, znany wœród ¿o³nierzy jako "Le Clairon" (tr¹bka).\n \n		
+		<text>FAMAS (Fusil d'Assaut de la Manufacture d'Armes de St-Etienne) to francuski karabin szturmowy zaprojektowany przez firmê zbrojeniow¹ Saint-Étienne. Prace nad karabinem rozpoczêto w roku 1967. Jej autorem jest projektant Paul Tellie. Nowy karabin mia³ zast¹piæ starzej¹ce siê karabiny MAS Modéle 49/56, pistolety maszynowe MAT-49 i karabiny maszynowe MAC Mle.1929. Pierwszy prototyp FAMAS-a zbudowano w 1971 roku. Rok póŸniej dopuszczono go do testów w Armii Francuskiej. W miêdzyczasie Francja przyjê³a tymczasowo na wyposa¿enie armii szwajcarski karabin szturmowy SIG SG-540 5.56mm. FAMAS zast¹pi³ go w 1978 roku i od tamtego czasu jest standardowym karabinem Armi Francuskiej, znany wœród ¿o³nierzy jako "Le Clairon" (tr¹bka).\n \n		
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n 
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
@@ -789,7 +789,7 @@
 		<text>Galil AR (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_galil_descr">	
-		<text>Izraelski karabin szturmowy IMI Galil. Kontrukcja bazuje na Fiñskim RK 62, który z kolei wywodzi siê od radzieckiego AK-47. Galil wyró¿nia siê niezawodnoœci¹ w warunkach bojowych oraz ³atwoœci¹ konserwacji. Zaprojektowano go z myœl¹ o s³u¿bie w trudnym, suchym klimacie. Istniej¹ warianty zasilane amunicj¹ kalibru 5.56x45mm oraz 7.62x51mm.\n \n
+		<text>Izraelski karabin szturmowy IMI Galil. Konstrukcja bazuje na Fiñskim RK 62, który z kolei wywodzi siê od radzieckiego AK-47. Galil wyró¿nia siê niezawodnoœci¹ w warunkach bojowych oraz ³atwoœci¹ konserwacji. Zaprojektowano go z myœl¹ o s³u¿bie w trudnym, suchym klimacie. Istniej¹ warianty strzelaj¹ce amunicj¹ kalibru 5.56x45mm oraz 7.62x51mm.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik PBS-1 \n
 		%c[d_purple] • %c[ui_gray_2] luneta Galil 4x (wymaga modyfikacji)\n \n</text>
@@ -805,7 +805,7 @@
 		<text>Karabin Gaussa</text>
 	</string>	
 	<string id="st_wpn_gauss_descr">	
-		<text>Karabin Gaussa to eksperymentalna, supercelna broñ zasilana energi¹ artefaktów grawitacyjnych stworzona w sekrecie przez nieznanego projektanta na terenie Zony. Wystrza³ jest niemal nies³yszalny, ze wzglêdu na brak jakiejkolwiek detoancji. Zamiast tego pocisk jest wprawiany w ruch za pomoc¹ supersilnych magnesów. Pomimo niezrównanej z ¿adn¹ inna broni¹ si³y ra¿enia odrzut jest ledwo odczuwalny.\n \n
+		<text>Karabin Gaussa to eksperymentalna, supercelna broñ zasilana energi¹ artefaktów grawitacyjnych stworzona w sekrecie przez nieznanego projektanta na terenie Zony. Wystrza³ jest niemal nies³yszalny, ze wzglêdu na brak jakiejkolwiek detonacji. Zamiast tego pocisk jest wprawiany w ruch za pomoc¹ niezwykle silnych magnesów. Pomimo niezrównanej z ¿adn¹ inna broni¹ si³y ra¿enia odrzut jest ledwo odczuwalny.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] Enhanced 4x scope (integrated)</text>
 	</string>	
@@ -817,7 +817,7 @@
 		<text>Glock 19 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_glock_descr">	
-		<text>Glock 19 to pomniejszona wersja Glocka 17. Mniejsze gabaryty sprawiaj¹, ¿e  Glock 19 jest bardziej porêczny i ³atwiejszy w ukryciu. Pistolet ten zadebiutowa³ w 1988 roku w Austrii. Glock 19 zachowa³ masê zamka wzglêdem popzednika. Pozwoli³o to na zachowanie w³aœciwoœci odpowiednich do prawid³owego funkcjonowania operacji krótkim odrzutem, skracaj¹c tym samym d³ugoœæ uchwytu i lufy. Oba pistolety maj¹ wiele wspólnych komponentów, w³¹cznie z magazynkiem. \n \n
+		<text>Glock 19 to pomniejszona wersja Glocka 17. Mniejsze gabaryty sprawiaj¹, ¿e  Glock 19 jest bardziej porêczny i ³atwiejszy w ukryciu. Pistolet ten zadebiutowa³ w 1988 roku w Austrii. Glock 19 zachowa³ masê zamka wzglêdem poprzednika. Pozwoli³o to na zachowanie w³aœciwoœci odpowiednich do prawid³owego funkcjonowania operacji krótkim odrzutem, skracaj¹c tym samym d³ugoœæ uchwytu i lufy. Oba pistolety maj¹ wiele wspólnych komponentów, w³¹cznie z magazynkiem. \n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik GemTech (wymaga modyfikacji)</text>
 	</string>	
@@ -825,7 +825,7 @@
 		<text>Glock 19 (alternatywny)</text>
 	</string>	
 	<string id="st_wpn_glock_modern_descr">	
-		<text>Glock 19 to pomniejszona wersja Glocka 17. Mniejsze gabaryty sprawiaj¹, ¿e  Glock 19 jest bardziej porêczny i ³atwiejszy w ukryciu. Pistolet ten zadebiutowa³ w 1988 roku w Austrii. Glock 19 zachowa³ masê zamka wzglêdem popzednika. Pozwoli³o to na zachowanie w³aœciwoœci odpowiednich do prawid³owego funkcjonowania operacji krótkim odrzutem, skracaj¹c tym samym d³ugoœæ uchwytu i lufy. Oba pistolety maj¹ wiele wspólnych komponentów, w³¹cznie z magazynkiem. Ten egzemplarz posiada dodatkowy tryb ognia ci¹g³ego.\n \n
+		<text>Glock 19 to pomniejszona wersja Glocka 17. Mniejsze gabaryty sprawiaj¹, ¿e  Glock 19 jest bardziej porêczny i ³atwiejszy w ukryciu. Pistolet ten zadebiutowa³ w 1988 roku w Austrii. Glock 19 zachowa³ masê zamka wzglêdem poprzednika. Pozwoli³o to na zachowanie w³aœciwoœci odpowiednich do prawid³owego funkcjonowania operacji krótkim odrzutem, skracaj¹c tym samym d³ugoœæ uchwytu i lufy. Oba pistolety maj¹ wiele wspólnych komponentów, w³¹cznie z magazynkiem. Ten egzemplarz posiada dodatkowy tryb ognia ci¹g³ego.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik GemTech (wymaga modyfikacji)</text>
 	</string>	
@@ -837,7 +837,7 @@
 		<text>MP-443 Gawron</text>
 	</string>	
 	<string id="st_wpn_grach_descr">	
-		<text>MP-443 to produkowany przez I¿ewskie Zak³ady Mechaniczne rosyjski pistolet samopowtarzalny dzia³aj¹cy na zasadzie krótkiego odrzutu lufy. Do testów zg³oszono kilka konstrukcji, sporœród których wygra³ projekt W³adimira Jarygina. W 1993 roku Armia Rosyjska og³osi³a konkurs na nowy pistolet s³u¿bowy. Do testów zg³oszono kilka konstrukcji, sporœród których wygra³ projekt W³adimira Jarygina, który otrzyma³ póŸniej nazwê kodow¹ "Gawron" (ros. ???? / Grach). Wstêpnie oznaczony w indeksie wojskowym jako 6P35, oraz jako MP-443 "Gawron" przez projektanta, zosta³ wprowadzony do s³u¿by w rosyjskiej armii i s³u¿bach porz¹dkowych jako Pistolet Jarygina (PJa).</text>	</string>	
+		<text>MP-443 to produkowany przez I¿ewskie Zak³ady Mechaniczne rosyjski pistolet samopowtarzalny dzia³aj¹cy na zasadzie krótkiego odrzutu lufy. W 1993 roku Armia Rosyjska og³osi³a konkurs na nowy pistolet s³u¿bowy. Do testów zg³oszono kilka konstrukcji, spoœród których wygra³ projekt W³adimira Jarygina, który otrzyma³ póŸniej nazwê kodow¹ "Gawron" (ros. Grach). Wstêpnie oznaczony w indeksie wojskowym jako 6P35 oraz jako MP-443 "Gawron" przez projektanta, trafi³ na wyposa¿enie rosyjskiej armii i s³u¿b porz¹dkowych jako Pistolet Jarygina (PJa).</text>	</string>	
 	<string id="st_wpn_grach_worn">	
 		<text>MP-443 Gawron (u¿ywany)</text>
 	</string>	
@@ -846,7 +846,7 @@
 		<text>OC-14 Groza</text>
 	</string>	
 	<string id="st_wpn_groza_descr">	
-		<text>OC-14 "Groza" ("Burza") to modularny karabn szturmowy typu bullpup, zasilany nabojem kalibru 9x39mm. Rozwijany we wczesnych latach '90 przez Centralne Biuro Projektowo-Badawcze Broni Sportowej i Myœliwskiej w Tule. Jego przeznaczenie to wszelkiego rodzaju oddzia³y si³ specjalnych Armii Rosyjskiej oraz rosyjskiego MSW, jako broñ do walki w przestrzeniach miejskich. Niewielkie iloœci OC-14 wyprodukowane w latach '90 zosta³y u¿yte w trakcie II Wojny w Czeczeni. Krótko po tym zaprzestano produkcji. Konstrukcja pozwala na zdemontowanie przedniego uchwytu i wymianê na 40-milimetrowy granatnik. OC-14-4A, którego przyjêto do s³u¿by w Specnazie i wojskach frontowych posiada cztery ró¿ne konfiguracje, które mo¿na zmieniaæ w zale¿noœci od misji. Ten egzemplarz posiada granatnik GP-25. \n \n
+		<text>OC-14 "Groza" ("Burza") to modularny karabin szturmowy typu bullpup, strzelaj¹cy nabojem kalibru 9x39mm. Rozwijany we wczesnych latach '90 przez Centralne Biuro Projektowo-Badawcze Broni Sportowej i Myœliwskiej Tu³a. Jego przeznaczenie to wszelkiego rodzaju oddzia³y si³ specjalnych Armii Rosyjskiej oraz rosyjskiego MSW, jako broñ do walki w przestrzeniach miejskich. Niewielkie iloœci OC-14 wyprodukowane w latach '90 zosta³y u¿yte w trakcie II Wojny w Czeczeni. Krótko po tym zaprzestano produkcji. Konstrukcja pozwala na zdemontowanie przedniego uchwytu i wymianê na 40-milimetrowy granatnik. OC-14-4A, którego wprowadzono na wyposa¿enie Specnazu i wojsk frontowych posiada cztery ró¿ne konfiguracje, które mo¿na zmieniaæ w zale¿noœci od misji. Ten egzemplarz posiada granatnik GP-25. \n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] luneta PO 4x34\n
 		%c[d_purple] • %c[ui_gray_2] zintegrowany granatnik GP-25\n \n</text>
@@ -855,7 +855,7 @@
 		<text>OC-14-1A Groza-1</text>
 	</string>	
 	<string id="st_wpn_groza_nimble_descr">	
-		<text>OC-14-1A to wariant modularnego karabinu "Groza" zasilany nabojem kalibru 7.62x39mm. Szybkostrzelnoœæ, stabilnoœæ pocisku i pojemnoœæ magazynka zosta³y zwiêkszone dziêki u¿yciu l¿ejszego rodzaju amunicji. Grozê-1 produkowano w niewielkich iloœciach.\n \n
+		<text>OC-14-1A to wariant modularnego karabinu "Groza" strzelaj¹cy nabojem kalibru 7.62x39mm. Szybkostrzelnoœæ, stabilnoœæ pocisku i pojemnoœæ magazynka zosta³y zwiêkszone dziêki u¿yciu l¿ejszego rodzaju amunicji. Grozê-1 produkowano w niewielkich iloœciach.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] luneta PO4x34\n
 		%c[d_purple] • %c[ui_gray_2] zintegrowany granatnik GP-25\n \n</text>
@@ -877,7 +877,7 @@
 		<text>HK416</text>
 	</string>	
 	<string id="st_wpn_hk416_descr">	
-		<text>HK416 to karabin zaprojektowany i produkowany przez Heckler &amp; Koch jako rozwiniêcie karabinu M4. Jest dostêpny jako kompletny karabin, lub jako górna komora zamkowa kompatybilna z jak¹kolwiek doln¹ komor¹ karabinu typu AR-15. W testach zwi¹zanych z jego produkcj¹ uczestniczy³y amerykañskie oddzia³y Delta Force. Zauwa¿ono wtedy, ¿e system oparty na t³okach znacznie zmniejsza liczbê usterek oraz zwiêksza ¿ywotnoœæ podzespo³ów. Projekt otrzyma³ oznaczenie H&amp;K M4, który zmieniono ze wzglêdu na z³o¿ony przez Colt Defence pozew o naruszenie praw autorskich. Obecnie jest dostêpny jedynie dla s³u¿b rz¹dowych poszczególnych pañstw oraz organizacjmi militarnych.\n \n
+		<text>HK416 to karabin zaprojektowany i produkowany przez Heckler &amp; Koch jako rozwiniêcie karabinu M4. Jest dostêpny jako kompletny karabin lub jako górna komora zamkowa kompatybilna z jak¹kolwiek doln¹ komor¹ karabinu typu AR-15. W testach zwi¹zanych z jego produkcj¹ uczestniczy³y amerykañskie oddzia³y Delta Force. Zauwa¿ono wtedy, ¿e system oparty na t³okach znacznie zmniejsza liczbê usterek oraz zwiêksza ¿ywotnoœæ podzespo³ów. Projekt otrzyma³ oznaczenie H&amp;K M4, który zmieniono ze wzglêdu na z³o¿ony przez Colt Defence pozew o naruszenie praw autorskich. Obecnie jest dostêpny jedynie dla s³u¿b rz¹dowych poszczególnych pañstw oraz organizacji militarnych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
@@ -891,7 +891,7 @@
 		<text>Browning Hi-Power (alternatywny)</text>
 	</string>	
 	<string id="st_wpn_hpsa_descr">	
-		<text>Browning Hi-Power to pistolet kalibru 9mm ze spustem jednooporowym. Jego konstrukcja bazuje na pomys³ach amerykañskiego wynalazcy Johna Browninga. Zosta³ stworzony i opantentowany w roku 1922, nastêpnie patent przej¹³ FN Herstal. Browning zmar³ w roku 1926, przed ukoñczeniem prac nad wersj¹ produkcyjn¹, jednak Dieudonne Saive - projektant z FN - zdo³a³ dokoñczyæ projekt. Hi-Power odnzacza³ siê swoj¹ pojemnoœci¹ magazynka, która wynosi³a 13 nabojów - dwa razy wiêcej, ni¿ inne ówczesne konstrukcje, takie jak Luger, czy Mauser 1910. Ten zmodyfikowany wariant Browninga HP wci¹¿ cieszy siê popularnoœci¹ na ca³ym œwiecie.\n \n
+		<text>Browning Hi-Power to pistolet kalibru 9mm ze spustem jednooporowym. Jego konstrukcja bazuje na pomys³ach amerykañskiego wynalazcy Johna Browninga. Zosta³ stworzony i opatentowany w roku 1922, nastêpnie patent przej¹³ FN Herstal. Browning zmar³ w roku 1926, przed ukoñczeniem prac nad wersj¹ produkcyjn¹, jednak Dieudonne Saive - projektant z FN - zdo³a³ dokoñczyæ projekt. Hi-Power odznacza³ siê swoj¹ pojemnoœci¹ magazynka, która wynosi³a 13 nabojów - dwa razy wiêcej, ni¿ inne ówczesne konstrukcje, takie jak Luger, czy Mauser 1910. Ten zmodyfikowany wariant Browninga HP wci¹¿ cieszy siê popularnoœci¹ na ca³ym œwiecie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 9x19 (wymaga modyfikacji)</text>
 	</string>	
@@ -972,7 +972,7 @@
 		<text>L96A1</text>
 	</string>	
 	<string id="st_wpn_l96a1_descr">	
-		<text>Accuracy International Arctic Warfare to karabin wyborowy zaprojektowany przez brytyjsk¹ firmê Accuracy International. Od czasu wprowadzenia w latach '80 zyska³ du¿¹ popularnoœæ wœród cywili, policji i wojska. Konstrukcjê przystosowano do dzia³ania w bardzo niskich temperaturach, zachowuj¹c jednoczeœnie dobre w³aœciwoœci u¿ytkowe w mniej ekstremalnych warnukach.\n \n
+		<text>Accuracy International Arctic Warfare to karabin wyborowy zaprojektowany przez brytyjsk¹ firmê Accuracy International. Od czasu wprowadzenia w latach '80 zyska³ du¿¹ popularnoœæ wœród cywili, policji i wojska. Konstrukcjê przystosowano do dzia³ania w bardzo niskich temperaturach, zachowuj¹c jednoczeœnie dobre w³aœciwoœci u¿ytkowe w mniej ekstremalnych warunkach.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta Leupold Mark 4\n \n</text>
 	</string>	
@@ -984,7 +984,7 @@
 		<text>L96 AWSM</text>
 	</string>	
 	<string id="st_wpn_l96a1m_descr">	
-		<text>Accuracy International Arctic Warfare to karabin wyborowy zaprojektowany przez brytyjsk¹ firmê Accuracy International. Od czasu wprowadzenia w latach '80 zyska³ du¿¹ popularnoœæ wœród cywili, policji i wojska. Konstrukcjê przystosowano do dzia³ania w bardzo niskich temperaturach, zachowuj¹c jednoczeœnie dobre w³aœciwoœci u¿ytkowe w mniej ekstremalnych warnukach. Wersja AWSM jest zasilana nabojem .338 Lapua Magnum.\n \n
+		<text>Accuracy International Arctic Warfare to karabin wyborowy zaprojektowany przez brytyjsk¹ firmê Accuracy International. Od czasu wprowadzenia w latach '80 zyska³ du¿¹ popularnoœæ wœród cywili, policji i wojska. Konstrukcjê przystosowano do dzia³ania w bardzo niskich temperaturach, zachowuj¹c jednoczeœnie dobre w³aœciwoœci u¿ytkowe w mniej ekstremalnych warunkach. Wersja AWSM strzela nabojem .338 Lapua Magnum.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta Leupold Mark 4\n \n</text>
 	</string>	
@@ -1002,7 +1002,7 @@
 		<text>Zaprojektowany na bazie karabinu AR-15, LR-300 to wyœmienity system broni przystosowany do zastosowañ wojskowych, w walce na krótkich dystansach. Posiada sk³adan¹ kolbê szkieletow¹ poprawiaj¹c¹ ergonomiê podczas szybkich szturmów wymagaj¹cych czêsto porêcznej i kompaktowej borni oraz selektywnego trybu ostrza³u. Œwietne w³aœciwoœci ergonomiczne i niska waga czyni¹ go niezwykle celn¹, lecz podatn¹ na zabrudzenia broni¹.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] optyka ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_lr300_rusty">	
@@ -1011,8 +1011,8 @@
 	<string id="st_wpn_lr300_rusty_descr">	
 		<text>Based on the AR-15, the LR 300 is an excellent weapon system suitable for military use in close quarters battle. Its folding skeletal stock makes it ideal for aggressive and rapid building entries requiring a compact yet powerful selective fire weapon. With excellent ergonomics and lightweight, this weapon is highly accurate but it is sensitive to dirt and is not ideal for difficult field conditions. This model is covered in rust, making it even less reliable in the harsh conditions of the Zone.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n%c[d_red] • %c[d_red] mounting suppressor is not possible\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] granatnik M203 \n \n</text>
 	</string>	
 	<string id="st_wpn_lr300_worn">	
 		<text>LR-300ML (u¿ywany)</text>
@@ -1022,11 +1022,11 @@
 		<text>M16A4</text>
 	</string>	
 	<string id="st_wpn_m16_descr">	
-		<text>The M16 is the U.S. military designation for a family of rifles derived from the ArmaLite AR-15 and further developed by Colt starting in the 1960s. The M16 rifle family including the M16/A1/A2/A3/A4 has been the primary infantry rifle of the United States military since the 1960s. With its variants, it has been in use by 15 NATO countries, and is the most produced firearm in its calibre. The M16 is a lightweight, 5.56x45mm calibre, air cooled, gas operated, magazine fed assault rifle, with a rotating bolt, actuated by direct impingement gas operation. The rifle is made of steel, aluminium, and composite plastics.\n \n
+		<text>M16 to wojskowe oznaczenie serii amerykañskich karabinów zbudowanych na bazie ArmaLite AR-15, a nastêpnie rozwiniêtych przez zak³ady Colt w latach '60. Od tamtego czasu seria karabinów M16 generacji A1/A2/A3/A4 sta³a siê podstawowym karabinem Armii Stanów Zjednoczonych. Bêd¹c najczêœciej produkowan¹ broni¹ tego kalibru, M16 mo¿na spotkaæ na wyposa¿eniu 15 krajów cz³onkowskich NATO, w wielu konfiguracjach. M16 to lekki karabin szturmowy kalibru 5.56x45mm. To ch³odzona powietrzem konstrukcja z obrotowym zamkiem, napêdzanym bezpoœrednim uderzeniem gazu wylotowego. Do produkcji u¿yto stali, aluminium i tworzyw kompozytowych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_m16_worn">	
 		<text>M16A4 (u¿ywany)</text>
@@ -1036,9 +1036,9 @@
 		<text>M16A2</text>
 	</string>	
 	<string id="st_wpn_m16a2_descr">	
-		<text>The M16A2 rifle entered service in the 1980s, chambered to fire the standard NATO round, the Belgian designed M855/M856 cartridge. The M16A2 is a select fire rifle, incorporating design elements requested by the Marine Corps: an adjustable, windage rear sight, longer stock, heavier barrel, case deflector for left-hand shooters and cylindrical hand guards. The M16A2 is manufactured by Colt and the Fabrique Nationale de Herstal arms company, with the variant rifles made elsewhere in the world.\n \n
+		<text>Karabin M16A2 wprowadzono na wyposa¿enie armii w latach '80. Strzela standardowym dla NATO, Belgijskim nabojem M855/M856. M16A2 to karabin szturmowy z selektywnym trybem ostrza³u, wzbogacony nastêpuj¹cymi elementami na wniosek Amerykañskich Marines: regulowanym tylnym celownikiem, d³u¿sz¹ kolba, ciê¿sz¹ luf¹, deflektorem ³usek dla leworêcznych strzelców oraz cylindrycznymi ³o¿ami lufy. M16A2 jest produkowany przez zak³ady Colt oraz FN Herstal.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
 	</string>	
 		
@@ -1046,29 +1046,29 @@
 		<text>M24 SWS "Zielony Smok"</text>
 	</string>	
 	<string id="st_wpn_m24_descr">	
-		<text>A sniper rifle of the US Army, the M24 Sniper Weapon System (SWS) is based on the Remington 700. Fitted with a Leupold 10x40mm scope, the M24 has a stainless steel barrel and an adjustable composite stock made from Kevlar and graphite.\n \n
+		<text>M24 SWS to amerykañski powtarzalny karabin wyborowy. Stanowi podstawowy element wyposa¿enia strzelca wyborowego US Army. M24 SWS (Sniper Weapon System) to konstrukcja bazuj¹ca Remingtonie 700. Posiada lunetê Leupold 10x40mm, lufê ze stali nierdzewnej oraz regulowan¹ kolbê wykonan¹ z kevlaru i grafitu.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] M24 sniper scope (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta M24\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_m249">	
 		<text>M249 SAW</text>
 	</string>	
 	<string id="st_wpn_m249_descr">	
-		<text>The M249 is a belt fed 5.56x45 machine gun. It is the American adaptation of the Belgian FN Minimi. The M249 has seen action in every major conflict involving the United States since the U.S. invasion of Panama in 1989. Soldiers are generally satisfied with the weapon's performance, though there have been reports of clogging with dirt and sand.\n \n
+		<text>M249 SAW (Squad Automatic Weapon) to rêczny karabin maszynowy kalibru 5.56x45. Stanowi Amerykañsk¹ odmianê belgijskego FN Minimi. M249 by³ u¿yty w akcji w wiêkszoœci znanych konfliktów od czasu Amerykañksiej inwazji na Panamê w 1989 roku. Posiada pozytywn¹ opiniê wœród ¿o³nierzy, jednak pojawia³y siê doniesienia odnoœnie zaciêæ wywo³anych zabrudzeniami ziemi¹ i piaskiem.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka ACOG, Barska ES AC10632, EOTech\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_m4">	
 		<text>M4A1 RAS</text>
 	</string>	
 	<string id="st_wpn_m4_descr">	
-		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO amunicja and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
+		<text>Karabinek M4 wywodzi siê z serii broni palnej maj¹cej swoje pocz¹tki wœród wczesnych karabinków bazuj¹cych na M16, z czego wszystkie wywodz¹ siê od ArmaLite AR-15. To krótsza i l¿ejsza wersja karabinu szturmowego M16, wspóldziel¹ca z nim 80% swoich podzespo³ów. Posiada zasilan¹ gazowo, ch³odzon¹ powietrzem kontrukcjê, slektywny tryb ostrza³u oraz teleskopow¹, czterostopniow¹ kolbê. Jak w przypadku wiêkszoœci karabinków, M4 jest porêczniejszy i wygodniejszy od karabinu o standardowej d³ugoœci. Wprowadzony na wyposa¿enie przez dowództwo si³ specjalnych Stanów Zjendnoczonych (USSOCOM), jest preferowan¹ broni¹ Si³ Specjalnych U.S. Army oraz Navy SEALs.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_m4_worn">	
 		<text>M4A1 RAS (u¿ywany)</text>
@@ -1084,11 +1084,11 @@
 		<text>M4A1 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_m4a1_descr">	
-		<text>Ideal for CQC (Close Quarters Combat), the M4A1 carbine is a fully automatic variant of the M16A2 assault rifle. In military use, it has largely replaced the submachine guns firing pistol cartridges that are inadequate against modern body armour. The M4A1 is a modified variant of the M4 carbine able to fire automatic or semi-automatic.\n \n
+		<text>Idealny do walki w przestrzeniach zamkniêtych, karabinek M4A1 to w pe³ni automatyczna odmiana karabinu szturmowego M16A2. W zastosowaniach wojskowych zast¹pi³ broñ strzelaj¹c¹ amunicj¹ pistoletow¹, niewystarczaj¹c¹ do przebicia wiêkszoœci wspó³czesnych kamizelek kuloodpornych. M4A1 to zmodyfikowana odmiana karabinku M4 posiadaj¹ca tryb ognia ci¹g³ego i pó³automatycznego.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_m4a1_freedom">	
 		<text>M4A1 (Kamufla¿ Wolnoœci)</text>
@@ -1101,25 +1101,25 @@
 		<text>M79</text>
 	</string>	
 	<string id="st_wpn_m79_descr">	
-		<text>The M79 grenade launcher is a single shot, shoulder-fired, break-action grenade launcher that fires a 40x46mm grenade, which uses what the US Army calls the High-Low Propulsion System to keep recoil low. First appeared during the Vietnam War.</text>
+		<text>M79 to rêczny jednostrza³owy granatnik kalibru 40x46mm o konstrukcji ³amanej. Swojej skutecznoœci dowiód³ podczas wojny koreañskiej, jako kompromis miêdzy tradycyjnym granatem rêcznym, a ostrza³em artyleryjskim.</text>
 	</string>	
 		
 	<string id="st_wpn_m98b">	
 		<text>Barrett M98B "Bravo"</text>
 	</string>	
 	<string id="st_wpn_m98b_descr">	
-		<text>The Barrett M98B is a bolt-action sniper rifle chambered in .338 Lapua Mag. Rather than modifying a hunting rifle, Barrett created an original design for the M98B. The M98B features an adjustable stock and cheek pad for comfort, an adjustable trigger for preferable trigger control, a rear monopod and a front bi-pod for stability. Users can further modify the rifle by attaching sights, lights and grips to its rails. The M98B has a simple design making it easy for users to disassemble and clean.\n \n
+		<text>Barrett M98B to powtarzalny karabin wyborowy kalibru .338 Lapua Magnum. Posiada regulowan¹ kolbê z poduszk¹ policzkow¹, regulowany mechanizm spustowy, przedni dwójnóg oraz dodatkowy, pojedynczy statyw na kolbie. M98B to oryginalna konstrukcja, której prostota pozwala na ³atw¹ dekonstrukcjê i czyszczenie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] Leupold Mark 4 scope (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] SR-25 suppressor(wymaga modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta Leupold Mark 4\n
+		%c[d_purple] • %c[ui_gray_2] t³umik SR-25 (wymaga modyfikacji)</text>
 	</string>	
 		
 	<string id="st_wpn_mosin">	
 		<text>Mosin-Nagant</text>
 	</string>	
 	<string id="st_wpn_mosin_descr">	
-		<text>A basic version of the Mosin-Nagant with slightly worn interiors. The M1891/30 was produced for standard issue to all Soviet infantry from 1930 to 1945. It was extremely successful in World War II as a sniper rifle when it was equipped with a 4x PE or a 3.5x PU scope.\n \n
-		%c[ui_gray_2]OSPRZÊT: \n%c[d_purple]• %c[ui_gray_2] PU scope\n \n</text>
+		<text>Podstawowa wersja Mosina-Naganta z lekko zu¿ytymi podzespo³ami. Wersja M1891/30 by³a produkowana jako standardowy karabin radzieckiej piechoty od 1930 do 1945 roku. W trakcie II Wojny Œwiatowej okaza³ siê byæ niezwykle skutecznym karabinem wyborowym w po³¹czeniu z optyk¹ 4x PE lub 3.5x PU.\n \n
+		%c[ui_gray_2]OSPRZÊT: \n%c[d_purple]• %c[ui_gray_2] celownik PU\n \n</text>
 	</string>	
 	<string id="st_wpn_mosin_worn">	
 		<text>Mosin-Nagant (u¿ywany)</text>
@@ -1129,7 +1129,7 @@
 		<text>Mossberg 590A1</text>
 	</string>	
 	<string id="st_wpn_mossberg590_descr">	
-		<text>Mossberg 590 was developed by O.F.Mossberg &amp; sons company during 1970s in US as a modification of the Mossberg model 500 shotgun for adoption by the US Military. Modifications included strengthening of the receiver, installation of the vented heatshield around the barrel, a bayonet lug and extended magazine and an aluminium trigger guard instead of plastic one. Standard finish is Parkerizing, and the gun is provided with replacement pistol grip, which allows easy conversion to 'Cruiser' modification. Since 1987, this was the standard shotgun of US Armed forces; officially replaced in US Army with Benelli M1014 semi-automatic shotgun, Mossberg 590 shotguns are still used by US Navy and US Marine Corp.\n \n</text>
+		<text>Mossberg 590 to amerykañska strzelba powtarzalna produkcji O.F. Mossberg &amp; Sons. Powsta³ jako modyfikacja strzelby Mossberg 500, na potrzeby wprowadzenia na wyposa¿enie U.S. Army. Modyfikacje zawiera³y wzmocnienie komory zamkowej, instalacjê wentylowanej os³ony lufy, mocowania na bagnet, powiêkszonego magazynka oraz aluminiowej os³ony jêzyka spustowego. Posiada fosforowan¹ pow³okê oraz wymienne uchwyty pozwalaj¹c¹ na konwersjê do konstrukcji typu "Cruiser".\n \n</text>
 	</string>	
 	<string id="st_wpn_mossberg590_worn">	
 		<text>Mossberg 590A1 (u¿ywany)</text>
@@ -1139,10 +1139,10 @@
 		<text>MP-133</text>
 	</string>	
 	<string id="st_wpn_mp133_descr">	
-		<text>The MP-133 is a product of the Izhevsk Mechanical Plant. This shotgun is an evolution of the earlier IZh-81 pump action shotgun, and is intended for civilian and security markets. It is produced in two basic versions: standard MP-133 with tubular magazine and MP-133K with detachable box magazine, both versions can be in various barrel lengths and styles, wood or polymer furniture, fixed or side folding polymer stock or pistol grip only. The MP-133 shotgun uses traditional pump action with sliding forend that has dual action bars. Locking is achieved by a tilting locking piece, installed in the bolt and engages the notch in the barrel extension when in battery. Feed is from tubular underbarrel magazine that holds 4 rounds, though capacity can be enhanced by installing magazine extension tubes.\n \n</text>
+		<text>MP-133 to strzelba produkcji I¿ewskich Zak³adów Maszynowych. Jest nastêpc¹ strzelby I¿h-81 zaprojektowan¹ do u¿ytku zarówno cywilnego jak i wojskowego. Istniej¹ jego dwie podstawowe wersje: MP-133 z magazynkiem rurowym oraz MP-133K z od³¹czanym magazynkiem pude³kowym. Obie wersje posiadaj¹ ró¿ne konfiguracje lufy, drewniane lub polimerowe elementy obudowy, sztywn¹ lub sk³adan¹ kolbê lub sam uchwyt pistoletowy. Strzelba MP-133 posiada tradycyjny mechanizm "pump action" z ruchomym ³o¿em przednim.\n \n</text>
 	</string>	
 	<string id="st_wpn_mp133_rusty">	
-		<text>MP-133 (rusty)</text>
+		<text>MP-133 (zardzewia³y)</text>
 	</string>	
 	<string id="st_wpn_mp133_worn">	
 		<text>MP-133 (u¿ywany)</text>
@@ -1152,10 +1152,10 @@
 		<text>MP-153</text>
 	</string>	
 	<string id="st_wpn_mp153_descr">	
-		<text>The MP-153 self-loading shotgun was the first semi-automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi-automatic shotguns of Russian origin, and is widely used to hunt various games in Russia. It is also sold for export, it is known as Remington "Spartan" SPR-453 autoloader in US. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.\n \n</text>
+		<text>Strzelba automatyczna MP-153 by³a pierwsz¹ tak¹ konstrukcj¹ zaprojektowan¹ przez I¿ewskie Zak³ady Mechaniczne. By³a rozwijana równolegle ze strzebl¹ powtarzaln¹ MP-133 i wspó³dzieli z ni¹ wiele podzespo³ów. MP-153 to jedna z najpopularniejszych rosyjskich strzelb automatycznych. Znalaz³a czêste zastosowanie podczas polowañ na ró¿ne rodzaje zwierzyny. Strzelby MP-153 s¹ znane z solidnej, lecz ciê¿kiej konstrukcji i wysokiej niezawodnoœci.\n \n</text>
 	</string>	
 	<string id="st_wpn_mp153_rusty">	
-		<text>MP-153 (rusty)</text>
+		<text>MP-153 (zardzewia³y)</text>
 	</string>	
 	<string id="st_wpn_mp153_worn">	
 		<text>MP-153 (u¿ywany)</text>
@@ -1165,7 +1165,7 @@
 		<text>MP-412 Rex</text>
 	</string>	
 	<string id="st_wpn_mp412_descr">	
-		<text>The MP412 REX is a Russian double-action .357 magnum revolver with a break-action chamber and an automatic ejector. It was designed for export (REX, Revolver for EXport), but never put into full production due to lack of a market. The weapon was designed by IZHMECH, the state-owned Russian Izhevsk Mechanical Plant, which also designed and produced the Makarov PM semi-automatic pistol.</text>
+		<text>MP412 REX to rosyjski rewolwer kalibru .357 magnum o konstrukcji ³amanej. Zosta³ zaprojektowany przez I¿ewskie Zak³ady Mechaniczne z myœl¹ o rynku eksportowym, lecz nigdy nie wszed³ w pe³n¹ produkcjê, ze wzglêdu na zbyt ma³e zainteresowanie.</text>
 	</string>	
 		
 	<string id="st_wpn_mp5">	
@@ -1178,19 +1178,19 @@
 		<text>MP5A3 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_mp5_descr">	
-		<text>The MP5 is one of the most famous and wide spread firearms of its class. The MP5's compactness, accuracy and reliability have made it a favourite of numerous military, law enforcement, intelligence and security organisations the world over. The MP5A3 is fitted with a retractable metal stock. Not surprisingly, having flooded the global black markets, it eventually made its way to the Zone.\n \n
+		<text>MP5 to jedna z najs³awniejszych i najbardziej rozpowszechnionych broni w swojej kategorii. Jego porêcznoœæ, celnoœæ i niezawodnoœæ sprawi³y, ¿e sta³ siê faworytem wielu armii, s³u¿b porz¹dkowych, wywiadowczych oraz firm ochroniarskich na ca³ym œwiecie. MP5A3 posiada wysuwan¹ metalow¹ kolbê. Ze wzglêdu na swoj¹ ogólnoœwiatow¹ popularnoœæ, obecnoœæ tej broni w Zonie nie jest ¿adnym zaskoczeniem.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 \n
-		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z 9x19 (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 9x19\n \n</text>
 	</string>	
 	<string id="st_wpn_mp5_nimble">	
 		<text>MP5A3 "Frasier"</text>
 	</string>	
 	<string id="st_wpn_mp5_nimble_descr">	
-		<text>A submachine gun prototype based on the excellent H&amp;K MP5A3 model. Designed as a next generation close quarter combat weapon, it benefits from a higher calibre, rate of fire and accuracy.\n \n
+		<text>Prototypowy pistolet maszynowy zbudowany na bazie œwietnego H&amp;K MP5A3. Posiada zwiêkszon¹ szybkostrzelnoœæ oraz wiêkszy kaliber pocisku, co czyni z niego œwietn¹ broñ do walki w przestrzeniach zamkniêtych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 \n
-		%c[d_purple] • %c[ui_gray_2] t³umik GemTech (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632\n
+		%c[d_purple] • %c[ui_gray_2] t³umik GemTech\n \n</text>
 	</string>	
 	<string id="st_wpn_mp5_worn">	
 		<text>MP5A3 (u¿ywany)</text>
@@ -1203,10 +1203,10 @@
 		<text>MP5SD6 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_mp5sd_descr">	
-		<text>A variant of the MP5 with an integrated suppressor. In the Zone, mercenaries prefer this variant to the normal one.\n \n
+		<text>Odmiana pistoletu maszynowego MP5 ze zintegrowanym t³umikiem. Preferowana wœród Najemników.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 scopes, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] special MP5SD suppressor (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik MP5SD\n \n</text>
 	</string>	
 	<string id="st_wpn_mp5sd_new">	
 		<text>MP5SD6 (nowy)</text>
@@ -1216,32 +1216,32 @@
 	</string>	
 		
 	<string id="st_wpn_oc33">	
-		<text>OC-33 Pernach</text>
+		<text>OC-33 Piernacz</text>
 	</string>	
 	<string id="st_wpn_oc33_descr">	
-		<text>OC-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OC-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS.\n \n
+		<text>OC-33 "Piernacz" to jeden ze œwie¿szych projektów wœród rosyjskich pistoletów automatycznych. OC-33 to pistolet z zamkiem swobodnym strzelaj¹cy amunicj¹ 9x18mm Makarow w trybie automatycznym i pó³automatycznym. Zaprojektowany w 1995 roku przez Igora Steczkina w TSKIB SOO, z zamys³em wprowadzenia na wyposa¿enie w armii jako nastêpca pistoletu APS.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] APS suppressor (wymaga modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik APS</text>
 	</string>	
 	<string id="st_wpn_oc33_rusty">	
-		<text>OC-33 Pernach (zardzewia³y)</text>
+		<text>OC-33 Piernacz (zardzewia³y)</text>
 	</string>	
 	<string id="st_wpn_oc33_rusty_descr">	
 		<text>OC-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OC-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS. Poor safekeeping made this model unreliable.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n%c[d_red] • %c[d_red] mounting suppressor is not possible</text>
 	</string>	
 	<string id="st_wpn_oc33_worn">	
-		<text>OC-33 Pernach (u¿ywany)</text>
+		<text>OC-33 Piernacz (u¿ywany)</text>
 	</string>	
 		
 	<string id="st_wpn_p90">	
 		<text>FN P90</text>
 	</string>	
 	<string id="st_wpn_p90_descr">	
-		<text>The FN P90 submachine gun was developed in the late 1980s as a personal defence weapon for troops whose primary activities does not include small arms, such as vehicle and tank crew members, artillery crews etc. Standard pistols and submachine guns were proven ineffective against enemies wearing body armour. FN designers developed a new round, initially designated as SS90, to achieve high penetration while keeping recoil low FN used a small-bore approach, creating a round that looked like the scaled down 5.56 NATO round. The result was FN P90 personal defence weapon, introduced in 1990 along with improved 5.7x28 SS190 amunicja which replaced polymer cored bullets with heavier dual core, steel and aluminium, bullets for better penetration against body armour.\n \n
+		<text>FN P90 to pistolet maszynowy zaprojektowany w póŸnych latach '80 jako broñ klasy PDW (Personal Defense Weapon / Broñ Ochrony Osobistej) dla ¿o³nierzy wymagaj¹cych l¿ejszej i porêczniejszej broni, takich jak za³ogi pojazdów opancerzonych, artylerzyœci itp. Zwyk³e pistolety i wczesne pistolety maszynowe okaza³y siê nieefektywne w starciu z wspó³czesnymi kamizelkami kuloodpornymi. Projektantom FN uda³o siê stworzyæ nabój niskiego kalibru,  pocz¹tkowo oznaczony jako SS90, przypominaj¹cy pomniejszony nabój 5.56 NATO. Jego zamys³em by³o osi¹gniêcie wysokiej si³y przebicia zachowuj¹c jednoczeœnie nisk¹ si³ê odrzutu.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] 5.7x28 compatible suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.7x28</text>
 	</string>	
 		
 	<string id="st_wpn_pb">	
@@ -1251,9 +1251,9 @@
 		<text>PB (wspó³czesny)</text>
 	</string>	
 	<string id="st_wpn_pb_descr">	
-		<text>The PB (Pistolet Besshumnyj or Silent Pistol), also known in the Soviet army as 6P9, has been developed in 1967 for Spetsnaz units of the Soviet Army, as well as for KGB operatives. The pistol is based on a modified Makarov PM pistol and features an unique integral two part suppressor. Issued into service in 1967, the PB (GRAU index 6P9) is a Soviet silenced pistol based on the Makarov PM. It was intended for use by the KGB and army reconnaissance groups. The front part of the suppressor is detachable, so that the pistol can be broken down into two parts for convenient carry. The PB's integral suppressor also reduces the bullet velocity to below subsonic levels.\n \n
+		<text>PB (z ros. Pistolet Bezszumny), znany jako 6P9 w armii rosyjskiej, zosta³ wprowadzony na wyposa¿enie w 1967 roku dla oddzia³ów Specnazu oraz operatorów KGB. Konstrukcja bazuje na zmodyfikowanym Makarowie PM z dodatkiem zintegrowanego, dwuczêœciowego t³umika. Specyfika jego konstrukcji sprawia, ¿e pocisk jest spowolniony do prêdkoœci subsonicznej.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] 6P9 suppressor (integrated)</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik 6P9</text>
 	</string>	
 	<string id="st_wpn_pb_worn">	
 		<text>PB (u¿ywany)</text>
@@ -1263,16 +1263,16 @@
 		<text>PKM Zulusa</text>
 	</string>	
 	<string id="st_wpn_pkm_zulus_descr">	
-		<text>This weapon was previously owned by Zulu. Its special features include an enlarged ammo box and a particularly reliable retracting mechanism design. The modifications meant an increase in the weapon's weight, but that wasn't a problem for the last owner.\n \n
+		<text>PKM nale¿¹cy wczeœniej do Zulusa. Posiada powiêkszony magazynek pude³kowy oraz szczególnie niezawodny mechanizm zwrotniczy. Obie modyfikacje wp³ywaj¹ na zwiêkszon¹ masê broni. Nie by³o to jednak problemem dla poprzedniego w³aœciciela.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-1S-03 Kobra sight (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik EKP-1S-03 Kobra \n \n</text>
 	</string>	
 		
 	<string id="st_wpn_pkp">	
 		<text>PKP Pieczenieg</text>
 	</string>	
 	<string id="st_wpn_pkp_descr">	
-		<text>The PKP "Pieczenieg" is a Russian light machine gun chambered for the 7.62x54mmR round. It is a modernised PKM machine gun. The Pieczenieg is said to be more accurate than all its predecessors due to a heavier, non-removable, forced air cooling barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.\n \n</text>
+		<text>PKP "Pieczenieg" to rosyjski lekki karabin maszynowy kalibru 7.62x54mmR bêd¹cy modernizacj¹ karabinu PKM. Jest uwa¿any za celniejszy wzglêdem poprzednika. Zawdziêcza to ciê¿szej, zamontowanej na sta³e lufie ch³odzonej powietrzem i dodatkowym ¿ebrom ch³odniczym. Posiada równie¿ uchwyt z os³on¹ eliminuj¹c¹ opary gazowe przeszkadzaj¹ce w celowaniu.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_pm">	
@@ -1282,13 +1282,13 @@
 		<text>Ceremonialny Makarow PM</text>
 	</string>	
 	<string id="st_wpn_pm_actor_descr">	
-		<text>An ancient PM given to Degtyarev as a reward for "Successful execution of highly dangerous state orders, as well as valour and courage shown in the line of duty".</text>
+		<text>Bardzo stary pistolet PM wrêczony Diegtiariowowi w nagrodê za "Sukcesy oraz mêstwo i odwagê w s³u¿bie na rzecz narodu".</text>
 	</string>	
 	<string id="st_wpn_pm_custom">	
 		<text>PM (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_pm_descr">	
-		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.</text>
+		<text>PM (Pistolet Makarowa) to jedna z najlepiej rozpoznawalnych radzieckich broni krótkich. Szczególnie popularny w Zonie jako kompaktowa i porêczna broñ osobista. Jest ma³y, niezawodny i ³atwy w naprawie. Posiada takie wady, jak krótki zasiêg, niska celnoœæ i stosunkowo niska energia pocisku. Nie wypada równie¿ dobrze w porównaniu z wspó³czesnymi pistoletami pod wzglêdem wagi i pojemnoœci magazynka.</text>
 	</string>	
 	<string id="st_wpn_pm_rusty">	
 		<text>PM (zardzewia³y)</text>
@@ -1304,17 +1304,17 @@
 		<text>PMM</text>
 	</string>	
 	<string id="st_wpn_pmm_descr">	
-		<text>The most widely known variant, the Makarov PMM was a redesign of the original gun. In 1990 a group of engineers reworked the original Makarov, primarily by increasing the load for the cartridge. The result is 25% more gas pressure increasing in prêdkoœæ wylotowa. The PMM magazine holds 12 rounds, compared to the PM's 8 rounds.</text>
+		<text>PMM (Pistolet Makarowa Modernizowany) to najbardziej powszechnie znany wariant tego pistoletu. W 1990 roku grupa in¿ynierów zmodernizowa³a projekt oryginalnego Makarowa, g³ównie poprzez zwiêkszenie iloœci ³adunku ³adunku wybuchowego w naboju. W rezultacie uzyskano o 25% silniejsze ciœnienie gazu wylotowego, wp³ywaj¹c prêdkoœæ wylotow¹. Pojemnoœæ magazynka wzros³a z 8 do 12 naboi.</text>
 	</string>	
 		
 	<string id="st_wpn_pp2000">	
 		<text>PP-2000</text>
 	</string>	
 	<string id="st_wpn_pp2000_descr">	
-		<text>The PP-2000 is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. First displayed to the public in 2004, the patent for its layout has been filed in 2001 and was issued in 2003. The niche for the PP-2000 is a personal defence weapon for non-infantry military personnel, as well as close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for reliability, simplified maintenance and low cost. Best suited for close combat.\n \n
+		<text>PP-2000 to jeden z najnowszych projektów KBP Tu³a. To pistolet maszynowy klasy PDW (broñ ochrony osobistej) przeznaczony dla ¿o³nierzy niebêd¹cych piechurami oraz broni¹ krótkodystansow¹ dla si³ specjalnych i wybranych oddzia³ów policji. PP-2000 to kompaktowy pistolet maszynowy o prostej konstrukcji, nietrudnej konserwacji i niskim koszcie produkcji.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] 9x19 compatible \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 9x19\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_ppsh41">	
@@ -1336,7 +1336,7 @@
 		<text>PPSz-41 (u¿ywany)</text>
 	</string>	
 	<string id="st_wpn_ppsh41_descr">	
-		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSz-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. They utilise 7.62x25mm cartridge.\n \n</text>
+		<text>Jedna z najwa¿niejszych broni radzieckich si³ zbrojnych z okresu II Wojny Œwiatowej. PPSz-41 to wytrzyma³y, ³atwy w konserwacji pistolet maszynowy kalibru 7.62x25mm zbudowany z ³atwo dostêpnych, tanich materia³ów.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_protecta">	
@@ -1346,9 +1346,9 @@
 		<text>Armsel Protecta (wspó³czesny)</text>
 	</string>	
 	<string id="st_wpn_protecta_aim_descr">	
-		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Sajga 12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long czas prze³adowania, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants. Specifically this variant is highly modernised, details inside are tightly fit to each other, muzzle energy is increased significantly thanks to higher pressure in the gun barrel. Sacrificing rate of fire, stopping power is increased. This model has Aimpoint AB collimator sight made by Swedish company.\n \n
+		<text>Armsel Protecta, znany równie¿ jako Armsel Striker, DAO-12, czy Street Sweeper, to po³udniowoafrykañska strzelba pó³automatyczna z cylindrycznym, obrotowym magazynkiem o pojemnoœci 12 naboi. Przestarza³y ju¿ wzglêdem rosyjskiej Sajgi i amerykañskiego AA-12, Protecta by³ rewolucyjn¹ konstrukcj¹ stworzon¹ w Rodezji w latach 80. Ta g³adkolufowa, rewolwerowa strzelba mia³a zapewniæ ogromn¹ si³ê ra¿enia oddzia³om wojska i organizacji paramilitarnych. Posiada takie zalety, jak wysoka pojemnoœæ magazynka i szybkostrzelnoœæ, za które p³aci nieporêcznoœci¹, spor¹ wag¹ i d³ugim czasem prze³adowania. Rzadko spotykany w Zonie, s³u¿¹cy g³ównie do oczyszczania ciasnych przestrzeni z mutantów. Ten zmodernizowany wariant otrzyma³ zwiêkszon¹ prêdkoœæ wylotow¹ dziêki lufie o zwiêkszonym ciœnieniu. W efekcie otrzymano wiêksz¹ energiê pocisku, poœwiêcaj¹c przy tym szybkostrzelnoœæ. Posiada szwedzki kolimator Aimpoint AB.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] "Aimpoint" sight (integrated)</text>
+		%c[d_purple] • %c[ui_gray_2] celownik "Aimpoint" (integrated)</text>
 	</string>	
 	<string id="st_wpn_protecta_camo">	
 		<text>Armsel Protecta (zakamuflowany)</text>
@@ -1357,13 +1357,13 @@
 		<text>Armsel Protecta (zmodyfikowany)</text>
 	</string>	
 	<string id="st_wpn_protecta_descr">	
-		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Sajga 12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long czas prze³adowania, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants.</text>
+		<text>Armsel Protecta, znany równie¿ jako Armsel Striker, DAO-12, czy Street Sweeper, to po³udniowoafrykañska strzelba pó³automatyczna z cylindrycznym, obrotowym magazynkiem o pojemnoœci 12 naboi. Przestarza³y ju¿ wzglêdem rosyjskiej Sajgi i amerykañskiego AA-12, Protecta by³ rewolucyjn¹ konstrukcj¹ stworzon¹ w Rodezji w latach 80. Ta g³adkolufowa, rewolwerowa strzelba mia³a zapewniæ ogromn¹ si³ê ra¿enia oddzia³om wojska i organizacji paramilitarnych. Posiada takie zalety, jak wysoka pojemnoœæ magazynka i szybkostrzelnoœæ, za które p³aci nieporêcznoœci¹, spor¹ wag¹ i d³ugim czasem prze³adowania. Rzadko spotykany w Zonie, s³u¿¹cy g³ównie do oczyszczania ciasnych przestrzeni z mutantów.</text>
 	</string>	
 	<string id="st_wpn_protecta_nimble">	
 		<text>Armsel Protecta (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_protecta_nimble_descr">	
-		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Sajga 12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long czas prze³adowania, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants. According to certain sources, this model once belonged to Tank, but little is known about him.</text>
+		<text>Armsel Protecta, znany równie¿ jako Armsel Striker, DAO-12, czy Street Sweeper, to po³udniowoafrykañska strzelba pó³automatyczna z cylindrycznym, obrotowym magazynkiem o pojemnoœci 12 naboi. Przestarza³y ju¿ wzglêdem rosyjskiej Sajgi i amerykañskiego AA-12, Protecta by³ rewolucyjn¹ konstrukcj¹ stworzon¹ w Rodezji w latach 80. Ta g³adkolufowa, rewolwerowa strzelba mia³a zapewniæ ogromn¹ si³ê ra¿enia oddzia³om wojska i organizacji paramilitarnych. Posiada takie zalety, jak wysoka pojemnoœæ magazynka i szybkostrzelnoœæ, za które p³aci nieporêcznoœci¹, spor¹ wag¹ i d³ugim czasem prze³adowania. Rzadko spotykany w Zonie, s³u¿¹cy g³ównie do oczyszczania ciasnych przestrzeni z mutantów.</text>
 	</string>	
 	<string id="st_wpn_protecta_rusty">	
 		<text>Armsel Protecta (zardzewia³y)</text>
@@ -1376,35 +1376,35 @@
 		<text>RG-6</text>
 	</string>	
 	<string id="st_wpn_rg6_descr">	
-		<text>The RG-6 (index 6G30) was in development between 1993 and 1994 by the TSKIB SOO. The new stand-alone, rapid-firing multi-shot launcher was required to increase the firepower of the infantry during the urban combat, due to recent small scale conflicts, such as the Chechen Wars. The RG-6 entered limited production by mid-1990s and is now in use by various elements of the Russian Army and special forces, as well as by special forces in MVD (Internal Affairs Ministry). The RG-6 is designed to fire all standard 40mm caseless grenades, available for general issue underbarrel launchers, such as GP-25 and GP-30. These rounds include VOG-25 fragmentation grenade, VOG-25P bouncing fragmentation grenade and "Gvozd" (Nail) nonlethal tear gas grenade for riot control. The drum is also front-loaded. Widely used for rapid suppression of enemy firing positions and, when in the open, attacking defended fixed targets or fighting particularly tough mutants.</text>
+		<text>RG-6 (indeks 6G30) to rosyjski szybkostrzelny granatnik strzelaj¹cy bez³uskowymi nabojami 40mm. Posiada ³adowany frontowo magazynek bêbnowy. Zaprojektowany ze wzglêdu na potrzebê zwiêkszenia si³y ognia oddzia³ów piechoty bior¹cych udzia³ w konfliktach mniejszej skali, takich jak wojny w Czeczeni. Czasowo produkowany w latach 90., pozostaje w u¿yciu przez Armiê Rosyjsk¹ i si³y specjalne rosyjskiego MSW. Najczêœciej u¿ywany do t³umienia wrogich pozycji strzeleckich oraz niszczenia nieruchomych celów. W Zonie nadaje siê szczególnie do eliminowania niebezpiecznych mutantów.</text>
 	</string>	
 		
 	<string id="st_wpn_rp">	
 		<text>PKM</text>
 	</string>	
 	<string id="st_wpn_rp_descr">	
-		<text>Fitted with a skeleton buttstock made from wood as well as a hinged buttplate and a wooden pistol grip. The rear part of the buttstock houses a cleaning kit, and a disassembled cleaning rod is stored in the right leg of the bipod. A very reliable machine gun.\n \n</text>
+		<text>PKM to radziecki uniwersalny karabin maszynowy kalibru 7,62x54mm. Jest zmodernizowan¹, l¿ejsz¹ wersj¹ karabinu PK. Jest broni¹ samoczynn¹, ze wzglêdu na konstrukcjê mechanizmu spustowego, który pozwala wy³¹cznie na ogieñ ci¹g³y. Posiada magazynek pude³kowy sk³aduj¹cy taœmê zdoln¹ pomieœciæ 100 naboi.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_rpd">	
 		<text>RPD</text>
 	</string>	
 	<string id="st_wpn_rpd_descr">	
-		<text>The RPD (Degtyaryov hand-held machine gun) is a light machine gun developed in the Soviet Union by Vasily Degtyaryov for the intermediate 7.62x39mm M43 cartridge.</text>
+		<text>RPD to lekki karabin maszynowy konstrukcji autorstwa Wasilija Diegtiariowa strzelaj¹cy amunicj¹ kalibru 7.62x39mm.</text>
 	</string>	
 		
 	<string id="st_wpn_rpg7">	
 		<text>RPG-7</text>
 	</string>	
 	<string id="st_wpn_rpg7_descr">	
-		<text>The RPG-7 is a further development of the previous RPG-2 anti-tank grenade launcher. The RPG-7, in its first version, known as RPG-7V, has been adopted by the Soviet army in 1961, and is still fielded in Russia and at least 50 more countries. By far, RPG-7 can be considered as one of the most successful anti-tank grenade launchers ever made. Initially thought of as an anti-armour weapon, it was later adopted for other fire support missions with the introduction of other types of grenades, such as anti-infantry HE-FRAG and multi-purpose Thermobaric/FAE. The RPG-7 is a shoulder fired, single shot, smoothbore recoilless launcher, grenades are loaded from the front, and the rear of the barrel is fitted with venturi nozzle. Due to the recoilless design, the backblast is dangerous. The RPG-7 is usually issued with 2.7X fixed magnification optical sight, designated PGO-7. It is a simple and inexpensive, but possess a high threat to modern tanks and can also serve in a number of other roles, making it a flexible weapon.</text>
+		<text>RPG-7 to radziecka wyrzutnia granatów z napêdem rakietowym. Wprowadzona w wersji RPG-7V do Armii Radzieckiej w 1961 roku. Jedna z najbardziej rozpoznawalnych i skutecznych broni przeciwpancernych. Jest to g³adkolufowa wyrzutnia naramienna ³adowana frontowo. Gazy wylotowe s¹ wyprowadzane za pomoc¹ tylnej, sto¿kowatej dyszy, dziêki której wystrza³ odbywa siê bez odrzutu. Nale¿y z tego powodu uwa¿aæ na wi¹zkê formuj¹c¹ siê za strzelcem oraz unikaæ strzelania z ciasnych pomieszczeñ. Wiêkszoœæ egzemplarzy jest wyposa¿ona w pryzmatyczny celownik PGO-7.</text>
 	</string>	
 		
 	<string id="st_wpn_rpk">	
 		<text>RPK</text>
 	</string>	
 	<string id="st_wpn_rpk_descr">	
-		<text>The RPK is a Soviet light machine gun, developed by Mikhail Kalashnikov in 1961 based on the Kalashnikov assault rifle. Created as part of Soviet efforts to standardise the armoury of the Red Army, the RPK replaced the RPD and is still in use to present day.\n \n</text>
+		<text>RPK to radziecki karabin maszynowy zaprojektowany przez Michai³a Ka³asznikowa w 1961 roku na bazie konstrukcji karabinów AK. Stworzony w celu ustandaryzowania uzbrojenia Armii Radzieckiej, zast¹pi³ RPD i pozostaje w u¿ytku do dnia dzisiejszego.\n \n</text>
 	</string>	
 	<string id="st_wpn_rpk_worn">	
 		<text>RPK (u¿ywany)</text>
@@ -1414,9 +1414,9 @@
 		<text>RPK-74N</text>
 	</string>	
 	<string id="st_wpn_rpk74_descr">	
-		<text>The RPK (Ruchnoy Pulemyot Kalashnikova or Kalashnikov hand-held machine gun) is a 5.45x45mm light machine gun, developed by Mikhail Kalashnikov in the late 1950s. It was created as part of a program designed to standardise the small arms inventory of the Red Army, where it replaced the 7.62x39mm RPD light machine gun. Today, the RPK continues to be used by the armed forces of countries of the former Soviet Union and certain African and Asian nations. The Polish Army adopted the weapon in 1974, where it is used in airborne assault, reconnaissance and special operations units. The RPK was also manufactured under license in Bulgaria and Romania.\n \n
+		<text>RPK (Rucznoj Pulemiot Ka³asznikowa) to rêczny karabin maszynowy kalibru 5.45x45mm zaprojektowany przez Michai³a Ka³asznikowa w póŸnych latach 50. Stworzony w celu ustandaryzowania uzbrojenia Armii Radzieckiej, zast¹pi³ RPD pozostaje w u¿ytku do dnia dzisiejszego. Zosta³ wprowadzony do Polskich Si³ Zbrojnych w 1974 roku do u¿ytku w desantach, rozpoznaniu i dzia³aniach oddzia³ów specjalnych. RPK by³ równie¿ produkowany na licencji w Bu³garii i Rumunii.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes \n
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
 		%c[d_purple] • %c[ui_gray_2] t³umik TGP-A\n \n</text>
 	</string>	
 	<string id="st_wpn_rpk74_worn">	
@@ -1427,13 +1427,13 @@
 		<text>Sajga 12S</text>
 	</string>	
 	<string id="st_wpn_saiga12s_descr">	
-		<text>The Sajga 12 is a Kalashnikov pattern, 12 gauge combat shotgun, manufactured by Izhmash. The Sajga 12 is recognizable by its Kalashnikov design with the large lever safety on the right side of the receiver, the optic mounting rail on the left and the large top mounted dust cover held in place by the rear of the recoil spring assembly. Earning respect in the Zone for its lethality, it is intended for engaging targets at short range (50 metres or less) or in confined spaces.\n \n
+		<text>Sajga 12 to rosyjska strzelba automatyczna kalibru 12 bazuj¹ca na konstrukcji karabinu AK. Produkowana od 1997 roku przez zak³ady I¿masz. Rozpoznawalna ze wzglêdu na podzespo³y wspó³dzielone z konstrukcj¹ Ka³asznikowa, takie jak du¿a dŸwignia bezpieczeñstwa, szyna monta¿owa po lewej stronie i charakterystyczna pokrywa komory zamkowej. Darzona respektem w Zonie ze wzglêdu na du¿¹ si³ê ra¿enia, szczególnie na dystansach poni¿ej 50 metrów i w przestrzeniach zamkniêtych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 \n
 		%c[d_purple] • %c[ui_gray_2] PBS-1\n \n</text>
 	</string>	
 	<string id="st_wpn_saiga12s_worn">	
-		<text>Sajga 12S (u¿ywany)</text>
+		<text>Sajga 12S (u¿ywana)</text>
 	</string>	
 		
 	<string id="st_wpn_scar">	
@@ -1443,11 +1443,11 @@
 		<text>FN SCAR-H (zakamuflowany)</text>
 	</string>	
 	<string id="st_wpn_scar_descr">	
-		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		<text>SCAR (Special Operations Forces Combat Assault Rifle) to modu³owy karabin stworzony przez FN Herstal na potrzeby og³oszonego przez SOCOM konkursu pod tytu³em 'SCAR'. Istniej¹ dwie bazowe wersje karabinu: SCAR-H i SCAR-L. SCAR-H (Heavy) strzela nabojem kalibru 7.62x51mm NATO.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_scar_new">	
 		<text>FN SCAR-H (nowy)</text>
@@ -1463,17 +1463,17 @@
 		<text>SIG P220 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_sig220_descr">	
-		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 calibre double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organisations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		<text>SIG-Sauer P220 produkowany w póŸnych latach 70. przez firmê J.P. Sauer &amp; Son jest czêsto uznawany za jeden z najlepszych pistoletów pó³automatycznych kalibru .45. Odnosz¹c natychmiastowy sukces na rynku, P220 zosta³ wprowadzony do Armii Szwajcarskiej i Japoñskich Si³ Samoobrony oraz do wielu europejskich organizacji porz¹dkowych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP Suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem .45 ACP</text>
 	</string>	
 	<string id="st_wpn_sig220_nimble">	
 		<text>SIG P220 "Alpine"</text>
 	</string>	
 	<string id="st_wpn_sig220_nimble_descr">	
-		<text>A unique model of the SIG-Sauer P220 handgun. Part of a small limited edition made for an unidentified special forces unit. The model benefits from an increased magazine capacity, a high durability steel barrel and an ultra-durable polymer receiver.\n \n
+		<text>Unikalny model pistoletu SIG-Sauer P220. Czêœæ niewielkiej edycji limitowanej stworzonej na potrzeby nieokreœlonej jednostki oddzia³ów specjalnych. Ulepszono w nim pojemnoœæ magazynka, zamontowano ciê¿sz¹ stalow¹ lufê oraz niezwykle wytrzyma³¹ komorê zamkow¹ wykonan¹ z polimerów.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP Suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem .45 ACP</text>
 	</string>	
 	<string id="st_wpn_sig220_rusty">	
 		<text>SIG P220 (zardzewia³y)</text>
@@ -1496,11 +1496,11 @@
 		<text>SIG SG550 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_sig550_descr">	
-		<text>Renowned for its high production quality and good performance, the SG 550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard.\n \n
+		<text>SG 550 jest uznawany za jeden z najœwietniejszych karabinów kalibru 5.56 mm. Posiada sk³adan¹ kolbê szkieletow¹ i lekki, aluminiowy dwójnóg.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_sig550_rusty">	
 		<text>SIG SG550 (zardzewia³y)</text>
@@ -1509,26 +1509,26 @@
 		<text>Renowned for its high production quality and good performance, the SG 550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard. This model is covered in rust, resulting in lower combat effectiveness.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n%c[d_red] • %c[d_red] mounting suppressor is not possible\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 	<string id="st_wpn_sig550_sniper">	
 		<text>SIG SG550-1 Wyborowy</text>
 	</string>	
 	<string id="st_wpn_sig550_sniper_descr">	
-		<text>A marksman variant of a popular Swiss-made assault rifle, the SG 550-S constitutes a perfect middle ground between sniper and assault rifles, retaining the strong points of both types of weaponry. On the other hand, it suffers from certain drawbacks such as being somewhat lacking in stopping power and accuracy for a sniper rifle and lack of automatic fire. Still, it remains one of the best top-tier weapon systems available within the Exclusion Zone.\n \n
+		<text>Wersja wyborowa popularnego szwajcarskiego karabinu szturmowego. SG 550-S stanowi idealne po³¹czenie karabinu szturmowego i snajperskiego, zachowuj¹c zalety obu z nich. Z drugiej strony posiada bol¹czki, takie jak niewystarczaj¹ca jak na karabin snajperski si³a pocisku i celnoœæ oraz brak trybu automatycznego ostrza³u. Mimo to wci¹¿ pozostaje jednym z topowych systemów uzbrojenia dostêpnych w Zonie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] Kahles ZF95 scope (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik Kahles ZF95\n \n</text>
 	</string>	
 	<string id="st_wpn_sig550_strelok">	
 		<text>SIG SG550 Strza³a</text>
 	</string>	
 	<string id="st_wpn_sig550_strelok_descr">	
-		<text>A Swiss made SIG SG-550 assault rifle. Although it isn't new, it is clear that the previous owner took good care of it: the weapon has been taken apart and put back together with every component fine-tuned for optimum performance, increasing stopping power. The letter "S" has been carved into the stock, along with 16 small notches.\n \n
+		<text>Szwajcarski karabin szturmowy SIG SG-550. Mimo œladów u¿ytkowania widaæ, ¿e poprzedni w³aœciciel bardzo o niego dba³. Ka¿dy komponent tej broni zosta³ starannie ulepszony, poprawiaj¹c wydajnoœæ broni i zwiêkszaj¹c si³ê pocisku. Na kolbie zosta³a wygrawerowana litera "S", a obok niej 16 ma³ych naciêæ.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher</text>
+		%c[d_purple] • %c[ui_gray_2] granatnik M203</text>
 	</string>	
 	<string id="st_wpn_sig550_worn">	
 		<text>SIG SG550 (u¿ywany)</text>
@@ -1538,10 +1538,10 @@
 		<text>SIG SG552 Commando</text>
 	</string>	
 	<string id="st_wpn_sig552_descr">	
-		<text>The SG 552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family, which enhances its CQC capabilities.\n \n
+		<text>SG552 Commando to kompaktowa wersja znanego i docenianego szwajcarskiego karabinu SIG SG550.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
 	</string>	
 	<string id="st_wpn_sig552_worn">	
 		<text>SIG SG552 Commando (u¿ywany)</text>
@@ -1551,8 +1551,8 @@
 		<text>SKS</text>
 	</string>	
 	<string id="st_wpn_sks_descr">	
-		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
-		%c[ui_gray_2]OSPRZÊT: \n%c[d_purple]• %c[ui_gray_2] PU scope\n \n</text>
+		<text>Rosyjski karabin samopowtarzalny SKS to jedna z pierwszych broni kalibru 7.62x39mm. Zast¹piony jako g³ówna broñ Armii Radzieckiej przez AK-47 we wczesnych latach 50 pozosta³ w u¿yciu jako broñ drugiej linii przez ca³e dekady.\n \n
+		%c[ui_gray_2]OSPRZÊT: \n%c[d_purple]• %c[ui_gray_2] celownik PU\n \n</text>
 	</string>	
 	<string id="st_wpn_sks_modern">	
 		<text>SKS (wspó³czesny)</text>
@@ -1568,13 +1568,13 @@
 		<text>SPAS-12 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_spas12_descr">	
-		<text>The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.\n \n</text>
+		<text>SPAS-12 to w³oska strzelba kalibru 12. Pozwala na ogieñ w trybie zarówno powtarzalnym jak i samopowtarzalnym. Zaprojektowany i stworzony przez w³osk¹ firmê Franchi we wczesnych latach 80. trafi³ na wyposa¿enie wielu oddzia³ów wojska i policji na ca³ym œwiecie. Jest jedn¹ z najbardziej rozpoznawalnych strzelb wszechczasów. Zawdziêcza to charakterystycznemu kszta³towi komory zamkowej z os³on¹ oraz sk³adanej kolbie. Znana z niezawodnoœci i elastycznoœci w sytuacjach taktycznych. Pomimo du¿ej wagi, skomplikowanej budowy i wysokiego kosztu produkcji jest na ni¹ wysoki popyt w Zonie ze wzglêdu na jej wysok¹ skutecznoœæ przeciw mutantom.\n \n</text>
 	</string>	
 	<string id="st_wpn_spas12_nimble">	
 		<text>SPAS-12 (wspó³czesny)</text>
 	</string>	
 	<string id="st_wpn_spas12_nimble_descr">	
-		<text>An army shotgun designed specifically for assault units and created on the basis of the Franchi SPAS-12. Capable of automatic fire like its predecessor, but provides better recoil compensation thanks to a balanced shock free system. Capable of automatic fire like its predecessor, but provides better recoil compensation thanks to a balanced shock free system.\n \n</text>
+		<text>Wojskowa strzelba zaprojektowana ze szczególn¹ myœl¹ o jednostkach szturmowych. Zbudowana na bazie w³oskiego Franchi SPAS-12. Pozwala na ogieñ w trybie ci¹g³ym z dodatkiem zbalansowanego mechanizmu równowa¿¹cego odrzut.\n \n</text>
 	</string>	
 	<string id="st_wpn_spas12_rusty">	
 		<text>SPAS-12 (zardzewia³y)</text>
@@ -1587,11 +1587,11 @@
 		<text>SR-25</text>
 	</string>	
 	<string id="st_wpn_sr25_descr">	
-		<text>The SR-25, Stoner Rifle, model 25 was developed by Reed Knight, owner of Knights Armament Co. and Eugene Stoner. The SR-25 is an AR-15 rifle scaled up to shoot 7.62x51mm NATO or .308 amunicja. 60% of parts in the rifle is interchangeable with AR-15 components. This rifle sold well among civilian shooters who needed an accurate semi-automatic rifle in 7.62x51mm NATO or .308 calibre for hunting or target shooting. This rifle also found a favour in US Military. All rifles built on the SR-25 platform share the same basic action, the AR-15/M16 system. Because of AR-15 style recoil buffer, which extends rearwards from the receiver, SR-25 cannot be fitted with a folding stock instead it is fitted with telescoping stock.\n \n
+		<text>SR-25, tak zwany Karabin Stonera to karabin bazuj¹cy na ArmaLite AR-15, powiêkszony do kalibru 7.62x51mm NATO lub kalibru .308 i dzieli z bazowym modelem 60% podzespo³ów. Spotka³ siê z dobr¹ sprzeda¿¹ na rynku cywilnym oraz zdoby³ uznanie w Amerykañskich Si³ach Zbrojnych. Wszystkie karabiny zbudowane na platformie SR-25 wspó³dziel¹ ten sam system AR-15/M16. Ze wzglêdu na typowy dla AR-15 bufor odrzutu, który przed³u¿a konstrukcjê zamka, kolba karabinu SR-25 nie mo¿e byæ sk³adana. Mo¿liwe jest jedynie zastosowanie kolby teleskopowej.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] SR-25 special \n
-		%c[d_purple] • %c[ui_gray_2] Leupold Mark 4 scope (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta Leupold Mark 4\n
+		%c[d_purple] • %c[ui_gray_2] t³umik SR-25\n
+		%c[d_purple] • %c[ui_gray_2] granatnik M203\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_sv98">	
@@ -1601,9 +1601,9 @@
 		<text>SW-98 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_sv98_descr">	
-		<text>The SV-98 (Snaiperskaya Vintovka Model 1998) is a Russian bolt action sniper rifle designed by Vladimir Stronskiy. In 2003 special operations troops were armed with the 7.62 mm 6S11 sniper system comprising the SV-98 sniper rifle (index 6V10) and 7N14 sniper enhanced penetration round. The rifle has been used in combat during operations in Chechnya.\n \n
+		<text>SW-98 (Snajperskaja Wintówka Model 1998) to rosyjski karabin powtarzalny zaprojektowany przez W³adimira Stronskiego. W 2003 roku rosyjskie si³y specjalne zosta³y wyposa¿one w system broni 6S11 kalibru 7.62 mm 6S11 z³o¿onego z karabinu wyborowego SW-98 (indeks 6V10) i amunicjê wyborow¹ o oznaczeniu 7N14. Karabinu pierwszy raz u¿yto w walce podczas operacji w Czeczeni.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] PKS-07 scope (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PKS-07\n \n</text>
 	</string>	
 	<string id="st_wpn_sv98_worn">	
 		<text>SW-98 (u¿ywany)</text>
@@ -1613,22 +1613,22 @@
 		<text>SWD</text>
 	</string>	
 	<string id="st_wpn_svd_custom">	
-		<text>SWD (customised)</text>
+		<text>SWD (dostosowany)</text>
 	</string>	
 	<string id="st_wpn_svd_descr">	
-		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 metres.\n \n
+		<text>Pocz¹tkowo przeznaczony dla wybranych strzelców w ka¿dym podstawowym oddziale radzieckiej piechoty, Dragunow SWD nie by³ przeznaczony do typowych zadañ snajperskich. Jest stosunkowo lekki, ale dobrze zbalansowany, posiada tryb ognia powtarzalnego i przyzwoit¹ precyzjê. Posiada zasiêg efektywnego ostrza³u do 800 metrów.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 \n
-		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] t³umik KZRZP\n \n</text>
 	</string>	
 	<string id="st_wpn_svd_nimble">	
 		<text>SWD "Ryœ"</text>
 	</string>	
 	<string id="st_wpn_svd_nimble_descr">	
-		<text>A hand-assembled version of the SVDm-2 sniper rifle with improved mechanisms for increased flatness. Little difference in appearance, but provides an ideal combination of accuracy and stopping power.\n \n
+		<text>Rêcznie z³o¿ona wersja karabinu wyborowego SWDm-2 z mechanizmami poprawiaj¹cymi p³askoœæ toru pocisku. Mimo, ¿e niewiele ró¿ni wizualnie nie ró¿ni siê zbytnio od orygina³u, zapewnia idealne po³¹czenie celnoœci i si³y ognia.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] 1P59 "Hyperon" scope (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] KZRZP \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik 1P59 "Hyperon"\n
+		%c[d_purple] • %c[ui_gray_2] t³umik KZRZP\n \n</text>
 	</string>	
 	<string id="st_wpn_svd_rusty">	
 		<text>SWD (zardzewia³y)</text>
@@ -1646,8 +1646,8 @@
 		<text>SWT-40</text>
 	</string>	
 	<string id="st_wpn_svt40_descr">	
-		<text>The SWT-40 is a surplus semi-automatic rifle chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n \n
-		%c[ui_gray_2]OSPRZÊT: \n%c[d_purple]• %c[ui_gray_2] PU special scope\n \n</text>
+		<text>SWT-40 to radziecki karabin pó³automatyczny kalibru 7.62x54mmR. By³ w powszechnym u¿ytku w Armii Czerwonej i Wermahcie, jako broñ zdobyczna, podczas II Wojny Œwiatowej.\n \n
+		%c[ui_gray_2]OSPRZÊT: \n%c[d_purple]• %c[ui_gray_2] celownik PU\n \n</text>
 	</string>	
 	<string id="st_wpn_svt40_modern">	
 		<text>SWT-40 (wspó³czesny)</text>
@@ -1666,17 +1666,17 @@
 		<text>OC-03 SWU (alternatywny)</text>
 	</string>	
 	<string id="st_wpn_svu_descr">	
-		<text>The OC-03 SWU is a rare, compact version of the SVD sniper rifle, created for use by the airborne infantry, but later employed mainly by the Russian Ministry of Internal Affairs. The main difference between it and the SVD is it's compact size and thus improved handling, thanks to a bullpup configuration and shortened barrel, making it sought after by stalkers in the Zone.\n \n
+		<text>OC-03 SWU to rzadko spotykana, kompaktowa wersja karabinu wyborowego SWD, stworzona na potrzeby piechoty desantowej. PóŸniej wyposa¿ano nim g³ównie si³y Rosyjskiego MSW. G³ówn¹ ró¿nic¹ pomiêdzy SWU, a SWD jest krótsza lufa i lepsza ergonomia, dziêki zastosowaniu uk³adu typu bullpup.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n \n</text>
 	</string>	
 	<string id="st_wpn_svu_nimble">	
 		<text>OC-03A SWU-A</text>
 	</string>	
 	<string id="st_wpn_svu_nimble_descr">	
-		<text>The SWU-A is a variant of the SWU rifle capable of automatic fire, designed on a request from the Russian Interior Ministry. Although the weapon is generally not suited for close-combat situations, the automatic fire has proven itself to be a reliable emergency solution for exposed marksmen. This particular model of SVU-A used to belong to Max, the legendary guardian of Freedom.\n \n
+		<text>SWU-A to wariant karabinu SWU posiadaj¹cy tryb ognia automatycznego, zaprojektowany na potrzeby Rosyjskiego MSW. Mimo, ¿e nie nadaje siê zbytnio do walki na krótkim dystansie, tryb automatyczny okaza³ siê byæ dobrym rozwi¹zaniem awaryjnym w przypadku zaskoczenia strzelca. Ten konkretny egzemplarz nale¿a³ kiedyœ do Maksa, legendarnego bojownika Wolnoœci.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1\n \n</text>
 	</string>	
 	<string id="st_wpn_svu_worn">	
 		<text>OC-03 SWU (u¿ywany)</text>
@@ -1686,7 +1686,7 @@
 		<text>TOZ-194</text>
 	</string>	
 	<string id="st_wpn_toz194_descr">	
-		<text>The TOZ-194 is a 12 Gauge, pump action shotgun manufactured by the Tula Arms Plant. Designed during the last years of the Soviet Union, the manufacture of this firearm has started after its collapse, and since then it has gained a certain popularity within civilian shooters in Russia and in Europe and is reported to be in use with some Russian Security forces.\n \n</text>
+		<text>TOZ-194 to strzelba powtarzalna kalibru 12 stworzona przez Zak³ady Zbrojeniowe Tu³a. Zaprojektowana w ostatnich latach Zwi¹zku Radzieckiego, trafi³a do produkcji ju¿ po jego upadku. Zyska³a od tego czasu pewn¹ popularnoœæ wœród cywili w Rosji i Europie. Zauwa¿ono j¹ równie¿ na wyposa¿eniu niektórych rosyjskich s³u¿b.\n \n</text>
 	</string>	
 	<string id="st_wpn_toz194_rusty">	
 		<text>TOZ-194 (zardzewia³y)</text>
@@ -1705,21 +1705,21 @@
 		<text>TOZ-34 (grawerowany)</text>
 	</string>	
 	<string id="st_wpn_toz34_descr">	
-		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.\n \n</text>
+		<text>TOZ-34 to rosyjska strzelba powtarzalna konstrukcji ³amanej, przeznaczona do amatorskich i profesjonalnych polowañ. Mimo niewielkiej pojemnoœci tylko dwóch nabojów dobrze wypada na tle innych strzelb, ze wzglêdu na wysok¹ celnoœæ. TOZ-34 zosta³ zaprojektowany przez N. I. Korowiakowa and V. P. Oczniewa w 1965 roku. To niedroga broñ o wysokiej sile ra¿enia, a jej zdolnoœæ do jednoczesnego roz³adowania obu nabojów jednoczeœnie sprawia, ¿e jest to atrakcyjna broñ dla niedoœwiadczonych strzelców z obrze¿y Zony. Szczególnie skuteczna przeciwko mutantom, ze wzglêdu na swoj¹ celnoœæ i si³ê pocisku.\n \n</text>
 	</string>	
 	<string id="st_wpn_toz34_bull">	
 		<text>TOZ-34 "Byk"</text>
 	</string>	
 	<string id="st_wpn_toz34_bull_descr">	
-		<text>Hand made modification of TOZ-34 that uses only specially made "Bull" amunicja that could probably stop a tank. Modifications are mostly related to the strength of the gun, and at a first glance, it looks simply like a decorated TOZ-34. But when you take a closer look, you can see that barrel is made from a unique metal, betraying its non-standard origin, and the stock is also made from some type of carbon fibre, inscribed with the letter "F". It's hard to tell who made it and how it ended up in the Zone... \n \n%c[ui_gray_2]</text>
+		<text>Rêcznie z³o¿ona modyfikacja strzelby TOZ-34 korzystaj¹ca z amunicji kalibru 12 zwan¹ "Bull". Modyfikacje polegaj¹ g³ównie na sile ra¿enia, a na pierwszy rzut oka wygl¹da to jak lekko udekorowany TOZ-34. Po bli¿szym przyjrzeniu mo¿na jednak zauwa¿yæ lufê wykonan¹ z twardszego metalu oraz kolbê wykonan¹ z w³ókien wêglowych, na której wyryto literê "F". Trudno powiedzieæ kto stworzy³ tê broñ i jak trafi³a ona do Zony. \n \n%c[ui_gray_2]</text>
 	</string>	
 	<string id="st_wpn_toz34_mark4">	
 		<text>TOZ-34 "Bizon"</text>
 	</string>	
 	<string id="st_wpn_toz34_mark4_descr">	
-		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power. This model has a Leupold Mark 4 scope attached to it.\n \n
+		<text>TOZ-34 to rosyjska strzelba powtarzalna konstrukcji ³amanej, przeznaczona do amatorskich i profesjonalnych polowañ. Mimo niewielkiej pojemnoœci tylko dwóch nabojów dobrze wypada na tle innych strzelb, ze wzglêdu na wysok¹ celnoœæ. TOZ-34 zosta³ zaprojektowany przez N. I. Korowiakowa and V. P. Oczniewa w 1965 roku. To niedroga broñ o wysokiej sile ra¿enia, a jej zdolnoœæ do jednoczesnego roz³adowania obu nabojów jednoczeœnie sprawia, ¿e jest to atrakcyjna broñ dla niedoœwiadczonych strzelców z obrze¿y Zony. Szczególnie skuteczna przeciwko mutantom, ze wzglêdu na swoj¹ celnoœæ i si³ê pocisku. Ten model posiada zintegrowan¹ lunetê Leupold Mk4.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] Luneta Leupold Mark 4 (zintegrowana)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta Leupold Mark 4\n \n</text>
 	</string>	
 	<string id="st_wpn_toz34_obrez">	
 		<text>TOZ-34 (obrzyn)</text>
@@ -1731,7 +1731,7 @@
 		<text>TOZ-34 (grawerowany obrzyn)</text>
 	</string>	
 	<string id="st_wpn_toz34_obrez_descr">	
-		<text>Intended for professional and amateur hunting the TOZ-34 is a over/under shotgun. Modifications made to this gun by removing much of the barrel and the stock makes this shotgun more compact and easier to carry. Popular among rookies and bandits as they can hide it easily in their trench coats.\n \n</text>
+		<text>TOZ-34 to rosyjska strzelba powtarzalna konstrukcji ³amanej, przeznaczona do amatorskich i profesjonalnych polowañ. Ten egzemplarz zosta³ zmodyfikowany poprzez odciêcie wiêkszej czêœci lufy oraz kolby. Popularne rozwi¹zanie wœród kotów i bandytów.\n \n</text>
 	</string>	
 	<string id="st_wpn_toz34_obrez_rusty">	
 		<text>TOZ-34 (zardzewia³y obrzyn) </text>
@@ -1747,9 +1747,9 @@
 	</string>	
 		
 	<string id="st_wpn_trg_descr">	
-		<text>The TRG-42 is not an accurised version of an existing rifle, but was developed from the very beginning as a sniper rifle. Its consistent high accuracy and reliability have made it popular both in long-range competitions and military sniper operations.\n \n
+		<text>TRG-42 to unikalna konstrukcja, niebazuj¹ca na ¿adnym poprzednim karabinie. Od pocz¹tku rozwijano j¹ jako karabin wyborowy. Jego wysoka celnoœæ i niezawodnoœæ sprawi³y, ¿e zyska³ popularnoœæ w strzelectwie sportowym i wielu operacjach militarnych.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] luneta FINDOT (zintegrowana)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta FINDOT\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_tt33">	
@@ -1769,9 +1769,9 @@
 		<text>Typ 63</text>
 	</string>	
 	<string id="st_wpn_type63_descr">	
-		<text>The Type 63, often incorrectly referred to as Type 68 by Western sources, is a Chinese-designed rifle with a resemblance to the SKS. However, the weapon uses a rotating bolt working system from the AK-47 rifle instead of the tilting bolt system of the SKS.\n \n
+		<text>Typ 63, czêsto b³êdnie nazywany Typem 68, to chiñski karabin automatyczny przypominaj¹cy SKS. Jednak w przeciwieñstwie do systemu u¿ywanego w SKS, karabin ten korzysta z obrotowego zamka u¿ywanego z karabinu AK-47.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] PU scope\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] celownik PU\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_ump45">	
@@ -1781,10 +1781,10 @@
 		<text>UMP45 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_ump45_descr">	
-		<text>The UMP was developed by H&amp;K in the 1990s, first appearing on the market in 1999. The idea behind the UMP was to create lightweight and powerful submachine gun, that was also cheaper than the MP5. The UMP, being targeted primarily for US law enforcement, appeared in .45ACP and .40SW chamberings, and later in 9mm. Providing greater stopping power than the MP5, the UMP45 also produces more recoil. This makes controlling full automatic fire more difficult. The UMP45's cyclic rate of fire was lowered significantly to combat this problem.\n \n
+		<text>UMP (Universal Machine Pistol) to stworzony w latach 90 pistolet maszynowy produkcji H&amp;K. Zamys³em by³o stworzenie lekkiego i potê¿nego pistoletu maszynowego, który by³by tañszy w produkcji ni¿ MP5. UMP, bêd¹c przeznaczonym g³ównie na rynek amerykañski, pojawi³ siê w wersjach .45ACP i .40SW, a póŸniej równie¿ w 9mm. Zapewniaj¹c wiêksz¹ si³ê pocisku ni¿ MP5, UMP45 generuje wy¿sz¹ si³ê odrzutu ni¿ MP5. W celu zwalczenia tego problemu szybkostrzelnoœæ UMP45 musia³a zostaæ obni¿ona.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] Gemtech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optytka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik Gemtech\n \n</text>
 	</string>	
 	<string id="st_wpn_ump45_worn">	
 		<text>UMP45 (u¿ywany)</text>
@@ -1794,7 +1794,7 @@
 		<text>USAS-12</text>
 	</string>	
 	<string id="st_wpn_usas12_descr">	
-		<text>The Daewoo Precision Industries USAS-12 (Universal Sports Automatic Shotgun 12 gauge) is an automatic shotgun designed for combat manufactured in South Korea by Daewoo Precision Industries in 1980s. How a Korean gun made it into Ukraine is something stalkers would very much like to know. Maybe there's a K2 rifle out there.\n \n</text>
+		<text>USAS-12 (Universal Sports Automatic Shotgun, kaliber 12) to koreañska strzelba automatyczna produkcji Daewoo Precision Industries. Jakim cudem koreañska broñ znalaz³a siê w Zonie? Wielu stalkerów równie¿ zadaje sobie to pytanie.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_usp">	
@@ -1807,121 +1807,121 @@
 		<text>USP45 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_usp_descr">	
-		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fibre-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n \n
+		<text>USP (Universal Self loading Pistol) to niemiecki pistolet produkcji H&amp;K zaprojektowany z myœl¹ o rynku amerykañskim. Znany jako celna i niezawodna broñ boczna. S³u¿by porz¹dkowe i wojsko amerykañskie stawi³y wiele wymagañ, co do projektu USP. Posiada on typowo amerykañskie przyrz¹dy, na które wp³ynê³y s³awne projekty pokroju pistoletu 1911. Wszystkie pistolety USP posiadaj¹ wzmocnion¹ w³óknami wêglowymi polimerow¹ ramê, usztywnian¹ wk³adkami ze stali nierdzewnej w miejscach podatnych na przeci¹¿enia. Jest dziêki temu w stanie pozostaæ sprawnym w najciê¿szych warunkach. Jest na wyposa¿eniu licznych s³u¿b i oddzia³ów specjalnych na ca³ym œwiecie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (wymaga modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik .45 ACP</text>
 	</string>	
 	<string id="st_wpn_usp_match">	
 		<text>USP Match</text>
 	</string>	
 	<string id="st_wpn_usp_match_descr">	
-		<text>An enhanced USP by HK with distinct characteristics that make it more attractive to the target shooter. With the O-Ring barrel first seen in the Mark 23, the Match includes compensator that helps reduce the relatively mild kick of the 9x19. The Match also features polygonal rifling, a trigger stop, and fully adjustable rear sight.\n \n
+		<text>Ulepszony pistolet H&amp;K USP z modyfikacjami zbli¿aj¹cymi go do pistoletu sportowego. W z uszczelnion¹ luf¹ znan¹ z modelu Mark 23, Match posiada równie¿ kompensator redukuj¹cy i tak niewielki ju¿ odrzut kalibru 9x19. Posiada równie¿ wielok¹tne gwintowanie, blokadê jêzyka spustowego, i w pe³ni regulowany tylny celownik.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik GemTech (wymaga modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik GemTech</text>
 	</string>	
 	<string id="st_wpn_usp_nimble">	
 		<text>USP "Marsz"</text>
 	</string>	
 	<string id="st_wpn_usp_nimble_descr">	
-		<text>A compact, large calibre pistol with short bolt movement and lightweight bolt assembly. Used to belong to a mercenary called Wolfhound. Appears to be a modified USP Compact pistol.\n \n
+		<text>Kompaktowy pistolet du¿ego kalibru z zamkiem o krótkim skoku i lekk¹ komor¹ zamkow¹. Nale¿a³ do najemnika zwanego Wilczarzem. Zdaje siê byæ zmodyfikowanym egzemplarzem pistoletu USP Compact.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik GemTech (wymaga modyfikacji)</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik GemTech</text>
 	</string>	
 	<string id="st_wpn_usp_worn">	
 		<text>USP45 (u¿ywany)</text>
 	</string>	
 		
 	<string id="st_wpn_val">	
-		<text>AS Wa³</text>
+		<text>AS Val</text>
 	</string>	
 	<string id="st_wpn_val_descr">	
-		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n \n
+		<text>AS Val (Wa³) to rosyjski karabinek kalibru 9x39 strzelaj¹cy amunicj¹ subsoniczn¹. Przewa¿nie na wyposa¿eniu rosyjskich oddzia³ów rozpoznania, si³ MSW i FSB. AS Val to konstrukcja zasilana gazowo, z charakterystycznym zintegrowanym z luf¹ t³umikiem. Komorê zamkow¹ wykonano z kutej stali w celu zwiêkszenia wytrzyma³oœci. Posiada standardow¹, montowan¹ na boku szynê monta¿ow¹ do optyki i przyrz¹dów noktowizyjnych. T³umik mo¿na zdemontowaæ jedynie w celu konserwacji lub naprawy i nie zaleca siê strzelania bez jego obecnoœci.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29,  PSO-1M2-1 \n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n</text>
 	</string>	
 	<string id="st_wpn_val_modern">	
-		<text>AS Wa³ (wspó³czesny)</text>
+		<text>AS Val (wspó³czesny)</text>
 	</string>	
 	<string id="st_wpn_val_modern_descr">	
-		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n \n
+		<text>AS Val (Wa³) to rosyjski karabinek kalibru 9x39mm strzelaj¹cy amunicj¹ subsoniczn¹. Przewa¿nie na wyposa¿eniu rosyjskich oddzia³ów rozpoznania, si³ MSW i FSB. AS Val to konstrukcja zasilana gazowo, z charakterystycznym zintegrowanym z luf¹ t³umikiem. Komorê zamkow¹ wykonano z kutej stali w celu zwiêkszenia wytrzyma³oœci. Posiada standardow¹, montowan¹ na boku szynê monta¿ow¹ do optyki i przyrz¹dów noktowizyjnych. T³umik mo¿na zdemontowaæ jedynie w celu konserwacji lub naprawy i nie zaleca siê strzelania bez jego obecnoœci.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 \n
 		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
 	</string>	
 	<string id="st_wpn_val_worn">	
-		<text>AS Wa³ (u¿ywany)</text>
+		<text>AS Val (u¿ywany)</text>
 	</string>	
 		
 	<string id="st_wpn_vepr12">	
-		<text>Wepr-12 "M³ot"</text>
+		<text>Wepr-12 M³ot</text>
 	</string>	
 	<string id="st_wpn_vepr12_descr">	
-		<text>The Vepr-12 is a multi-purpose semi-automatic shotgun, created by Molot-Oruzhie Ltd. It is patterned after Kalashnikov rifles, and built on the heavy RPK light machine gun receiver. Like the Kalashnikov rifle, it is a rotating bolt, gas operated gun that feeds from a 10 round magazine.\n \n
+		<text>Wepr-12 to wszechstronna strzelba automatyczna stworzona przez rosyjsk¹ firmê Molot Arms LLC. Konstrukcja wzoruje siê na karabinach AK i jest zbudowana na ciê¿kiej komorze zamkowej karabinu RPK. Dok³adnie jak karabin Ka³asznikowa, jest to broñ z obrotowym zamkiem, zasilana gazowo. Posiada 10-nabojowy magazynek.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 \n
-		%c[d_purple] • %c[ui_gray_2] PBS-1 \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka EKP-8-02 Kobra, 1P29, PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] t³umik PBS-1\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_vihr">	
 		<text>SR-3M Wichr</text>
 	</string>	
 	<string id="st_wpn_vihr_descr">	
-		<text>The SR-3 "Vikhr" ("Whirlwind") compact assault rifle was developed in CNIITochMash and manufactured by Tula Arms Plant. Initially known as "MA" (Malogabaritnyj Avtomat - small size assault rifle), it was based on the suppressed 9x39mm AS-Val assault rifle, and intended for concealed carry by special VIP protection teams and State Security operatives, SR3M Vikhr is result of combining the qualities of SR-3, AS VAL and VSS Vintorez. SR-3M also has a larger capacity of 30 rounds, which also provides more reliable feeding during automatic fire.\n \n
+		<text>SR-3 "Wichr" ("Tr¹ba Powietrzna") to kompaktowy karabin szturmowy kalibru 9x39mm zaprojektowany w Oœrodku Badawczym w Klimowsku i zbudowany przez Zak³ady Zbrojeniowe Tu³a. Pocz¹tkowo znany jako "MA" (Malogabarytnyj Automat - lekki karabin automatyczny), bazowa³ konstrukcj¹ na karabinku AS Val i przeznaczony g³ównie do ochrony wa¿nych VIPów i funkcjonariuszy pañstwowych. SR-3M Wichr to kombinacja zalet karabinku SR-3, AS Vala i WSS Wintoreza. SR-3M posiada równie¿ wiêkszy magazynek zdolny pomieœciæ 30 nabojów, wraz z bardziej niezawodnym mechanizmem podaj¹cym.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1, PSO-1M2-1 \n
-		%c[d_purple] • %c[ui_gray_2] SR-3M \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1, PSO-1M2-1\n
+		%c[d_purple] • %c[ui_gray_2] t³umik SR-3M\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_vintorez">	
-		<text>VSS Wintorez</text>
+		<text>WSS Wintorez</text>
 	</string>	
 	<string id="st_wpn_vintorez_1pn93_descr">	
-		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		<text>WSS Wintorez (Wintowka Snajpierskaja Spiecialnaja) to karabin wyborowy kalibry 9x39mm strzelaj¹cy amunicj¹ subsoniczn¹. Zaprojektowany w Oœrodku Badawczym w Klimowsku przez zespó³ Petera Serdjukowa z przeznaczeniem dla oddzia³ów Radzieckiego Specnazu, KGB and MSW. WSS jest doceniany przez swoich u¿ytkowników za bezg³oœnoœæ i du¿¹ si³ê ciê¿kiego pocisku 9x39mm. Ze wzglêdu na poddŸwiêkow¹ naturê tej amunicji efektywny zasiêg ostrza³u jest ograniczony do 300-400 metrów. Podstawowe przyrz¹dy celownicze sk³adaj¹ siê z bocznej szyny monta¿owej, na której mo¿na zamontowaæ celownik PSO-1M2-1 4x. Dodatkowe celowniki mechaniczne sk³adaj¹ siê z tylnej krzywki wyskalowanej do maksymalnie 400 metrów i prostej muszki na przodzie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] 1PN93 "Tot" scope (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik 1PN93 "Tot"\n
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n</text>
 	</string>	
 	<string id="st_wpn_vintorez_alt">	
-		<text>VSS Wintorez (alternatywny)</text>
+		<text>WSS Wintorez (alternatywny)</text>
 	</string>	
 	<string id="st_wpn_vintorez_descr">	
-		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		<text>WSS Wintorez (Wintowka Snajpierskaja Spiecialnaja) to karabin wyborowy kalibry 9x39mm strzelaj¹cy amunicj¹ subsoniczn¹. Zaprojektowany w Oœrodku Badawczym w Klimowsku przez zespó³ Petera Serdjukowa z przeznaczeniem dla oddzia³ów Radzieckiego Specnazu, KGB and MSW. WSS jest doceniany przez swoich u¿ytkowników za bezg³oœnoœæ i du¿¹ si³ê ciê¿kiego pocisku 9x39mm. Ze wzglêdu na poddŸwiêkow¹ naturê tej amunicji efektywny zasiêg ostrza³u jest ograniczony do 300-400 metrów. Podstawowe przyrz¹dy celownicze sk³adaj¹ siê z bocznej szyny monta¿owej, na której mo¿na zamontowaæ celownik PSO-1M2-1 4x. Dodatkowe celowniki mechaniczne sk³adaj¹ siê z tylnej krzywki wyskalowanej do maksymalnie 400 metrów i prostej muszki na przodzie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-1 \n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n</text>
 	</string>	
 	<string id="st_wpn_vintorez_nimble">	
-		<text>VSS Wintorez "Fala"</text>
+		<text>WSS Wintorez "Przyp³yw"</text>
 	</string>	
 	<string id="st_wpn_vintorez_nimble_descr">	
-		<text>A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased prêdkoœæ wylotowa and accuracy. It has an effective range of up to 600 metres.\n \n
+		<text>Specjalny, kompleksowo przebudowany wariant s³awnego karabinu wyborowego WSS. Przede wszystkim ulepszono w nim konstrukcjê komory zamkowej, co pozytywnie wp³ynê³o na prêdkoœæ wylotow¹ i p³askoœæ toru lotu pocisku. Posiada efektywny zasiêg ostrza³u do 600 metrów.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] PSO-1 scope (integrated)\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PSO-1\n
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik WSS\n \n</text>
 	</string>	
 	<string id="st_wpn_vintorez_worn">	
-		<text>VSS Wintorez (u¿ywany)</text>
+		<text>WSS Wintorez (u¿ywany)</text>
 	</string>	
 		
 	<string id="st_wpn_vityaz">	
 		<text>PP-19-01 WitiaŸ</text>
 	</string>	
 	<string id="st_wpn_vityaz_descr">	
-		<text>A variant of PP-19 with 30-round magazine chambered for 9x19mm, designed in 2004. It is used by patrol groups, Russian traffic police, Russian security police, and by units of the MVD.\n \n
+		<text>Wariant pistoletu maszynowego PP-19 z 30-nabojowym magazynkiem kalibru 9x19mm. U¿ywany g³ównie przez rosyjskie oddzia³y patrolowe, policjê i si³y rosyjskiego MSW.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech \n
-		%c[d_purple] • %c[ui_gray_2] PBS-1 \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik PBS-1\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_vsk94">	
 		<text>VSK-94</text>
 	</string>	
 	<string id="st_wpn_vsk94_descr">	
-		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmoured targets at ranges up to 400m.\n \n
+		<text>VSK-94 to rosyjski karabin wyborowy kalibru 9x39mm strzelaj¹cy amunicj¹ subsoniczn¹. Zaprojektowany przez Biuro Projektowo-Badawcze Broni Sportowej i Myœliwskiej Tu³a jako tañsza alternatywa dla karabinu WSS. Konstrukcja bazuje na karabinku 9A-91. VSK-94 zaprojektowano w celu ostrzeliwania nieopancerzonych celów na dystansie do 400m.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-1 \n
-		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor (integrated)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: EKP-8-02 Kobra, 1P29, PSO-1M2-1\n
+		%c[d_purple] • %c[ui_gray_2] zintegrowany t³umik 9A-91/VSK-94\n \n</text>
 	</string>	
 	<string id="st_wpn_vsk94_worn">	
 		<text>VSK-94 (u¿ywany)</text>
@@ -1931,9 +1931,9 @@
 		<text>VSSK Wych³op</text>
 	</string>	
 	<string id="st_wpn_vssk_descr">	
-		<text>The VSSK is a Russian bullpup, straight-pull bolt-action sniper rifle chambered for the 12.7x55mm subsonic round. The weapon is also known by its other name, Vykhlop. It was developed in 2002 for special forces units of FSB.\n \n
+		<text>VSSK to rosyjski karabin wyborowy konstrukcji bullpup kalibru 12.7x55mm. Posiada zintegrowany t³umik, a wystrzeliwany przez niego pocisk osi¹ga prêdkoœæ poddŸwiêkow¹. Zaprojektowany w 2002 roku na potrzeby si³ oddzia³ów specjalnych FSB.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] PKS-07 scope (integrated)</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowany celownik PKS-07</text>
 	</string>	
 		
 	<string id="st_wpn_vz61">	
@@ -1946,9 +1946,9 @@
 		<text>Skorpion vz.61 (zakamuflowany)</text>
 	</string>	
 	<string id="st_wpn_vz61_descr">	
-		<text>Originally chambered for .32 ACP when adopted by the Czechoslovak Army in 1961, mass production of the Skorpion vz. 68 never took place. Even so, a large number of pre-production vz. 68 models made their way into the Zone. \n \n
+		<text>Czechos³owacki pistolet maszynowy kalibru .32 ACP. Nigdy nie trafi³ do produkcji masowej, jednak du¿a liczba przedprodukcyjnych egzemplarzy zdo³a³a trafiæ do Zony.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z 9x19 (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z 9x19\n \n</text>
 	</string>	
 	<string id="st_wpn_vz61_freedom">	
 		<text>Skorpion vz.61 (Kamufla¿ Wolnoœci)</text>
@@ -1971,23 +1971,23 @@
 		<text>Walther P99 (niestandardowy)</text>
 	</string>	
 	<string id="st_wpn_walther_descr">	
-		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
+		<text>Walther P99 to niemiecki pistolet samopowtarzalny. Przeznaczony dla rynku cywilnego i zastosowañ w s³u¿bach porz¹dkowych, jest obecnie na wyposa¿eniu wielu jednostek policyjnych na ca³ym œwiecie. Konstrukcja dzia³a na zasadzie krótkiego odrzutu lufy, a ramê wykonano z materia³ów polimerowych. Produkowany równie¿ na licencji w polskiej Fabryce Broni "£ucznik".\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z 9x19</text>
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 9x19mm</text>
 	</string>	
 	<string id="st_wpn_walther_worn">	
 		<text>Walther P99 (u¿ywany)</text>
 	</string>	
 		
 	<string id="wpn_tt33_descr">	
-		<text>The TT-33 is a Russian 7.62x25mm pistol. It was developed in the early 1930s by Fedor Tokarev as a service pistol for the Soviet military to replace the Nagant M1895 revolver. Many communist or Soviet bloc countries made a variation of the TT-33 pistol, until it was eventually replaced by 9x18mm Makarov PM in 1952. Production of the TT-33 in the USSR ended in 1954.</text>
+		<text>TT-33 to rosyjski pistolet kalibru 7.62x25mm. Jego projekt powsta³ we wczesnych latach 30., a jego autorem by³ Fiodor Tokarew. Wprowadzono go na wyposa¿enie Armii Radzieckiej jako nastêpcê rewolweru Nagant M1895. Pistolet ten produkowano w wielu ró¿nych wersjach w pañstwach cz³onkowskich ZSRR, do czasu zast¹pienia go przez Pistolet Makarowa w 1952 roku. Dwa lata póŸniej produkcja pistoletu TT-33 w Zwi¹zku Radzieckim zosta³a zakoñczona.</text>
 	</string>	
 		
 	<string id="st_wpn_umirotvoritel">	
 		<text>Niezidentyfikowana broñ</text>
 	</string>	
 	<string id="st_wpn_umirotvoritel_descr">	
-		<text>An unknown weapon, the firing mechanism of which has not been established. The weapon appears faulty - squeezing the trigger doesn't do anything. It's very heavy and definitely high-tech. Of note is that it appears not to fire bullets based on ignition. Most probably, the rounds are propelled by electro-magnetic forces. One can only suspect what kind of destructive potential it possesses.</text>
+		<text>Nieznana broñ, o niezidentyfikowanym mechanizmie. Zdaje siê byæ niefunkcjonalna - poci¹gniêcie jêzyka spustowego nie przynosi ¿adnego efektu. Bardzo ciê¿ka i zaawansowana technologicznie. Po bli¿szej inspekcji mo¿na zauwa¿yæ, ¿e nie uœwiadczymy tu amunicji prochowej. Wygl¹d na to, ¿e pociski s¹ napêdzane energi¹ elektromagnetyczn¹. Mo¿na siê jedynie domyœlaæ, jak niszczycielsk¹ si³ê mo¿e posiadaæ sprawny egzemplarz.</text>
 	</string>	
 		
 	<!-- New -->	
@@ -1995,77 +1995,78 @@
 		<text>ASz-12.7</text>
 	</string>	
 	<string id="st_wpn_ash12_descr">	
-		<text>The ASh-12.7 (ÀØ-12.7, which stands for "Àâòîìàò øòóðìîâîé 12.7ìì" or "Automatic assault rifle, 12.7mm") battle rifle is a dedicated CQB/Urban Operations weapon, developed by TsKIB SOO ("Central Design and Research Bureau of Sporting and Hunting Arms"), a subsidiary of the KBP Instrument Design Bureau of Tula, Russia, by request from the Russian FSB (Federal Security Service). The weapon was designed with extreme short-range stopping power in mind because it is intended for special units of the FSB which operate in urban environments against heavily armed and organized gangsters and terrorists who need to be killed in one shot. According to the Russian press, the first batch of ASh-12.7 assault rifles was delivered to the FSB.\n \n
+		<text>The ASh-12.7 ("Awtomat Szturmowoj-12.7" / "Automatyczny karabin szturmowy kalibru 12.7mm") to broñ dedykowana do walki w przestrzeniach zamkniêtych i terenach miejskich. Zaprojektowana przez Centralne Biuro Projektowo-Badawcze Broni Sportowej i Myœliwskiej Tu³a na potrzeby FSB (Federal Security Service). Broñ t¹ zaprojektowano z myœl¹ o ekstremalnej sile pocisku na krótkim dystansie ze wzglêdu na naturê operacji oddzia³ów specjalnych FSB dzia³aj¹cych w przestrzeniach miejskich przeciw ciê¿ko opancerzonym i zorganizowanym przestêpcom i terrorystom.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_aug_a3">	
 		<text>Steyr AUG A3</text>
 	</string>	
 	<string id="st_wpn_aug_a3_descr">	
-		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) is an Austrian 5.56x45mm NATO bullpup assault rifle, designed in the 1960s by Steyr-Daimler-Puch and now manufactured by Steyr Mannlicher GmbH & Co KG. The Steyr AUG A3 differs from the base model in the presence of four Picatinny slats: the top one is used for attaching sights, a grenade launcher or a vertical front handle can be attached to the bottom, and a laser pointer or other necessary additional equipment is attached to the side.\n \n
+		<text>Steyr AUG (Armee Universal Gewehr - Uniwersalny Karabin Wojskowy) to austriacki karabin szturmowy kalibru 5.56x45mm typu bullpup zaprojektowany w latach 60. przez Steyr-Daimler-Puch. Obecnie produkowany przez Steyr Mannlicher GmbH & Co KG. Steyr AUG A3 ró¿ni siê od bazowego modelu trzema listwami Picatinny: górn¹, do monta¿u optyki, przedni¹, na granatnik lub uchwyt pionowy oraz boczn¹, na pomocniczy celownik laserowy, latarkê, itp.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_mk14">	
 		<text>Mk 14 EBR</text>
 	</string>	
 	<string id="st_wpn_mk14_descr">	
-		<text>United States Navy Mark 14 Enhanced Battle Rifle (Mk 14 Enhanced Battle Rifle, "improved combat rifle") - American Marksman rifle, created by special operations of the US Navy based on the M14 rifle. Used by a number of special units of the Navy, including SEAL.\n \n
+		<text>Mk 14 Enhanced Battle Rifle to amerykañski karabin wyborowy stworzony na potrzeby oddzia³ów specjalnych US Navy Seals. Jego konstrukcja bazuje na karabinie M14.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_fal">	
 		<text>FN FAL</text>
 	</string>	
 	<string id="st_wpn_fal_descr">	
-		<text>FN FAL is a NATO firearm produced in Belgium by Fabrique Nationale de Herstal. One of the most recognized and popular automatic rifles. The FN FAL was originally developed for an intermediate 7.92x33 mm cartridge used by the Germans during World War II, then prototypes for the .280 British cartridge appeared. It was later remade chambered for 7.62x51 mm NATO, adopted as a single patron for NATO countries. During the Cold War, it received the nickname "the right hand of the free world."\n \n
+		<text>FN FAL to belgijski karabin szturmowy produkowany przez FN Herstal. Jeden z najbardziej rozpoznawalnych karabinów automatycznych. Pocz¹tkowo rozwijany z myœl¹ o naboju poœrednim 7.92x33 mm, u¿ywanym przez Niemcy podczas II Wojny Œwiatowej. Nastêpnie powsta³y prototypy kalibru .280, a nastêpnie konstrukcjê przerobiono pod nabój 7.62x51 mm NATO. Podczas zimnej wojny zyska³ przydomek "prawej rêki wolnego œwiata."\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_fort500">	
 		<text>Fort-500</text>
 	</string>	
 	<string id="st_wpn_fort500_descr">	
-		<text>The Fort-500 smoothbore rifle was developed by the Fort NGO of the Ministry of Internal Affairs of Ukraine in the late 1990s, and was intended to arm the staff of the Ministry of Internal Affairs and security services of Ukraine. At present, the FORT-500 rifle in limited quantities is in service with the special units of the Ministry of Internal Affairs of Ukraine, and is also sold to citizens of this country in a hunting variant.\n \n</text>
+		<text>Fort-500 to ukraiñska strzelba g³adkolufowa stworzona prze Organizacjê Fort w póŸnych latach 90. Trafi³a na wyposa¿enie personelu ukraiñskich si³ porz¹dkowych i Ministerstwa Spraw Wewnêtrznych. Obecnie niewielka liczba strzelb Fort-500 pozostaje na wyposa¿eniu MSW, a jej myœliwska odmiana jest sprzedawana na rynku cywilnym.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_m82">	
 		<text>Barrett M82</text>
 	</string>	
 	<string id="st_wpn_m82_descr">	
-		<text>Barrett M82, in the documentation of the US Armed Forces M107 - American self-loading large-caliber sniper rifle, manufactured by Barrett Firearms Manufacturing and in service with several countries around the world. The automatics of this rifle are based on a butterfly valve. The rifle belongs to the class of "antimaterial", but is more often used as a weapon against enemy infantry.\n \n</text>
+		<text>Barrett M82 to wielkokalibrowy samopowtarzalny karabin snajperski stworzony przez amerykañsk¹ firmê zbrojeniow¹ Barrett Firearms Manufacturing. Jest na wyposa¿eniu wielu si³ zbrojnych na ca³ym œwiecie. Dzia³anie tego karabinu opiera siê o zawór motylkowy. Nale¿y do klasy broni przeciwpancernej, jednak jest najczêœciej stosowana przeciwko piechocie.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_remington700">	
 		<text>Remington 700</text>
 	</string>	
 	<string id="st_wpn_remington700_descr">	
-		<text>There are many options for a different rifle cartridge. Standard cartridge - 7.62x51 mm NATO (.308 Win). Technically, it is a magazine rifle with a longitudinally sliding rotary bolt. Store capacity depends on the caliber and can be from 3 to 5. It is a top product from Remington Arms.\n \n
+		<text>Amerykañski karabin powtarzalny kalibru 7.62x51 mm NATO (.308 Winchester) opracowany przez firmê Remington Arms. Pojemnoœæ magazynka jest zale¿na od kalibru i wynosi od 3 do 5 nabojów.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (wymaga modyfikacji)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] zintegrowana luneta Leupold Mark 4\n
+		%c[d_purple] • %c[ui_gray_2] t³umik KZRZP (wymaga modyfikacji)\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_remington870">	
 		<text>Remington 870</text>
 	</string>	
 	<string id="st_wpn_remington870_descr">	
-		<text>Remington 870 is an American gun, first introduced in 1950 by Remington Arms. Due to its characteristic recharge is one of the most famous pump-action rifles in the world. Produced in various versions, it is suitable for both the military and the police, for hunters and athletes, as well as for self-defense.\n \n
+		<text>Remington 870 to amerykañska strzelba powtarzalna opracowana w latach 50. przez firmê Remington Arms. Ze wzglêdu na swój charakterystyczny sposób prze³adowania jest jedn¹ z najbardziej rozpoznawalnych strzelb typu pump action. W zale¿noœci od wersji, nadaje siê do u¿ycia przez wojsko, policjê, myœliwych i sportowców, zarówno jak i cywili.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: Barska ES AC10632, C-more Railway Tactical, EOTech\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_wa2000">	
 		<text>Walther WA 2000</text>
 	</string>	
 	<string id="st_wpn_wa2000_descr">	
-		<text>The Walther WA 2000 is a semi-automatic bullpup sniper rifle produced by the Carl Walther GmbH Sportwaffen company from 1982 until 1988. It was produced in three different calibers. Production of the rifle was limited and it was shortly stopped because it was too expensive to achieve widespread sales and not robust enough for military use as a sniper rifle. Only 176 were built due to its high cost, making it one of the rarest and most sought production firearms ever made.\n \n
+		<text>Walther WA 2000 to pó³automatyczny karabin wyborowy opracowany przez firmê Carl Walther GmbH Sportwaffen w latach 80. Jego produkcja zosta³a ograniczona przez zbyt wysokie koszty wzglêdem popytu, a jego konstrukcja by³a zbyt delikatna do u¿ycia w wojsku. Powsta³o jedynie 176 sztuk, co czyni z niego jedn¹ z najrzadszych i po¿¹danych broni produkowanych seryjnie.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (wymaga modyfikacji)\n \n</text>
 	</string>	
@@ -2074,21 +2075,21 @@
 		<text>Wyt³umiony APB</text>
 	</string>	
 	<string id="st_wpn_apb_descr">	
-		<text>The APB (Avtomaticheskij Pistolet Besshumnyj – automatic silenced pistol) is a further development of the Stechkin APS automatic pistol. APB has been developed by 1972 for Soviet Spetsnaz and KGB units, and has been widely used in Afghanistan and later conflicts. All APB pistols were reworked from earlier Stechkin APS pistols. The APB, with the silencer fitted, is as loud as a non-silenced .22 caliber pistol, and is very accurate and controllable, especially with the shoulder stock fitted.\n \n</text>
+		<text>APB (Automaticzeski Pistolet Bezszumny) to rozwiniêcie automatycznego pistoletu Steczkin APS. APB powsta³ w 1972 roku na potrzeby radzieckiego Specnazu i oddzia³ów KGB. Zosta³ u¿yty w akcji w Afganistanie, a nastêpnie w póŸniejszych konfliktach. G³oœnoœæ APB z zamontowanym t³umikiem jest równa niewyciszonemu pistoletowi kalibru .22. Odrzut jest ³atwy do opanowania, szczególnie z zastosowaniem dodatkowej kolby ramiennej.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_cz52">	
 		<text>CZ 52</text>
 	</string>	
 	<string id="st_wpn_cz52_descr">	
-		<text>The CZ 52 (also known by the Czechoslovak military designations vz. 52, for (vz. - vzor = model) "model of 1952", and CZ 482) is a semi-automatic pistol designed by two brothers, Jan and Jaroslav Kratochvil, in the early 1950s for the Czechoslovak military. Around 200,000 vz. 52s were made by Ceska Zbrojovka in Strakonice from 1952 to 1954. Before standardizing on the 7.62x25mm vz. 52, the Czechoslovak military used several domestic and foreign pistol models in three different calibers.\n \n</text>
+		<text>CZ 52 (znany równie¿ z Czechos³owackiego oznaczenia vz. 52 i CZ 482) to pistolet pó³automatyczny zaprojektowany na potrzeby Armii Czechos³owackiej przez braci Jana i Jaroslava Kratochvili we wczesnych latach 50. Ceska Zbrojovka w Strakonicach wyprodukowa³a oko³o 200,000 egzemplarzy pistoletu vz. 52s w okresie od 1952 do 1954.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_fnc">	
 		<text>FN FNC</text>
 	</string>	
 	<string id="st_wpn_fnc_descr">	
-		<text>The FNC (Fabrique Nationale Carabine) is a 5.56x45mm NATO assault rifle developed by the Belgian arms manufacturer FN Herstal and introduced in the late 1970s.\n \n
+		<text>FNC (Fabrique Nationale Carabine) to karabin szturmowy kalibru 5.56x45mm NATO opracowany przez FN Herstal w póŸnych latach 70.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
 		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n
 		</text>
@@ -2098,27 +2099,27 @@
 		<text>HK417</text>
 	</string>	
 	<string id="st_wpn_hk417_descr">	
-		<text>The Heckler & Koch HK417 is a battle rifle designed and manufactured by Heckler & Koch in Germany. It is the larger caliber version of the HK416, and chambered for the full-power 7.62x51mm NATO rifle cartridge. It is a gas-operated, selective fire rifle with a rotating bolt. The HK417 is intended for use in roles where the greater penetrative power, stopping power, and range of the 7.62x51mm cartridge are required. It has been adopted for service by a number of armed forces, special forces, and police organizations.\n \n
+		<text>HK417 to karabin szturmowy zaprojektowany i stworzony przez przez niemieck¹ firmê Heckler & Koch. To odmiana karabinu HK416 o kalibrze 7.62x51mm NATO. To zasilana gazowo konstrukcja z obrotowym zamkiem i selektywnym trybem ognia. HK417 zosta³ zaprojektowany z myœl¹ o sytuacjach, które wymagaj¹ energii kinetycznej i zasiêgu, jakie oferuje nabój 7.62x51mm. Zosta³ wprowadzony na wyposa¿enie w wielu si³ach zbrojnych, oddzia³ach specjalnych i jednostkach policji.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 5.56x45\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_m60">	
 		<text>M60</text>
 	</string>	
 	<string id="st_wpn_m60_descr">	
-		<text>The M60, officially the United States Machine Gun, Caliber 7.62 mm, M60, is a family of American general-purpose machine guns firing 7.62x51mm NATO cartridges from a disintegrating belt of M13 links. There are several types of amunicja approved for use in the M60, including ball, tracer, and armor-piercing rounds.\n \n</text>
+		<text>M60 officially the United States Machine Gun, Caliber 7.62 mm, M60, is a family of American general-purpose machine guns firing 7.62x51mm NATO cartridges from a disintegrating belt of M13 links. There are several types of amunicja approved for use in the M60, including ball, tracer, and armor-piercing rounds.\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_mp7">	
 		<text>MP7</text>
 	</string>	
 	<string id="st_wpn_mp7_descr">	
-		<text>The Heckler & Koch MP7 (Maschinenpistole 7) is a German personal defence weapon (PDW) designed and manufactured by Heckler & Koch (H&K) and chambered for the HK 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements call for a personal defense weapon (PDW) class firearm, with a greater ability to penetrate body armor than current weapons limited to conventional pistol cartridges. The MP7 went into production in 2001.\n \n
+		<text>MP7 (Maschinenpistole 7) to niemiecki pistolet maszynowy German typu PDW zaprojektowany i stworzony przez firmê Heckler & Koch. Zaprojektowano go wraz z nowym rodzajem amunicji HK 4.6x30mm w celu zaspokojenia wymogów NATO opublikowanych w 1989 roku. Wyra¿ono w nich zapotrzebowanie na broñ ochrony osobistej (PDW), której zdolnoœæ przebicia wspó³czesnej kamizelki kuloodpornej przewy¿sza³aby konwencjonaln¹ amunicjê pistoletow¹. MP7 wszed³ do produkcji masowej w 2001 roku.\n \n
 		%c[ui_gray_2]OSPRZÊT: \n
-		%c[d_purple] • %c[ui_gray_2] 9x19 compatible \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech \n \n</text>
+		%c[d_purple] • %c[ui_gray_2] optyka: ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech\n
+		%c[d_purple] • %c[ui_gray_2] t³umik kompatybilny z kalibrem 9x19mm\n \n</text>
 	</string>	
 		
 	<string id="st_wpn_xm8">	
@@ -2140,43 +2141,43 @@ Grenades
 		<text>Granat F1</text>
 	</string>	
 	<string id="st_grenade_f1_descr">	
-		<text>A defensive hand grenade, with fragments capable of piercing medium level body armour. The grenade has an approximately 4 metre kill radius. Stalkers get F1 grenades from trading with the military, who write them off as having been used for fighting mutants.\n \n
-		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]high\n
-		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.2 m\n
-		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]48 m\n
-		%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]380 (small shrapnels)\n
-		%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]~4 seconds</text>
+		<text>Radziecki granat obronny. Jego fragmenty s¹ zdolne przebiæ œredniej gruboœci kamizelkê kuloodporn¹. Promieñ ra¿enia wynosi oko³o 4 metry. Granaty F1 trafiaj¹ w rêce stalkerów za spraw¹ handlu z ¿o³nierzami, którzy protoko³uj¹ je, jako u¿yte w walce przeciw mutantom.\n \n
+		%c[d_purple] • %c[ui_gray_2] Si³a wybuchu: %c[ui_gray_1]wysoka\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ ra¿enia: %c[ui_gray_1]4.2 m\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ fragmentacji: %c[ui_gray_1]48 m\n
+		%c[d_purple] • %c[ui_gray_2] Œrednia liczba od³amków: %c[ui_gray_1]380 (niewielkie od³amki)\n
+		%c[d_purple] • %c[ui_gray_2] OpóŸnienie eksplozji: %c[ui_gray_1]~4 s</text>
 	</string>	
 		
 	<string id="st_grenade_rgd5">	
 		<text>Granat RGD-5</text>
 	</string>	
 	<string id="st_grenade_rgd5_descr">	
-		<text>An offensive hand grenade with a small kill zone of about 3 metres. Often used by stalkers to "smoke out" mutants due to its relatively low cost.\n \n
-		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
-		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]3,2 m\n
-		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]43 m\n
-		%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]240 (small shrapnels)\n
-		%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]~4 seconds</text>
+		<text>Radziecki granat od³amkowy, odpowiednik amerykañskiego M67. Promieñ ra¿enia wynosi oko³o 3 metry. Czêsto u¿ywany przez stalkerów w walce z mutantami, ze wzglêdu na ich niski koszt.\n \n
+		%c[d_purple] • %c[ui_gray_2] Si³a wybuchu: %c[ui_gray_1]œrednia\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ ra¿enia: %c[ui_gray_1]3,2 m\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ fragmentacji: %c[ui_gray_1]43 m\n
+		%c[d_purple] • %c[ui_gray_2] Œrednia liczba od³amków: %c[ui_gray_1]240 (niewielkie od³amki)\n
+		%c[d_purple] • %c[ui_gray_2] OpóŸnienie eksplozji: %c[ui_gray_1]~4 s</text>
 	</string>	
 		
 	<string id="st_grenade_smoke">	
 		<text>Granat dymny</text>
 	</string>	
 	<string id="st_grenade_smoke_descr">	
-		<text>A hand smoke grenade. Used to put up smoke screens. Once the grenade is thrown it takes 10 seconds for the smoke screen to expand.</text>
+		<text>Rêczny granat dymny. Od rzucenia granatu do pe³nego rozszerzenia siê zas³ony dymnej musi min¹æ oko³o 10 sekund.</text>
 	</string>	
 		
 	<string id="st_grenade_thermite">	
 		<text>Granat termitowy</text>
 	</string>	
 	<string id="st_grenade_thermite_descr">	
-		<text>An incendiary grenade (or thermite grenade) that produces intense heat (2,200 °C or 3,992 °F) by means of a chemical reaction in which powdered aluminium and iron oxide react to produce a stream of molten iron and aluminium oxide. Filled with 600 to 800 grams of thermite.\n \n
-		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]medium (thermal damage)\n
-		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.6 m\n
-		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]none\n
-		%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]none\n
-		%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]~4 seconds</text>
+		<text>Granat zapalaj¹cy (lub termitowy) zdolny wytworzyæ ogromn¹ temperaturê (2,200 °C / 3,992 °F) dziêki reakcji sproszkowanego aluminium i tlenku ¿elaza produkuj¹cej strumieñ p³ynnego ¿elaza i tlenku glinu. Wype³niony 600 lub 800 gramami termitu.\n \n
+		%c[d_purple] • %c[ui_gray_2] Si³a wybuchu: %c[ui_gray_1]œrednia (obra¿enia termiczne)\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ ra¿enia: %c[ui_gray_1]4.6 m\n
+		%c[d_purple] • %c[ui_gray_2] Promieñ fragmentacji: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] Œrednia liczba od³amków: %c[ui_gray_1]brak\n
+		%c[d_purple] • %c[ui_gray_2] OpóŸnienie eksplozji: %c[ui_gray_1]~4 s</text>
 	</string>	
 		
 <!--		
@@ -2186,22 +2187,22 @@ Grenades
 		<text>Bagnet M9</text>
 	</string>	
 	<string id="st_knife_combat_descr">	
-		<text>\n \n%c[ui_gray_1]A large multi-purpose knife with a rugged rubber handle, commonly used by US soldiers since 1986. Sharp and well maintained. Although it's inconvenienced when facing heavily protected opponents, its toothed blade is ideal for causing massive, bleeding wounds to softer targets. This is makes it a perfect choice for finishing off wounded animals, or silently getting the drop on light infantry.</text>
+		<text>\n \n%c[ui_gray_1]Du¿y i wszechstronny nó¿ z antypoœlizgowym gumowym uchwytem, u¿ywany przewa¿nie przez amerykañskich ¿o³nierzy od 1986 roku. Zêbate ostrze œwietnie nadaje siê do zadawania ciê¿kich ran lekko opancerzonym celom.</text>
 	</string>	
 		
 	<string id="st_knife_6x4">	
 		<text>Bagnet 6H4</text>
 	</string>	
 	<string id="st_knife_6x4_descr">	
-		<text>\n \n%c[ui_gray_1]Soviet-Polish bayonet first adopted in 1972 for use with AK rifles. Although highly durable, it is much better at thrusting than it is at chopping or slashing.\n \n
-		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+		<text>\n \n%c[ui_gray_1]Radziecki bagnet wprowadzony w 1972 roku do u¿ycia z karabinami serii AK. Mimo swojej wytrzyma³oœci, nadaje siê bardziej do pchniêæ, ni¿ ciêcia.\n \n
+		%c[d_red] • %c[d_red] nie nadaje siê do skórowania mutantów o twardej skórze</text>
 	</string>	
 		
 	<string id="st_knife_hunting">	
 		<text>Nó¿ myœliwski</text>
 	</string>	
 	<string id="st_knife_hunting_descr">	
-		<text>\n \n%c[ui_gray_1]A modern, highly durable hunting knife with a large blade of stainless steel. Ideal for field dressing the meat off larger animals with thick hides. It is also able to cause massive, bleeding wounds to exposed flesh. As it wasn't intended for use in battle, it struggles against combat armours.</text>
+		<text>\n \n%c[ui_gray_1]Nowoczesny i wytrzyma³y nó¿ myœliwski o du¿ym ostrzu ze stali nierdzewnej. Idealny do oporz¹dzania zwierzyny o grubej skórze. Jest w stanie zadaæ g³êbokie, krwawi¹ce rany przeciwnikowi nieos³oniêtemu pancerzem.</text>
 	</string>	
 		
 	<string id="st_knife_m">	
@@ -2215,8 +2216,8 @@ Grenades
 		<text>Nó¿ harcerski NR-40</text>
 	</string>	
 	<string id="st_knife_needle_descr">	
-		<text>\n \n%c[ui_gray_1]A combat knife, based on designs first adopted by the Soviet Army in WWII. It is technically surplus, and isn't officially used by any modern army.\n \nThis weapon consists of a 152 mm blade with a clip point, a large choil, a black wooden handle, and an S-shaped guard. The guard is "inverted" because standard Soviet Army grips frequently called for holding the knife with the edge facing upwards. The handle is enforced with rugged fabric for a good grip.\n \nAlthough a good combat knife for its time, in the Zone its cutting power is suitable only for utility purposes or for finishing off already helpless opponents. Its piercing power, however, is something to be feared: it is easy to angle this blade's deadly point between the gaps of even modern combat armours.\n \n
-		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants.</text>
+		<text>\n \n%c[ui_gray_1]Nó¿ bojowy bazuj¹cy na projektach przyjêtych przez Armiê Radzieck¹ na pocz¹tku II WŒ. Nie jest obecnie u¿ywany w ¿adnej armii.\n \nSk³ada siê z 152 milimetrowego ostrza typu clip point, rêkojeœci z czarnego drewna, i jelca w kszta³cie litery S. Rêkojeœæ wzbogacono o antypoœlizgowy materia³ poprawiaj¹cy chwyt.\n \nBêd¹c dobrym no¿em w czasach swojej œwietnoœci, w Zonie jego zdolnoœæ do ciêcia mo¿e byæ niewystarczaj¹ca. Nale¿y jednak baczyæ siê pchniêcia, które ze wzglêdu na kszta³t ostrza nadal okazuje siê byæ zabójczym.\n \n
+		%c[d_red] • %c[d_red] nie nadaje siê do skórowania mutantów o twardej skórze.</text>
 	</string>	
 		
 	<string id="st_knife_nr40">	
@@ -2230,40 +2231,40 @@ Grenades
 		<text>Nó¿ Specnazu</text>
 	</string>	
 	<string id="st_knife_swat_descr">	
-		<text>A well-kept blade, ideal for special forces operators participating in surgical strikes. Rumoured to have averted several nuclear incidents during the Cold War. It is a deadly weapon and the only knife in the Zone that is relatively good at both piercing armours and dealing massive tissue damage. The ultimate combat cutlery.</text>
+		<text>Dobrze zachowane ostrze Specnazu, idealne na potrzeby operacji oddzia³ów specjalnych bior¹cych udzia³ w precyzyjnych atakach. Owiane legend¹ potencjalnego zapobiegniêcia kilku nuklearnych konfliktów w trakcie Zimnej Wojny. Jest to zabójcza broñ - jedyny z dostêpnych w Zonie no¿y zdolnych z ³atwoœci¹ przebiæ pancerz, a tak¿e zadaæ powa¿ne obra¿enia tkanki.</text>
 	</string>	
 		
 	<string id="st_axe">	
 		<text>Siekiera</text>
 	</string>	
 	<string id="st_axe_descr">	
-		<text>An axe (or ax) is an implement that has been used for millennia to shape, split and cut wood, to harvest timber, as a weapon, and as a ceremonial or heraldic symbol. The axe has many forms but generally consists of an axe head with a handle, or helve. In the Zone, the axe can ensure your survival thanks to its versatility.\n \n
+		<text>Siekiera to narzêdzie u¿ywane od tysi¹cleci do œcinania drzew, ciêcia opa³u oraz jako broñ. Wystêpuje w wielu formach, lecz przewa¿nie sk³ada siê z g³owicy i uchwytu lub trzonka. Znacznie u³atwia prze¿ycie w Zonie dziêki swojej wszechstronnoœci.\n \n
 		%c[ui_gray_1]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
-		%c[d_cyan] • %c[ui_gray_2] has greater reach compared to knives\n
-		%c[d_cyan] • %c[ui_gray_2] everyday item</text>
+		%c[d_cyan] • %c[ui_gray_2] broñ do walki wrêcz\n
+		%c[d_cyan] • %c[ui_gray_2] daleki zasiêg\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego u¿ytku</text>
 	</string>	
 		
 	<string id="st_axe2">	
 		<text>Siekiera stra¿acka</text>
 	</string>	
 	<string id="st_axe2_descr">	
-		<text>Most commonly employed by firefighters, this heavy axe is often used by stalkers for felling trees, or, like all great things, repurposed for hacking apart one's enemies, living or dead. Thus, it can serve as a formidable weapon in the hands of a skilled stalker.\n \n
+		<text>Przewa¿nie u¿ywana przez stra¿aków, ta ciê¿ka siekiera jest równie¿ doceniana przez Stalkerów, którym s³u¿y jako zarówno jako narzêdzie jak i broñ.\n \n
 		%c[ui_gray_1]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
-		%c[d_cyan] • %c[ui_gray_2] has greater reach compared to knives\n
-		%c[d_cyan] • %c[ui_gray_2] everyday item</text>
+		%c[d_cyan] • %c[ui_gray_2] broñ do walki wrêcz\n
+		%c[d_cyan] • %c[ui_gray_2] daleki zasiêg\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego u¿ytku</text>
 	</string>	
 		
 	<string id="st_axe3">	
 		<text>Siekiera myœliwska</text>
 	</string>	
 	<string id="st_axe3_descr">	
-		<text>Used for thousands of years for cutting wood, hacking flesh, and even as a ceremonial object, this convenient axe comes in many shapes, though always consisting of a cleaver and handle. In a place like the Zone, this axe can mean both life and death.\n \n
+		<text>U¿ywana przez tysi¹clecia do r¹bania drewna, ciêcia miêsa, a nawet jako narzêdzie ceremonialne. Wystêpuje w wielu formach, lecz zawsze sk³ada siê z tasaka i uchwytu. W miejscu takim jak Zona, ta siekiera potrafi byæ niezwyle przydantym narzêdziem.\n \n
 		%c[ui_gray_1]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
-		%c[d_cyan] • %c[ui_gray_2] has greater reach compared to knives\n
-		%c[d_cyan] • %c[ui_gray_2] everyday item</text>
+		%c[d_cyan] • %c[ui_gray_2] broñ do walki wrêcz\n
+		%c[d_cyan] • %c[ui_gray_2] daleki zasiêg\n
+		%c[d_cyan] • %c[ui_gray_2] przedmiot codziennego u¿ytku</text>
 	</string>	
 		
 	<string id="st_grenade_light">	
