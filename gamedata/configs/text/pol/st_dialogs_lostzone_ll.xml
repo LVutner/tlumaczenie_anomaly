@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<string_table>
+<?xml version="1.0" encoding="windows-1250"?>	
+<string_table>	
 	<string id="voronin_living_legend_0">
-		<text>Generale, Pułkownik Pietrienko powiedział, że szukasz ludzi skłonnych odnaleźć pewnego stalkera.</text>
+		<text>Generale, Pułkownik Pietrienko powiedział, że szukacie ludzi skłonnych odnaleźć pewnego stalkera.</text>
 	</string>
 	<string id="voronin_living_legend_1">
-		<text>W rzeczy samej. Nastały ciężkie czasy. Emisje są częste i dewastujące. Maszyna Cudów i Mózgozwęglacz są znów aktywne. Monolit nieustannie próbuje poszerzyć swoje terytorium. Ale dawny sojusznik, legendarny stalker, który niemal zdołał ich wszystkich unicestwić, powrócił. Znalem go jako Naznaczonego, jednak jego prawdziwe imię to Strielok. Mimo, że nie był członkiem Powinności, był zdeterminowanym wojownikiem i jednym z niewielu, którzy dotarli do Elektrowni i zdołali wrócić. Po tym czasie może on posiadać sekretną wiedze, potrzebną do unicestwienia Zony raz na dobre. Znajdź go, lub przynajmniej dowiedz się co wie, byśmy mogli zapewnić odpowiednie wsparcie i osiągnąć nasz wspólny cel.</text>
+		<text>W rzeczy samej. Nastały ciężkie czasy. Emisje są częste i dewastujące. Emitery psioniczne znów odcinają drogę na północ, a Monolit nieustannie próbuje poszerzyć swoje terytorium. Ale dawny sojusznik, legendarny stalker, który niemal zdołał ich wszystkich unicestwić, powrócił. Znałem go jako Naznaczonego, jednak jego prawdziwe imię to Striełok. Mimo, że nie był członkiem Powinności, był zdeterminowanym wojownikiem i jednym z niewielu, którzy dotarli do Elektrowni i zdołali wrócić. Po tym czasie może on posiadać sekretną wiedzę, potrzebną do ostatecznego unicestwienia Zony. Znajdź go lub przynajmniej dowiedz się, co wie, byśmy mogli zapewnić odpowiednie wsparcie i osiągnąć nasz wspólny cel.</text>
 	</string>
 	<string id="voronin_living_legend_2">
-		<text>Odnajdę go, Generale.</text>
+		<text>Możecie na mnie liczyć, Generale.</text>
 	</string>
 	<string id="voronin_living_legend_21">
-		<text>Proszę wybaczyć, Generale. Nie jestem jeszcze gotów na tak ważną misje.</text>
+		<text>Proszę wybaczyć, Generale. Nie jestem jeszcze gotów na tak ważną misję.</text>
 	</string>
 	<string id="voronin_living_legend_3">
-		<text>Dobrze. Dowódca Czystego Nieba okazał chęć współpracy w tej sprawie, więc masz od czego zacząć: dawny przyjaciel Strieloka - Doktor - żyje obecnie w jednym zakątków Wielkich Bagien. Miejsce wydaje się być odgrodzone, ale powinieneś być w stanie się do niego przedostać. Oto koordynaty. Będziesz potrzebował czegoś, co ochroni cię przed promieniowaniem. Znajdź Doktora. Wyciągnij od niego miejscu pobytu Strieloka.</text>
+		<text>Dobrze. Dowódca Czystego Nieba okazał chęć współpracy w tej sprawie, więc masz od czego zacząć: jeden ze wspólników Striełoka - Doktor - obozuje obecnie na terenie Wielkich Bagien. Miejsce wydaje się być odgrodzone, ale powinieneś być w stanie się do niego przedostać. Oto koordynaty. Waszym zadaniem jestn dostanie się do Doktora i nakłonienie go do zdradzenia miejsca pobytu Striełoka.</text>
 	</string>
-	
+
 	<string id="voronin_living_legend_finish_0">
 		<text>Wróciłem, Generale.</text>
 	</string>
 	<string id="voronin_living_legend_finish_1">
-		<text>Nareszcie. Samo to jest imponujące. Zgaduję, że nie wróciłeś z pustymi rękoma.</text>
+		<text>Nareszcie. Samo to jest imponujące. Zgaduję, że nie wróciliście z pustymi rękoma.</text>
 	</string>
 	<string id="voronin_living_legend_finish_2">
-		<text>To prawda. Spotkałem Strieloka i jego grupę. Razem zadaliśmy Monolitowi ciężki cios i zdobyliśmy wyjątkowo rzadki artefakt z samego Sarkofagu. Strielok wyjawił mi nieco sekretów i wręczył mi ten nośnik USB. Jest na nim więcej informacji, niż jestem w stanie opisać.</text>
+		<text>To prawda. Spotkałem Striełoka i jego grupę. Razem zadaliśmy Monolitowi ciężki cios i zdobyliśmy wyjątkowo rzadki artefakt z samego Sarkofagu. Striełok wyjawił mi nieco sekretów i wręczył mi ten nośnik USB. Jest na nim więcej informacji, niż jestem w stanie opisać.</text>
 	</string>
 	<string id="voronin_living_legend_finish_3">
-		<text>Doskonale. Czy odkryłeś sposób, na całkowite oczyszczenie Zony?</text>
+		<text>Doskonale. Czy odkryliście sposób, na całkowite oczyszczenie Zony?</text>
 	</string>
 	<string id="voronin_living_legend_finish_4">
-		<text>Obawiam się, że to niemożliwe. Przynajmniej na ten moment. Strielok próbował to zrobić dawno temu, ale zawiódł. Nadal szuka działającego sposobu. Zalecał nam ostrożność.</text>
+		<text>Obawiam się, że to niemożliwe. Przynajmniej na ten moment. Striełok próbował to zrobić dawno temu, ale zawiódł. Nadal szuka działającego sposobu. Zalecał nam ostrożność.</text>
 	</string>
 	<string id="voronin_living_legend_finish_5">
 		<text>Rozumiem. Pozostaniemy zatem poświęceni naszej misji, tym razem z innym podejściem. Wojen nie wygrywa się z dnia na dzień. Będziemy kontynuować. W między czasie udało ci się wygrać jedną ze swoich. Twoje działania są godne podziwu i zasługujesz na nagrodę.</text>
 	</string>
-	
+		
 	<string id="dushman_living_legend_0">
-		<text>Więc o co chodzi z tym super ważnym zleceniem?</text>
+		<text>Jestem tu w sprawie tego nowego zlecenia.</text>
 	</string>
 	<string id="dushman_living_legend_1">
-		<text>Mała zabawa w chowanego ze spora nagrodą za wygraną. Nasi agenci raportują, że pewien sławny stalker, zwany Strielokiem, powrócił do Zony. Strielok to pewnego rodzaju lokalna legenda. Odwiedził każdy zakątek Zony, dezaktywował instalacje psioniczne, przy okazji wybijając całe zastępy Monolitian. Niektórzy twierdzą, że kilkukrotnie dotarł do Spełniacza Życzeń. W większości to zwykle plotki, ale część z nich została faktycznie potwierdzona przez naszych ludzi. Jeśli przynajmniej połowa z tego, co mówią okaże się prawdą, to Strielok jest w posiadaniu niezwykle wartościowych informacji. Jedyne czego od ciebie oczekuję to odnalezienia go i nakłonienia, by podzielił się tą wiedza. I nie, rozwiązanie siłowe nie wchodzi w grę. Ciekawa odmiana, co? W każdym razie hojnie zapłacę za postępy w tej sprawie. Zainteresowany?</text>
+		<text>Świetnie. Przed tobą mała zabawa w chowanego z wysoką nagrodą dla zwycięzcy. Nasz kontakt z północy dał znać, że Striełok powrócił do Zony. Pewnie o nim słyszałeś - to jedna z lokalnych żywych legend: był wszędzie, widział wszystko, wyłączył instalacje psioniczne i dotarł aż do Elektrowni. Podobno udało mu się to nawet kilka razy... Tak czy inaczej, część z tych historii to zwykłe plotki, ale część udało się rzeczywiście potwierdzić. Twoim zadaniem będzie odnaleźć Striełoka i przekonać go, by przekazał swoje informacje nam, zanim dotrą do niego inne frakcje. I nie, rozwiązanie siłowe nie wchodzi w grę. Zainteresowany?</text>
 	</string>
 	<string id="dushman_living_legend_2">
 		<text>Brzmi jak porządna misja.</text>
@@ -48,39 +48,39 @@
 		<text>Wybacz, nie jestem tym teraz zainteresowany.</text>
 	</string>
 	<string id="dushman_living_legend_3">
-		<text>A właśnie, będą pewne przeszkody. Pewnie zdajesz sobie sprawę, że Stalkerzy i Najemnicy nie mają ze sobą najlepszych kontaktów. Znajdź dobre przebranie i udawaj przyjaciela. Zdobądź ich zaufanie zanim się ujawnisz, lub nie ujawniaj się w ogóle. Upewnij się, że zdobędziesz czego potrzebujesz jeszcze zanim zaczną do ciebie strzelać. Zrozumiano?</text>
+		<text>Oczywiście na twojej drodze pojawią się pewne przeszkody. Pewnie zdajesz sobie sprawę, że Stalkerzy i Najemnicy nie mają ze sobą najlepszych kontaktów. Znajdź dobre przebranie i się nie wychylaj. Zdobądź ich zaufanie zanim się ujawnisz, lub nie ujawniaj się w ogóle. Upewnij się, że zdobędziesz, czego potrzebujesz jeszcze zanim zaczną do ciebie strzelać. Zrozumiano?</text>
 	</string>
 	<string id="dushman_living_legend_4">
-		<text>Szpiegowska robota, hm? Myślę, że się podejmę.</text>
+		<text>Jasne. Wezmę to zlecenie.</text>
 	</string>
 	<string id="dushman_living_legend_5">
-		<text>Wiedziałem, że ci się to spodoba. Będziesz musiał znaleźć starego przyjaciela Strieloka, Doktora. Zimny sprzedał nam jego koordynaty. Nie martw się, są potwierdzone. Nie było tanio, ale Doktor to jedyna poszlaka jaką mamy. Uzbrój się w czujność i leki popromienne i przynieś nam jakieś konkrety. Powodzenia.</text>
+		<text>Wiedziałem, że ci się to spodoba. Musisz znaleźć starego przyjaciela Striełoka, Doktora. Zimny sprzedał nam jego koordynaty, a nasz człowiek je potwierdził. Nie było tanio, ale Doktor to jedyna poszlaka jaką mamy. Gdy dowiesz się czegoś konkretnego, od razu raportuj na prywatnym kanale - nie możemy pozwolić sobie na najmniejsze błędy. Powodzenia.</text>
 	</string>
-	
+		
 	<string id="dushman_living_legend_finish_0">
 		<text>Misja wykonana.</text>
 	</string>
 	<string id="dushman_living_legend_finish_1">
-		<text>Udało ci się? Wiedziałem, że nie jesteś mięczakiem. Dobra, powiedz mi co masz.</text>
+		<text>Udało ci się? Świetna robota. Dobra, przejdźmy do konkretów - czego się dowiedziałeś?</text>
 	</string>
 	<string id="dushman_living_legend_finish_2">
-		<text>Poza koszmarami, które będą mnie nawiedzać do końca życia? Towarzyszyłem Strielokowi i jego ludziom na ich ścieżce do Sarkofagu. W między czasie wiele się dowiedziałem na temat Zony. Znalazłem sekretne dokumenty w ukrytych laboratoriach. Strielok je zabrał, ale wyjawił mi bardzo wiele informacji. Zostawił mi też ten nośnik. Posiada kilkadziesiąt gigabajtów zaszyfrowanych informacji o sekretach Zony.</text>
+		<text>Striełok i jego ludzie zabrali mnie do Sarkofagu. Podczas tej wyprawy dowiedziałem się więcej, niż bym chciał... Znalazłem stare dokumenty w laboratoriach - oddałem je Striełokowi, ale w zamian pozyskałem mnóstwo informacji. Zostawił mi także ten nośnik z zaszyfrowanymi danymi na temat Zony. Wszystko to, czego się dowiedziałem. To całkowicie zmienia obraz tego, jak do tej pory postrzegaliśmy Strefę. Zresztą, sam to zobaczysz, gdy zajrzysz do danych.</text>
 	</string>
 	<string id="dushman_living_legend_finish_3">
-		<text>Z pewnością się tym zadowolę. Dobra robota. Nasi klienci będą wiedzieli, co z tym zrobić.</text>
+		<text>Brzmi jak coś naprawdę ciekawego. Dobra robota. Nasi klienci będą wiedzieli, co z tym zrobić.</text>
 	</string>
 	<string id="dushman_living_legend_finish_4">
 		<text>Uhm, czy możemy im ufać powierzając im takie informacje?</text>
 	</string>
 	<string id="dushman_living_legend_finish_5">
-		<text>Ufać? O czym ty mówisz? Nie martw się, nie sprzedajemy tego żadnemu dyktatorowi. Wszyscy chcemy zarobić, ale bez jednoczesnego wysadzenia planety w powietrze, prawda? Skoro mowa o pieniądzach, oto twoja działka. Jeśli dostaniesz koszmarów, po prostu użyj pieniędzy jako poduszki. Powinno pomóc.</text>
+		<text>Spokojnie, wiemy, komu je powierzyć. Nie sprzedajemy tego żadnemu dyktatorowi - w końcu wszyscy chcemy żyć i zarabiać bez ryzyka, że któregoś dnia Zona zostanie zniszczona. Oto twoja działka. Jeśli dostaniesz koszmarów, użyj kasy jako poduszki. Może to pomoże ci się podnieść.</text>
 	</string>
-	
+		
 	<string id="sidorovich_living_legend_0">
-		<text>Co to za zamieszanie z tym Strielokiem?</text>
+		<text>Co to za zamieszanie z tym Striełokiem?</text>
 	</string>
 	<string id="sidorovich_living_legend_1">
-		<text>Widzisz, w 2012 zorganizowaliśmy z Barmanem kampanię, która otworzyłaby nam całą Zonę. Stalker zwany Naznaczonym - a raczej Strielokiem - bardzo nam w tym pomógł wyłączając Mózgozwęglacz. Rzecz w tym, że nigdy do nas nie wrócił po dotarciu do Elektrowni. Myśleliśmy, że połknęła go anomalia przestrzenna, albo porwał go Specnaz. Ale z tego co widać Strielok wrócił do Zony i jest aktywny bardziej niż kiedykolwiek. I zgaduję, że posiada teraz ściśle tajną wiedzę. Niewyobrażalnie wartościową wiedzę. Co gdybyś spróbował go znaleźć i skłonić, by się nią podzielił?</text>
+		<text>Słuchaj, sprawa wygląda następująco. W 2012 roku współpracowałem z Barmanem w otwarciu Zony i uratowałem Striełokowi życie. Swoją drogą nazywał się wtedy Naznaczony. Nie po to, oczywiście, żeby mieć fory u Bozi. Striełok pomógł nam oczyścić drogę do centrum Zony, przez co ludzie ruszyli na północ - a to oznaczało zysk dla mnie i dla innych handlarzy. Problem był taki, że nigdy nie wrócił po tym, jak dotarł do Elektrowni. Nikt nie wiedział, czy wypowiedział życzenie, czy nie, ani co tam się stało... Myśleliśmy, że pożarły go anomalie przestrzenne albo zgarnęło go SBU. Ale teraz wrócił - i jest bardziej aktywny, niż kiedykolwiek. A to oznacza nowe możliwości w handlu. Złóż mu ode mnie wizytę. I dowiedz się, ile właściwie wie na temat Zony i jej natury. </text>
 	</string>
 	<string id="sidorovich_living_legend_2">
 		<text>Brzmi ekscytująco. W porządku, spróbuję go namierzyć.</text>
@@ -89,44 +89,44 @@
 		<text>Brzmi jak niezła mordęga. Chyba nie jestem jeszcze gotów.</text>
 	</string>
 	<string id="sidorovich_living_legend_3">
-		<text>Dobrze, bardzo dobrze. Prawie widzę błysk monet w twoich oczach. Jeśli naprawdę chcesz to zrobić, znajdź Doktora - dawnego przyjaciela Strieloka. Sporysz mówi, że mieszka w odosobnionej części Wielkich Bagien. W części, która jest rzekomo całkowicie odgrodzona. Istnieje jednak miejsce, w którym można przejść. Weź coś na promieniowanie i spróbuj się przedrzeć. Miejmy nadzieje, że dowiesz się od niego, co trzeba zrobić dalej.</text>
+		<text>Świetnie, widzę, że jesteś człowiekiem interesów - z takimi lubię pracować. Dobra, słuchaj - idź na Wielkie Bagna i znajdź tam Doktora. Staruszek swego czasu pracował ze Striełokiem, a dziś podobno siedzi na terenach Czystego Nieba. Sporysz dał mi cynk, że mieszka gdzieś w ich północnej części... Współrzędne masz na PDA. Zanim tam pójdziesz, kup ode mnie leki przeciwpromienne albo starego dobrego Kozaka - i dowiedz się, co masz zrobić dalej. O wszystkim informuj mnie na bieżąco, jasne? Nie lubię dowiadywać się jako ostatni.</text>
 	</string>
-	
+		
 	<string id="sidorovich_living_legend_finish_0">
-		<text>Hej, Sid. Dawno się nie widzieliśmy.</text>
+		<text>Cześć, Sidor. Dawno się nie widzieliśmy.</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_1">
-		<text>Więc w końcu wróciłeś, w przeciwieństwie do pewnego innego stalkera. Spotkałeś Naznaczonego?</text>
+		<text>Patrzcie państwo, kogo tu wiatry przywiały z powrotem! Gdzie jest Naznaczony?</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_2">
-		<text>O tak. Nawet chwilowo dołączyłem do jego grupy. Wiele mi powiedział i sam wiele zobaczyłem, na własne oczy. Byłem z nim w Sarkofagu. Wygląda na to, że Spełniacz Życzeń to pułapka na naiwnych stalkerów. Tak, on naprawdę istnieje, ale tylko po to, by prać mózgi stalkerów zwabionych do centrum Zony i zamienić ich w zombie lub żołnierzy Monolitu. To żadna bajka, to koszmar.</text>
+		<text>Wyruszył w teren ze swoją nową grupą. Przekazał mi mnóstwo informacji, sam też wiele widziałem... Byłem razem z nim na terenie Sarkofagu.  Spełniacz Życzeń naprawdę istnieje, ale jest jak pułapka na muchy. Wabi do siebie stalkerów, obiecując im, że spełni ich każde pragnienie - ale w praktyce kończą oni jako Monoliciarze albo zombie. Centrum Zony to nie ziemia obiecana... To piekło, do którego nigdy nie powinno się schodzić.</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_3">
-		<text>Hm, rozumiem. Brzmi przekonująco. Musi być powód, dla którego żaden stalker nie został nagle najbogatszym lub najpotężniejszym człowiekiem na ziemi. Z twardymi dowodami będzie łatwiej wybić Kotom te bzdury z głowy. Bo chyba masz jakiś dowód? Prawda, stalkerze?</text>
+		<text>Hm, ciekawa bajeczka. Ale, jak dotąd, nie widzę na nią konkretnych dowodów - chociaż to by tłumaczyło, dlaczego nigdy nikt nie zbił fortuny na północy ani nie został najpotężniejszym człowiekiem na ziemi. Masz jakieś konkrety, które wybiją kotom te bzdury z łbów?</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_4">
-		<text>Ta, nie jestem gołosłowny. Strielok dał mi nośnik USB, na którym jest pełno zaszyfrowanych informacji. Kopia jego odkryć. Proszę.</text>
+		<text>Striełok dał mi nośnik USB, na którym jest pełno zaszyfrowanych informacji. Kopia jego wszystkich odkryć. Chyba wystarczy, co?</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_5">
-		<text>Doskonała robota, stalkerze. Udało ci się skończyć to, co Naznaczony zaczął lata temu. Zwęglacz jest znów nieaktywny, wiec możemy dostać się na północ. I wiemy też, że Spełniacz Życzeń to przynęta. To powinno pomóc wszystkim skupić się na prawdziwych skarbach głębokiej Zony. Świetnie. A to twoja nagroda.</text>
+		<text>Owszem. A skoro udało ci się skończyć to, co Naznaczony, Kieł i Duch zaczęli lata temu, to zasługujesz na dobrą, konkretną nagrodę - taką dla konkretnych ludzi. Trzymaj.</text>
 	</string>
-	
+		
 	<string id="cold_living_legend_0">
-		<text>Jestem zainteresowany pomocą przy znalezieniu Strieloka. Chciałbym tylko wiedzieć dlaczego jest to dla ciebie tak ważne.</text>
+		<text>Chętnie pomogę w odnalezieniu Striełoka. Ale chciałbym wiedzieć, dlaczego tak bardzo się nim interesujesz.</text>
 	</string>
 	<string id="cold_living_legend_1">
-		<text>Widzisz, jest pewna sprawa, którą być może w końcu będzie można rozwiązać. Gdy Lebiediew podjął się tego fatalnego w skutkach ataku na Elektrownię kilka lat temu, myślał, że uda mu się odkryć kto odpowiada za wzmożoną liczbę emisji. To był właśnie Strielok, tajemniczy stalker, którzy rzekomo odnalazł sposób na ominiecie Mózgozweglacza. Czyste Niebo ruszyło z nim, by go powstrzymać, ale większość z nich już nie wróciła. Rzecz w tym, że nie wiemy co dokładnie się tam stało i kto jest za co odpowiedzialny. Ci którzy przetrwali prawie odpuścili, ale pojawiły się ostatnio plotki o niespodziewanym powrocie Strieloka. Nie chce cię ci zawracać głowy polowaniem na ducha, ale niektórym z nas naprawdę przydałoby się dostać trochę odpowiedzi.</text>
+		<text>Słuchaj, w dużym skrócie sprawa wygląda tak. Kiedy Lebiediew wyruszył ze swoją ekspedycją na Elektrownię myślał, że uda mu się powstrzymać Striełoka przed sprowokowaniem kolejnej emisji. Wszyscy wierzyliśmy, że nie wolno nam dopuścić do tego, żeby wywołał kolejną po tym, jak ominął Mózgozwęglacz i dotarł do Sarkofagu, nawet wynajęliśmy najemnika... Tyle, że najemnik zniknął, większość naszych oddziałów padła pod Elektrownią, zginął także sam Lebiediew - ogólnie operacja skończyła się porażką. Teraz, gdy Striełok powrócił do Zony, mamy szansę poznać odpowiedzi na pytania. Ci z nas, którzy przeżyli tamte zdarzenia, uważają, że to polowanie na ducha, ale... Nie mamy innej alternatywy. Pomożesz nam?</text>
 	</string>
 	<string id="cold_living_legend_2">
 		<text>W porządku, rozumiem, że trzeba to jakoś rozwiązać. Sam chciałbym się nieco o tym dowiedzieć.</text>
 	</string>
 	<string id="cold_living_legend_21">
-		<text>Nie wiem, Zimny. może lepiej zostawić tego Strieloka w spokoju. Pomyślę o tym.</text>
+		<text>Nie wiem, Zimny. może lepiej zostawić tego Striełoka w spokoju. Pomyślę o tym.</text>
 	</string>
 	<string id="cold_living_legend_3">
-		<text>Dzięki, doceniam to. Spróbuj najpierw znaleźć Doktora, dawnego towarzysza Strieloka. Nie podoba mi się przeszkadzanie staruszkowi, ale to nasza jedyna szansa na odnalezienie Strieloka. Mieszka w odosobnionym zakątku Bagien, odgrodzonym przez płot, który posiada ukryta lukę. Ostrzegam: promieniowanie w tym miejscu potrafi być naprawdę niebezpieczne jeśli nie uważasz jak idziesz, więc weź ze sobą leki. Nie zdążyłbyś wrócić do Kalanchy na czas.</text>
+		<text>Dzięki, doceniam to. Spróbuj najpierw znaleźć Doktora, dawnego towarzysza Striełoka. Jest on naszą jedyną szansą na jego odnalezienie i dowiedzenie się, gdziem oże być. Mieszka w odosobnionej części Bagien, ale jest pewna luka, która pomoże ci przejść. Przed wyjściem zajrzyj do Kałańczy - on wyekwipuje cię w leki przeciwpromienne.</text>
 	</string>
-	
+		
 	<string id="cold_living_legend_finish_0">
 		<text>Hej, Zimny. W końcu wróciłem. Chyba wiem, dlaczego większość naszych nie zdołała wrócić z Elektrowni. Cale szczęście, mi się jakoś udało.</text>
 	</string>
@@ -134,23 +134,23 @@
 		<text>Dawno się nie widzieliśmy. Cieszę się, że jesteś cały i zdrowy. Masz dla nas jakieś odpowiedzi?</text>
 	</string>
 	<string id="cold_living_legend_finish_2">
-		<text>Tak. Rozmawiałem ze Strielokiem. Powiedział mi, że emisje były mechanizmem obronnym Zony. Lebiediew miał rację co do Strieloka będącego ich przyczyną. Niestety, atak Czystego Nieba na Elektrownię wywołał jeszcze silniejszą reakcję. Krótko mówiąc, sami ściągnęli to na siebie.</text>
+		<text>Tak. Rozmawiałem ze Striełokiem. Wygląda na to, że Lebiediew miał rację co do tego, kto prowokował emisje, ale atak Czystego Nieba na elektrownię spowodował jeszcze silniejszą reakcję Zony. Niemniej jednak Lebiediew powiedział wam mniej, niż rzeczywiście wiedział. A Zona nadal skrywa w sobie więcej zagadek niż rzeczywistych odpowiedzi. Monolit wciąż jest silny, a emisje nie ustąpiły po tym, jak wyłączyliśmy Zwęglacz... To daje do myślenia.</text>
 	</string>
 	<string id="cold_living_legend_finish_3">
-		<text>Rozumiem. Myśleliśmy, że wiemy o Zonie na tyle, że możemy być jej strażnikami. Ale Zona broni się sama i nie potrzebuje w tym żadnej pomocy. Naprawdę się tym wtedy sparzyliśmy. W każdym razie cieszę się, że nasze obecne podejście zdaje się być tym właściwym. Dowiedziałeś się czegoś jeszcze?</text>
+		<text>Zgadzam się. Wygląda na to, że całe nasze postrzeganie Zony, misja, cele, jakie przyjęliśmy za tamtych czasów - wszystko to było błędem...Dobrze, że nasz obecny kurs jest tym właściwym. Dowiedziałeś się czegoś jeszcze?</text>
 	</string>
 	<string id="cold_living_legend_finish_4">
-		<text>Szczerze, to całkiem sporo. Nieudane eksperymenty, pola psioniczne, zakrzywienia rzeczywistości, podziemne laboratoria, masa niestworzonych rzeczy. Strielok dal mi ten nośnik USB. Zawiera mnóstwo zakodowanych informacji, które zebrał przez te wszystkie lata.</text>
+		<text>Wszystkie szczegóły są na tym nośniku, który dostałem od Striełoka.  Zawiera wszystkie informacje, jakie zdobył przez te wszystkie lata. A to tylko wierzchołek góry lodowej: nieudane eksperymenty, pola psioniczne, tajne laboratoria, Świadomość-Z, pochodzenie mutantów, noosfera... I szczerze mówiąc, mam wrażenie, że to dopiero początek. </text>
 	</string>
 	<string id="cold_living_legend_finish_5">
-		<text>Jestem ci bardzo wdzięczny, stalkerze. Zwołam weteranów, byśmy mogli to dokładnie omówić, najlepiej z kratą wódki, by złagodzić nasz żal. Kalancha będzie wiedział co zrobić z tym nośnikiem. Oto twoja nagroda. Wiele ci zawdzięczamy.</text>
+		<text>Jestem ci bardzo wdzięczny. Zrobiłeś wspaniałą robotę; przyjmij to jako osobisty wyraz wdzięczności. Czyste Niebo odpłaci ci się dobrem za dobro, tego możesz być pewien... Myślę, że Kałańcza będzie wiedział, co zrobić z tym nośnikiem. Ja muszę porozmawiać z weteranami o tym, czego się dowiedziałeś. I coś czuję, że nie obejdzie się bez kraty wódki...ech...</text>
 	</string>
-	
+		
 	<string id="lukash_living_legend_0">
-		<text>Dobra, co to za poruszenie na temat Strieloka?</text>
+		<text>Dobra, to o co chodzi z tym Striełokiem?</text>
 	</string>
 	<string id="lukash_living_legend_1">
-		<text>Żywa legenda wróciła do świata śmiertelników. Strielok to istna maszyna z jajami ze stali. Kilka lat temu zwalczał wariatów z Monolitu w drodze do północnej Zony i zwyciężył. To znaczy, przynajmniej na krótki moment. Poprzednia sytuacja powróciła, ale on również. Krąży wiele intrygujących opowieści o czarnobylskim reaktorze, Spełniaczu Życzeń i wielu innych rzeczach z centrum zony. Bardzo chciałbym wiedzieć, co zobaczył tam Strielok. Zona ma wiele do zaoferowania, a on musiał widzieć najlepsze z tych rzeczy. Wchodzisz w to?</text>
+		<text>Świetnie, że wpadłeś, stary! Słuchaj, jest taka akcja: Striełok powrócił do Zony. Wszyscy myśleli, że nie żyje, bo nie wrócił z północy po tym, jak lata temu ruszył do Elektrowni, aby dowiedzieć się, co się tam dzieje... Ale wyobraź sobie, że znowu widziano go w Strefie! Krążą o nim - i o tamtych wydarzeniach - takie plotki, że cholernie chciałbym się dowiedzieć, co z tego jest prawdą. Wchodzisz w to?</text>
 	</string>
 	<string id="lukash_living_legend_2">
 		<text>Brzmi zajebiście!</text>
@@ -159,44 +159,44 @@
 		<text>O, wow. Wybacz bracie, musze się nad tym zastanowić.</text>
 	</string>
 	<string id="lukash_living_legend_3">
-		<text>I to mi się podoba. Dobra, myślę, że zamienienie słowa z Doktorem byłoby dobrym pomysłem. był jednym z kumpli Strieloka, a co najlepsze w tym wszystkim - Czyste Niebo po prostu nam powiedziało gdzie go znaleźć! Znajdziesz go w dalekim północno-zachodnim rogu Wielkich Bagien. Zapytaj go o wskazówki dotyczące znalezienia Strieloka. Spakuj trochę prowiantu na drogę. Słyszałem, że to miejsce otacza bardzo silne promieniowanie. Widocznie staruszek nie lubi jak mu się przeszkadza.</text>
+		<text>I to się nazywa wilczy duch walki! Dobra, słuchaj. Idź na południe na Wielkie Bagna. Mieszka tam Doktor, dawny ziomek Striełoka, który może wiedzieć to i owo. Wpadnij do niego, a następnie wypytaj go o wszystko, co wie. Czyste Niebo dało nam na niego legitne namiary, więc się nie martw - to sprawdzony trop. Aha, jeszcze jedno - przed wymarszem zajrzyj do Twardego po antyrady. Podobno jest tam takie promieniowanie, że odpadłby nawet ktoś tak spizgany jak on.</text>
 	</string>
-	
+		
 	<string id="lukash_living_legend_finish_0">
-		<text>Hej Łukasz, wróciłem.</text>
+		<text>Jestem z powrotem, szefie!</text>
 	</string>
 	<string id="lukash_living_legend_finish_1">
-		<text>O, jesteś z powrotem! Dobrze się bawiłeś podczas swojej przygody?</text>
+		<text>OWow, witaj z powrotem! Opowiadaj - dobrze się bawiłeś w terenie?</text>
 	</string>
 	<string id="lukash_living_legend_finish_2">
-		<text>Cholera, gościu. Pewnie że miałem mnóstwo zabawy, szczególnie takiej, od której można się zeszczać w gacie. Ustrzeliłem ze stu Monolitian i trafiłem z grupa Strieloka do samej Elektrowni. Będę się świecić w ciemnościach przez miesiąc. Może mi nawet wyrosnąć coś dodatkowego.</text>
+		<text>Taaa, rozrywki to ja tam miałem od cholery - szczególnie takiej, od której będę się świecić w nocy przez miesiąc i zmieniać w nocy gacie. Trafiłem z grupą Striełoka do Elektrowni, znaleźliśmy tam mnóstwo rzeczy, pomogłem odwalić kitę całej armii Monolitian...Jednym słowem, była niezła impreza.</text>
 	</string>
 	<string id="lukash_living_legend_finish_3">
-		<text>Brzmi zajebiście. Powiedział ci coś na temat Zony?</text>
+		<text>Brzmi zajebiście! Powiedział ci coś na temat Zony?</text>
 	</string>
 	<string id="lukash_living_legend_finish_4">
-		<text>Ta, masę rzeczy. Okazuje się, że Zona to pewnego rodzaju nieudany eksperyment. Grupka naukowców chciała sprawić, że cały świat byłby na zawsze szczęśliwy i pokojowy, ale cala koncepcja legła w gruzach. Trzymaj, dostałem od Strieloka tego pendrive z masa naukowych informacji.</text>
+		<text>Taa, całe mnóstwo rzeczy... Sam do końca nie rozumiem tego wszystkiego, ale wychodzi na to, że Zona była polem na eksperymenty naukowe jakichś świrów. Chcieli doprowadzić do tego, że cały świat będzie pokojowy, radosny i szczęśliwy, ale po drodze popełnili błąd - i właśnie wtedy powstała Zona. Niezłe, nie? Więcej detali masz na tym pendrive od Striełoka. Są tam wszystkie jego informacje, jakie zgromadził przez lata.</text>
 	</string>
 	<string id="lukash_living_legend_finish_5">
-		<text>Serio? Cóż, zona przynosi nam szczęście, wiec jednak im coś wyszło. Ha, już widzę jak rząd się gotuje, kiedy to wszystko opublikujemy. Świetna robota, bracie. Zasługujesz na medal, no i to.</text>
+		<text>Serio? Wygląda na to, że będę potrzebował sporo zioła, żeby to ogarnąć... Już widzę, jak rząd będzie robić pod siebie, kiedy puścimy to wszystko w eter! A co do ciebie, udowodniłeś, że masz jaja i kły ze stali, jak prawdziwy Wilk. Trzymaj, to dla ciebie.</text>
 	</string>
-	
+		
 	<string id="sakharov_living_legend_0">
-		<text>Powiedz mi o tej sytuacji ze Strielokiem, Profesorze.</text>
+		<text>Profesorze, może mi pan opowiedzieć więcej o tej sytuacji ze Striełokiem?</text>
 	</string>
 	<string id="sakharov_living_legend_1">
-		<text>Kilka lat temu ten odważny człowiek bardzo pomógł naszym badaniom. Udało mu się w pojedynkę dezaktywować Maszynę Cudów, uwalniając nas od jej emisji. Przez jakiś czas nawet pracował jako nasz główny konsultant, ale niestety nie utrzymało się to na długo. Strielok dotarł do centrum Zony. Drżę na sama myśl o rzeczach, których tam doświadczył. Musi teraz posiadać ogromną wiedzę na temat działania Zony, może nawet zna źródło jej pochodzenia. Młody człowieku, wiesz co to by mogło oznaczać dla środowiska badawczego?</text>
+		<text>Ach, tak, oczywiście! Proszę posłuchać, młody człowieku: kilka lat temu ten odważny stalker dezaktywował w pojedynkę Emiter Kajmanowa, uwalniając nas od jego emisji. Zapewne znasz go pod nazwą Machiny Cudów. Dzięki jego pomocy osiągnęliśmy ogromny przełom w naszych pracach, udało nam się opublikować szereg interesujących monografii - ale to zaledwie początek. Podobno Striełok wrócił do Zony; gdyby udało się nam go znaleźć, przekonać, żęby podzielił się z nami swoją wiedzą... Nawet nie wyobrażasz sobie, co moglibyśmy wtedy osiągnąć! Jak wiele by to zmieniło w naszych metodach badawczych, w postrzeganiu Zony, w ekstrapolacji wyników... Pomożesz nam?</text>
 	</string>
 	<string id="sakharov_living_legend_2">
-		<text>Brzmi jak materiał na Nagrodę Nobla. Chcesz, żebym go odnalazł?</text>
+		<text>Brzmi jak materiał na Nagrodę Nobla. Chce pan, żebym go odnalazł?</text>
 	</string>
 	<string id="sakharov_living_legend_21">
-		<text>Proszę wybaczyć, Profesorze, ale nie jestem jeszcze gotów na tak ważną misje.</text>
+		<text>Proszę wybaczyć, profesorze, ale nie jestem jeszcze gotów na takie zadanie.</text>
 	</string>
 	<string id="sakharov_living_legend_3">
-		<text>Byłoby świetnie, gdybyś spróbował. Profesor Kalancha był również skory do pomocy. Niestety nie mógł nam pomagać zbyt długo, ale zasugerował byśmy najpierw odwiedzili Doktora, dawnego towarzysza Strieloka, by zgromadzić więcej wskazówek na temat miejsca pobytu naszej żywej legendy. Doktor żyje w północno-zachodnim rogu Wielkich Bagien, który zaznaczę na twoim PDA. Profesor Kalancha wspomniał też, żeby dobrze się przygotować na wysoki poziom promieniowania. Doktor lubi pozostać w samotności, co potwierdza środowisko, w jakim się zadomowił. Miejmy nadzieję, że wie coś o powrocie naszego przyjaciela.</text>
+		<text>Byłoby świetnie, gdybyś spróbował. Profesor Kałańcza również współpracował z nami dla dobra nauki...Niestety, jego pomoc była dość ograniczona, ale przekazał nam cenne informacje - według tych danych stary przyjaciel Striełoka, Doktor, mieszka w północno-zachodniej części Wielkich Bagien. On może wiedzieć coś więcej na temat powrotu Striełoka do Zony. Jednak według tych samych informacji jest tam bardzo wysoka radiacja, dlatego też zalecałbym ci zaopatrzenie się przed wyprawą w stosowne środki. Mam nadzieję, że uda ci się czegoś dowiedzieć...</text>
 	</string>
-	
+		
 	<string id="sakharov_living_legend_finish_0">
 		<text>Wróciłem, Profesorze.</text>
 	</string>
@@ -204,73 +204,73 @@
 		<text>Cieszę się, że cię widzę. Zdaję sobie sprawę, że to było ciężkie wyzwanie. Czy udało ci się odnieść sukces?</text>
 	</string>
 	<string id="sakharov_living_legend_finish_2">
-		<text>Tak. Spotkałem i rozmawiałem ze Strielokiem. Powiedział mi o sekretach Zony, po tym jak pomogłem mu pokonać siły Monolitu i wejść do Elektrowni. Ewidentnie Zona jest wynikiem nieudanego eksperymentu mającego wpłynąć na psioniczną powłokę otaczającą cały świat. Był on przeprowadzony przez grupę naukowców, którzy stali się jednością, zwaną Świadomością Zbiorową. Ich porażka stworzyła wyrwę w tej powłoce, co ściągnęło na Zonę dobrze nam znane anomalie.</text>
+		<text>Tak. Spotkałem się ze Striełokiem - udało mi się pozyskać od niego dużo ciekawych informacji. Zdołaliśmy razem wejść do Sarkofagu, gdzie znaleźliśmy ich jeszcze więcej... W dużym skrócie wygląda to tak, że Zona jest wynikiem nieudanych eksperymentów - całej ich serii - prowadzonych przez nieznane nam dotąd ugrupowanie. Celem tych eksperymentów było przejęcie kontroli nad noosferą, powłoką psioniczną otaczającą całą Ziemię, aby stworzyć idealny świat pozbawiony wad. Jednak ci naukowcy ponieśli w którymś momencie porażkę, co spowodowało Drugą Katastrofę, pojawienie się Zony, jakiej znamy, i w konsekwencji wszystkiego tego, co badamy teraz. </text>
 	</string>
 	<string id="sakharov_living_legend_finish_3">
-		<text>Rozumiem. Podejrzewaliśmy, że Zona została stworzona przez człowieka. Niektóre informacje ujawnione przed laty przez Strieloka wspierały ta hipotezę, a teraz w końcu mamy jej potwierdzenie. Masz jednak cokolwiek, co mogłoby posłużyć za dowód?</text>
+		<text>To bardzo ciekawa historia. Potwierdzałaby jedną z moich hipotez badawczych... Kiedy Striełok wyłączył Emiter po raz pierwszy, podejrzewałem, że Zona może być w jakiś sposób powiązana z aktywnością człowieka - jednak nawet teraz potrzebujemy konkretnych dowodów. Udało ci się coś zdobyć?</text>
 	</string>
 	<string id="sakharov_living_legend_finish_4">
-		<text>Tak. Oto pendrive, który dał mi Strielok. Zawiera kopie jego licznych znalezisk, zebranych z podziemnych laboratoriów i tajnych dokumentów.</text>
+		<text>Tak. Oto pendrive, który dał mi Striełok. Zawiera kopie dokumentów i informacji, jakie znalazł przez te wszystkie lata na terenie Zony, czy to w tajnych laboratoriach pod ziemią, czy to w innych miejscach.</text>
 	</string>
 	<string id="sakharov_living_legend_finish_5">
-		<text>Bardzo dobrze. Niezwłocznie przeprowadzimy ewaluację. Ponad to, musimy się zastanowić co dalej zrobić z tą informacją. Byłeś dla nas nieocenioną pomocą. Dzięki tobie poczyniliśmy ogromny postęp w zrozumieniu Zony.</text>
+		<text>Wspaniale! Bardzo ci dziękuję, młody człowieku. Niezmiernie przysłużyłeś się światowej nauce. Zaraz wdrożę ewaluację, jeśli chodzi o te dane, myślę także, że zwołam spotkanie naukowców z różnych ekip badawczych - warto będzie wymienić się doświadczeniami... Na pewno wszystkie te dane zmieniają w znaczący sposób nasze rozumienie Zony. A to oznacza, że zasługujesz na nagrodę. Oto ona.</text>
 	</string>
-	
+		
 	<string id="doctor_living_legend_0">
-		<text>Doktorze, słyszałem, że Strielok nadal żyje. Wiesz gdzie mogę go znaleźć?</text>
+		<text>Doktorze, słyszałem, że Striełok nadal żyje. Wiesz gdzie mogę go znaleźć?</text>
 	</string>
 	<string id="doctor_living_legend_1">
-		<text>Strielok? Jesteś pewien?</text>
+		<text>Striełok? Jesteś pewien?</text>
 	</string>
 	<string id="doctor_living_legend_2">
-		<text>Jestem przekonany. Cala Zona o nim mówi. Muszę się z nim zobaczyć. Masz jakiś pomysł, gdzie mogę zacząć poszukiwania?</text>
+		<text>Tak, jestem pewien. Cała Zona o nim mówi, a ja muszę się z nim zobaczyć. Masz jakiś pomysł, gdzie mogę zacząć poszukiwania?</text>
 	</string>
 	<string id="doctor_living_legend_3">
-		<text>No proszę, po tych wszystkich latach... Niestety, nie mam dla ciebie żadnych pewnych informacji. Ten człowiek jest jak duch. Ale jeśli jest jakieś miejsce, które mógłby regularnie odwiedzać, to z całą pewnością byłaby to kryjówka w podziemiach Agropromu. Może będziesz w stanie go tam znaleźć. Jego, lub jakieś wskazówki. By się tam dostać, musisz zejść przez właz w pobliżu północnego kompleksu, a w środku szukać ścian z dużymi, okrągłymi szybami wentylacyjnymi. Jeden z nich prowadzi do kryjówki.</text>
+		<text>No proszę, po tylu latach... Niestety, nie mam dla ciebie nic pewnego. Ten człowiek jest jak duch, a do tego upłynęło trochę czasu, odkąd się widzieliśmy. Ale jeśli jest jakieś miejsce, które mógłby regularnie odwiedzać, to prawie na pewno byłaby to jego stara kryjówka w podziemiach Agropromu. By się tam dostać, zejdź przez właz w pobliżu północnego kompleksu albo znajdź inne wejście. Gdy już będziesz wewnątrz, szukaj ścian z dużymi, okrągłymi szybami wentylacyjnymi - jedna z nich prowadzi do kryjówki.</text>
 	</string>
 	<string id="doctor_living_legend_4">
-		<text>Dziękuje za informację. Wygląda na to, że pora na małą wyprawę.</text>
+		<text>Dziękuję za wskazówki. Wygląda na to, że czas ruszyć w drogę.</text>
 	</string>
 	<string id="doctor_living_legend_5">
-		<text>Jeśli go odnajdziesz, to proszę, powiedz mu, by odwiedził kiedyś starego przyjaciela.</text>
+		<text>Poczekaj. Jeszcze chwilę... Jeśli go kiedyś znajdziesz, poproś go, by odwiedził czasem starego przyjaciela, dobrze?</text>
 	</string>
 	<string id="doctor_living_legend_6">
 		<text>Oczywiście. Do zobaczenia.</text>
 	</string>
-	
+		
 	<string id="doctor_living_legend_strelok_0">
-		<text>Hej, Doktorze. Spotkałem Strieloka. Przekazałem mu twoją prośbę.</text>
+		<text>Hej, Doktorze. Spotkałem Striełoka. Przekazałem mu twoją prośbę.</text>
 	</string>
 	<string id="doctor_living_legend_strelok_1">
-		<text>Dziękuje. Ciekawe tylko, czy posłucha.</text>
+		<text>Dziękuję. Ciekawe tylko, czy w ogóle jej posłucha... Nie widziałem go już tyle lat.</text>
 	</string>
 	<string id="doctor_living_legend_strelok_2">
-		<text>Przyznam, że wydawał się być bardzo zajęty. Nadal stara się rozwiązać zagadkę Zony.</text>
+		<text>Kiedy go widziałem, był bardzo zajęty. Nadal stara się rozwiązać zagadkę Zony - chociaż poznał już sporo odpowiedzi.</text>
 	</string>
 	<string id="doctor_living_legend_strelok_3">
-		<text>Cóż, mam nadzieje, że w końcu mu się uda. Cieszę się, że przynajmniej żyje. I jeszcze raz, dziękuje.</text>
+		<text>Mam nadzieję, że w końcu mu się uda... Cieszę się, że przynajmniej żyje. I jeszcze raz ci dziękuję za trud.</text>
 	</string>
-	
+		
 	<string id="barkeep_living_legend_0">
-		<text>Hej, Barman, potrzebuje informacji. Mam podejrzenia, że Strielok zatrzymał się w tym miejscu. Może jeszcze gdzieś tu jest?</text>
+		<text>Hej, Barman, potrzebuję informacji. Podobno Striełok zatrzymywał się ostatnio w Stu Radach. Jest gdzieś jeszcze w okolicy?</text>
 	</string>
 	<string id="barkeep_living_legend_1">
-		<text>Co, tutaj, w Barze? Trochę się spóźniłeś. Był tu wczoraj. Powiedziałem mu, że szuka go wielu ludzi, ale twardo odparł, że nie może zostać i porozmawiać. Był z czterema innymi Stalkerami. Kierowali się na północ. Przypomniałem mu, że Zwęglacz jest znów aktywny, ale nie wydawał się być tym przejęty. Wykupili połowę połowę mojego asortymentu i wyruszyli. Gdyby nie fakt, że przeżył już tyle lat w najniebezpieczniejszych częściach Zony, to nazwałbym go głupcem.</text>
+		<text>A, tak, faktycznie... Był tutaj, ale się spóźniłeś. Wczoraj wyruszył z powrotem na północ razem z czterema innymi stalkerami. Wprawdzie mówiłem mu zarówno o tym, że szuka go wiele osób, jak i o tym, że Zwęglacz znowu jest aktywny, ale chyba go to nie ruszyło... Gdyby nie to, że to jedna z nielicznych żywych legend, uznałbym go co najmniej za świra.</text>
 	</string>
 	<string id="barkeep_living_legend_2">
 		<text>Mówisz, że nie był sam?</text>
 	</string>
 	<string id="barkeep_living_legend_3">
-		<text>Miał kilku towarzyszy. Wyglądali na doświadczonych twardzieli, żadnych zółtodziobów. Po części właśnie dlatego nie próbowałem ich zatrzymać. Wyglądali całkiem groźnie.</text>
+		<text>Nie, miał kilku towarzyszy - wygląda na to, że zrekrutował sobie nową grupę. Wyglądali na doświadczonych twardzieli; właśnie dlatego ich nie zatrzymywałem.</text>
 	</string>
 	<string id="barkeep_living_legend_4">
-		<text>Wiec Strielok był ostatnio widziany w drodze do Bariery? Muszę go odnaleźć i wygląda na to, że moje zadanie właśnie stało się dużo trudniejsze...</text>
+		<text>Wiec Striełok był ostatnio widziany w drodze do Bariery? Muszę go odnaleźć i wygląda na to, że moje zadanie właśnie stało się dużo trudniejsze...</text>
 	</string>
 	<string id="barkeep_living_legend_5">
-		<text>Hehehe, tak to jest, gdy ścigasz legendę. Założę się, że jego plany znów wiążą się z Elektrownią. Dostanie się tam będzie niezłym wyzwaniem, szczególnie ze Zwęglaczem po drodze. Nie szedłbym tam bez jakiejś zaawansowanej ochrony. Gdy rozwiążesz ten problem porozmawiaj z Cerberem; to twardziel o niezrównanej krzepie, który pomaga bronić Bariery. Może ci pomoc w dalszych poszukiwaniach.</text>
+		<text>Hehehe, tak to jest, gdy ścigasz legendę. Założę się, że jego plany znów wiążą się z Elektrownią. Dostanie się tam będzie niezłym wyzwaniem, szczególnie ze Zwęglaczem po drodze. Może powinieneś, tak jak kiedyś on I Duch, odwiedzić naukowców...Ech, wciąż mi się wydaje, jakby to było wczoraj...Tak czy inaczej, gdy rozwiążesz tę sprawę, znajdź Cerbera na Barierze. To weteran walczący w obronie tamtych terenów - może ci pomoże ich dopaść.</text>
 	</string>
 	<string id="barkeep_living_legend_51">
-		<text>Hehehe, tak to jest, gdy ścigasz legendę. Założę się, że jego plany znów wiążą się z Elektrownią. Dostanie się tam będzie niezłym wyzwaniem, szczególnie ze Zwęglaczem po drodze. Nie szedłbym tam bez jakiejś zaawansowanej ochrony. Gdy rozwiążesz ten problem porozmawiaj z Cerberem; to twardziel o niezrównanej krzepie, który pomaga bronić Bariery. Może ci pomoc w dalszych poszukiwaniach. Aha, i uważaj na lokalne siły Wolności, które mogą przy nim stacjonować. Są skupieni na odpychaniu sił Monolitu, ale na pewno nie ucieszą się na widok członka Powinności.</text>
+		<text>No cóż, tak to jest, gdy ścigasz legendę. Założę się, że znowu ma zamiar dotrzeć do Elektrowni. Dostanie się tam to będzie niezły wyczyn, szczególnie ze Zwęglaczem po drodze - nie szedłbym tam bez jakiejś zaawansowanej ochrony i wizyty u jajogłowych. Gdy rozwiążesz ten problem, znajdź Cerbera - to doświadczony weteran, który pomaga w obronie Bariery. Może widział ten nowy oddział Striełoka? Aha, i uważaj na lokalne siły Wolności. Nie będą zachwyceni, widząc w swojej okolicy czerwono-czarne tarcze - nawet, jeśli częściowo skupią się na Monolicie.</text>
 	</string>
 	<string id="barkeep_living_legend_6">
 		<text>To bardzo ważne, więc się postaram. Dzięki za informacje, Barman.</text>
@@ -278,24 +278,24 @@
 	<string id="barkeep_living_legend_7">
 		<text>Nie ma problemu, gościu. Powodzenia.</text>
 	</string>
-	
+		
 	<string id="aslan_living_legend_0">
-		<text>Hej, Aslan. Jestem na tropie stalkera zwanego Strielokiem. Kierował się na północ. Masz jakiś pomysł, jak mógłbym się tam dostać?</text>
+		<text>Hej, Aslan. Jestem na tropie stalkera zwanego Striełokiem. Kierował się na północ. Masz jakiś pomysł, jak mógłbym się tam dostać?</text>
 	</string>
 	<string id="aslan_living_legend_1">
-		<text>Hm? Ah, no tak. Strielok. Znam to imię. Gość zna Zonę jak własną kieszeń. Ma na też na koncie sporo osiągnięć. Swoją drogą, naprawdę chcesz iść na północ? Jesteś w końcu gotów pożegnać się z tym okrutnym światem?</text>
+		<text>Hm? Ah, no tak. Striełok. Znam to imię. Wygląda na to, żenasz informator się jednak nie mylił. Swoją drogą, naprawdę chcesz iść na północ? Jesteś w końcu gotów pożegnać się z tym okrutnym światem?</text>
 	</string>
 	<string id="aslan_living_legend_2">
-		<text>O mnie się nie martw. Po prostu podpowiedz mi jaki będzie najlepszy sposób działania.</text>
+		<text>O mnie się nie martw. Po prostu daj mi jakieś wskazówki.</text>
 	</string>
 	<string id="aslan_living_legend_3">
 		<text>Najlepszy sposób? Nie iść tam w ogóle. Drugi najlepszy? Zgaduję, że jajogłowi z Jantaru mogą ci pomóc w osłonieniu się przed emisjami psionicznymi. Następnie porozmawiaj z Cerberem. Sukinsyn zjada Monolitian na śniadanie. Pomaga w utrzymaniu Bariery i ciągle odpycha ich natarcia. Radar to jedyna, ekhm... "rozsądna" droga ku północy. Musisz być tylko gotowy na stada wściekłych mutantów, labirynty anomalii, ekstremalne poziomy promieniowania i dobrze uzbrojonych żołnierzy Monolitu.</text>
 	</string>
 	<string id="aslan_living_legend_4">
-		<text>Nie brzmi kolorowo, ale nie mam zamiaru porzucać swojej misji.</text>
+		<text>Nie brzmi to kolorowo. Ale nie odpuszczę, skoro już wiem, gdzie jest.</text>
 	</string>
 	<string id="aslan_living_legend_5">
-		<text>Oczywiście, to twoja decyzja. Niektórym ryzykantom się od czasu do czasu udaje. Bez pracy nie ma kołaczy, jak to mówią. Tak czy inaczej, Cerber będzie wiedzieć więcej, co czyni go twoim następnym przystankiem.</text>
+		<text>Jak sobie chcesz. Niektórym wariatom czasem się udaje tam przeżyć...Tak czy inaczej, znajdź Cerbera blisko Bariery. Będzie wiedział na ten temat więcej, niż ja.</text>
 	</string>
 	<string id="aslan_living_legend_6">
 		<text>Dzięki, Aslan. Będę lecieć.</text>
@@ -304,22 +304,22 @@
 		<text>Nie ma problemu. Powodzenia.</text>
 	</string>
 	<string id="aslan_living_legend_71">
-		<text>Nie ma problemu. Powodzenia, stalkerze.</text>
+		<text>W porządku. Szczęśliwej drogi.</text>
 	</string>
-	
+		
 	<string id="stalker_gatekeeper_dialog_0">
-		<text>Co cię sprowadza na sam koniec świata, stalkerze?</text>
+		<text>Cześć, co cię tu przywiało?</text>
 	</string>
-	
+		
 	<string id="stalker_gatekeeper_st_1">
-		<text>Uczestniczyłem w jednym z większych rajdów na Prypeć, w 2012. Widziałem rzeczy i miejsca, które nawet by się nie przyśniły większości stalkerów. Zanim reaktywowano Mózgozwęglacz byłem na północy kilkukrotnie. Widziałem elektrownię unoszącą się nad horyzontem, razem z wesołą gromadką broniących jej fanatyków. Można walczyć ze stalkerami, żołnierzami, nawet mutantami i zombie, ale Monolit jest czymś całkiem innym. Uznałem, że nie mogę pozwolić tym obłąkańcom na rozprzestrzenienie, więc postanowiłem zostać tutaj. Pomagam teraz chłopakom z Wolności w obronie Bariery. Dopóki żyję, żaden Monolitianin nie postawi stąd ani jednego kroku w stronę południa. Przysięgam.</text>
+		<text>Widziałem rzeczy i miejsca, które nie śniły się dotąd żadnym stalkerom. Widzisz, byłem w 2012 na jednym z rajdów na Prypeć, po tym, jak grupa Mikłuchy nawiązała kontakt. Widziałem kominy Elektrowni, fanatycznych snajperów wołających swoje brednie o sługach Monolitu, przerażające mutanty, zombie. Możesz sobie walczyć z chimerą, zombiakiem, Powinnościowcem czy kim tam chcesz, ale Monolit to zupełnie inny rodzaj zagrożenia. Dlatego dołączyłem do chłopaków z Wolności i pomagam im bronić Bariery. Dopóki żyję, nie pozwolę na to, by którakolwiek z tych gnid postawiła stopę na południu. Przysięgam.</text>
 	</string>
-	
+		
 	<string id="stalker_gatekeeper_breakthrough_0">
-		<text>Cerberze, podążam za stalkerem zwanym Strielokiem. Nie przechodził tędy w ciągu ostatniego tygodnia?</text>
+		<text>Szukam stalkera zwanego Striełokiem. Nie przechodził tędy w ciągu ostatniego tygodnia?</text>
 	</string>
 	<string id="stalker_gatekeeper_breakthrough_1">
-		<text>Strielok? Tak, znam go. Spotkaliśmy się kilka razy podczas naszych północnych wypraw. Był tu kilka dni temu i pytał mnie o sytuację. Jego grupa nawet pomogła odepchnąć jeden z ataków. Z reguły radzimy sobie sami, ale udało im się odwalić kawał dobrej roboty. Fanatycy zostali ubici w rekordowym czasie.</text>
+		<text>Striełok? Tak, znam go. Spotkaliśmy się kilka razy podczas naszych północnych wypraw. Był tu kilka dni temu i pytał mnie o sytuację. Jego grupa nawet pomogła odepchnąć jeden z ataków. Z reguły radzimy sobie sami, ale udało im się odwalić kawał dobrej roboty. Fanatycy zostali ubici w rekordowym czasie.</text>
 	</string>
 	<string id="stalker_gatekeeper_breakthrough_2">
 		<text>Dobra, więc widziałeś jak przekraczał Barierę?</text>
@@ -331,7 +331,7 @@
 		<text>Cholera, zatem nie mam innego wyjścia. Muszę się tam dostać w pojedynkę.</text>
 	</string>
 	<string id="stalker_gatekeeper_breakthrough_5">
-		<text>Na to wygląda. Ale jeśli masz coś, co ochroni cię przed emisjami, dałbyś radę ich dogonić i może nawet dezaktywować Zwęglacz. Strielokowi się to udało w pojedynkę, kilka lat temu. Skoro jesteś tak zdeterminowany, by podążać za nim aż na daleką północ, to może i tobie się uda. W najgorszy wypadku wrócisz do nas jako zombie.</text>
+		<text>Na to wygląda. Ale jeśli masz coś, co ochroni cię przed emisjami, dałbyś radę ich dogonić i może nawet zdeaktywować Zwęglacz. Striełokowi się to udało w pojedynkę, kilka lat temu. Skoro jesteś tak zdeterminowany, by podążać za nim aż na daleką północ, to może i tobie się uda. W najgorszym wypadku wrócisz do nas jako zombie.</text>
 	</string>
 	<string id="stalker_gatekeeper_breakthrough_6">
 		<text>Dzięki za wotum zaufania. W każdym razie...</text>
@@ -342,7 +342,7 @@
 	<string id="stalker_gatekeeper_breakthrough_8">
 		<text>Robi się!</text>
 	</string>
-	
+		
 	<string id="stalker_gatekeeper_brainscorcher_0">
 		<text>Cholera, było blisko.</text>
 	</string>
@@ -359,10 +359,10 @@
 		<text>Jakieś dodatkowe porady?</text>
 	</string>
 	<string id="stalker_gatekeeper_brainscorcher_5">
-		<text>Pewnie. Nie zgiń. Nadal masz przed sobą anomalie, promieniowanie, mutanty i patrole Monolitu. Poza tym, jeśli dotrzesz do Zwęglacza i odniesiesz sukces, sugerowałbym skierować się do Zatonu. Jest tam taki stary wrak zwany Skadowskiem, który służy stalkerom za miejsce spotkań. Jeśli nie znajdziesz go w pojedynkę, oni będą twoją najlepszą szansą na odnalezienie Strieloka. Powiedz Brodaczowi, że Cerber przesyła pozdrowienia.</text>
+		<text>Pewnie. Nie zgiń. Nadal masz przed sobą anomalie, promieniowanie, mutanty i patrole Monolitu. Poza tym, jeśli dotrzesz do Zwęglacza i odniesiesz sukces, sugerowałbym skierować się do Zatonu. Jest tam taki stary wrak zwany Skadowskiem, który służy stalkerom za miejsce spotkań. Jeśli nie znajdziesz go w pojedynkę, oni będą twoją najlepszą szansą na odnalezienie Striełoka. Powiedz Brodaczowi, że Cerber przesyła pozdrowienia.</text>
 	</string>
 	<string id="stalker_gatekeeper_brainscorcher_6">
-		<text>Lepsze to niż nic. Dziękuję, i żegnaj.</text>
+		<text>Lepsze to niż nic. Dziękuję. Do zobaczenia w Zonie.</text>
 	</string>
 	<string id="stalker_gatekeeper_brainscorcher_7">
 		<text>Powodzenia, stalkerze.</text>
@@ -370,24 +370,24 @@
 	<string id="stalker_gatekeeper_brainscorcher_71">
 		<text>Udanych łowów, najemniku.</text>
 	</string>
-	
+		
 	<string id="beard_living_legend_0">
-		<text>Hej, Brodacz. Cerber przesyła pozdrowienia.</text>
+		<text>Hej, Brodacz. Masz pozdrowienia od Cerbera.</text>
 	</string>
 	<string id="beard_living_legend_1">
-		<text>Haha, więc ten stary łajdak nadal żyje! Dobrze wiedzieć. Powiedz mu, że... Czekaj! To znaczy, że przybyłeś z południa. Przyprowadził cię tu przewodnik, czy samodzielnie prześliznąłeś się przez Mózgozwęglacz?</text>
+		<text>Haha, więc ten stary łajdak jeszcze żyje! Dobrze to słyszeć, powiedz mu, że...Czekaj! To znaczy, że przybyłeś tu z południa. Zapłaciłeś przewodnikowi czy jakimś cudem ominąłeś Mózgozwęglacz?</text>
 	</string>
 	<string id="beard_living_legend_2">
-		<text>Wcale się nie prześliznąłem. Deaktywowałem go.</text>
+		<text>Wcale go nie ominąłem. Deaktywowałem go.</text>
 	</string>
 	<string id="beard_living_legend_3">
-		<text>Wow. Świetna robota, stalkerze! Ta cholerna maszyna to straszny wrzód na dupie. Po kilku latach zdrowego napływu stalkerów z południa, te sukinsyny z Monolitu nie mogły wytrzymać bez swojej telepatycznej zabawki. Wiesz, tacy są właśnie uparci. Swoją drogą, masz, pozwól, że ci coś podam. Na koszt firmy, dla bohatera. Znów się rozgaduję. Pewnie potrzebujesz od starego Brodacza czegoś konkretnego, prawda?</text>
+		<text>Wow. Świetna robota, stalkerze! Ta cholerna maszyna to straszny wrzód na dupie. Po kilku latach zdrowego napływu stalkerów z południa, nie mogły wytrzymać bez swojej ukochanej zabawki i włączyły ją ponownie! Swoją drogą, pozwól, że podam ci coś na koszt firmy - dla bohatera Skadowska. Pewnie potrzebujesz czegoś konkretnego od starego Brodacza, co?</text>
 	</string>
 	<string id="beard_living_legend_4">
-		<text>Dzięki. I tak, podążam za stalkerem zwanym Strielokiem. Słyszałem, że dotarł na północ jakiś czas temu. Wiesz coś o jego miejscu pobytu?</text>
+		<text>Dzięki. I tak, podążam za stalkerem zwanym Striełokiem.Słyszałem, że wrócił na północ jakiś czas temu. Wiesz, gdzie może teraz być?</text>
 	</string>
 	<string id="beard_living_legend_5">
-		<text>Rozumiem. Wschodząca gwiazda chce się rozmówić z żywą legendą, co? Tak, odwiedził Skadowsk ze swoimi przyjaciółmi ponad tydzień temu. Rozmawialiśmy o tutejszej sytuacji, która jest, lub - miejmy nadzieję - była niezbyt dobra. Może się szybko poprawić, kiedy mamy Mózgozwęglacz z głowy.</text>
+		<text>Rozumiem. Wschodząca gwiazda chce się rozmówić z żywą legendą, hm? Tak, odwiedził Skadowsk z grupą przyjaciół, ale to było ponad tydzień temu. Rozmawialiśmy o tutejszej sytuacji, która jest, lub - miejmy nadzieję - była niezbyt dobra. Może się szybko poprawić, kiedy mamy Mózgozwęglacz z głowy.</text>
 	</string>
 	<string id="beard_living_legend_6">
 		<text>Okej. Powiedział ci coś o swoich zamiarach?</text>
@@ -399,7 +399,7 @@
 		<text>Gdzie go znajdę?</text>
 	</string>
 	<string id="beard_living_legend_9">
-		<text>To ten oschły gość, w zakamuflowanym Wschodzie, z maską typu M40. Tylko spróbuj go nie zdenerwować. Wygląd jakby gołymi rękoma potrafił urwać łeb pijawce.</text>
+		<text>To ten oschły typ w zakamuflowanym Wschodzie, z maską typu M40. Tylko bądź ostrożny - facet wygląda jakby gołymi rękami potrafił urwać łeb pijawce.</text>
 	</string>
 	<string id="beard_living_legend_10">
 		<text>Dzięki za pomoc. Porozmawiam z nim.</text>
@@ -407,7 +407,7 @@
 	<string id="beard_living_legend_11">
 		<text>Nie ma problemu. I przy okazji, oto nagroda dla naszego bohatera. Udział w moich przyszłych zyskach. Powodzenia!</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_dialog_0">
 		<text>Spieprzaj.</text>
 	</string>
@@ -418,74 +418,74 @@
 		<text>Chodźmy.</text>
 	</string>
 	<string id="stalker_rogue_dialog_revenge_0">
-		<text>Gdy się z nim rozprawię, nie zostanie nic do pochowania.</text>
+		<text>Gdy się z nim rozprawię, nie zostanie po nim nawet ślad.</text>
 	</string>
 	<string id="stalker_rogue_dialog_raid_0">
 		<text>To nie będzie przyjemne.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_living_legend_start_0">
-		<text>Hey, Łotr. Chciałem zamienić z tobą parę słów.</text>
+		<text>Hej, Łotr. Chciałbym zamienić z tobą parę słów.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_1">
-		<text>A ja nie chciałem. Zostaw mnie w spokoju, stalkerze.</text>
+		<text>A ja bym nie chciał. Zostaw mnie w spokoju, stalkerze.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_111">
 		<text>A ja bym nie chciał. Zostaw mnie w spokoju, najemniku.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_2">
-		<text>Eh, nie po to przebiłem się przez Radar, żeby zostać teraz odprawionym!</text>
+		<text>Chociaż mnie wysłuchaj. Nie po to przebiłem się przez Radar, żebyś mnie teraz odsyłał z kwitkiem!</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_3">
-		<text>Że niby co zrobiłeś? Jakim cudem przedarłeś się przez Mózgozwęglacz?</text>
+		<text>Czekaj, że niby co zrobiłeś? Jakim cudem przedarłeś się przez Radar?</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_4">
-		<text>Zdobyłem ochronny hełm od Doktora Sacharowa, a po drodze pomyślałem, że fajnie by było wyłączyć ten cały Zwęglacz.</text>
+		<text>Profesor Sacharow dał mi hełm psioniczny, więc zrobiłem z niego dobry użytek - pomyślałem, że fajnie będzie, jak wyłączę ten cały Zwęglacz.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_5">
 		<text>Ty... Ty nie żartujesz. Okej, twardziel z ciebie, w porządku. Ale czego chcesz?</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_6">
-		<text>Powiedziano mi, że jesteś jednym z towarzyszy Strieloka. Muszę się z nim zobaczyć.</text>
+		<text>Powiedziano mi, że jesteś jednym z towarzyszy Striełoka. Muszę się z nim zobaczyć.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_71">
-		<text>Jesteś z Czystego Nieba. Nie jestem pewien czego dokładnie od niego chcesz.</text>
+		<text>Jesteś z Czystego Nieba. Nie jestem do końca pewien co do twoich intencji</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_81">
-		<text>Tylko paru odpowiedzi, niczego więcej.</text>
+		<text>Chcę tylko usłyszeć odpowiedzi na parę pytań. Nic więcej, serio. Miałem nadzieję, że mi wyjaśni to, czego nie wiem na temat Zony.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_72">
 		<text>Za czym tak gonisz, stalkerze? Pieniędzmi, informacjami, okazjami?</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_82">
-		<text>Wysłał mnie Sidorowicz. Chce wiedzieć, co Strielok odkrył będąc w sercu Zony.</text>
+		<text>Wysłał mnie Sidorowicz. Chce wiedzieć, co Striełok odkrył, gdy przebywał w centrum Zony.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_73">
-		<text>Jajogłowi, co? Strielok już wam powiedział, że nie jest zainteresowany tą protezą z oka mięsacza.</text>
+		<text>Jajogłowi, co? Striełok już wam powiedział, że nie jest zainteresowany tą protezą z oka mięsacza.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_83">
-		<text>Nie, nie chodzi o nic takiego. Potrzebuję przynajmniej części jego obszernej wiedzy na temat działania Zony.</text>
+		<text>Nie, nie chodzi o nic takiego. Chciałem z nim porozmawiać o czymś innym - konkretniej mówiąc, o tej obszernej wiedzy, jaką posiada na temat Strefy.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_74">
-		<text>Wam najemnikom nie można ufać. Nie pomogę ci w zebraniu nagrody za głowę mojego przyjaciela.</text>
+		<text>Wam, najemnikom, nie można ufać. Nie pomogę ci w polowaniu na swojego przyjaciela.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_84">
-		<text>Tym razem nie chodzi o żadną eliminację. Moi przełożeni chcą tylko wartościowych informacji, które może posiadać. Żadnej przemocy.</text>
+		<text>Tym razem to nie żadne polowanie. Wręcz przeciwnie, Duszman chce rozwiązać to na spokojnie. Chce jedynie informacji - nie rozlewu krwi.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_75">
-		<text>Ah, Powinność chce odkryć sposób na zniszczenie Zony. Obawiam się, że to nie takie proste, twardzielu.</text>
+		<text>O, Powinność dalej chce zniszczyć Strefę. Obawiam się, że to nie ta kie proste, twardzielu.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_85">
-		<text>Jedyne, co chcę odkryć, to sposób na porozmawianie ze Strielokiem. Czym się ze mną podzieli zależy tylko od niego.</text>
+		<text>Jedyne, czego chcę, to rozmowy ze Striełokiem. To, czym się ze mną podzieli, zależy tylko od niego.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_76">
 		<text>Idź jarać zielsko gdzieś indziej, wolnościowy hipisie.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_86">
-		<text>Zabawny z ciebie koleżka. Bardzo zabawny. Ale nie ruszam zielska, dopóki nie ukończę mojej misji. Słowo daję.</text>
+		<text>He, he, he...No, pośmialiśmy się, pozartowaliśmy - a teraz na poważnie: nie tykam blanta, dopóki nie pogadam z legendą. Masz moje słowo.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_9">
-		<text>Dobra, twardzielu. Przybyłem tu z zamiarem zdobycia czegoś dla mojej drużyny. Udało mi się zdobyć trochę informacji i właśnie miałem ruszać, ale oto i jesteś. Na południowy-zachód stąd jest opuszczona instalacja wojskowa. Mam powody, by wierzyć, że pozostawiono tam pewną eksperymentalną broń. Przynieś mi tą broń, jeśli zdołasz ją znaleźć, to może wtedy porozmawiamy na poważnie. Zrozumiano?</text>
+		<text>Dobra, posłuchaj w takim razie uważnie, bo nie będę tego powtarzał. Udało mi się zdobyć informacje i miałem właśnie wychodzić w teren, ale skoro tak bardzo chcesz się spotkać ze Striełokiem... Na południowy zachód stąd jest opuszczony kompleks wojskowy. Mam powody, żeby sądzić, że pozostawiono tam pewną eksperymentalną broń. Przynieś mi ją, to wtedy przejdziemy do poważnych tematów. Jasne?</text>
 	</string>
 	<string id="stalker_rogue_living_legend_start_10">
 		<text>Zrobię to. Jak ta broń może wyglądać?</text>
@@ -493,7 +493,7 @@
 	<string id="stalker_rogue_living_legend_start_11">
 		<text>Jestem pewien, że od razu ją rozpoznasz. Wygląda jak cholerny rekwizyt z planu filmu science-fiction, nie strzela nawet normalnymi pociskami. Ruszaj, zanim się rozmyślę.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_living_legend_fetch_complete_0">
 		<text>Rzuć na to okiem.</text>
 	</string>
@@ -501,27 +501,27 @@
 		<text>Hm, o to mi chodziło. Nieźle. Myślałem, że się zmyjesz i już cię nigdy nie zobaczę. Okej, czego dokładnie chcesz?</text>
 	</string>
 	<string id="stalker_rogue_living_legend_fetch_complete_2">
-		<text>Po prostu długiej, porządnej rozmowy ze Strielokiem. Człowiek jego kalibru musi mieć wiele historii do opowiedzenia i wiedzieć o wielu rzeczach. Rzeczach, które mogą mi pomóc zrozumieć to miejsce. Nie zrobię niczego głupiego, masz moje słowo.</text>
+		<text>Po prostu długiej, porządnej rozmowy ze Striełokiem. Człowiek jego kalibru musi mieć wiele historii do opowiedzenia i wiedzieć o wielu rzeczach. Rzeczach, które mogą mi pomóc zrozumieć to miejsce. Nie zrobię niczego głupiego, masz moje słowo.</text>
 	</string>
 	<string id="stalker_rogue_living_legend_fetch_complete_3">
 		<text>Mam taką nadzieję. Pomyślę o tym.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_st_1">
-		<text>Ciekawość to pierwszy stopień do piekła. Ale powiedzmy, że twoja ciekawość to nic strasznego. Ja i mój kumpel - byliśmy kiedyś żołnierzami. Byliśmy podekscytowani na wieść, że zsyłają nas do Zony. Nie zajęło nam długo zorientowanie się, że warunki są beznadziejne, a żołd jest godny pożałowania. Zobaczyliśmy wtedy jak nasi oficerowie traktują stalkerów. Uznaliśmy, że nawet oni mają tu lepiej, więc pewnego dnia wyszliśmy na patrol w pełnym oporządzeniu i z pełnymi plecakami. Dołączyliśmy do Stalkerów w Wiosce Kotów i rozpoczęliśmy tam swoją małą przygodę. Jestem teraz jak każdy inny stalker. Z dodatkiem dyscypliny i wojskowego treningu.</text>
+		<text>Ciekawość to pierwszy stopień do piekła. Ale powiedzmy, że twoja ciekawość to nic strasznego. Ja i mój kumpel byliśmy kiedyś żołnierzami. Byliśmy podekscytowani na wieść, że zsyłają nas do Zony. Nie zajęło nam długo zorientowanie się, że warunki są beznadziejne, a żołd jest godny pożałowania. Zobaczyliśmy wtedy jak nasi oficerowie traktują stalkerów. Uznaliśmy, że nawet oni mają tu lepiej, więc pewnego dnia wyszliśmy na patrol w pełnym oporządzeniu i z pełnymi plecakami. Dołączyliśmy do Stalkerów w Wiosce Kotów i rozpoczęliśmy tam swoją małą przygodę. Jestem teraz jak każdy inny stalker. Z dodatkiem dyscypliny i wojskowego wyszkolenia.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_st_team_0">
-		<text>Wspomniałeś o przyjacielu i jesteś członkiem grupy Strieloka. Gdzie jest reszta?</text>
+		<text>Wspomniałeś o przyjacielu i jesteś członkiem grupy Striełoka. Gdzie jest reszta?</text>
 	</string>
 	<string id="stalker_rogue_st_team_1">
-		<text>Strielok i Szew zostali w naszej kryjówce na Przedmieściach Prypeci. Wróciłem tu samemu, by znaleźć potężną broń.</text>
+		<text>Striełok i Igła zostali w naszej kryjówce na Przedmieściach. Ja wróciłem tutaj sam, żeby znaleźć tę broń.</text>
 	</string>
 	<string id="stalker_rogue_st_team_2">
 		<text>Przyszedłeś tu z Prypeci w pojedynkę? Słyszałem, że to miejsce to istna strefa śmierci.</text>
 	</string>
 	<string id="stalker_rogue_st_team_3">
-		<text>Dobrze słyszałeś. Nie było łatwo, ale mi się udało. Niewiele rzeczy pozostaje na swoim miejscu, gdy mój RKM zaczyna śpiewać.</text>
+		<text>Dobrze słyszałeś. Nie było łatwo, ale mi się udało. Kiedy mój RKM zaczyna śpiewać, to wszystko ucieka lub zaczyna tańczyć, jak ja zagram.</text>
 	</string>
 	<string id="stalker_rogue_st_team_4">
 		<text>Rozumiem. Ale jest was tylko trzech?</text>
@@ -533,46 +533,46 @@
 		<text>Poczekaj. Strażnik twierdził, że świetnie sobie poradziliście z Monolitem na Barierze. Co się stało później?</text>
 	</string>
 	<string id="stalker_rogue_st_team_7">
-		<text>Ehh. No dobra. Z wiedzą Strieloka i umiejętnościami Wędrowca udało nam się znaleźć bezpieczną trasę przez anomalie, udało się nam wszystkim dobrzeć do Prypeci. Ani mutanty, ani Monolit nas nie zatrzymał. Ale właśnie wtedy wszystko się posypało. Kierowaliśmy się na północny-zachód kiedy wpadliśmy w kolejną potyczkę z Monolitem. Czterech z nas ukryło się za wrakami samochodów, gdy mój kumpel, Luneta, osłaniał nas ogniem snajperskim z jednego z dachów. Mieliśmy już skończyć, gdy nagle usłyszeliśmy dźwięk karabinu maszynowego z jego pozycji. Spojrzałem w górę i zobaczyłem jak spada z pięciopiętrowego budynku. A na górze stał ten skurwysyn.</text>
+		<text>Ehh. No dobra. Z wiedzą Striełoka i umiejętnościami Wędrowca udało nam się znaleźć bezpieczną trasę przez anomalie i dotrzeć do Prypeci. Ani mutanty, ani Monoliciarze nie byli w stanie nas zatrzymać. Ale wtedy wszystko się posypało. Kierowaliśmy się na północny zachód, gdy nagle zaatakował nas - jakby znikąd - kolejny oddział Monolitu.Zdołaliśmy się ukryć za wrakami samochodów, a mój kumpel - Luneta - osłaniał nas z jednego z dachów ogniem snajperskim. Wszystko szło dobrze, mieliśmy już ruszać dalej, gdy nagle usłyszeliśmy dźwięk karabinu z jego pozycji. Spojrzałem w górę i zobaczyłem jak spada z pięciopiętrowego budynku. A na górze stał ten skurwysyn.</text>
 	</string>
 	<string id="stalker_rogue_st_team_8">
 		<text>Jeden z Monolitian zaskoczył waszego przyjaciela?</text>
 	</string>
 	<string id="stalker_rogue_st_team_9">
-		<text>To nie był zwykły fanatyk. Gość stał tam, gapiąc się na nas, w swoim dziwnym kombinezonie. Obróciłem się, by wpakować w niego kilka kul, ale zniknął. Wiedziałem, że z Lunety została tylko mokra plama, wiec skupiłem się na dalszej walce. Monolitianie złapali wtedy oddech i przejęli inicjatywę, wiec Strielok kazał nam się wycofać. Zabiłem kilku z nich osłaniając nasz odwrót, ale wtedy znów pokazał się ten gość. Szedł przez pobojowisko recytując te swoje bzdury. "Jestem Eidolon, Wybraniec Monolitu, Zguba Niewiernych". Powtarzał to w kółko, przez cały czas.</text>
+		<text>To nie był zwykły fanatyk. Było w nim coś nietypowego. Gość stał tam przez chwilę, gapiąc się na nas, w swoim dziwacznym kombinezonie. Obróciłem się, by wpakować w niego kilka kul, ale zniknął. Wiedziałem, że z Lunety została tylko mokra plama, wiec skupiłem się na dalszej walce. Monolitianie złapali wtedy oddech i przejęli inicjatywę, wiec Striełok kazał nam się wycofać. Kiedy przeszliśmy do odwrotu, zdołałem zabić kilku z nich, ale wtedy... Znowu go usłyszałem. Szedł przez pobojowisko, recytując w kółko jakiś bełkot... "Jestem Eidolon, Wybraniec Monolitu, Zguba Niewiernych".</text>
 	</string>
 	<string id="stalker_rogue_st_team_10">
-		<text>Eidolon, hm?</text>
+		<text>Eidolon, co? Mów dalej.</text>
 	</string>
 	<string id="stalker_rogue_st_team_11">
-		<text>Na koniec udało nam się wybić ich wszystkich, poza tym jednym sukinsynem. W pewnym momencie cała nasza grupa miała go na celowniku. Ale on po prostu szedł dalej. Kule wyglądały, jakby nie mogły go dosięgnąć. Trafił mnie w ramię. Wędrowiec chciał go dorwać, ale tamten zrobił to szybciej. Strielok rzucił w niego granatem i razem ze Szwem mnie odciągnęli.</text>
+		<text>Wreszcie udało nam się pozbyć wszystkich - ale ten jeden skurwysyn nadal żył. Strzelaliśmy do niego, mieliśmy go wszyscy na celu, lecz on szedł dalej naprzód. Jakby był nieśmiertelny...Trafił mnie w ramię, zabił także Wędrowca, niech mu ziemia lekką będzie...Striełok rzucił wtedy w niego granatem i razem z Igłą mnie odciągnęli, gdy chciałem go pomścić.</text>
 	</string>
 	<string id="stalker_rogue_st_team_12">
-		<text>Cholera. Strielokowi udało się w końcu pozbyć tego gościa?</text>
+		<text>Cholera. Striełokowi udało się w końcu pozbyć tego gościa?</text>
 	</string>
 	<string id="stalker_rogue_st_team_13">
 		<text>Nie. Skurwysyn nie ścigał nas dalej, ale widziałem go przez dym, nadal stojącego. To nie było normalne. Miał na sobie jakiś hybrydowy kombinezon, ale nikt nie byłby w stanie pochłonąć takiej ilości obrażeń. Nie wiem, może miał ze sobą jakiś bardzo rzadki artefakt.</text>
 	</string>
 	<string id="stalker_rogue_st_team_14">
-		<text>Więc twoja grupa znalazła kryjówkę, a Strielok wysłał cię tu, byś odnalazł broń, która może pomóc pozbyć się tego gościa?</text>
+		<text>Więc twoja grupa znalazła kryjówkę, a Striełok wysłał cię tu, byś odnalazł broń, która może pomóc pozbyć się tego gościa?</text>
 	</string>
 	<string id="stalker_rogue_st_team_15">
 		<text>Dokładnie. Kilka razy próbowaliśmy przedostać się w głąb Prypeci, ale Monolit za każdym razem nas zatrzymywał. Tak jakby za każdym razem wiedzieli gdzie się pojawimy. Wycofaliśmy się na Przedmieścia, a resztę historii już znasz.</text>
 	</string>
 	<string id="stalker_rogue_st_team_16">
-		<text>Rozumiem. Mogę wam pomóc, w zamian za informacje od Strieloka. Brzmi dobrze?</text>
+		<text>Rozumiem. Mogę wam pomóc w zamian za informacje od Striełoka. Brzmi dobrze?</text>
 	</string>
 	<string id="stalker_rogue_st_team_17">
-		<text>Tak. Zgoda. Wkrótce wracam do Prypeci. Dobrze się wyposaż i daj znać, gdy będziesz gotowy.</text>
+		<text>Zgoda. Wkrótce wracam do Prypeci. Dobrze się wyposaż i daj znać, gdy będziesz gotowy.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_join_0">
 		<text>Jestem gotów.</text>
 	</string>
 	<string id="stalker_rogue_join_1">
 		<text>W porządku. Przejdziemy przez Podziemia Jupitera, to najbezpieczniejsza droga, jaką znam.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_underpass_0">
 		<text>Droga nie była całkowicie bezpieczna, co?</text>
 	</string>
@@ -591,7 +591,7 @@
 	<string id="stalker_rogue_underpass_5">
 		<text>Prawie mnie rozśmieszyłeś. Ruszajmy.</text>
 	</string>
-	
+		
 	<string id="living_legend_rogue_titan_0">
 		<text>Jak mogę wam pomóc w przygotowaniach?</text>
 	</string>
@@ -605,96 +605,96 @@
 	<string id="living_legend_rogue_titan_complete_1">
 		<text>Dobra robota. Teraz możemy się skupić na Monolicie.</text>
 	</string>
-	
+		
 	<string id="stalker_rogue_join_eidolon_0">
 		<text>Jesteśmy gotowi. Ruszajmy.</text>
 	</string>
 	<string id="stalker_rogue_join_eidolon_1">
 		<text>Zrozumiano. Trzymaj, weź tę broń i amunicję od Kardana. Będziesz jej potrzebował, by zabić Eidolona. Pamiętaj, to ten, który ma na sobie kombinezon przypominający SEVĘ, z oszklonym hełmem. Trzymaj dystans i celuj w głowę, to nasza jedyna szansa.</text>
 	</string>
-	
+		
 	<string id="lost_stalker_strelok_dialog_0">
-		<text>...</text>
+		<text>Przyjąłem. Zajmę się tym.</text>
 	</string>
-	
+		
 	<string id="living_legend_strelok_start_0">
-		<text>Strielok, jak mniemam?</text>
+		<text>To ty nazywasz się Striełok, prawda?</text>
 	</string>
 	<string id="living_legend_strelok_start_1">
-		<text>Tak. Nie spodziewałem się, że Łotr kogokolwiek zrekrutuje, chociaż członek Powinności to rozsądny wybór.</text>
+		<text>Tak. Nie spodziewałem się, że Łotr przyprowadzi ze sobą Powinnościowca.</text>
 	</string>
 	<string id="living_legend_strelok_start_11">
-		<text>Tak. Nie spodziewałem się, że Łotr kogokolwiek zrekrutuje, tym bardziej najemnika.</text>
+		<text>Tak. Nie sądziłem, że Łotrowi uda się przekonać do współpracy najemników... Ale to chyba dobrze.</text>
 	</string>
 	<string id="living_legend_strelok_start_12">
 		<text>Tak. Nie spodziewałem się, że Łotr kogokolwiek zrekrutuje. Ale nie odmawiamy pomocy, szczególnie od stalkerów.</text>
 	</string>
 	<string id="living_legend_strelok_start_13">
-		<text>Tak. Nie spodziewałem się, że Łotr kogokolwiek zrekrutuje. Gdyby tylko wiedział ile kłopotów Czyste Niebo przysporzyło mi w przeszłości.</text>
+		<text>Tak. Nie spodziewałem się, że Łotrowi uda się kogoś pozyskać. Gdyby tylko wiedział, ile kłopotów przysporzyło mi Czyste Niebo w przeszłości...</text>
 	</string>
 	<string id="living_legend_strelok_start_14">
-		<text>Tak. Nie spodziewałem się, że Łotr kogokolwiek zrekrutuje, tym bardziej członka Wolności.</text>
+		<text>Tak. Nie spodziewałem się, że Łotr przyprowadzi ze sobą członka Wolności. Mam nadzieję, że nam pomożesz w walce.</text>
 	</string>
 	<string id="living_legend_strelok_start_15">
 		<text>Tak. Nie spodziewałem się, że Łotr kogokolwiek zrekrutuje, tym bardziej ekologa.</text>
 	</string>
 	<string id="living_legend_strelok_start_2">
-		<text>Zawarliśmy umowę. W każdym razie, muszę z tobą porozmawiać.</text>
+		<text>Zawarliśmy umowę. W każdym razie muszę z tobą porozmawiać.</text>
 	</string>
 	<string id="living_legend_strelok_start_3">
-		<text>Porozmawiać? Niech zgadnę. Twój przełożony chce, bym zdradził wam sekrety Zony.</text>
+		<text>Porozmawiać? Niech zgadnę: tematem rozmowy będą sekrety Zony, bo tego oczekuje twój dowódca?</text>
 	</string>
 	<string id="living_legend_strelok_start_4">
 		<text>Dokładnie.</text>
 	</string>
 	<string id="living_legend_strelok_start_5">
-		<text>Wszystko ma swoją cenę, a ja sporo przypłaciłem, by zdobyć tą wiedzę. Nie jestem specjalnie chętny do rozpowiadania tych rzeczy na lewo i prawo. Po części dlatego, że jest jeszcze wiele rzeczy, co do których nie mam żadnej pewności.</text>
+		<text>Wszystko ma swoją cenę. Ja straciłem zbyt wiele i zapłaciłem zbyt dużo, żeby teraz szastać tą wiedzą na lewo i prawo.  Poza tym nadal są pytania, na które nawet ja nie znam odpowiedzi.</text>
 	</string>
 	<string id="living_legend_strelok_start_6">
-		<text>Cóż, zgodziłem się pomóc wam w z Monolitem w zamian za te informacje. Łotr twierdzi, że to uczciwa wymiana.</text>
+		<text>Cóż, zgodziłem się wam pomóc w z Monolitem w zamian za te informacje. Łotr twierdzi, że to uczciwa wymiana.</text>
 	</string>
 	<string id="living_legend_strelok_start_7">
-		<text>Być może. Na razie sam potrzebuję znaleźć kilka odpowiedzi. Odpowiedzi, które da się zdobyć tylko w sercu Zony. Musimy się tam natychmiastowo dostać, ale przeszkadza nam w tym pewien nietypowy żołnierz Monolitu. Nie jesteśmy w stanie go ominąć.</text>
+		<text>Być może. Na razie sam muszę znaleźć kilka odpowiedzi - a da się je zdobyć jedynie w centrum Zony. Musimy się tam jak najszybciej dostać, ale przeszkadza nam w tym pewien nietypowy żołnierz Monolitu. Nie możemy go ominąć.</text>
 	</string>
 	<string id="living_legend_strelok_start_8">
-		<text>Tak, Łotr powiedział mi o Eidolonie. Mamy eksperymentalną broń, która powinna go zabić. Jedyne, co nam pozostało to znalezienie i pozbycie się go.</text>
+		<text>Tak, Łotr powiedział mi już o Eidolonie. Po tym, jak znaleźliśmy eksperymentalną broń, powinniśmy sobie z nim poradzić - pozostaje go tylko znaleźć.</text>
 	</string>
 	<string id="living_legend_strelok_start_9">
-		<text>Rozumiem. Z dodatkową siłą ognia będziemy w końcu w stanie zaplanować nasze finalne natarcie. Mimo to, skonfrontujemy Eidolona, tylko wtedy, gdy będziemy stuprocentowo przygotowani. Cała nasza trójka ma pewne zadania, które wymagają wypełnienia.</text>
+		<text>Rozumiem. Dobrze wiedzieć, że mamy dodatkową siłę ognia - to znacząco ułatwi nam atak. Ale zanim skonfrontujemy się z Eidolonem, musimy się przygotować - cała nasza trójka ma ważne zadania, które trzeba najpierw wykonać.</text>
 	</string>
 	
 	<string id="stalker_strelok_st_1">
-		<text>Jestem zwykłym stalkerem. Przez lata przemierzałem Zonę w poszukiwaniu rozwiązań na jej zagadki. Razem z Kłem i Duchem byliśmy pierwszymi, którzy dotarli do Elektrowni po katastrofie w 2006. Ale to było dawno temu, a te wspomnienia są zamglone. Za każdym razem, gdy wspominam te czasy nawiedza mnie poczucie pustki i niezrozumiałe obrazy. Wiem, że Kła i Ducha spotkała śmierć. A co zostało ze mnie? Wspomnienia pościgu, kataklizmy, głosy w mojej głowie... Przez jakiś czas byłem znany jako Naznaczony, stalker z amnezją, który omyłkowo został wysłany z misją zabicia samego siebie. Przez kogo? Powiem ci później. Wystarczy powiedzieć, że odkryłem jedne z największych sekretów Zony i musiałem podjąć ciężkie decyzje, co do których nawet nie jestem pewien, czy były słuszne.</text>
+		<text>Jestem zwykłym stalkerem, jak wszyscy inni. Przez lata przemierzałem Zonę, aby rozwiązywać zagadki, które miała do zaoferowania. Razem z Kłem, Duchem i Doktorem dotarliśmy na północ jako pierwsi, zaraz po katastrofie z 2006 roku. Ale to było tak dawno... Wszystkie moje wspomnienia z tamtego okresu są zamazane. Kieł zginął w Magazynach Wojskowych, Ducha zabrało laboratorium...A co ze mnie zostało? Jedynie mieszanina obrazów, straszne głosy w mojej głowie i pustka. Przez pewien czas ludzie znali mnie jako Naznaczonego, stalkera z amnezją; SIdor znalazł przy mnie PDA z informacją "Zabij Striełoka". Co do tego, kto zlecił mi tę misję... Cóż, o tym opowiem ci później. Wystarczy powiedzieć, że do tej pory odkryłem tylko część największych tajemnic Zony. I musiałem podejmować ciężkie decyzje... Wciąż nie wiem, czy były słuszne, ale wyszedłem z tego wszystkiego cało. Więc chyba powinienem się cieszyć, nie uważasz?</text>
 	</string>
 	
 	<string id="stalker_strelok_doctor_0">
-		<text>Przy okazji, znalazłem te notatki w twojej starej kryjówce. I prawie bym zapomniał. Doktor chciałby, byś go jeszcze kiedyś odwiedził.</text>
+		<text>Przy okazji, znalazłem te notatki w twojej starej kryjówce. Widziałem się też z Doktorem. Wciąż żyje, mieszka na Bagnach i miał nadzieję, że go odwiedzisz.</text>
 	</string>
 	<string id="stalker_strelok_doctor_1">
-		<text>Dziękuję. Dobrze wiedzieć, że nadal trzyma się przy życiu. Mój jedyny przyjaciel ze starych czasów. Mam nadzieję, że uda mi się znaleźć dla niego czas.</text>
+		<text>Dziękuję. Dobrze wiedzieć, że wszystko z nim w porządku. Z naszej starej grupy pozostał już tylko on. Mam nadzieję, że uda mi się do niego wpaść.</text>
 	</string>
-	
+		
 	<string id="living_legend_strelok_x8_0">
 		<text>Jak mogę wam pomóc w przygotowaniu się do walki z Eidolonem?</text>
 	</string>
 	<string id="living_legend_strelok_x8_1">
-		<text>Pod tą częścią miasta znajduje się sekretne laboratorium. Jeszcze mnie tam nie było, ale podejrzewam, że znajdziemy w nim kolejną część układanki. Dostań się tam i znajdź dokumenty, które mogły zostać pozostawione przez jego obsługę.</text>
+		<text>Pod tą częścią miasta znajduje się jedno z tajnych laboratoriów klasy X. W tym konkretnym jeszcze nie byłem, ale podejrzewam, że znajdziemy w nim kolejną część układanki. Dostań się tam i znajdź wszelkie dokumenty, a później przynieś je do mnie.</text>
 	</string>
-	
+		
 	<string id="living_legend_strelok_preparations_0">
 		<text>Zrobiłem wszystko, czego potrzebowałeś.</text>
 	</string>
 	<string id="living_legend_strelok_preparations_1">
 		<text>Dobrze. Jesteśmy prawie gotowi. Wróć do mnie, gdy sam się przygotujesz.</text>
 	</string>
-	
+		
 	<string id="living_legend_strelok_eidolon_0">
 		<text>Jestem gotów.</text>
 	</string>
 	<string id="living_legend_strelok_eidolon_1">
 		<text>Monolit odnalazł moją kryjówkę. Oddział zwiadowczy jest właśnie w drodze. Gdy się z nimi rozprawimy, od razu ruszamy do centrum Prypeci. Nasz plan to otwarty atak na Dom Kultury i wywabienie Eidolona na zewnątrz. Pozbądź się go, gdy tylko się pojawi. Ruszajmy.</text>
 	</string>
-	
+		
 	<string id="living_legend_strelok_objective_0">
 		<text>W skali od "nic specjalnego" do "było blisko"?</text>
 	</string>
@@ -702,13 +702,13 @@
 		<text>Wystarczająco blisko. Wygląda na to, że Eidolon miał ze sobą wyjątkowo rzadki artefakt. Zatrzymaj go jeśli chcesz. Jako bonus za twoją pomoc.</text>
 	</string>
 	<string id="living_legend_strelok_objective_2">
-		<text>Dzięki, Strielok. Wybiliśmy chyba połowę sił Monolitu w całej Zonie, może powiesz mi teraz co tak bardzo chcesz znaleźć na północy?</text>
+		<text>Dzięki, Striełok. Wybiliśmy chyba połowę sił Monolitu w całej Zonie - może powiesz mi teraz, czego tak bardzo poszukujesz na północy?</text>
 	</string>
 	<string id="living_legend_strelok_objective_3">
-		<text>Odpowiedzi. Dokładnie tak jak ty, poszukuję odpowiedzi. By je zdobyć musimy się dostać do Elektrowni i odnaleźć odłamek Spełniacza Życzeń.</text>
+		<text>Odpowiedzi, stalkerze. Tak jak ty, szukam odpowiedzi na pytania dotyczące Zony i tego, czym właściwie jest. By je zdobyć, musimy dostać się do Elektrowni i znaleźć Odłamek Spełniacza Życzeń.</text>
 	</string>
 	<string id="living_legend_strelok_objective_4">
-		<text>Okej... nie, poczekaj. Postradałeś zmysły? Zaatakować Elektrownię? Spełniacz Życzeń? On naprawdę istnieje? Słyszałem legendy, ale...</text>
+		<text>Okej...nie, poczekaj. Oszalałeś? Zaatakować Elektrownię? Spełniacz Życzeń? On naprawdę istnieje? Słyszałem różne historie, ale...</text>
 	</string>
 	<string id="living_legend_strelok_objective_5">
 		<text>W każdej legendzie jest ziarnko prawdy, stalkerze. Spełniacz Życzeń istnieje, widziałem go na własne oczy. Ale nie martw się. Udało się nam pokonać Eidolona i jego żołnierzy. Już raz udało mi się przedrzeć do Elektrowni. Z twoją pomocą z pewnością uda nam się to zrobić ponownie.</text>
@@ -726,7 +726,7 @@
 		<text>Zrobimy to w tradycyjnym stylu, najemniku.</text>
 	</string>
 	<string id="living_legend_strelok_objective_8">
-		<text>Nie mogę się doczekać, by dowiedzieć się jaka wiedza jest tego warta.</text>
+		<text>Nie mogę się doczekać, by dowiedzieć się, jaka wiedza jest tego warta.</text>
 	</string>
 	<string id="living_legend_strelok_objective_9">
 		<text>Cierpliwości. Dojdź z nami do wnętrza Sarkofagu, a otrzymasz wiele odpowiedzi, których szukasz już w drodze. Gdy zdobędziemy odłamek, wyjawię ci wszystko, co tylko chcesz wiedzieć. Obiecuję.</text>
@@ -737,9 +737,9 @@
 	<string id="living_legend_strelok_objective_11">
 		<text>Dobrze. Przygotuj się na przygodę życia.</text>
 	</string>
-	
+		
 	<string id="living_legend_strelok_answers_0">
-		<text>Dobra, Strielok, zrobiłem wszystko czego chciałeś. Weź odłamek. A w zamian twoja wiedza.</text>
+		<text>Dobra, Striełok, zrobiłem wszystko czego chciałeś. Weź odłamek. A w zamian twoja wiedza.</text>
 	</string>
 	<string id="living_legend_strelok_answers_1">
 		<text>W porządku. Jestem ci wdzięczny za pomoc. Pytaj, a ja odpowiem tak dobrze, jak tylko potrafię.</text>
@@ -748,37 +748,37 @@
 		<text>Czym jest dokładnie Zona?</text>
 	</string>
 	<string id="living_legend_strelok_answers_211">
-		<text>Zona nie jest ani cudem, ani manifestacją zła wcielonego. Nie jest też naturalnym zjawiskiem. Ponad 10 lat temu grupa naukowców przeprowadziła sekretny eksperyment. Odkryli, że tajemnicze psioniczne pole, zwane noosferą, otacza całą Ziemię. Myśleli, że poprzez ingerencję w działanie tego pola będą mogli wywrzeć wpływ na całą populację. Chcieli usunąć przemoc i egoizm z ludzkich umysłów. Żadna pojedyncza osoba nie była w stanie tego osiągnąć, więc połączyli swoje umysły, zamieniając się w Zbiorową Świadomość, podłączoną do zestawu niezwykle silnych generatorów. Jak można się było spodziewać, eksperyment nie poszedł po ich myśli, a w noosferze powstała wyrwa. Emanacja, a raczej Pierwsza Emisja niekontrolowanej energii psionicznej stworzyła Zonę.</text>
+		<text>Zona nie jest ani niebem, ani piekłem. Nie jest też naturalnym zjawiskiem. Ponad 10 lat temu grupa naukowców przeprowadziła serię tajnych eksperymentów. Odkryli oni, że tajemnicze pole psioniczne - zwane Noosferą - otacza całą Ziemię. Uznali więc, że poprzez ingerencję w jego działanie uda im się przejąć kontrolę nad populacją, usuwając najgorsze cechy z ludzkich umysłów. Pewnie wiesz, do czego zmierzam: idealny świat bez wojen, przemocy, egoizmu, okrucieństwa, w którym żyją obywatele pozbawieni wad... Ponieważ pojedyncze osoby nie były w stanie tego osiągnąć, naukowcy połączyli swoje umysły, zmieniając się w tak zwaną Świadomość Zbiorową - w skrócie zwaną Świadomością-Z. Podłączyli je do zestawu silnych generatorów, ale energia, którą wytworzyli, zrobiła wyrwę w noosferze. Eksperyment się nie udał i doszło do Pierwszej Emisji - czyli do pierwszego, niekontrolowanego wyrzutu anomalnej energii, dzięki któremu powstała Zona.</text>
 	</string>
 	<string id="living_legend_strelok_answers_212">
-		<text>Kim, lub czym była Świadomość Zbiorowa?</text>
+		<text>Kim lub czym była Świadomość-Z?</text>
 	</string>
 	<string id="living_legend_strelok_answers_213">
-		<text>Byli grupą przesadnie ambitnych naukowców. Myśleli, że są w stanie naprawić ludzkość poprzez wykorzystanie czego, co ledwo rozumieli. Nie zdawali sobie sprawy, że torują sobie drogę prosto do piekła. W celu osiągnięcia swojego celu w "uratowaniu" ludzkości przeobrazili się w sztuczny, zbiorowy umysł. Przypadkowo stworzyli Zonę. Byli odpowiedzialni za emisje, Maszynę Cudów, Mózgozwęglacz, zombie i Monolit, czyli ich mechanizmy obronne. To oni umieścili Spełniacz Życzeń w Sarkofagu. Miałem szansę na ich zabicie... więc to zrobiłem.</text>
+		<text>Byli grupą przesadnie ambitnych naukowców, którzy wierzyli, że uda im się podporządkować sobie noosferę i stworzyć nowy świat. Nie zdawali sobie jednak sprawy, że w ten sposób otwierają sobie - i przyszłym pokoleniom - drogę do piekła. Chcąc "uratować" ludzkość, dzięki połączeniu swoich mózgów stworzyli wielki, zbiorowy umysł - i przez przypadek stworzyli Zonę. Byli odpowiedzialni za wszystkie emisje (zarówno te Wielkie, jak i małe), Emiter zwany także Maszyną Cudów, Mózgozwęglacz, zombie i Monolit. Ci ostatni byli ich największym mechanizmem obronnym, stworzonym ze stalkerów wcielonych do Świadomości. To oni umieścili Spełniacz Życzeń w Sarkofagu. Miałem szansę, by ich zabić... Więc ją wykorzystałem.</text>
 	</string>
 	<string id="living_legend_strelok_answers_214">
 		<text>Czym tak naprawdę jest Spełniacz Życzeń?</text>
 	</string>
 	<string id="living_legend_strelok_answers_215">
-		<text>Spełniacz Życzeń, inaczej zwany Monolitem, to oszustwo. Został stworzony do zwabiania naiwnych stalkerów do serca Zony, by Świadomość-Z mogła ich pojmać, wyprać im mózg i zamienić w posłusznych żołnierzy. Widziałem to na własne oczy i nie jestem pewien, ale... Chyba sobie coś zażyczyłem. Nie pamiętam dokładnie, moje wspomnienia z tamtego czasu są zamglone. Udało mi się oprzeć jego zewowi, gdy wróciłem tu w 2012 i nie mam zamiaru przed nim stanąć po raz kolejny. Ale jestem ciekaw, czy reakcja po śmierci Świadomości-Z miała na niego jakikolwiek wpływ. Wtedy dowiedziałem się o Odłamku Monolitu.</text>
+		<text>Spełniacz Życzeń, często zwany Monolitem, to oszustwo. Jest pułapką mającą zwabić stalkerów do samego serca Zony. Ci, którym się to uda najczęściej kończą jako bezrozumne zwierzęta ledwo zdolne utrzymać w rękach broń. Część zwabionych stalkerów zostaje zmieniona w posłusznych żołnierzy zasilających szeregi Monolitu. Moje wspomnienia z tamtego czasu są mocno zamglone, ale jestem pewien, że widziałem ten proces na własne oczy. Chyba sobie wtedy czegoś zażyczyłem, ale jakimś cudem zachowałem głowę. Nie mam teraz zamiaru dawać Monolitowi drugiej szansy. Jestem tylko ciekaw, czy śmierć Świadomości-Z miała na niego jakikolwiek wpływ. Poświęciłem się potem szukaniu w tym wszystkim sensu i dowiedziałem się o czymś zwanym Odłamkiem Monolitu.</text>
 	</string>
 	<string id="living_legend_strelok_answers_216">
 		<text>Czym dokładnie jest Odłamek Monolitu?</text>
 	</string>
 	<string id="living_legend_strelok_answers_217">
-		<text>Nazwa mówi sama za siebie. Legenda mówi, że gdy Świadomość-Z zginęła, Spełniacz Życzeń uległ uszkodzeniu. Kawałek od niego odpadł. Jakiś stalker dotarł do Elektrowni krótko po tym zdarzeniu i odnalazł Odłamek. Widocznie jego działania wywołały gniew żołnierzy Monolitu wracających do Elektrowni, więc musiał szybko uciec, pozostawiając Odłamek, by uniknąć zawziętego pościgu. Historia szybko się rozprzestrzeniła, pomimo wątpliwej autentyczności. Wiedziałem, że może się okazać prawdą chociaż po części, więc chciałem to sprawdzić. Odłamek może odkryć sekrety, których nie zawierają żadne dokumenty.</text>
+		<text>Nazwa mówi sama za siebie. Według legendy - po tym, jak zniszczyłem Świadomość -Z - Monolit w jakiś sposób uległ uszkodzeniu. Jakiś stalker dotarł do Elektrowni wkrótce po tym zdarzeniu i odnalazł Odłamek. Wprawdzie pozyskał niesamowite umiejętności i ochronę przed niebezpieczeństwami Zony, ale ściągnął na siebie gniew Monolitian, przez co musiał uciec i porzucić Odłamek podczas walki. Trudno powiedzieć, na ile ta historia jest prawdziwa, chociaż stała się bardzo powszechna w Zonie... Gdy o niej usłyszałem, uznałem, że warto to sprawdzić. Tego, czego nie zawarto w dokumentach, być może trzeba szukać w Odłamku.</text>
 	</string>
 	<string id="living_legend_strelok_answers_22">
 		<text>Co wiesz o emisjach?</text>
 	</string>
 	<string id="living_legend_strelok_answers_221">
-		<text>Pęknięcie w noosferze, które stworzyło Zonę jest niesamowicie obfite w energię psioniczną. Z tej właśnie energii formują się emisje, niczym opary wodne zamieniające się w burzę. Do czasu śmierci Świadomości-Z, energia była rozładowywana jedynie w razie potrzeby, ale bez ich nadzoru, narasta do pewnego stopnia, po czym sama uwalnia się, w formie fali rozchodzącej się do samych granic Zony. Zamiast rzadkich, ale niszczycielskich emisji, mających wyeliminować konkretne zagrożenie, doświadczamy relatywnie słabych, ale częstych emisji, które są mimo wszystko zabójcze. Nie jestem nawet pewien, która forma jest gorsza.</text>
+		<text>Jak już mówiłem, podczas eksperymentu wszystko poszło nie tak i Świadomość-Z stworzyła wielką wyrwę w noosferze. Z tej wyrwy wydostaje się spora ilość niekontrolowanej energii psionicznej, z której powstają emisje. Póki członkowie projektu żyli, byli w stanie jakoś kontrolować częstotliwość i siłę uwalnianych emisji - ale gdy zginęli, nikt już nad tym nie panował i energia uwalniała się sama, z mniejszą lub większą siłą, w formie szkarłatnej fali rozchodzącej się od centrum Zony aż do jej granic. Odkąd dotarłem do Sarkofagu, emisje są słabsze, ale pojawiają się dużo częściej... Sam nie wiem, co z tego jest gorsze...</text>
 	</string>
 	<string id="living_legend_strelok_answers_23">
 		<text>Co wiesz o anomaliach?</text>
 	</string>
 	<string id="living_legend_strelok_answers_231">
-		<text>Są miniaturowymi pęknięciami noosfery. Lub małymi obszarami rzeczywistości, które zostały wystawione na tak silny wpływ noosfery, że zaczęły przeczyć prawom fizyki. Nie jestem do końca pewien. Za każdym razem, gdy następuje emisja, większość starych anomalii przemieszcza się lub znika, robiąc miejsce dla nowych. A artefakty... wiele z nich było kiedyś normalnymi obiektami, lub grupami obiektów, które zostały zmienione przez te niepojęte siły. Czasem, mam wrażenie, że rodzą się z życzeń stalkerów, ale możliwe również, że formuje je strach, niepewności i pragnienia ludzi z całego świata.</text>
+		<text>Są miniaturowymi pęknięciami noosfery. Lub małymi obszarami rzeczywistości, które zostały wystawione na tak silny wpływ noosfery, że zaczęły przeczyć prawom fizyki. Nie jestem do końca pewien. Za każdym razem, gdy następuje emisja, większość starych anomalii przemieszcza się lub znika, robiąc miejsce dla nowych. A artefakty... wiele z nich było kiedyś normalnymi obiektami, lub grupami obiektów, które zostały zmienione przez te niepojęte siły. Czasem mam wrażenie, że rodzą się z życzeń stalkerów, ale możliwe również, że formuje je strach, niepewności i pragnienia ludzi z całego świata.</text>
 	</string>
 	<string id="living_legend_strelok_answers_24">
 		<text>Co wiesz o mutantach?</text>
@@ -790,43 +790,43 @@
 		<text>Co się wydarzyło podczas rajdu Czystego Nieba na Elektrownię?</text>
 	</string>
 	<string id="living_legend_strelok_answers_251">
-		<text>Czyste Niebo... wiedzieli o Zonie więcej, niż ktokolwiek inny. Ale ewidentnie, nie wiedzieli wystarczająco wiele. Zdali sobie sprawę, że moje próby przedarcia się do serca Zony były powodem częstszych emisji. Próbowali mnie zatrzymać robiąc to samo, jedynie w znacznie większej skali. To był największy rajd na Czarnobyl jaki widziałem. Z góry skazany na porażkę. Ścigali mnie przez Limańsk, aż do samej Elektrowni, prawie im się tam udało. Ale Świadomość-Z widząc co się dzieje, zesłała bardzo silną emisję. To ostanie co pamiętam, zanim wszystko utonęło w krwawej czerwieni. Krótko mówiąc, ugryźli więcej niż mogli przeżuć i się tym zakrztusili.</text>
+		<text>Czyste Niebo wiedziało o Zonie więcej, niż ktokolwiek inny. Niestety do samego końca nie zdołali pojąć kilku ważnych faktów. Mieli rację w tym, że moje próby przedarcia się do serca Zony były powodem częstszych emisji. Ale sposób, w jaki postanowili zareagować był wielkim błędem. Ruszyli za mną w wielkiej grupie - to był największy rajd na Czarnobyl jaki widziałem. Skala tej operacji z góry skazała ją na porażkę. Ścigali mnie przez Limańsk, aż do samej Elektrowni. Prawie im się udało, ale Świadomość-Z, widząc tak dużą liczbę intruzów zesłała najsilniejszą jak dotąd emisję. To ostanie, co pamiętam, zanim wszystko utonęło w krwawej czerwieni. Krótko mówiąc, spowodowali znacznie dotkliwsze zniszczenia, niż te, które próbowali zatrzymać.</text>
 	</string>
 	<string id="living_legend_strelok_answers_26">
 		<text>Czy jest jakiś sposób na zniszczenie Zony i zatrzymanie tego szaleństwa?</text>
 	</string>
 	<string id="living_legend_strelok_answers_261">
-		<text>Już tego próbowałem i jedynie pogorszyłem sytuację. Myślałem, że zabicie Świadomości-Z wystarczy. Jednak emisje są teraz częstsze niż kiedykolwiek. Mutanty, anomalie, Monolit nadal istnieją. Odkryłem pochodzenie Zony, ale nie sposób na jej zniszczenie. Nikt nie wie jak to zrobić. Ale będę próbować. Być może Odłamek Monolitu mi w tym pomoże. Lub dokumenty z pozostałych sekretnych instalacji. Lub samo serce Zony... Na razie nie mamy wystarczającej wiedzy.</text>
+		<text>Wierz mi, że próbowałem. I zdaje się, że jedynie pogorszyłem sytuację. Myślałem, że zabicie Świadomości-Z wystarczy. Jedyne, co tym osiągnąłem to zwiększona liczba emisji, a mutanty, anomalie i Monolit nadal istnieją. Odkryłem pochodzenie Zony, ale nie sposób na jej zniszczenie. Nikt jeszcze nie wie, jak to zrobić. Wciąż możemy być pierwszymi. Ciągle istnieją dokumenty, do których jeszcze nie dotarliśmy. A jeśli nawet one nie kryją potrzebnych nam odpowiedzi, to z pomocą Odłamku Monolitu wciąż mamy szanse znaleźć je gdzie indziej. Być może w samym sercu Zony...</text>
 	</string>
 	<string id="living_legend_strelok_answers_27">
 		<text>Wiem, że w 2011 Czyste Niebo zatrudniło najemnika zwanego Szramą. Miał im pomóc w pościgu za tobą. Wiesz co się z nim stało?</text>
 	</string>
 	<string id="living_legend_strelok_answers_271">
-		<text>Szrama... Tak, myślę, że pamiętam. Przynajmniej częściowo. Czyste Niebo twierdziło, że trzeba zapobiec moim próbom wejścia do centrum Zony raz na dobre, więc wysłali go moim śladem. Udało mu się mnie dogonić w Czerwonym lesie, ale udało mi się uciec. Kieł nie miał jednak tyle szczęścia... Szrama i Czyste Niebo dotarli do Elektrowni zaraz po mnie. Deaktywował moją ochronę psioniczną za pomocą broni elektromagnetycznej, a potem... potem... wszystko stało się czerwone. Nastąpiła ogromna emisja. Prawdopodobnie zginął, ale nie jestem w stu procentach pewien. Mógł stać się jednym z zombie, lub wojownikiem Monolitu. Nigdy go później nie wdziałem.</text>
+		<text>Szrama... Tak, myślę, że pamiętam. Przynajmniej częściowo. Czyste Niebo twierdziło, że muszą zapobiec moim próbom wejścia do centrum Zony raz na dobre, więc wysłali go moim śladem. Niemal udało mu się mnie dogonić w Czerwonym lesie, ale udało mi się go opóźnić. Razem z Czystym Niebem dotarli do Elektrowni zaraz po mnie. Deaktywował moją ochronę psioniczną za pomocą broni elektromagnetycznej, a potem... Wszystko pochłonęła czerwona poświata. Nastąpiła ogromna emisja. Szarama prawdopodobnie zginął, ale nie jestem pewien, co do jego ostatecznego losu.</text>
 	</string>
 	<string id="living_legend_strelok_answers_28">
-		<text>W czasach, gdy byłeś znany jako Naznaczony kolaborowałeś z Sidorowiczem i Barmanem. Dlaczego do nich nie wróciłeś?</text>
+		<text>W czasach, gdy byłeś znany jako Naznaczony współpracowałeś z Sidorowiczem i Barmanem. Dlaczego do nich nie wróciłeś?</text>
 	</string>
 	<string id="living_legend_strelok_answers_281">
-		<text>Dotarłem do Elektrowni, widziałem Monolit, rozmawiałem ze Świadomością-Z. A potem, po dość wyczerpującej walce, zabiłem ich. To doświadczenie pozostawiło mnie wyczerpanego, z poczuciem pustki. Nie jestem pewien, co stało się zaraz po tym. Podróżowałem po centrum Zony jeszcze przez jakiś czas, nie jestem pewien jak długo. Potem wsparłem pewną operację wojskową w Prypeci. Zrekrutowali mnie na jakiś czas jako doradcę. Ale nie mogłem po tym wszystkim się oprzeć zewowi Zony, więc po jakimś czasie ich zostawiłem. Nadal dręczyła mnie niepewność... Byłem zbyt skupiony na próbach odnalezienia odpowiedzi.</text>
+		<text>Po ciężkiej przeprawie na północ i walce ze Świadomością-Z poświęciłem trochę czasu na przemyślenia. Nie robiłem tego bezczynnie - wciąż poruszałem się po różnych zakątkach Zony. Trafiłem wtedy na grupę żołnierzy ukrywających się w Prypeci. Zgodziłem się tymczasowo zostać kimś w rodzaju ich doradcy. Nie wytrzymałem w tej roli zbyt długo, więc po jakimś czasie ich zostawiłem. Niepewność i ogrom pytań w mojej głowie nie dawały mi spokoju. Byłem zbyt skupiony na próbach odnalezienia odpowiedzi.</text>
 	</string>
 	<string id="living_legend_strelok_answers_29">
-		<text>Potrafię zrozumieć, że Zona to dzieło człowieka. Widziałem Maszynę Cudów i Mózgozwęglacz, ale to? Jak im się to udało?</text>
+		<text>Wiemy już, że emitery to dzieło człowieka. Ale Monolit? Jak im się to udało?</text>
 	</string>
 	<string id="living_legend_strelok_answers_291">
-		<text>Z pomocą czegoś potężnego. Mam podejrzenia, że sama Elektrownia ma z tym silny związek. Może wykorzystano jeden, lub więcej sprawnych reaktorów pozostałych po katastrofie w 1986. To by stanowiło jedyne źródło zasilania. Słyszałem też plotki, że istnieje ściśle tajna instalacja, jeszcze dalej na północy. Obszar położony w tak dalekiej głębi Zony, że rzeczywistość zdaje się zakrzywiać. Wściekłe mutanty, niezliczone anomalie, siły Monolitu... i grupa generatorów, które użyto w nieudanym eksperymencie w 2006. Mówią o tym dokumenty, które mi przyniosłeś. Pewnego dnia uda mi się to wszystko odnaleźć.</text>
+		<text>Z pewnością z wykorzystaniem ogromnych ilości energii. Mam podejrzenia, że sama Elektrownia ma z tym silny związek. Może wykorzystano jeden lub więcej sprawnych reaktorów pozostałych po katastrofie w 1986. Nie jestem w stanie sobie wyobrazić innego tak potęznego źródła energii w tym miejscu. Słyszałem też wzmianki o nietypowym obszarze, jeszcze dalej na północy. Dokumenty, które mi przyniosłeś mówią o grupie generatorów znajdujących się mniej więcej w tym samym miejscu. Stworzono je w 2006 roku na potrzeby jakiegoś eksperymentu. Niestabilność noosfery w tej okolicy zdaje się przyciągać niebezpieczne mutanty i tworzyć niezwykle silne anomalie. Mogę się założyć, że znajdziemy tam przynajmniej część odpowiedzi.</text>
 	</string>
 	<string id="living_legend_strelok_answers_3">
 		<text>Wow. To mnóstwo informacji do przetworzenia. Z całą pewnością zmieni to moje podejście do Zony.</text>
 	</string>
 	<string id="living_legend_strelok_answers_4">
-		<text>Wszystko co mogę ci zaoferować to te szczątkowe informacje. Tajne dokumenty, opuszczone laboratoria, zaawansowane technologie, osobiste doświadczenia i spostrzeżenia... Zona nie jest i nigdy nie będzie łatwa w zrozumieniu. Jesteśmy jak pierwsi jaskiniowcy, którzy uderzając kamieniem o kamień, przypadkowo stworzyli ogień. Nie wiemy co się do końca stało, patrząc na rozprzestrzeniający się, pochłaniający wszystko płomień...</text>
+		<text>Wszystko, co mogę ci zaoferować to te szczątkowe informacje. Tajne dokumenty, opuszczone laboratoria, zaawansowane technologie, osobiste doświadczenia i spostrzeżenia... Zadzierając z  Zoną wywołaliśmy reakcję, której jeszcze nie rozumiemy. Jeśli chcemy ją zrozumieć, musimy zacząć układać te informacje w całość.</text>
 	</string>
 	<string id="living_legend_strelok_answers_5">
 		<text>Dziękuję, nie mogłem liczyć na nic lepszego. Wrócę teraz do swoich ludzi. A co będzie z tobą?</text>
 	</string>
 	<string id="living_legend_strelok_answers_6">
-		<text>Mam cel, który się ode mnie oddala z każdym postępem, jaki poczynię. Istnieją jeszcze większe sekrety, ponad tymi z Elektrowni, oraz mnóstwo nieodkrytych obszarów, które mogą zapewnić jeszcze więcej odpowiedzi. Lub pytań, kto wie. Nie jestem pewien, czy wszystkie te życia, poświęcone w tym celu są tego warte... i prawdopodobnie nigdy nie będę.</text>
+		<text>Mam cel, który zdaje się być o krok przede mną za każdym razem, gdy poczynię jakiś postęp. Istnieją jeszcze większe sekrety, ponad tymi z Elektrowni, oraz mnóstwo nieodkrytych obszarów, które mogą zapewnić jeszcze więcej odpowiedzi. Lub pytań, kto wie. Nie jestem pewien, czy wszystkie te życia, poświęcone w tym celu są tego warte... I prawdopodobnie nigdy nie będę.</text>
 	</string>
 	<string id="living_legend_strelok_answers_71">
 		<text>Nie sądzę, że goście z Czystego Nieba się ucieszą na wieść o tym co się stało z ich ekspedycją. W końcu wszystko poszło na marne.</text>
@@ -844,7 +844,7 @@
 		<text>Czas najwyższy rozprowadzić te wieści po stalkerach. Nie potrzebujemy więcej żołnierzy Monolitu, szczególnie takich jak Eidolon. Są inne, dużo mniej niebezpieczne aspekty Zony, które mogą wykorzystać, jeśli tak bardzo szukają bogactwa.</text>
 	</string>
 	<string id="living_legend_strelok_answers_722">
-		<text>Lub przygody, Strielok, nie zapominaj o tym. Nie wszyscy z nas mają obsesje na łowieniu skarbów. Zrównaliśmy to miejsce z ziemią, więc równie dobrze możemy usiąść i odetchnąć.</text>
+		<text>Lub przygody, Striełok, nie zapominaj o tym. Nie wszyscy z nas mają obsesje na łowieniu skarbów. Zrównaliśmy to miejsce z ziemią, więc równie dobrze możemy usiąść i odetchnąć.</text>
 	</string>
 	<string id="living_legend_strelok_answers_73">
 		<text>Proszę, proszę, wszystkie te informacje mogą się okazać bardzo wartościowe. Ale dobrze się zastanowię nad tym, komu je sprzedam, wcale niekoniecznie temu, kto płaci najwięcej.</text>
@@ -865,22 +865,22 @@
 		<text>Jestem pewien, że Profesor będzie wiedział jak sobie z tym poradzić. Mieliśmy podejrzenia co do wielu rzeczy, o których mi powiedziałeś i nie chcemy narazić świata zewnętrznego na niebezpieczeństwo z powodu jakiegoś... kontrowersyjnego odkrycia. Będziemy ostrożni.</text>
 	</string>
 	<string id="living_legend_strelok_answers_75">
-		<text>To było coś zajebistego, człowieku. Tylko pomyśl o historiach, które będę mógł opowiedzieć chłopakom w bazie. Tylko nie próbuj zbyt mocno zniszczyć Zony, okej?</text>
+		<text>Wow, to było coś zajebistego! Chłopaki mi nie uwierzą, gdy zacznę o tym opowiadać w bazie! Tylko...Postaraj się nie zniszczyć Zony zbyt mocno, okej? Ona wciąż ma dużo do zaoferowania.</text>
 	</string>
 	<string id="living_legend_strelok_answers_751">
-		<text>Pozostajesz w optymizmie nawet po wszystkim, co tu przeszedłeś? Mogę ci obiecać, że przemyślę swoje podejście. Obawiam się, że jedne z największych klęsk były bezpośrednim skutkiem mojej lekkomyślności. Spróbuję działać bardziej ostrożnie i nie powtórzyć poprzednich błędów.</text>
+		<text>Więc nadal jesteś optymistą, nawet po tym wszystkim, co się tutaj zdarzyło? To...Nietypowe. Cóż, mogę ci obiecać, że przemyślę swoje podejście. Obawiam się, że wiele rzeczy zakończyło się źle, ponieważ podjąłem niewłaściwe decyzje. Może jeśli będę ostrożniejszy, sprawy przybiorą inny obrót...</text>
 	</string>
 	<string id="living_legend_strelok_answers_752">
-		<text>To wszystko, czego chcemy, kumplu. Doceńmy istnienie Zony, a ona sama może zacząć doceniać nas!</text>
+		<text>To wszystko, czego chcemy, Striełok. Doceńmy istnienie Zony, a ona może zacząć doceniać nas!</text>
 	</string>
 	<string id="living_legend_strelok_answers_76">
 		<text>Wiedza to połowa zwycięstwa. Jak najszybciej wrócę do Generała Woronina. Pewnego dnia zorganizujemy kampanię, która uderzy w samo serce Zony i pozbędzie się jej ohydnego pomiotu, raz na dobre.</text>
 	</string>
 	<string id="living_legend_strelok_answers_761">
-		<text>Pamiętaj, że Czyste Niebo próbowało zrobić coś podobnego i poniosło całkowitą porażkę. The Zone nie jest czymś, co może zostać zniszczone karabinami i granatami. Nadal musimy się o niej wiele nauczyć, a możliwe że nigdy się w pełni nie dowiemy jak się jej pozbyć.</text>
+		<text>Pamiętaj, że Czyste Niebo próbowało zniszczyć Strefę, lecz ona w zamian zniszczyła ich. Zony nie da się wyeliminować granatami i karabinami. Wciąż musimy ją lepiej poznać, a być może nigdy nie dowiemy się wszystkiego na jej temat. Ja próbowałem się jej pozbyć... Ale emisje i mutanty nadal tutaj są.</text>
 	</string>
 	<string id="living_legend_strelok_answers_762">
-		<text>Nasza determinacja będzie niezachwiana, bez względu na przeciwności. Ale wezmę sobie twoją radę do serca, Strielok.</text>
+		<text>Nasza determinacja będzie niezachwiana, bez względu na przeciwności. Ale wezmę sobie twoją radę do serca, Striełok.</text>
 	</string>
 	<string id="living_legend_strelok_answers_81">
 		<text>Dobrze. Weź to, w dowód mojej wdzięczności za twoją pomoc. Powinniśmy teraz pójść w swoje strony, ale mam nadzieję, że się jeszcze kiedyś spotkamy. Żegnaj, stalkerze.</text>
@@ -901,9 +901,9 @@
 		<text>Dobrze. Weź to, w dowód mojej wdzięczności za twoją pomoc. Powinniśmy teraz pójść w swoje strony, ale mam nadzieję, że się jeszcze kiedyś spotkamy. Żegnaj, stalkerze.</text>
 	</string>
 	<string id="living_legend_strelok_answers_9">
-		<text>Trzymaj się, Strielok.</text>
+		<text>Trzymaj się, Striełok.</text>
 	</string>
-	
+		
 	<string id="stalker_stitch_dialog_0">
 		<text>O nie, to znowu ty. Hah, żartuję!</text>
 	</string>
@@ -913,9 +913,9 @@
 	<string id="stalker_stitch_dialog_raid_0">
 		<text>O bracie, szykuje się poważna przeprawa. Będę się musiał nieźle przygotować, hehe.</text>
 	</string>
-	
+		
 	<string id="stalker_stitch_dialog_meet_0">
-		<text>Jesteś Szew, prawda? Miło poznać.</text>
+		<text>Jesteś Igła, prawda? Miło poznać.</text>
 	</string>
 	<string id="stalker_stitch_dialog_meet_1">
 		<text>O, hej, jesteś tym twardzielem z Powinności. Przyszedłeś z Łotrem, co? Z tym gościem nie jest łatwo się zakolegować. Co, ty też zbiegłeś z wojska?</text>
@@ -945,7 +945,7 @@
 		<text>Nie jestem kontrolerem.</text>
 	</string>
 	<string id="stalker_stitch_dialog_meet_5">
-		<text>Będę cię obserwować. Ah, no tak, nazywam się Szew, medyk polowy po fachu. Mogę cię poskładać, dopóki nadal masz wszystkie potrzebne części. Jestem ekspertem w szyciu, który ciągle gubi swoje igły... O, tu jest jedna.</text>
+		<text>Będę cię obserwować. Ah, no tak, nazywam się Igła, medyk polowy po fachu. Mogę cię poskładać, dopóki nadal masz wszystkie potrzebne części. Jestem ekspertem w szyciu, który ciągle gubi swoje igły... O, tu jest jedna.</text>
 	</string>
 	<string id="stalker_stitch_dialog_meet_6">
 		<text>Będę spadać.</text>
@@ -953,32 +953,32 @@
 	<string id="stalker_stitch_dialog_meet_7">
 		<text>Hej, nie uciekaj!</text>
 	</string>
-	
+		
 	<string id="stalker_stitch_st_1">
-		<text>Co mogę powiedzieć? Próbuję tu utrzymać dobre, zrównoważone morale. Widzisz, gdy pozostali złapią ciężką chorobę zwaną ranami postrzałowymi, zostaję z nimi w tyle i używam swoich leczniczych czarów. Byłem pielęgniarzem zanim przybyłem do Zony. Hm? Co w tym takiego śmiesznego? W każdym razie, wiem jak trzymać broń, jeśli zajdzie taka potrzeba. Mam tego małego kolegę do pomocy, w razie gdyby ktoś miał ochotę zastrzelić medyka. Lub przejąć mój umysł, zdeptać mnie, lub zjeść, wiesz o co chodzi. Spotkałem Strieloka jakiś czas temu, w Agropromie. Biedak zawsze wpada w jakieś kłopoty, więc wlekę się za nim, by w razie czego poskładać go, lub Łotra, do kupy. Eh, szkoda, że nie udało mi się uratować Lunety i Wędrowca. Wypijmy za nich.</text>
+		<text>Co mogę powiedzieć? Próbuję tu utrzymać dobre, zrównoważone morale. Widzisz, gdy pozostali złapią ciężką chorobę zwaną ranami postrzałowymi, zostaję z nimi w tyle i używam swoich leczniczych czarów. Byłem pielęgniarzem zanim przybyłem do Zony. Hm? Co w tym takiego śmiesznego? W każdym razie, wiem jak trzymać broń, jeśli zajdzie taka potrzeba. Mam tego małego kolegę do pomocy, w razie gdyby ktoś miał ochotę zastrzelić medyka. Lub przejąć mój umysł, zdeptać mnie, lub zjeść, wiesz o co chodzi. Spotkałem Striełoka jakiś czas temu, w Agropromie. Biedak zawsze wpada w jakieś kłopoty, więc wlekę się za nim, by w razie czego poskładać jego albo Łotra do kupy. Eh, szkoda, że nie udało mi się uratować Lunety i Wędrowca. Wypijmy za nich.</text>
 	</string>
-	
+		
 	<string id="living_legend_stitch_supplies_0">
 		<text>Potrzebujesz czegoś?</text>
 	</string>
 	<string id="living_legend_stitch_supplies_1">
 		<text>Widzisz, nigdy nie brakuje mi ran i skaleczeń do leczenia, a nie mam nieskończonych zasobów rzeczy, których do tego używam. Będziemy potrzebowali trochę zasobów medycznych. Mogę na ciebie liczyć?</text>
 	</string>
-	
+		
 	<string id="living_legend_stitch_supplies_complete_0">
 		<text>Trzymaj, przyniosłem zasoby medyczne.</text>
 	</string>
 	<string id="living_legend_stitch_supplies_complete_1">
 		<text>Ha, świetnie! W razie gdybyś oberwał, poskładam cię raz dwa, obiecuję!</text>
 	</string>
-	
+		
 	<string id="stalker_stitch_join_eidolon_0">
 		<text>Jesteśmy gotowi. Ruszajmy.</text>
 	</string>
 	<string id="stalker_stitch_join_eidolon_1">
 		<text>Dobra, dawać tego Eidolona!</text>
 	</string>
-	
+		
 	<string id="stalker_stitch_heal_0">
 		<text>Potrzebuję pomocy medycznej.</text>
 	</string>
@@ -994,11 +994,11 @@
 	<string id="stalker_stitch_heal_4">
 		<text>Gotowe.</text>
 	</string>
-	
+		
 	<string id="stalker_scope_dialog_0">
 		<text>Eh, czego chcesz?</text>
 	</string>
-	
+		
 	<string id="stalker_wayfarer_dialog_0">
 		<text>Mam złe przeczucia...</text>
 	</string>

@@ -1,227 +1,227 @@
-<?xml version="1.0" encoding="windows-1250"?>
-<string_table>
-	<!-- Communities -->
-	<string id="ui_st_community">
+<?xml version="1.0" encoding="windows-1250"?>		
+<string_table>		
+	<!-- Communities -->	
+	<string id="ui_st_community">	
 		<text>Frakcja</text>
-	</string>
-
-	<!-- Actor Factions -->
-	<string id="actor">
+	</string>	
+		
+	<!-- Actor Factions -->	
+	<string id="actor">	
 		<text>Samotnik</text>
-	</string>
-	<string id="actor_army">
+	</string>	
+	<string id="actor_army">	
 		<text>Wojsko</text>
-	</string>
-	<string id="actor_bandit">
+	</string>	
+	<string id="actor_bandit">	
 		<text>Bandyta</text>
-	</string>
-	<string id="actor_csky">
+	</string>	
+	<string id="actor_csky">	
 		<text>Czyste Niebo</text>
-	</string>
-	<string id="actor_dolg">
+	</string>	
+	<string id="actor_dolg">	
 		<text>Powinność</text>
-	</string>
-	<string id="actor_ecolog">
+	</string>	
+	<string id="actor_ecolog">	
 		<text>Ekolog</text>
-	</string>
-	<string id="actor_freedom">
+	</string>	
+	<string id="actor_freedom">	
 		<text>Wolność</text>
-	</string>
-	<string id="actor_killer">
+	</string>	
+	<string id="actor_killer">	
 		<text>Najemnik</text>
-	</string>
-	<string id="actor_monolith">
+	</string>	
+	<string id="actor_monolith">	
 		<text>Monolit</text>
-	</string>
-	<string id="actor_monster">
+	</string>	
+	<string id="actor_monster">	
 		<text>Mutant</text>
-	</string>
-	<string id="actor_stalker">
+	</string>	
+	<string id="actor_stalker">	
 		<text>Samotnik</text>
-	</string>
-	<string id="actor_renegade">
+	</string>	
+	<string id="actor_renegade">	
 		<text>Renegat</text>
-	</string>
-	<string id="actor_greh">
+	</string>	
+	<string id="actor_greh">	
 		<text>Grzech</text>
-	</string>
-	<string id="actor_isg">
+	</string>	
+	<string id="actor_isg">	
 		<text>UNISG</text>
-	</string>
-	<string id="actor_zombied">
-		<text>Zzombifikowany</text>
-	</string>
-
-	<string id="army">
+	</string>	
+	<string id="actor_zombied">	
+		<text>Zombie</text>
+	</string>	
+		
+	<string id="army">	
 		<text>Wojsko</text>
-	</string>
-	<string id="bandit">
+	</string>	
+	<string id="bandit">	
 		<text>Bandyta</text>
-	</string>
-	<string id="csky">
+	</string>	
+	<string id="csky">	
 		<text>Czyste Niebo</text>
-	</string>
-	<string id="dolg">
+	</string>	
+	<string id="dolg">	
 		<text>Powinność</text>
-	</string>
-	<string id="ecolog">
+	</string>	
+	<string id="ecolog">	
 		<text>Ekolog</text>
-	</string>
-	<string id="freedom">
+	</string>	
+	<string id="freedom">	
 		<text>Wolność</text>
-	</string>
-	<string id="killer">
+	</string>	
+	<string id="killer">	
 		<text>Najemnik</text>
-	</string>
-	<string id="monolith">
+	</string>	
+	<string id="monolith">	
 		<text>Monolit</text>
-	</string>
-	<string id="monster">
+	</string>	
+	<string id="monster">	
 		<text>Mutant</text>
-	</string>
-	<string id="zombied">
-		<text>Zzombifikowany</text>
-	</string>
-	<string id="greh">
+	</string>	
+	<string id="zombied">	
+		<text>Zombie</text>
+	</string>	
+	<string id="greh">	
 		<text>Grzech</text>
-	</string>
-	<string id="isg">
+	</string>	
+	<string id="isg">	
 		<text>UNISG</text>
-	</string>
-	<string id="renegade">
+	</string>	
+	<string id="renegade">	
 		<text>Renegat</text>
-	</string>
-	<string id="greh_npc">
+	</string>	
+	<string id="greh_npc">	
 		<text>Grzech</text>
-	</string>
-	<string id="army_npc">
+	</string>	
+	<string id="army_npc">	
 		<text>SBU</text>
-	</string>
-
-	<!-- Goodwill -->
-	<string id="ui_st_relation">
+	</string>	
+		
+	<!-- Goodwill -->	
+	<string id="ui_st_relation">	
 		<text>Relacja</text>
-	</string>
-	<string id="st_goodwill_enemy">
+	</string>	
+	<string id="st_goodwill_enemy">	
 		<text>Wróg</text>
-	</string>
-	<string id="st_goodwill_indifferent">
+	</string>	
+	<string id="st_goodwill_indifferent">	
 		<text>Neutralny</text>
-	</string>
-	<string id="st_goodwill_friendly">
+	</string>	
+	<string id="st_goodwill_friendly">	
 		<text>Przyjazny</text>
-	</string>
-
-	<!-- Ranks -->
-	<string id="ui_st_rank">
+	</string>	
+		
+	<!-- Ranks -->	
+	<string id="ui_st_rank">	
 		<text>Ranga</text>
-	</string>
-	<string id="st_rank_novice">
+	</string>	
+	<string id="st_rank_novice">	
 		<text>Kot</text>
-	</string>
-	<string id="st_rank_trainee">
-		<text>Kadet</text>
-	</string>
-	<string id="st_rank_experienced">
+	</string>	
+	<string id="st_rank_trainee">	
+		<text>Nowicjusz</text>
+	</string>	
+	<string id="st_rank_experienced">	
 		<text>Doświadczony</text>
-	</string>
-	<string id="st_rank_professional">
+	</string>	
+	<string id="st_rank_professional">	
 		<text>Profesjonalista</text>
-	</string>
-	<string id="st_rank_veteran">
+	</string>	
+	<string id="st_rank_veteran">	
 		<text>Weteran</text>
-	</string>
-	<string id="st_rank_expert">
+	</string>	
+	<string id="st_rank_expert">	
 		<text>Ekspert</text>
-	</string>
-	<string id="st_rank_master">
+	</string>	
+	<string id="st_rank_master">	
 		<text>Mistrz</text>
-	</string>
-	<string id="st_rank_legend">
+	</string>	
+	<string id="st_rank_legend">	
 		<text>Legenda</text>
-	</string>
-
-	<!-- Reputations -->
-	<string id="ui_st_reputation">
+	</string>	
+		
+	<!-- Reputations -->	
+	<string id="ui_st_reputation">	
 		<text>Reputacja</text>
-	</string>
-	<string id="st_reputation_terrible">
-		<text>Minimalna</text>
-	</string>
-	<string id="st_reputation_really_bad">
-		<text>Beznadziejna</text>
-	</string>
-	<string id="st_reputation_very_bad">
+	</string>	
+	<string id="st_reputation_terrible">	
+		<text>Fatalna</text>
+	</string>	
+	<string id="st_reputation_really_bad">	
 		<text>Okropna</text>
-	</string>
-	<string id="st_reputation_bad">
+	</string>	
+	<string id="st_reputation_very_bad">	
+		<text>Bardzo zła</text>
+	</string>	
+	<string id="st_reputation_bad">	
 		<text>Zła</text>
-	</string>
-	<string id="st_reputation_neutral">
+	</string>	
+	<string id="st_reputation_neutral">	
 		<text>Neutralna</text>
-	</string>
-	<string id="st_reputation_good">
+	</string>	
+	<string id="st_reputation_good">	
 		<text>Dobra</text>
-	</string>
-	<string id="st_reputation_very_good">
+	</string>	
+	<string id="st_reputation_very_good">	
 		<text>Bardzo dobra</text>
-	</string>
-	<string id="st_reputation_really_good">
+	</string>	
+	<string id="st_reputation_really_good">	
 		<text>Świetna</text>
-	</string>
-	<string id="st_reputation_excellent">
+	</string>	
+	<string id="st_reputation_excellent">	
 		<text>Znakomita</text>
-	</string>
-
-	<!-- Notifications -->
-	<string id="st_rank_increased">
+	</string>	
+		
+	<!-- Notifications -->	
+	<string id="st_rank_increased">	
 		<text>Twoja ranga wzrosła.</text>
-	</string>
-	<string id="st_rank_decreased">
+	</string>	
+	<string id="st_rank_decreased">	
 		<text>Twoja ranga spadła.</text>
-	</string>
-	<string id="st_reputation_increased">
+	</string>	
+	<string id="st_reputation_increased">	
 		<text>Twoja reputacja wzrosła.</text>
-	</string>
-	<string id="st_reputation_decreased">
+	</string>	
+	<string id="st_reputation_decreased">	
 		<text>Twoja reputacja spadła.</text>
-	</string>
-	
-	<!-- Dynamic Relations - News building -->
-    <string id="st_relations_and">
-        <text>i</text>
-    </string>
-    <string id="st_relations_declared_war">
-        <text>zadeklarowali miedzy sobą wojnę.</text>
-    </string>
-    <string id="st_relations_alliance">
-        <text>zawarli sojusz.</text>
-    </string>
-    <string id="st_relations_deteriorating">
-        <text>- relacje spadają.</text>
-    </string>
-    <string id="st_relations_cease_fire">
-        <text>zadeklarowali wstrzymanie broni.</text>
-    </string>
-	
-	<!-- Dynamic Relations - Goodwill-->
-	<string id="st_ui_goodwill_name">
-        <text>Przychylność</text>
-    </string>
-	<string id="st_ui_goodwill_5">
-        <text>Maksymalna</text>
-    </string>
-	<string id="st_ui_goodwill_4">
-        <text>Przeważająca</text>
-    </string>
-	<string id="st_ui_goodwill_3">
-        <text>Umiarkowana</text>
-    </string>
-	<string id="st_ui_goodwill_2">
-        <text>Pomniejsza</text>
-    </string>
-	<string id="st_ui_goodwill_1">
-        <text>Minimalna</text>
-    </string>
-	
-</string_table>
+	</string>	
+		
+	<!-- Dynamic Relations - News building -->	
+<string id="st_relations_and">		
+<text>i</text>		
+</string>		
+<string id="st_relations_declared_war">		
+<text>zadeklarowali między sobą wojnę.</text>		
+</string>		
+<string id="st_relations_alliance">		
+<text>zawarli sojusz.</text>		
+</string>		
+<string id="st_relations_deteriorating">		
+<text>- relacje spadają.</text>		
+</string>		
+<string id="st_relations_cease_fire">		
+<text>zadeklarowali zawieszenie broni.</text>		
+</string>		
+		
+	<!-- Dynamic Relations - Goodwill-->	
+	<string id="st_ui_goodwill_name">	
+<text>Przychylność</text>		
+</string>		
+	<string id="st_ui_goodwill_5">	
+<text>Maksymalna</text>		
+</string>		
+	<string id="st_ui_goodwill_4">	
+<text>Pozytywna</text>		
+</string>		
+	<string id="st_ui_goodwill_3">	
+<text>Umiarkowana</text>		
+</string>		
+	<string id="st_ui_goodwill_2">	
+<text>Niska</text>		
+</string>		
+	<string id="st_ui_goodwill_1">	
+<text>Minimalna</text>		
+</string>		
+		
+</string_table>	

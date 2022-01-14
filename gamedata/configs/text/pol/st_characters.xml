@@ -19,13 +19,13 @@
 		<text>Kostopraw</text>
 	</string>	
 	<string id="jup_b10_stalker_drunk">	
-		<text>Señka</text>
+		<text>Senka</text>
 	</string>	
 	<string id="jup_b15_zulus">	
 		<text>Zulus</text>
 	</string>	
 	<string id="jup_b19_freedom_yar_name">	
-		<text>Jar</text>
+		<text>Wujek Jar</text>
 	</string>	
 	<string id="jup_b1_stalker_1">	
 		<text>Topol</text>
@@ -34,13 +34,13 @@
 		<text>Bu³awa</text>
 	</string>	
 	<string id="jup_b1_stalker_3">	
-		<text>Grisza</text>
+		<text>Spirol</text>
 	</string>	
 	<string id="jup_b1_stalker_4">	
 		<text>W¹¿</text>
 	</string>	
 	<string id="jup_b207_merc_leader_name">	
-		<text>Gryfon</text>
+		<text>Gryf</text>
 	</string>	
 	<string id="jup_b217_stalker_tech">	
 		<text>Azot</text>
@@ -52,16 +52,16 @@
 		<text>Flint</text>
 	</string>	
 	<string id="jup_b46_duty_founder_name">	
-		<text>Genera³ Tkaczenko</text>
+		<text>Genera³ Taczenko</text>
 	</string>	
 	<string id="jup_b46_duty_founder_squad_02_name">	
 		<text>Porucznik Bunczuk</text>
 	</string>	
 	<string id="jup_b46_duty_founder_squad_03_name">	
-		<text>Pu³kownik Kosmach</text>
+		<text>Pu³kownik Kosmacz</text>
 	</string>	
 	<string id="jup_b46_duty_founder_squad_04_name">	
-		<text>Porucznik Zakarczuk</text>
+		<text>Porucznik Zacharczuk</text>
 	</string>	
 	<string id="yan_merc_01">	
 		<text>Tasak</text>
@@ -103,19 +103,19 @@
 		<text>Foma</text>
 	</string>	
 	<string id="jup_b6_scientist_biochemist">	
-		<text>Profesor Oziorski</text>
+		<text>Oziorski</text>
 	</string>	
 	<string id="jup_b6_scientist_novikov">	
 		<text>Tukariew</text>
 	</string>	
 	<string id="jup_b6_scientist_nuclear_physicist">	
-		<text>Profesor Hermann</text>
+		<text>Herman</text>
 	</string>	
 	<string id="jup_b9_shliachin_name">	
 		<text>Sier¿ant Szliaczin</text>
 	</string>	
 	<string id="pri_a15_military_recon_1_name">	
-		<text>Porucznik Sergiejew</text>
+		<text>Porucznik Siergiejew</text>
 	</string>	
 	<string id="pri_a15_military_recon_2_name">	
 		<text>Sier¿ant Waliuszok</text>
@@ -136,13 +136,13 @@
 		<text>Pu³kownik Kowalski</text>
 	</string>	
 	<string id="pri_a17_military_lieutenant_podorojniy">	
-		<text>Porucznik Podro¿ny</text>
+		<text>Porucznik Podoro¿ny</text>
 	</string>	
 	<string id="pri_a18_skorlupko_in_suit_name">	
 		<text>Porucznik Skelia</text>
 	</string>	
 	<string id="pri_a18_vano_in_suit_reserve_name">	
-		<text>Sier¿ant Merkulow</text>
+		<text>Sier¿ant Mierku³ow</text>
 	</string>	
 	<string id="pri_a21_sentry_lieutenant_stecenko_name">	
 		<text>Porucznik Steczenko</text>
@@ -157,7 +157,7 @@
 		<text>Porucznik Smirnow</text>
 	</string>	
 	<string id="pri_b305_strelok_name">	
-		<text>Strielok</text>
+		<text>Strie³ok</text>
 	</string>	
 	<string id="pri_b306_envoy_name">	
 		<text>Durad Vidic</text>
@@ -175,25 +175,25 @@
 		<text>Szyszak</text>
 	</string>	
 	<string id="st_jup_a12_stalker_assaulter">	
-		<text>Grizzly</text>
+		<text>Grizli</text>
 	</string>	
 	<string id="st_jup_a12_stalker_diplomat">	
 		<text>Torba</text>
 	</string>	
 	<string id="st_jup_a12_stalker_prisoner">	
-		<text>Mitja</text>
+		<text>Mitaj</text>
 	</string>	
 	<string id="st_jup_b207_duty_security_squad_leader_name">	
 		<text>Porucznik Gawrylenko</text>
 	</string>	
 	<string id="st_jup_b207_freedom_assault_squad_leader_name">	
-		<text>Kremen</text>
+		<text>Flint</text>
 	</string>	
 	<string id="st_jup_b207_freedom_recon_squad_leader_name">	
 		<text>Gajduk</text>
 	</string>	
 	<string id="st_jup_b43_stalker_assistant">	
-		<text>Garik</text>
+		<text>Garri</text>
 	</string>	
 	<string id="st_pri_a22_army_signaller">	
 		<text>Porucznik Kiry³ow</text>
@@ -217,7 +217,7 @@
 		<text>Gonta</text>
 	</string>	
 	<string id="st_zat_b29_stalker_rival_1">	
-		<text>Kuwalda</text>
+		<text>M³ot</text>
 	</string>	
 	<string id="st_zat_b29_stalker_rival_2">	
 		<text>Grzebieñ</text>
@@ -248,7 +248,7 @@
 	</string>	
 	<string id="zat_a2_stalker_mechanic_name">	
 		<text>Kardan</text>
-	</string>
+	</string>	
 	<string id="zat_b103_lost_merc_1_name">	
 		<text>Goblin</text>
 	</string>	
@@ -299,12 +299,12 @@
 	</string>	
 	<string id="zat_b40_merc_squad_leader_2_name">	
 		<text>Prêga</text>
-	</string>
+	</string>	
 	<string id="zat_b42_mayron_name">	
-		<text>Miron</text>
+		<text>Majron</text>
 	</string>	
 	<string id="zat_b44_stalker_barge_name">	
-		<text>Barka</text>
+		<text>Stóg</text>
 	</string>	
 	<string id="zat_b53_artefact_hunter_1_name">	
 		<text>Pietrucha</text>
@@ -337,7 +337,7 @@
 		<text>St. Sier¿ant Szwejko</text>
 	</string>	
 	<string id="cit_doctor_name">	
-		<text>Ivan Trodnik</text>
+		<text>Iwan Trodnik</text>
 	</string>	
 	<string id="marsh_doctor_name">	
 		<text>Doktor</text>
@@ -346,13 +346,13 @@
 		<text>Zimny</text>
 	</string>	
 	<string id="esc_wolf_bio">	
-		<text>Personalny ochroniarz ¯wawego. Starszy stalker z planami o bogactwie.</text>
+		<text>Nie wywo³uj go z lasu. Doœwiadczony, stary weteran, który od wielu lat przebywa na terenie Strefy Wykluczenia. Pocz¹tkowo, jak wszyscy, zbiera³ artefakty i wykonywa³ zadania i próbowa³ prze¿yæ - co po jakimœ czasie sprawi³o, ¿e uzyska³ wystarczajac¹ renomê wœród stalkerów i zosta³ przywódc¹ Wioski Kotów. PrzyjaŸni siê z Fanatykiem - to w³aœnie on przej¹³ opiekê nad miejscowymi nowicjuszami, gdy Wilk wyruszy³ na krótko do Magazynów Wojskowych. Od tamtej pory mieszkaj¹ razem w wiosce i ucz¹ nowy narybek, jak przetrwaæ w Zonie.</text>
 	</string>	
 	<string id="esc_wolf_name">	
 		<text>Wilk</text>
 	</string>	
 	<string id="esc_fanat_bio">	
-		<text>Przej¹³ dowództwo w Wiosce Kotów po Wilku. Zdecydowany, agresywny, z zas³u¿onym autorytetem wœród m³odszych stalkerów.</text>
+		<text>Przej¹³ po Wilku dowodzenie w obozie nowicjuszy, gdy jego przyjaciel uda³ siê do Magazynów Wojskowych, aby za³atwiæ parê spraw. Jest to doœwiadczony weteran, s³usznie ciesz¹cy siê autorytetem wœród kotów, ale ma tak¿e bardzo impulsywny i wybuchowy charakter. Nie lubi biernie czekaæ na rozwój wypadków i szybko podejmuje decyzje. Plotki mówi¹, ¿e pozna³ Wilka, gdy obaj byli m³odymi stalkerami pe³nymi idea³ów, staraj¹cymi siê przetrwaæ na Kordonie jeszcze w 2008 roku - nigdy jednak nie uda³o siê tego potwierdziæ (bo po prostu nikt nie pyta³ Fanatyka o tê czêœæ jego przesz³oœci).</text>
 	</string>	
 	<string id="esc_fanat_name">	
 		<text>Fanatyk</text>
@@ -361,16 +361,16 @@
 		<text>Barman</text>
 	</string>	
 	<string id="bar_barmen_bio">	
-		<text>¯aden z niego œwiêtoszek, ale te¿ nie szumowina. Barman zna swoj¹ wartoœæ i jest szanowany przez wszystkich stalkerów. Chodz¹ plotki, ¿e ukrywa siê w zonie przed mrocznymi wydarzeniami ze swojej przesz³oœci. Po bliskim spotkaniu z anomali¹ zacz¹³ kuœtykaæ i postanowi³ zmieniæ profesjê. Za³o¿y³ bar obok bazy Powinnoœci, a miejsce z czasem zmieni³o siê w punkt spotkañ dla wszystkich weteranów Zony. Barman ma liczne znajomoœci w Zonie i zewnêtrznym œwiecie.</text>
+		<text>Ani ³ajdak, ani œwiêty - Barman, pomimo swoich wad, jest handlarzem, którego stalkerzy szanuj¹. Mówi siê, ¿e przyby³ do Zony z powodu mrocznych wydarzeñ z przesz³oœci. Po wypadku z anomali¹ zacz¹³ nieznacznie kuleæ, dlatego te¿ zmieni³ fach i otworzy³ Bar 100 Radów. Wkrótce zaczêli siê tutaj spotykaæ wszyscy weterani, potem do³¹czali do nich tak¿e stalkerzy, którzy szukali roboty albo zbytnio zaleŸli za skórê którejœ frakcji - i od tamtej pory Bar nigdy nie narzeka na brak klientów. Jako ¿e w³aœciciel lokalu posiada liczne kontakty w Strefie i na Wielkiej Ziemi, czêsto przychodz¹ tu osoby, które chc¹ przejœæ do innego ugrupowania, dowiedzieæ siê czegoœ - ewentualnie po prostu dobrze wypiæ i siê wyluzowaæ.</text>
 	</string>	
 	<string id="bar_bar_guard_bio">	
-		<text>Jeden z ochroniarzy baru. Personalny ochroniarz Barmana. Nic nie wiadomo o jego to¿samoœci i przesz³oœci.</text>
+		<text>Osobisty ochroniarz Barmana, Niewiele wiadomo na temat powodów, jakie przygna³y go do Zony, ale z tych czy innych powodów w³aœciciel Baru Sto Radów wybra³ Garika na swojego prywatnego ochroniarza. Jak siê wydaje, ma³omówny, zwalisty stalker w kamufla¿u, zawsze stoj¹cy na posterunku, idealnie spe³nia tê rolê. Wiadomo, ¿e jest bratem bliŸniakiem ¯orika.</text>
 	</string>	
 	<string id="bar_bar_guard_name">	
 		<text>Garik</text>
 	</string>	
 	<string id="bar_bar_guard2_bio">	
-		<text>Brat bliŸniak Garika. Ochroniarz baru. Tak samo ma³omówny jak jego brat.</text>
+		<text>Jest bratem bliŸniakiem Garika i tak jak on pracuje dla Barmana, choæ mówi równie ma³o. Strze¿e wejœcia do baru 100 Radów.</text>
 	</string>	
 	<string id="bar_bar_guard2_name">	
 		<text>¯orik</text>
@@ -382,37 +382,37 @@
 		<text>Sier¿ant Kicenko</text>
 	</string>	
 	<string id="sim_dolg_veteran_bio">	
-		<text>Milicjant z Powinnoœci. Zazwyczaj dobrze uzbrojony. Brak dodatkowych szczegó³ów.</text>
+		<text>Dobrze uzbrojony bojownik Powinnoœci. Brak dodatkowych szczegó³ów.</text>
 	</string>	
 	<string id="escape_trader_bio">	
-		<text>Para³ siê handlem ju¿ od najm³odszych lat. W przedszkolu sprzedawa³ kredki. W szkole œredniej - gumê do ¿ucia. Na uniwersytecie - miêkkie narkotyki. Zaraz po powstaniu Zony zda³ sobie sprawê z ogromu potencjalnych zysków. Znany z umiejêtnoœci nawi¹zania handlu z dos³ownie ka¿dym.</text>
+		<text>Umiejêtnoœci handlowe wyssa³ z mlekiem matki. Ju¿ w przedszkolu sprzedawa³ kredki, póŸniej w podstawówce handlowa³ gum¹ do ¿ucia, a na polibudzie dilowa³ narkotykami. Przyby³ tu nied³ugo po tym, jak powsta³a Zona, chc¹c w pe³ni wykorzystaæ jej potencja³. Znany jest miêdzy innymi z wysokich cen, jakie oferuje klientom, ale te¿ z tego, ¿e ma wiele kontaktów w Zonie i potrafi je odpowiednio wykorzystywaæ.  Mówi siê, ¿e to do niego nieznany stalker przyniós³ Naznaczonego, ratuj¹c mu ¿ycie. By³ - w ró¿ny sposób - powi¹zany z wszystkimi wydarzeniami, które mia³y miejsce w Strefie Wykluczenia, a tak¿e z legendami, które siê przez ni¹ przewinê³y (takimi, jak Szrama czy grupa Strie³oka).</text>
 	</string>	
 	<string id="escape_trader_name">	
 		<text>Sidorowicz</text>
 	</string>	
 	<string id="red_forester_name">	
-		<text>Leœniczy</text>
+		<text>Leœnik</text>
 	</string>	
 	<string id="yan_st_sakharov_name">	
-		<text>Profesor Sacharow</text>
+		<text>Sacharow</text>
 	</string>	
 	<string id="yan_semenov_bio">	
-		<text>Asystent badawczy w mobilnym laboratorium. Brak dodatkowych szczegó³ów.</text>
+		<text>Specjalizuje siê w badaniach nad genetyk¹ i flor¹ Zony. Poniewa¿ profesor Sacharow by³  jego wyk³adowc¹ na studiach, a nieszczêœliwa œmieræ prof. Krug³owa w 2012 roku wymaga³a natychmiastowego uzupe³nienia zespo³u, ambitny i m³ody badacz nazwiskiem Siemienow szybko do³¹czy³ do ekspedycji na Jantarze. W miêdzyczasie zdo³a³ zdobyæ tytu³ docenta dziêki swoim badaniom nad genomem snorków.</text>
 	</string>	
 	<string id="yan_semenov_name">	
-		<text>Profesor Siemianow</text>
+		<text>Siemienow</text>
 	</string>	
 	<string id="yan_vasilyev_name">	
-		<text>Profesor Wasiliew</text>
+		<text>Wasiliew</text>
 	</string>	
 	<string id="yan_vasilyev_bio">	
-		<text>Asystent badawczy w mobilnym laboratorium. Brak dodatkowych szczegó³ów.</text>
+		<text>Swego czasu Wasiliew by³ jednym z wybitniejszych naukowców, specjalizuj¹cych siê w zoologii i geografii. Dziêki tym zdolnoœciom zacz¹³ pracowaæ jako asystent profesora Sacharowa i wraz z nim przyby³ do Zony. Specjalizowa³ siê w badaniach terenowych, a jego zainteresowania naukowe obejmowa³y pole psioniczne - tym zajmowa³ siê w 2012 roku.</text>
 	</string>	
 	<string id="yan_kruglov_bio">	
-		<text>Doktor biologii. Studiowa³ mutacje patogenów u zwierz¹t poza Zon¹. Przyby³ do zony z zamiarem badania œlepych psów.</text>
+		<text>Doktor habilitowany nauk biologicznych. Uzyska³ habilitacjê za badania nad zmutowanymi patogenami zwierz¹t, natomiast profesurê otrzyma³ za odkrycie nowego gatunku nibypsa. W obecnej chwili pracuje wraz ze swymi kolegami nad mutacjami zwierz¹t w Zonie, ze szczególnym uwzglêdnieniem oddzia³ywania pola psionicznego na mutanty.</text>
 	</string>	
 	<string id="yan_kruglov_name">	
-		<text>Profesor Krug³ow</text>
+		<text>Krug³ow</text>
 	</string>	
 	<string id="mar_base_stalker_tech_name">	
 		<text>Nowikow</text>
@@ -430,7 +430,7 @@
 		<text>Kutwa</text>
 	</string>	
 	<string id="bar_petrenko_name">	
-		<text>Pu³kownik Petrenko</text>
+		<text>Pu³kownik Pietrienko</text>
 	</string>	
 	<string id="bar_voronin_name">	
 		<text>Genera³ Woronin</text>
@@ -439,10 +439,10 @@
 		<text>Limpid</text>
 	</string>	
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_name">	
-		<text>Oliwius</text>
+		<text>Pryszczaty</text>
 	</string>	
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_name">	
-		<text>Ksenotech</text>
+		<text>Furgon</text>
 	</string>	
 	<string id="pri_monolith_monolith_mechanic_stalker_name">	
 		<text>Kleryk</text>
@@ -463,7 +463,7 @@
 		<text>Starszy Porucznik Kiry³ow</text>
 	</string>	
 	<string id="agr_smart_terrain_1_6_army_trader_stalker_name">	
-		<text>Sier¿ant Spooner</text>
+		<text>Sier¿ant Loczkin</text>
 	</string>	
 	<string id="agr_smart_terrain_1_6_army_medic_stalker_name">	
 		<text>Porucznik Rogowiec</text>
@@ -487,19 +487,19 @@
 		<text>Projekcja</text>
 	</string>	
 	<string id="sar2_arena_manager_name">	
-		<text>Arnie</text>
+		<text>Arni</text>
 	</string>	
 	<string id="sar2_arena_savage_name">	
 		<text>Bestia</text>
 	</string>	
 	<string id="sar2_bandit_leader_name">	
-		<text>Wasja 'Dzik'</text>
+		<text>Wasia 'Dzik'</text>
 	</string>	
 	<string id="sar2_bio">	
 		<text>Psycho-materialna forma wytworzona przez Monolit.</text>
 	</string>	
 	<string id="sar2_borov_name">	
-		<text>Borow</text>
+		<text>Dzik</text>
 	</string>	
 	<string id="sar2_crazy_svoboda_name">	
 		<text>Ob³¹kany stalker</text>
@@ -508,10 +508,10 @@
 		<text>Chor¹¿y</text>
 	</string>	
 	<string id="sar2_dolg_guard_commander_name">	
-		<text>Szef Ochrony</text>
+		<text>Porucznik Wysocki</text>
 	</string>	
 	<string id="sar2_dolg_skull_name">	
-		<text>'Czaszka'</text>
+		<text>'Czacha'</text>
 	</string>	
 	<string id="sar2_dolg_zastava_commander_name">	
 		<text>Dowódca posterunku</text>
@@ -547,7 +547,7 @@
 		<text>Kret</text>
 	</string>	
 	<string id="sar2_kruglov_name">	
-		<text>Profesor Krug³ow</text>
+		<text>Krug³ow</text>
 	</string>	
 	<string id="sar2_kuznetsov_name">	
 		<text>Major Kuzniecow</text>
@@ -556,16 +556,16 @@
 		<text>Farciarz</text>
 	</string>	
 	<string id="sar2_petrenko_name">	
-		<text>Pu³kownik Petrenko</text>
+		<text>Pu³kownik Pietrienko</text>
 	</string>	
 	<string id="sar2_petruha_name">	
 		<text>¯orik</text>
 	</string>	
 	<string id="sar2_professor_name">	
-		<text>Profesor Sacharow</text>
+		<text>Sacharow</text>
 	</string>	
 	<string id="sar2_ryaboy_name">	
-		<text>Spotty</text>
+		<text>Dziobaty</text>
 	</string>	
 	<string id="sar2_seryi_name">	
 		<text>'Sieryj'</text>
@@ -577,7 +577,7 @@
 		<text>'Kaput'</text>
 	</string>	
 	<string id="sar2_svoboda_cook_name">	
-		<text>'Kucharz'</text>
+		<text>'Kuchmistrz'</text>
 	</string>	
 	<string id="sar2_svoboda_engeneer_name">	
 		<text>Œruba</text>
@@ -613,13 +613,13 @@
 		<text>'Wilk'</text>
 	</string>	
 	<string id="dar_kalugin_name">	
-		<text>Piotr Kalugin</text>
+		<text>Piotr Ka³ugin</text>
 	</string>	
 	<string id="dar_rockatansky_name">	
 		<text>Rokatañski</text>
 	</string>	
 	<string id="bar_arny_name">	
-		<text>Arnie</text>
+		<text>Arni</text>
 	</string>	
 	<string id="bar_lelik_name">	
 		<text>Lolik</text>
@@ -652,7 +652,7 @@
 		<text>Pu³kownik Kuzniecow</text>
 	</string>	
 	<string id="devushka">	
-		<text>Hip</text>
+		<text>Struœ</text>
 	</string>	
 		
 	<!-- Characters in MLR -->	
@@ -670,7 +670,7 @@
 		<text>Porucznik "Aspiryna" Sostradow</text>
 	</string>	
 	<string id="bar_informator_mlr_name">	
-		<text>Kapuœ</text>
+		<text>Kabel</text>
 	</string>	
 	<string id="cit_killers_merc_barman_mlr_name">	
 		<text>Aslan</text>
@@ -691,7 +691,7 @@
 		<text>Major ¯urow</text>
 	</string>	
 	<string id="esc_main_base_trader_mlr_name">	
-		<text>Loris</text>
+		<text>Lemur</text>
 	</string>	
 	<string id="guid_bar_stalker_navigator_name">	
 		<text>Nawigator</text>
@@ -700,7 +700,7 @@
 		<text>Mops</text>
 	</string>	
 	<string id="guid_jup_stalker_garik">	
-		<text>Garik</text>
+		<text>Garri</text>
 	</string>	
 	<string id="guid_marsh_mlr_name">	
 		<text>¯eñka</text>
@@ -727,13 +727,13 @@
 		<text>Gryf</text>
 	</string>	
 	<string id="st_mil_freedom_barman_mlr_name">	
-		<text>Kulinarny</text>
+		<text>Kuchmistrz</text>
 	</string>	
 	<string id="mil_freedom_guid_name">	
 		<text>Leszy</text>
 	</string>	
 	<string id="st_mil_freedom_medic_name">	
-		<text>Mocny</text>
+		<text>Twardy</text>
 	</string>	
 	<string id="pri_a16_mech_mlr_name">	
 		<text>M³ot</text>
@@ -757,13 +757,13 @@
 		<text>Wektor</text>
 	</string>	
 	<string id="mar_smart_terrain_base_doctor_name">	
-		<text>Profesor Kalancha</text>
+		<text>Ka³añcza</text>
 	</string>	
 	<string id="stalker_gatekeeper_name">	
 		<text>Cerber</text>
 	</string>	
 	<string id="lost_stalker_strelok_name">	
-		<text>Strielok</text>
+		<text>Strie³ok</text>
 	</string>	
 	<string id="stalker_scope_name">	
 		<text>Luneta</text>
@@ -806,7 +806,7 @@
 	</string>	
 	<string id="army_degtyarev_name">	
 		<text>Pu³kownik Diegtiariow</text>
-	</string>
+	</string>	
 	<string id="army_degtyarev_jup_name">	
 		<text>Aleksander Diegtiariow</text>
 	</string>	
@@ -817,13 +817,13 @@
 		<text>Major Tarasow</text>
 	</string>	
 	<string id="stalker_strelok_oa_name">	
-		<text>Strielok</text>
+		<text>Strie³ok</text>
 	</string>	
 	<string id="stalker_rogue_oa_name">	
 		<text>£otr</text>
 	</string>	
 	<string id="stalker_stitch_oa_name">	
-		<text>Szew</text>
+		<text>Ig³a</text>
 	</string>	
 	<string id="agr_u_bandit_boss_name">	
 		<text>Marynarz</text>
@@ -844,7 +844,7 @@
 		<text>Pancerniak</text>
 	</string>	
 	<string id="trader_monolith_kbo_name">	
-		<text>Oliwer</text>
+		<text>Sk¹piec</text>
 	</string>	
 	<string id="ds_domik_isg_leader_name">	
 		<text>Major Hernandez</text>

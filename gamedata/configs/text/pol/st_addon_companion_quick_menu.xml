@@ -1,51 +1,51 @@
-<?xml version="1.0" encoding="windows-1251"?>
-<string_table>
-	<string id="st_addon_companion_quick_menu_tooFar">
+<?xml version="1.0" encoding="windows-1250"?>		
+<string_table>		
+	<string id="st_addon_companion_quick_menu_tooFar">	
 		<text>Moja grupa mnie nie sіyszy. Muszк siк zbliїyж lub skontaktowaж siк przez PDA.</text>
-	</string>
-
-	<string id="st_addon_companion_quick_menu_followMe">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_followMe">	
 		<text>ZA MNҐ</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_waitHere">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_waitHere">	
 		<text>CZEKAJ TU</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_stopStealth">
-		<text>SKRADANIE (STOP)</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_stealth">
-		<text>SKRADANIE</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_stayClose">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_stopStealth">	
+		<text>PRZESTAС SIК SKRADAЖ</text>
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_stealth">	
+		<text>SKRADAJ SIК</text>
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_stayClose">	
 		<text>TRZYMAJ SIК BLISKO</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_stayFar">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_stayFar">	
 		<text>TRZYMAJ DYSTANS</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_fireAtWill">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_fireAtWill">	
 		<text>STRZELAJ BEZ ROZKAZU</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">	
 		<text>IGNORUJ WALKК / POMAGAJ MI</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_ignoreCombat">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_ignoreCombat">	
 		<text>IGNORUJ WALKК</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_doNotLootCorpses">	
 		<text>NIE PRZESZUKUJ CIAЈ</text>
-	</string>
-	
-	<string id="st_addon_companion_quick_menu_lootCorpses">
+	</string>	
+		
+	<string id="st_addon_companion_quick_menu_lootCorpses">	
 		<text>PRZESZUKUJ CIAЈA</text>
-	</string>
-	
-</string_table>
+	</string>	
+		
+</string_table>		

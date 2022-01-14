@@ -6,7 +6,7 @@
 		<text>Stój! Kim jesteœ i co tu do cholery robisz?!</text>
 	</string>	
 	<string id="st_agr_u_bandit_boss_dialog_start_1a">	
-		<text>Szukam skarbów. A mo¿e tobie siê coœ trafi³o?</text>
+		<text>Szukam skarbów. Trafi³o ci siê coœ mo¿e?</text>
 	</string>	
 		<string id="st_agr_u_bandit_boss_dialog_start_1a_1">
 		<text>Nie, nic mi siê nie "trafi³o". Nie rób sobie jaj, typie. S³yszysz te ryki, tam na dole? Istne eldorado pe³ne jazgotu. Nadal chce ci siê szukaæ "skarbów"?</text>
@@ -28,8 +28,8 @@
 		<text>A co z wami? Jak tu trafiliœcie?</text>
 	</string>	
 	<string id="st_agr_u_bandit_boss_dialog_ask_1">	
-		<text>Wo³aj¹ na mnie Marynarz. Przyszliœmy tu z ekup¹ parê dni temu, na polecenie Su³tana. "Nie martwcie siê ch³opcy, to miejsce jest od dawna opuszczone", "nie ma siê czego baæ". Tkwimy tu, psia jego maæ, od wczoraj, bo na dole ryczy jakieœ wœciek³e szujstwo, które wylaz³o cholera wie sk¹d.  Zesz³ej nocy prawie nas wykoñczy³y jakieœ wœciek³e stwory, które wylaz³y nie wiadomo sk¹d. Wycofaliœmy siê wtedy w to miejsce i nie ruszamy st¹d ty³ków.
-		\nMieliœmy znaleŸæ coœ po¿ytecznego, co móg³ tu zostawiæ Strie³ok. Podobno gdzieœ tutaj kitra³ swoje fanty. Diabli wiedz¹, na co to Su³tanowi, ale powiedzia³ jasno, ¿e bez czegoœ po¿ytecznego mo¿emy siê ju¿ w bazie nie pokazywaæ.</text>
+		<text>Wo³aj¹ na mnie Marynarz. Przyszliœmy tu z ekip¹ parê dni temu, bo Su³tan nas tu wys³a³. "Nie martwcie siê, ch³opcy, to miejsce jest od dawna opuszczone", mówi, "nie ma siê czego baæ", mówi...Yhym, jasne. Chyba go mózg opuœci³! Tkwimy tu, psia jego maæ, od wczoraj, bo na dole ryczy jakieœ wœciek³e szujstwo, które wylaz³o cholera wie sk¹d. Wobec tego wycofaliœmy tu dupy i na razie tak siedzimy.
+		\n Mieliœmy znaleŸæ coœ po¿ytecznego, co móg³ tu zostawiæ Strie³ok. Podobno gdzieœ tutaj kitra³ swoje fanty. Diabli wiedz¹, na co to Su³tanowi, ale powiedzia³ jasno, ¿e bez czegoœ po¿ytecznego mo¿emy siê ju¿ w bazie nie pokazywaæ. </text>
 	</string>	
 	<string id="st_agr_u_bandit_boss_dialog_ask_2">	
 		<text>Brzmi nieciekawie. Mogê jakoœ pomóc?</text>
@@ -140,7 +140,7 @@
 		<text>Podziemna ekspedycja</text>
 	</string>	
 	<string id="agr_u_bandit_boss_task_1_desc_0">	
-		<text>Marynarz potrzebuje pomocy w odnalezieniu dokumentów w Podziemiach Agropromu. Maj¹ to byæ oryginalne zapiski z badañ prowadzonych w instytucie, lub notatki s³awnych stalkerów, takich jak Strielok. Przeszukaj ka¿dy zak¹tek za wartoœciowymi informacjami.</text>
+		<text>Marynarz potrzebuje pomocy w odnalezieniu dokumentów w Podziemiach Agropromu. Maj¹ to byæ oryginalne zapiski z badañ prowadzonych w instytucie, lub notatki s³awnych stalkerów, takich jak Strie³ok. Przeszukaj ka¿dy zak¹tek - mo¿e znajdzie siê coœ wartoœciowego.</text>
 	</string>	
 	<string id="agr_u_bandit_boss_task_1_desc_1">	
 		<text>Wróæ ze swoim znaleziskiem do Marynarza.</text>
@@ -151,4 +151,4 @@
 	<string id="agr_u_bandit_boss_task_1_desc_3">	
 		<text>Porozmawiaj z Marynarzem.</text>
 	</string>	
-</string_table>
+</string_table>		
